@@ -1,0 +1,95 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210512 09:00";
+NEXT-UPDATE="20250405 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXPV003";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social Service";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Foster children in december by first adress i Greenland <em>[SOEPV003]</em>";
+DESCRIPTION[da]="Plejebørn i december efter første adresse i Grønland <em>[SODPV003]</em>";
+DESCRIPTION[kl]="Decembarimi meeqqat paarineqartut Kalaallit Nunaanni siullermik adressiinut immikkoortillugit <em>[SONPV003]</em>";
+TITLE="Foster children by first adress in greenland and year";
+TITLE[da]="Plejebørn efter første adresse i grønland og år";
+TITLE[kl]="Meeqqat paarineqartut : kalaallit nunaanni adresse siulleq , ukioq";
+CONTENTS="Foster children";
+CONTENTS[da]="Plejebørn";
+CONTENTS[kl]="Meeqqat paarineqartut";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit";
+STUB="first adress in greenland";
+STUB[da]="første adresse i grønland";
+STUB[kl]="kalaallit nunaanni adresse siulleq";
+HEADING="year";
+HEADING[da]="år";
+HEADING[kl]="ukioq";
+VALUES("first adress in greenland")="Total","Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk",
+"Maniitsoq","Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq",
+"Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES[da]("første adresse i grønland")="I alt","Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk",
+"Maniitsoq","Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq",
+"Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES[kl]("kalaallit nunaanni adresse siulleq")="Katillugit","Nanortalik","Qaqortoq","Narsaq",
+"Paamiut","Nuuk","Maniitsoq","Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat",
+"Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES("year")="2018","2019","2020","2021","2022","2023";
+VALUES[da]("år")="2018","2019","2020","2021","2022","2023";
+VALUES[kl]("ukioq")="2018","2019","2020","2021","2022","2023";
+TIMEVAL("year")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("år")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("ukioq")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+CODES("first adress in greenland")="99","01","02","03","05","06","07","08","09","10","11","12","14",
+"15","16","17","18","19";
+CODES[da]("første adresse i grønland")="99","01","02","03","05","06","07","08","09","10","11","12",
+"14","15","16","17","18","19";
+CODES[kl]("kalaallit nunaanni adresse siulleq")="99","01","02","03","05","06","07","08","09","10",
+"11","12","14","15","16","17","18","19";
+CODES("year")="2018","2019","2020","2021","2022","2023";
+CODES[da]("år")="2018","2019","2020","2021","2022","2023";
+CODES[kl]("ukioq")="2018","2019","2020","2021","2022","2023";
+ELIMINATION("first adress in greenland")="Total";
+ELIMINATION[da]("første adresse i grønland")="I alt";
+ELIMINATION[kl]("kalaallit nunaanni adresse siulleq")="Katillugit";
+LAST-UPDATED="20240405 09:00";
+CONTACT="Anders Blaabjerg abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="www.stat.gl/sod202202/m1";
+LINK[da]="www.stat.gl/sod202202/m1";
+LINK[kl]="www.stat.gl/son202202/m1";
+NOTE="The statistics includes regular family care but not emergency care. Professional family care and network care are not included.";
+NOTE[da]="Opgørelsen omfatter almindelig familiepleje dog ikke akut pleje. Professionel familiepleje og netværkspleje er ikke inkluderet.";
+NOTE[kl]="Ilaqutariit paarsisartut pillugit naatsorsorneqarput, pinasuartumilli ilaqutariit paarsisartut ilanngunneqanngillat. Inuussutissarsiutigalugu ilaqutariit paarsisartut aamma ilaquttanik/kammalaatinik paarsisartut ilanngunneqanngillat. "
+"Paasisaqarnerorusukkuit";
+DATA=
+342 362 387 398 400 409
+23 24 25 24 25 31
+15 22 26 31 31 40
+12 13 12 13 14 18
+9 12 12 18 19 11
+57 52 53 61 53 47
+22 21 25 24 25 36
+15 27 36 40 35 32
+14 14 10 10 12 9
+9 12 13 17 20 17
+10 11 15 16 12 12
+46 40 43 39 36 37
+5 5 10 6 12 11
+9 8 6 5 5 5
+13 11 12 13 12 13
+16 12 12 13 14 9
+66 74 73 65 73 81
+1 4 4 3 2 "-";

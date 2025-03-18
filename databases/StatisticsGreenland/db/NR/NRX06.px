@@ -1,0 +1,144 @@
+CHARSET="ANSI";
+AXIS-VERSION=2010;
+CODEPAGE="Windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20111207 09:00";
+NEXT-UPDATE="20231130 09:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="NRX06";
+SUBJECT-CODE="NR";
+SUBJECT-AREA="Nationalregnskab";
+SUBJECT-AREA[da]="National accounts";
+SUBJECT-AREA[kl]="Nuna tamakkerlugu naatsorsuutit";
+COPYRIGHT=YES;
+DESCRIPTION="Gross operating surplus and mixed income (2003-2021) <em>[NRE06]</em>";
+DESCRIPTION[da]="Bruttooverskud af produktionen og blandet indkomst (2003-2021) <em>[NRD06]</em>";
+DESCRIPTION[kl]="Tunisassiornermi sinneqartoorneq isertitallu allat (2003-2021) <em>[NRN06]</em>";
+TITLE="Gross operating surplus and mixed income by units, industry and time";
+TITLE[da]="Bruttooverskud af produktionen og blandet indkomst efter enhed, branche og tid";
+TITLE[kl]="Tunisassiornermi sinneqartoorneq isertitallu allat kingorna uuttuut, inuussutissisarsiut aalajangersimasoq aamma piffissaq";
+CONTENTS="Gross operating surplus and mixed income";
+CONTENTS[da]="Bruttooverskud af produktionen og blandet indkomst";
+CONTENTS[kl]="Tunisassiornermi sinneqartoorneq isertitallu allat";
+UNITS="Million DKK";
+UNITS[da]="Mio. kr.";
+UNITS[kl]="Mio. kr.";
+STUB="units","industry";
+STUB[da]="enhed","branche";
+STUB[kl]="uuttuut","inuussutissisarsiut aalajangersimasoq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("industry")="Total gross profit","A Fishery and hunting","0102 Agriculture, fishing, hunting, etc.","0301 Inshore fishing","0302 Offshore fisheries","0303 Fishing, other","B Extraction of raw materials","0509 Extraction of raw materials","C Industry",
+"1000 Food industry","1100 Beverage Industry","1315 Textile and leather industry","1618 Wood-, paper- and graphic industry","2300 Stone-, clay- and glass industry","2433 Industry, other","D Supply and renovation","3536 Supply of electricity and water",
+"3739 Sewerage, renovation and recycling","E Construction business","4143 Construction business","F Trade","4500 Sale, repair and maintenance of motor vehicles","4600 Wholesale trade excluding motor vehicles","4700 Retail trade except for motor vehicles",
+"G Transport","4900 Land transport and transport via pipelines","5000 Shipping","5100 Air transport","5200 Support activities for transportation","H Hotels and restaurants","5556 Hotels and restaurants","I Post, tele, IT, radio, TV etc.",
+"5860 Radio, TV, movie, music, publisher etc.","6100 Telecommunications","6263 IT services and information services","J Finance and business","6467 Finance and insurance","6800 Rent and real estate","6982 Business","K Public adm. and service",
+"8400 Public administration","8500 Education","8600 Healthcare","8788 Social protection","9094 Culture, sport and leisure","9597 Other repair and personal service activities";
+VALUES("time")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES("units")="Current prices, million dkk";
+VALUES[da]("branche")="Bruttooverskud i alt","A Fiskeri og fangst","0102 Landbrug, jagt mv.","0301 Kystnært fiskeri","0302 Udenskærs fiskeri","0303 Fiskeri i øvrigt","B Råstofudvinding","0509 Råstofudvinding","C Industri","1000 Fødevareindustri","1100 Drikkevareindustri mv.",
+"1315 Tekstil- og læderindustri","1618 Træ-, papir- og grafisk industri","2300 Sten-, ler- og glasindustri","2433 Fremstilling af varer i øvrigt","D Forsyning og renovation","3536 Energi- og vandforsyning","3739 Kloak, renovation og genbrug",
+"E Bygge- og anlægsvirksomhed","4143 Bygge- og anlægsvirksomhed","F Handel","4500 Autohandel og -værksteder","4600 Engroshandel undt. motorkøretøjer","4700 Detailhandel undt. motorkøretøjer","G Transport","4900 Landtransport og rørtransport",
+"5000 Skibsfart","5100 Lufttransport","5200 Hjælpevirks. ifm. transport","H Hoteller og restauranter","5556 Hoteller og restauranter","I Post, tele, IT, radio,  TV mv.","5860 Radio, TV, film, musik, forlag mv.","6100 Telekommunikation",
+"6263 IT-service og informationstjenester","J Finansiering og forretningsservice","6467 Finansiering og forsikring","6800 Husleje og ejendomsformidling","6982 Forretningsservice mv.","K Offentlige og personlige tjenester","8400 Offentlig administration",
+"8500 Undervisning","8600 Sundhedsvæsen","8788 Sociale foranstaltninger","9094 Kultur, sport og fritid","9597 Anden reparation og pers. service";
+VALUES[da]("enhed")="Løbende priser";
+VALUES[da]("tid")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES[kl]("inuussutissisarsiut aalajangersimasoq")="Tunisassiornermi sinneqartoorneq katillugu","A Aalisarneq aamma piniarneq","0102 Nunalerineq, pisat, piniarneq il.il.","0301 Sinerissap qanittuani aalisarneq","0302 Avasissumi aalisarneq","0303 Allatigut aalisarneq","B Atortussiassanik piiaaneq",
+"0509 Atortussiassanik piiaaneq","C Tunisassiorneq","1000 Nerisassiorneq","1100 Imeruersaasiorneq","1315 Annoraaminiliornikkut ammiornikkullu atortussiorneq","1618 Qisunnik, pappialanik assiliartaliornikkullu atortussiorneq",
+"2300 Ujaqqat, marraq igalaaminerlu atorlugit atortussiorneq","2433 Allatigut atortussiorluni tunisassiorneq","D Pilersuineq atserinerlu","3536 Nukimmik imeqarnikkullu pilersuineq","3739 Eqqakkat aqqutaat, atserineq atoqqiisarnerlu",
+"E Illuliornikkut sanaartornikkullu ingerlatsiviit","4143 Illuliornikkut sanaartornikkullu ingerlatsiviit","F Niuerneq","4500 Biileerniarneq biilileriffiillu","4600 Niuertunut pilersuineq, biileerniarneq pinnagu",
+"4700 Atugassanik pisiniarfiit, biileerniarneq pinnagu","G Assartuineq","4900 Nunakkut aamma ruujoritigut assartuineq","5000 Umiartorneq","5100 Silaannakkut assartuineq","5200 Assartuinermut ingerlataqartunut ikiorsiiviit",
+"H Akunnittarfiit neriniartarfiillu","5556 Akunnittarfiit neriniartarfiillu","I Allakkeriveqarneq, tele, IT, radio, TV il. il.","5860 Radio, tv, filmiliorneq, nipilersugassiorneq, naqiterisitsisarfiit il. il.","6100 Telekkut attaveqaateqarneq",
+"6263 Qarasaasialerineq paasisitsisarfiillu","J Aningaasalersuineq, niueqatigiinnikkut sullissineq","6467 Aningaasalersuineq sillimmasiisarfeqarnerlu","6800 Ineqarnermut akiliutit illunillu tuniniaaneq",
+"6982 Niueqatigiinnikkut kiffartuussineq assigisaallu","K Pisortat allaffissornerat, isumaginninnikkut sulissiviit, allallu","8400 Pisortat allaffissornerat","8500 Ilinniartitsineq","8600 Peqqinnissaqarfik","8788 Isumaginninnikkut inunnik ikiuineq",
+"9094 Piorsarsimassuseq, timersorneq sunngiffimmilu sammisassat","9597 Iluarsaanerit allat inuinnarnillu kiffartuussinerit";
+VALUES[kl]("piffissaq")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES[kl]("uuttuut")="Akit ingerlaavartut, mio. kr.";
+TIMEVAL("time")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+TIMEVAL[da]("tid")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES("industry")="BOBITOT","BOBIA","BOBI0102","BOBI0301","BOBI0302","BOBI0303","BOBIB","BOBI0509","BOBIC","BOBI1000","BOBI1100","BOBI1315","BOBI1618","BOBI2300","BOBI2433","BOBID","BOBI3536","BOBI3739","BOBIE","BOBI4143","BOBIF","BOBI4500","BOBI4600","BOBI4700","BOBIG",
+"BOBI4900","BOBI5000","BOBI5100","BOBI5200","BOBIH","BOBI5556","BOBII","BOBI5860","BOBI6100","BOBI6263","BOBIJ","BOBI6467","BOBI6800","BOBI6982","BOBIK","BOBI8400","BOBI8500","BOBI8600","BOBI8788","BOBI9094","BOBI9597";
+CODES("time")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES("units")="L";
+CODES[da]("branche")="BOBITOT","BOBIA","BOBI0102","BOBI0301","BOBI0302","BOBI0303","BOBIB","BOBI0509","BOBIC","BOBI1000","BOBI1100","BOBI1315","BOBI1618","BOBI2300","BOBI2433","BOBID","BOBI3536","BOBI3739","BOBIE","BOBI4143","BOBIF","BOBI4500","BOBI4600","BOBI4700","BOBIG",
+"BOBI4900","BOBI5000","BOBI5100","BOBI5200","BOBIH","BOBI5556","BOBII","BOBI5860","BOBI6100","BOBI6263","BOBIJ","BOBI6467","BOBI6800","BOBI6982","BOBIK","BOBI8400","BOBI8500","BOBI8600","BOBI8788","BOBI9094","BOBI9597";
+CODES[da]("enhed")="L";
+CODES[da]("tid")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES[kl]("inuussutissisarsiut aalajangersimasoq")="BOBITOT","BOBIA","BOBI0102","BOBI0301","BOBI0302","BOBI0303","BOBIB","BOBI0509","BOBIC","BOBI1000","BOBI1100","BOBI1315","BOBI1618","BOBI2300","BOBI2433","BOBID","BOBI3536","BOBI3739","BOBIE","BOBI4143","BOBIF","BOBI4500","BOBI4600","BOBI4700","BOBIG",
+"BOBI4900","BOBI5000","BOBI5100","BOBI5200","BOBIH","BOBI5556","BOBII","BOBI5860","BOBI6100","BOBI6263","BOBIJ","BOBI6467","BOBI6800","BOBI6982","BOBIK","BOBI8400","BOBI8500","BOBI8600","BOBI8788","BOBI9094","BOBI9597";
+CODES[kl]("piffissaq")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES[kl]("uuttuut")="L";
+VARIABLECODE("industry")="industry";
+VARIABLECODE("time")="time";
+VARIABLECODE("units")="units";
+VARIABLECODE[da]("branche")="industry";
+VARIABLECODE[da]("enhed")="units";
+VARIABLECODE[da]("tid")="time";
+VARIABLECODE[kl]("inuussutissisarsiut aalajangersimasoq")="industry";
+VARIABLECODE[kl]("piffissaq")="time";
+VARIABLECODE[kl]("uuttuut")="units";
+LAST-UPDATED="20230512 09:00";
+LAST-UPDATED[da]="20230512 09:00";
+LAST-UPDATED[kl]="20230512 09:00";
+CONTACT="Josef Kâjangmat, joka@stat.gl, Daniel Østergaard Madsen, daos@stat.gl";
+CONTACT[da]="Josef Kâjangmat, joka@stat.gl, Daniel Østergaard Madsen, daos@stat.gl";
+CONTACT[kl]="Josef Kâjangmat, joka@stat.gl, Daniel Østergaard Madsen, daos@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Figures for 2003-2019 are final figures and 2020-2021 figures are preliminary figures.##It is not possible to simply aggregated chained value by level, see publication for further details.#";
+NOTE[da]="Tallene for 2003-2019 er endelige tal og 2020-2021 er foreløbige tal.##Det er ikke muligt at lave en simple aggregering af kædede værdier, se publikation for yderligere detaljer.#";
+NOTE[kl]="Kisitsisit 2003-2019 inaarutaasumik naatsorsuinerupput, taavalu 2020-2021 kisitsigallarnerullutik.##Akiusimasunit kisitat, allanngorarnera naatsorsukkanut qaffasinerusunut naatsorsorneqarsinnaanngilaq#";
+DATA=
+4143.1000000000004 4397.2 4418.3999999999996 4911.3999999999996 4474.7 4473.2 5161.1000000000004 5427 5187.7 5817.4 5939.3 6789.2 7249.9 8025.2 8246.7000000000007 8334.7000000000007 8607.6 8617.2000000000007 8100.4
+1225 1214.5999999999999 1273 1324.3 1053.4000000000001 1163.8999999999999 943.89999999999986 1141.6000000000001 1238.9999999999998 1467.6999999999998 1454.9 1895 1959.3 2307.6999999999998 2576.7999999999997 2511.5 2671.6 2593 2557.5
+346.7 337.5 366 396.6 369.4 368.8 350.5 365.2 356.1 337.3 370.3 373.5 345.4 315.60000000000002 300.7 318.60000000000002 341.6 - -
+296.2 335.1 337.6 314.7 242.8 300.3 210.9 240.3 289.7 404.4 390.8 496.6 271.39999999999998 394.9 405.3 395 502.7 - -
+525.20000000000005 484.2 511.2 549.70000000000005 389.1 458.5 334.2 461.9 487.4 588.9 556.79999999999995 843.9 1058.2 1217.3 1549.6 1472.4 1465.2 - -
+56.9 57.8 58.2 63.3 52.1 36.299999999999997 48.3 74.2 105.8 137.1 137 181 284.3 379.9 321.2 325.5 362.1 - -
+-10.4 -17.399999999999999 -11.3 -50.4 -21 50 147.9 -44.7 -269.89999999999998 74.400000000000006 22.1 92.6 16.3 22.5 25.5 18.8 70.900000000000006 75.7 38.1
+-10.4 -17.399999999999999 -11.3 -50.4 -21 50 147.9 -44.7 -269.89999999999998 74.400000000000006 22.1 92.6 16.3 22.5 25.5 18.8 70.900000000000006 - -
+374.6 509.4 538.19999999999993 473.40000000000003 326 370.60000000000008 284.3 283.39999999999998 374.6 389.9 405.8 418.5 397.7 508.59999999999997 132.10000000000002 622.9 317.20000000000005 331.7 233.7
+293.10000000000002 392.8 434.2 393.5 244.2 316.3 212.9 213.7 285.3 323.8 342.2 324.3 346 414.2 39.1 526.4 222.3 - -
+43.2 47.5 47.4 47.2 51.9 49.2 57.1 43.5 43.2 56.1 59.3 70.599999999999994 48.3 55.9 48.3 59.8 50.6 - -
+9.3000000000000007 28.3 15.3 10.6 -0.8 -19.899999999999999 -20.9 2.9 7.5 -15.1 -8 -9 -13.1 5.6 2.7 7.7 7.5 - -
+-4.8 9.4 4.0999999999999996 12.8 0.8 0.3 7.9 2.2999999999999998 0.5 3.4 3.9 6.1 3.7 6.3 4 4.3 3.8 - -
+0.5 0.5 0.9 -1.2 -0.9 -0.9 -1 -0.8 -0.4 -0.2 -0.2 -0.7 -0.2 -0.1 -0.7 0.1 0.2 - -
+33.299999999999997 30.9 36.299999999999997 10.5 30.8 25.6 28.3 21.8 38.5 21.9 8.6 27.2 13 26.7 38.700000000000003 24.6 32.799999999999997 - -
+167.10000000000002 201.2 175.3 228.1 276.60000000000002 192.6 229.8 237.3 309.8 371.59999999999997 401.8 417.4 426.8 423.2 422.1 276.39999999999998 256.3 355.4 290.2
+144.30000000000001 175.7 149.5 197.9 252.8 168.4 200.8 207.3 270.7 331.2 359 375.5 369.5 356.7 342 229.4 210.9 - -
+22.8 25.5 25.8 30.2 23.8 24.2 29 30 39.1 40.4 42.8 41.9 57.3 66.5 80.099999999999994 47 45.4 - -
+65.3 -8.8000000000000007 17.7 185.6 253.1 409.1 564.4 722.9 585.20000000000005 595.5 653.4 540.29999999999995 838.7 903.1 1196.4000000000001 1188.7 1335.5 1309.4000000000001 839.1
+65.3 -8.8000000000000007 17.7 185.6 253.1 409.1 564.4 722.9 585.20000000000005 595.5 653.4 540.29999999999995 838.7 903.1 1196.4000000000001 1188.7 1335.5 - -
+607.4 745.69999999999993 537 535.5 504.40000000000003 88.300000000000011 580 472 460.29999999999995 420.6 585.6 755.4 871.5 847.8 906.3 678 951 948.9 872.69999999999993
+1.8 0.1 12.3 11.3 17.3 15 30.6 15.4 18.600000000000001 22.1 22 21.9 37.6 53.8 56.6 36.5 31.9 - -
+297.39999999999998 241.7 199.4 290.5 276.3 -152.5 279.3 197.5 189.2 177.4 282.10000000000002 468.1 557.6 499.1 561 392.7 641.6 - -
+308.2 503.9 325.3 233.7 210.8 225.8 270.10000000000002 259.10000000000002 252.5 221.1 281.5 265.39999999999998 276.3 294.89999999999998 288.7 248.8 277.5 - -
+423 411.4 412.90000000000003 418.40000000000003 358.2 437.4 377.7 417.20000000000005 415.9 458.70000000000005 261 419.09999999999997 437 555.79999999999995 529.29999999999995 583 561.19999999999993 469.6 595.50000000000011
+28.3 32.5 37 33.700000000000003 27 35.1 26.2 23.4 28 29.3 29.2 56.6 43.9 55.9 46.4 42.9 41.5 - -
+131.6 137.19999999999999 140 76.7 74.7 173.5 180.2 173.4 198.6 152.6 104.6 180.8 222.3 229.2 210.8 241.3 262.89999999999998 - -
+226 241.5 228.8 262.8 199.7 215.2 158.30000000000001 185.8 150.69999999999999 178.4 139.80000000000001 166 181.8 217.1 216.7 217.2 181.4 - -
+37.1 0.2 7.1 45.2 56.8 13.6 13 34.6 38.6 98.4 -12.6 15.7 -11 53.6 55.4 81.599999999999994 75.400000000000006 - -
+36.5 73.400000000000006 85.6 76 80.8 73.7 104.9 141.30000000000001 91 101.6 73.400000000000006 97.3 138.80000000000001 146.4 164.3 129 140.9 51.4 106
+36.5 73.400000000000006 85.6 76 80.8 73.7 104.9 141.30000000000001 91 101.6 73.400000000000006 97.3 138.80000000000001 146.4 164.3 129 140.9 - -
+213.3 210.2 227.6 337.8 262.39999999999998 242.79999999999998 300.2 324.59999999999997 327.2 350.40000000000003 328.00000000000006 325 282.29999999999995 396.40000000000003 350.5 332.2 296.3 317.60000000000002 309.8
+1.8 1.9 -5.3 9.5 26.1 -2.8 -2.6 9.1999999999999993 11.2 17.3 14.8 9.1 -33.799999999999997 -29.4 -28.5 -28.8 -30 - -
+226.1 201.1 228.1 331.8 226.8 232.9 272.5 290.89999999999998 295 322.5 299.10000000000002 282.39999999999998 292.89999999999998 374.8 325 305.39999999999998 274.10000000000002 - -
+-14.6 7.2 4.8 -3.5 9.5 12.7 30.3 24.5 21 10.6 14.1 33.5 23.2 51 54 55.6 52.2 - -
+755.3 789.4 877.9 1082.0999999999999 1052.5999999999999 1188.5 1302.1000000000001 1391.4 1290 1232.7 1418.8999999999999 1507.3000000000002 1502.1 1545.6999999999998 1547.4 1565.6 1615.1999999999998 1745 1838.8999999999999
+20.8 28.5 71.5 56.9 54.4 78.8 79.400000000000006 96.2 105.2 109.2 115.8 121.2 148.19999999999999 136.80000000000001 135.4 122.6 151.6 - -
+630 661.4 678.3 772.5 800.5 878 953 1002.2 1017.4 1032.9000000000001 1070 1059.9000000000001 1054.5999999999999 1075.0999999999999 1100 1158 1160.5 - -
+104.5 99.5 128.1 252.7 197.7 231.7 269.7 293 167.4 90.6 233.1 326.2 299.3 333.8 312 285 303.10000000000002 - -
+285.89999999999998 268.2 284.59999999999997 300.3 328.20000000000005 256.40000000000003 325.90000000000003 340.3 364.69999999999993 354.29999999999995 334.30000000000007 321.3 379.3 367.90000000000003 396 428.20000000000005 391.6 419.49999999999994 418.79999999999995
+76.5 71 77.900000000000006 95.3 108.6 52.3 113.9 115.6 85.6 94.2 100.9 109.5 144.9 153.9 149.4 157.19999999999999 168.4 - -
+43.8 42.8 45.2 50.5 79.400000000000006 51.1 40.1 46 45.1 51.1 38.200000000000003 31.9 81.400000000000006 84.8 87.7 94.3 96.1 - -
+54.3 50.7 51.9 48 52.8 54.1 74.5 84.5 84.5 79.400000000000006 68.7 70.900000000000006 67.5 65.900000000000006 67.2 69.3 73.3 - -
+61.2 48 49.5 52.2 61 64 58.7 55 51.9 34.299999999999997 36.4 35 70 57.8 67 81.400000000000006 18.100000000000001 - -
+44.9 49.8 52.4 48.8 20.6 31.8 26.1 20.8 82.1 78.900000000000006 71 62.1 -1.9 -11.4 5.4 3 4.5 - -
+5.2 5.9 7.7 5.5 5.8 3.1 12.6 18.399999999999999 15.5 16.399999999999999 19.100000000000001 11.9 17.399999999999999 16.899999999999999 19.3 23 31.2 - -
+;

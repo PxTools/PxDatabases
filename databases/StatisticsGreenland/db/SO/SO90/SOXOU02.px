@@ -1,0 +1,136 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20161205 09:00";
+NEXT-UPDATE="20251216 09:00";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="SOXOU02";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social benefits";
+SUBJECT-AREA[da]="Sociale ydelser";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Economically disadvantaged by residence <em>[SOEOU02]</em>";
+DESCRIPTION[da]="Økonomisk udsatte efter bosted <em>[SODOU02]</em>";
+DESCRIPTION[kl]="Aningaasaatikilliortut najugaqarfinnut immikkoortillugit <em>[SONOU02]</em>";
+TITLE="Economically disadvantaged by inventory variable, residence and year";
+TITLE[da]="Økonomisk udsatte efter opgørelsesvariabel, bosted og tid";
+TITLE[kl]="Aningaasaatikilliortut : naatsorsuinermi allanngorarneq, najugaqarfiit , piffissaq";
+CONTENTS="Economically disadvantaged";
+CONTENTS[da]="Økonomisk udsatte";
+CONTENTS[kl]="Aningaasaatikilliortut";
+UNITS="Number/Percent";
+UNITS[da]="Antal/Andel";
+UNITS[kl]="Amerlassusii/Procinti";
+STUB="inventory variable","residence";
+STUB[da]="opgørelsesvariabel","bosted";
+STUB[kl]="naatsorsuinermi allanngorarneq","najugaqarfiit";
+HEADING="year";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+CONTVARIABLE="inventory variable";
+CONTVARIABLE[da]="opgørelsesvariabel";
+CONTVARIABLE[kl]="naatsorsuinermi allanngorarneq";
+VALUES("inventory variable")="fraction below 50%","fraction below 60%","number below 50%",
+"number below 60%","sample";
+VALUES[da]("opgørelsesvariabel")="andel under 50%","andel under 60%","antal under 50%",
+"antal under 60%","population";
+VALUES[kl]("naatsorsuinermi allanngorarneq")="50%-imik ataatsisut agguaqatig",
+"60%-imik ataatsisut agguaqatig","50%-imik ataatsisut amerlassus","60%-imik ataatsisut amerlassus",
+"innuttaasut";
+VALUES("residence")="Settlement","Town","Total";
+VALUES[da]("bosted")="Bygd","By","Alle";
+VALUES[kl]("najugaqarfiit")="Nunaqarfiit","Illoqarfiit","Katillugit";
+VALUES("year")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+VALUES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL("year")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES("inventory variable")="Andel50","Andel60","Antal50","Antal60","Population";
+CODES[da]("opgørelsesvariabel")="Andel50","Andel60","Antal50","Antal60","Population";
+CODES[kl]("naatsorsuinermi allanngorarneq")="Andel50","Andel60","Antal50","Antal60","Population";
+CODES("residence")="2","1","-1";
+CODES[da]("bosted")="2","1","-1";
+CODES[kl]("najugaqarfiit")="2","1","-1";
+CODES("year")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+CODES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+CODES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+ELIMINATION("residence")="Total";
+ELIMINATION[da]("bosted")="Alle";
+ELIMINATION[kl]("najugaqarfiit")="Katillugit";
+PRECISION("inventory variable","fraction below 50%")=1;
+PRECISION[da]("opgørelsesvariabel","andel under 50%")=1;
+PRECISION[kl]("naatsorsuinermi allanngorarneq","50%-imik ataatsisut agguaqatig")=1;
+PRECISION("inventory variable","fraction below 60%")=1;
+PRECISION[da]("opgørelsesvariabel","andel under 60%")=1;
+PRECISION[kl]("naatsorsuinermi allanngorarneq","60%-imik ataatsisut agguaqatig")=1;
+LAST-UPDATED("fraction below 50%")="20241216 09:00";
+LAST-UPDATED[da]("andel under 50%")="20241216 09:00";
+LAST-UPDATED[kl]("50%-imik ataatsisut agguaqatig")="20241216 09:00";
+LAST-UPDATED("fraction below 60%")="20241216 09:00";
+LAST-UPDATED[da]("andel under 60%")="20241216 09:00";
+LAST-UPDATED[kl]("60%-imik ataatsisut agguaqatig")="20241216 09:00";
+LAST-UPDATED("number below 50%")="20241216 09:00";
+LAST-UPDATED[da]("antal under 50%")="20241216 09:00";
+LAST-UPDATED[kl]("50%-imik ataatsisut amerlassus")="20241216 09:00";
+LAST-UPDATED("number below 60%")="20241216 09:00";
+LAST-UPDATED[da]("antal under 60%")="20241216 09:00";
+LAST-UPDATED[kl]("60%-imik ataatsisut amerlassus")="20241216 09:00";
+LAST-UPDATED("sample")="20241216 09:00";
+LAST-UPDATED[da]("population")="20241216 09:00";
+LAST-UPDATED[kl]("innuttaasut")="20241216 09:00";
+CONTACT("fraction below 50%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[da]("andel under 50%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[kl]("50%-imik ataatsisut agguaqatig")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT("fraction below 60%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[da]("andel under 60%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[kl]("60%-imik ataatsisut agguaqatig")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT("number below 50%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[da]("antal under 50%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[kl]("50%-imik ataatsisut amerlassus")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT("number below 60%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[da]("antal under 60%")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[kl]("60%-imik ataatsisut amerlassus")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT("sample")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[da]("population")="Anders Blaabjerg, ABLA@stat.gl";
+CONTACT[kl]("innuttaasut")="Anders Blaabjerg, ABLA@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="www.stat.gl/sod202307/m1";
+LINK[da]="www.stat.gl/sod202307/m1";
+LINK[kl]="www.stat.gl/son202307/m1";
+NOTE="";
+NOTE[da]="Bygder indeholder også fåreholdersteder. Nuuk distrikt indeholder også Ivittuut";
+NOTE[kl]="";
+DATA=
+6.4 6.2 6.6 6.4 6.9 6.6 6.9 7.4 7.6 8.4 8.8 9.3 9.4 
+2.2 2.5 2.6 2.5 2.6 2.6 3.1 3.2 3.2 3.4 3.3 3.7 3.8 
+2.9 3.1 3.2 3.1 3.3 3.2 3.7 3.8 3.8 4.1 4.1 4.4 4.6 
+13.7 13.7 14.1 13.3 12.8 12.8 14.1 13.9 15 15.9 16.5 17.5 17.4 
+4.4 4.8 4.8 4.4 4.8 4.9 5.6 6.1 6.1 6.4 6.2 6.7 6.8 
+6 6.2 6.3 5.8 6 6.1 6.8 7.2 7.4 7.7 7.7 8.2 8.2 
+483 456 477 454 489 459 469 487 492 541 564 583 578 
+861 960 991 945 984 999 1175 1237 1217 1329 1296 1452 1521 
+1344 1416 1468 1399 1473 1458 1644 1724 1709 1870 1860 2035 2099 
+1031 1008 1021 942 903 893 952 914 973 1023 1061 1103 1073 
+1702 1836 1866 1672 1809 1851 2127 2323 2372 2478 2437 2643 2702 
+2733 2844 2887 2614 2712 2744 3079 3237 3345 3501 3498 3746 3775 
+7546 7337 7240 7074 7043 6965 6774 6589 6484 6433 6431 6299 6162 
+38298 38492 38538 38350 37972 38133 38238 38305 38633 38904 39268 39525 39653 
+45844 45829 45778 45424 45015 45098 45012 44894 45117 45337 45699 45824 45815; 

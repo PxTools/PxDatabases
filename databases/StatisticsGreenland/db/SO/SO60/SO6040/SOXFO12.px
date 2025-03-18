@@ -1,0 +1,117 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20201204 09:00";
+MATRIX="SOXFO12";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Disabled citizens, by housing type <em>[SOEFO12]</em>";
+DESCRIPTION[da]="Personer med handicap, efter boform <em>[SODFO12]</em>";
+DESCRIPTION[kl]="Inuit innarluutillit najugaqarfiinut immikkoortillugit <em>[SONFO12]</em>";
+TITLE="Disabled citizens";
+TITLE[da]="Personer med handicap";
+TITLE[kl]="Innarluutillit";
+CONTENTS="Disabled citizens";
+CONTENTS[da]="Personer med handicap";
+CONTENTS[kl]="Innarluutillit";
+UNITS="Number";
+UNITS[da]="Antal";
+UNITS[kl]="Amerlassusaat";
+CONTACT="Sune Steenskjold,  sust@stat.gl";
+CONTACT[da]="Sune Steenskjold,  sust@stat.gl";
+CONTACT[kl]="Sune Steenskjold,  sust@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="When the number of people is 5 or less in the rows, they appear as .. (2 "
+"dots) for reasons of confidentiality.This inventory counts individuals and "
+"diagnoses, derived from data material collected from the municipalities by the "
+"Ministry of Social Affairs, Family and Justice in late 2018 and early 2019 to "
+"produce the report 'Personer med vidtgående handicap 2020'. The inventory "
+"counts persons who, pursuant to Greenland´s disability legislation, have been "
+"granted help during the timespan represented by the data. This timespan is not "
+"known exactly. Hence, a certain margin of error exists in the result "
+"(estimated to max 15 pct). The quality of reported diagnoses varies, ranging "
+"from actual ICD10 codes to very general labels like physical and psychic "
+"disability. The diagnoses were arranged in 14 groups for physical disability, "
+"8 for psychic disability and 1 group for other diagnoses. Observe that persons "
+"as well as doagnoses are counted. Thus, a total of 1394 diagnoses exist, "
+"distributed among 1131 persons.";
+NOTE[da]="Når antallet af personer er 5 eller mindre i rækkerne, vises de som .."
+" (2 prikker) af diskretionshensyn. Nærværende opgørelse tæller personer og "
+"diagnoser, der indgår i materiale indsamlet fra kommunerne af Departementet "
+"for Sociale Anliggender, Familie- og Justitsområdet ultimo 2018 -primo 2019 i "
+"forbindelse med udarbejdelse af rapporten 'Personer med vidtgående handicap "
+"2020'. Opgørelsen medregner de personer, der har fået bevilget hjælp efter "
+"handicaplovgivningen i den periode hvori data er opsamlet. Længden af denne "
+"opsamlingsperiode kendes ikke eksakt, og der er derfor en vis fejlmargen i det "
+"færdige resultat (anslået til max 15 pct.). Kvaliteten af de angivne diagnoser "
+"varierer stærkt, fra egentlige ICD10 -koder til helt generelle betegnelser som "
+"fysisk og psykisk handicap. Diagnoserne inddelt i 14 grupper for fysisk "
+"handicap og 8 for psykisk handicap, samt én gruppe for andre diagnosekoder.  "
+"Bemærk at der både tælles personer og diagnoser. Således er der tale om i alt "
+"1394 diagnoser fordelt på 1131 personer.";
+NOTE[kl]="Ukiut immikkoortiterneri malillugit inuit amerlassussaat "
+"tallimaappata tallimaniilluunniit ikinneruppata naqitani tulleriiani "
+"’Katillugit’ aammalu ’Ilisimaneqanngilaq’-mik allaqqasuni toornernik marlunnik "
+"(..) takutinneqassapput, tatiginartunik isumannaarsaaneq tunngavingalugu. "
+"Kommuninit aamma Isumaginninnermut, Ilaqutariinnut Inatsisinillu "
+"Atuutsitsinermut Naalakkersuisoqarfimmit paasissutissat tunniunneqarsimasut "
+"tunngavigalugit inuit innarluutillu suunerinut naatsorsuutinut "
+"ilanngunneqarput, paasissutissat 2018-ip naaneranit aamma 2019-ip "
+"aallartinneranik imaqartut 'Inuit annertuumik innarluutillit 2020'-mi "
+"allaaserineqarput. Inuit innarluutillit pillugit inatsisit tunngavigalugit "
+"piffissap ingerlanerani inuit ikiorsiissutinik pissarsiaqarsimasut "
+"naatsorsuutinut ilanngunneqarput. Piffissaq katersiviusoq iluamik "
+"ilisimaneqanngimmat kukkusumik inerneqarsimanissaat ilimagineqarpoq "
+"(annerpaamik 15 pct.-imik).   Innarluutit suunerinik nalunaarutit "
+"assigiinngiiaartorujussuupput, ICD10 –kodit atorlugit nalunaarutiginninnernit "
+"nassuiaatinut, ass. timikkut tarnikkullu innarluutit. Timikkut innarluutit "
+"suussusersineri katillugit 14-iupput, tarnikkut innarluutit arfineq "
+"pingasuullutik taakku saniatigut innarluut ataasiuvoq. Malugiuk "
+"naatsorsuinerni inuit innarluutillu suuneri pineqarmata. 1394-it innarluutit "
+"suussusersineqarsimapput inuit 1131-t akornanni.";
+STUB="Housing type";
+STUB[da]="Boform";
+STUB[kl]="Najugaqarfiit";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("Housing type")="All types","Unknown","Own home","Other private home","Housing association (§39)",
+"Housing Unit (§42)","Nursing home","Institution DK (§48)","Institution GRL (§45)";
+VALUES[da]("Boform")="Alle boformer","Ukendt","Egen bolig","Anden privat bolig","Bokollektiv (§39)",
+"Boenhed (§42)","Plejehjem","Institution DK (§48)","Institution GRL (§45)";
+VALUES[kl]("Najugaqarfiit")="Najugaqarfiit assigiinngitsut tamakkerlugit","Ilisimaneqanngitsut",
+"Namminerisamik najugaqarfik","Nammineq ineqarneq alla","Najugaqaqatigiiffik (§39)",
+"Ataatsimoorluni najugaqarfiit (§42)","Paaqqinnittarfik","Ulloq unnuarlu paaqqinniffiit DK (§48)",
+"Ulloq unnuarlu paaqqinniffiit KN (§45)";
+VALUES("time")="2018";
+VALUES[da]("tid")="2018";
+VALUES[kl]("piffissaq")="2018";
+TIMEVAL("time")=TLIST(A1,"2018"-"2018");
+TIMEVAL[da]("tid")=TLIST(A1,"2018"-"2018");
+TIMEVAL[kl]("piffissaq")=TLIST(A1,"2018"-"2018");
+CODES("Housing type")="Alle boformer","Ukendt","Egen bolig","Anden privat bolig",
+"Bokollektiv (§39)","Boenhed (§42)","Plejehjem","Institution DK (§48)","Institution GRL (§45)";
+CODES[da]("Boform")="Alle boformer","Ukendt","Egen bolig","Anden privat bolig","Bokollektiv (§39)",
+"Boenhed (§42)","Plejehjem","Institution DK (§48)","Institution GRL (§45)";
+CODES[kl]("Najugaqarfiit")="Alle boformer","Ukendt","Egen bolig","Anden privat bolig",
+"Bokollektiv (§39)","Boenhed (§42)","Plejehjem","Institution DK (§48)","Institution GRL (§45)";
+CODES("time")="2018";
+CODES[da]("tid")="2018";
+CODES[kl]("piffissaq")="2018";
+DECIMALS=0;
+SHOWDECIMALS=0;
+LAST-UPDATED="20201204 09:00";
+ELIMINATION("Housing type")=YES;
+ELIMINATION[da]("Boform")=YES;
+ELIMINATION[kl]("Najugaqarfiit")=YES;
+DATA=
+1131 418 405 40 27 133 13 5
+90;

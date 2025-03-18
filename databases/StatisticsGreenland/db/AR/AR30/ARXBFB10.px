@@ -1,0 +1,150 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230106 09:00";
+NEXT-UPDATE="20251205 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="ARXBFB10";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Main employment for permanent residents by time, industry and limit for being employed <em>[AREBFB10]</em>";
+DESCRIPTION[da]="Hovedbeskæftigelse blandt fastboende fordelt på tid, branche og grænse for at være i beskæftigelse <em>[ARDBFB10]</em>";
+DESCRIPTION[kl]="Najugaqavissut akornanni pingaarnertut suliffillit, piffissaq, suliaqarfik suliffeqarnermullu killigititaq malillugit <em>[ARNBFB10]</em>";
+TITLE="Main employment for permanent residents by industry, limit and time";
+TITLE[da]="Hovedbeskæftigelse blandt fastboende efter branche, grænse og tid";
+TITLE[kl]="Najugaqavissut akornanni pingaarnertut suliffillit : inuussutissarsiornermi suliaqarfik, killigititaq , piffissaq";
+CONTENTS="Main employment for permanent residents";
+CONTENTS[da]="Hovedbeskæftigelse blandt fastboende";
+CONTENTS[kl]="Najugaqavissut akornanni pingaarnertut suliffillit";
+STUB="industry";
+STUB[da]="branche";
+STUB[kl]="inuussutissarsiornermi suliaqarfik";
+HEADING="limit","time";
+HEADING[da]="grænse","tid";
+HEADING[kl]="killigititaq","piffissaq";
+VALUES("industry")="All industries","Agriculture, forestry and related industries","Fishing and other related industries","Mining and quarrying","Manufacturing","Energy and watersupply","Construction","Wholesale and retail trade","Transportation and storage",
+"Accommodation and food service activities","Information and communication","Financial and insurance activities","Real estate activities","Professional, scientific and technical activities","Administrative and support service activities",
+"Public administration and service","General public services (COFOG 1)","Defence (COFOG 2)","Public order and safety (COFOG 3)","Economic affairs (COFOG 4)","Environmental protection (COFOG 5)","Housing and community amenities (COFOG 6)",
+"Health (COFOG 7)","Recreation, culture and religion (COFOG 8)","Education (COFOG 9)","Education other (COFOG 9.x)","Primary education (COFOG 9.10)","Youth-level education (COFOG 9.20)","Social protection (COFOG 10)","Social protection (COFOG 10.x)",
+"Old age (COFOG 10.20)","Family and children (COFOG 10.40)","Other (COFOG x)","Other service industries","Unknown";
+VALUES("limit")="10 hours at the minimum wage","20 hours at the minimum wage","30 hours at the minimum wage","40 hours at the minimum wage","50 hours at the minimum wage","60 hours at the minimum wage","70 hours at the minimum wage","80 hours at the minimum wage";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("branche")="Alle brancher","Landbrug, skovbrug og landbrugsrelateret industri og handel","Fiskeri og fiskerirelateret industri og handel","Råstofindvinding","Fremstillingsvirksomhed","Energi- og vandforsyning","Bygge- og anlægsvirksomhed",
+"Engroshandel og detailhandel","Transport og godshåndtering","Overnatningsfaciliteter og restaurationsvirksomhed","Information og kommunikation","Pengeinstitut og finansvirksomhed","Fast ejendom","Liberale, videnskabelige og tekniske tjenesteydelser",
+"Administrative tjenesteydelser og hjælpetjenester","Offentlig forvaltning og service","Generelle offentlige tjenester (COFOG 1)","Forsvar (COFOG 2)","Offentlig orden og sikkerhed (COFOG3)","Økonomiske anliggender (COFOG 4)","Miljøbeskyttelse (COFOG 5)",
+"Boliger og offentlige faciliteter (COFOG 6)","Sundhedsvæsen (COFOG 7)","Fritid, kultur og religion (COFOG 8)","Undervisning (COFOG 9)","Undervisning andet (COFOG 9.x)","Folkeskolen og lign. (COFOG 9.10)","Ungdomsuddannelsesniveau (COFOG 9.20)",
+"Social beskyttelse (COFOG 10)","Social beskyttelse (COFOG 10.x)","Alderdom (COFOG 10.20)","Familie og børne (COFOG 10.40)","Andet (COFOG x)","Øvrige serviceerhverv","Uoplyst";
+VALUES[da]("grænse")="10 timer på mindstelønnen","20 timer på mindstelønnen","30 timer på mindstelønnen","40 timer på mindstelønnen","50 timer på mindstelønnen","60 timer på mindstelønnen","70 timer på mindstelønnen","80 timer på mindstelønnen";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("inuussutissarsiornermi suliaqarfik")="Suliaqarfiit katillugit","Nunalerineq, orpippassualerineq nunalerinermilu tunisassiorneq niuernerlu","Aalisarneq aalisakkanillu tunisassiornermi niuerneq","Aatsitassarsiorneq","Nioqqutissiorneq","Nukissiuutinik imermillu pilersuineq",
+"Sanaartorneq sanaartortitsinerlu","Niuertunik pilersuineq atungassanillu nioqquteqarneq","Assartuineq assartugassalerinerlu","Akunnittarfiit neriniartarfiillu","Paasissutissalerineq attaveqaatilerinerlu","Aningaaseriviit aningaasaliisarfiillu",
+"Inissiaateqarneq","Namminersortunit, ilisimatusarnikkut teknikkikkullu suliaqartunit kiffartuussinerit","Allaffissornikkut kiffartuussinerit","Pisortat allaffissornerat kiffartuussinerallu","Pisortat nalinginnaasumik kiffartuussinerat (COFOG 1)",
+"Illersornissaq (COFOG 2)","Inuiaqatigiinni toqqissisimaneq isumannaassuserlu (COFOG 3)","Aningaasaqarnermut tunngasut (COFOG 4)","Avatangiisit innarlitsaaliorneqarnerat (COFOG 5)","Inissiat tamanillu orninneqarsinnaasut (COFOG 6)",
+"Peqqinnissaqarfik (COFOG 7)","Sunngiffik, kulturi upperisarlu (COFOG 8)","Ilinniartitsineq (COFOG 9)","Ilinniartitsineq allat (COFOG 9.x)","Meeqqat atuarfiat sanilliunneqarsinnaasullu (COFOG 9.10)",
+"Inuusuttut ilinniartitaanerata qaffasissusia (COFOG 9.20)","Inuiaqatigiit illersugaanerat (COFOG 10)","Inuiaqatigiit illersugaanerat (COFOG 10.x)","Utoqqalineq (COFOG 10.20)","Ilaqutariit meeqqallu (COFOG 10.40)","Allat (COFOG x)",
+"Kiffartuussilluni inuussutissarsiorfiit allat","Nalunaarsuuteqanngitsut";
+VALUES[kl]("killigititaq")="Akissarsiat minnerpaat malillugit akunnerit 10","Akissarsiat minnerpaat malillugit akunnerit 20","Akissarsiat minnerpaat malillugit akunnerit 30","Akissarsiat minnerpaat malillugit akunnerit 40","Akissarsiat minnerpaat malillugit akunnerit 50",
+"Akissarsiat minnerpaat malillugit akunnerit 60","Akissarsiat minnerpaat malillugit akunnerit 70","Akissarsiat minnerpaat malillugit akunnerit 80";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("industry")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES("limit")="10","20","30","40","50","60","70","80";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("branche")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES[da]("grænse")="10","20","30","40","50","60","70","80";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("inuussutissarsiornermi suliaqarfik")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES[kl]("killigititaq")="10","20","30","40","50","60","70","80";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+DOMAIN("industry")="VPBRCHE";
+DOMAIN[da]("branche")="VPBRCHD";
+DOMAIN[kl]("inuussutissarsiornermi suliaqarfik")="VPBRCHK";
+VARIABLECODE("industry")="branche";
+VARIABLECODE("limit")="granse";
+VARIABLECODE("time")="aar";
+VARIABLECODE("antal")="antal";
+VARIABLECODE[da]("antal")="antal";
+VARIABLECODE[da]("branche")="branche";
+VARIABLECODE[da]("grænse")="granse";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[kl]("antal")="antal";
+VARIABLECODE[kl]("inuussutissarsiornermi suliaqarfik")="branche";
+VARIABLECODE[kl]("killigititaq")="granse";
+VARIABLECODE[kl]("piffissaq")="aar";
+ELIMINATION("industry")="All industries";
+ELIMINATION[da]("branche")="Alle brancher";
+ELIMINATION[kl]("inuussutissarsiornermi suliaqarfik")="Suliaqarfiit katillugit";
+LAST-UPDATED="20241206 09:00";
+LAST-UPDATED[da]="20241206 09:00";
+LAST-UPDATED[kl]="20241206 09:00";
+CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE("industry")="Note that the aggregate levels do not add up to the overall level.##COFOG at the start of a industry is a division of 'Public administration and service' into the 10 main COFOG groups and into a group 'Other'. For the Self-Government and the municipalit"
+"ies, the COFOG main groups are imputed from the payroll system based on the account string. Those for whom a main group could not be found are included in the group 'Other'. Industries with DB07 code 84.22.00 are placed in the main group 'Defence' and D"
+"B07 codes 84.23.00 and 84.24.00 are placed in the main group 'Public order and safety '. The rest who are in the industry 'Public administration and service' are included in the group 'Other'.";
+NOTE("limit")="The limit for being employed is the salary that corresponds to at least x number of hours on the minimum salary";
+NOTE="The permanent resident population is defined as all citizens residing in the country at the beginning and end of the year, and who have turned 15 at the beginning of the month";
+NOTE[da]="Den fastboende befolkning defineres som alle borgere bosiddende i landet primo og ultimo året, og som primo måneden er fyldt 15 år";
+NOTE[da]("branche")="Bemærk at de aggregerede niveauer ikke summer til det overordnede niveau.##COFOG i starten af en branche er en opdeling af 'Offentlig forvaltning og service' i de 10 COFOG hovedgrupper og i en gruppe 'Andet'. For Selvstyret og kommunerne er COFOG hovedg"
+"rupperne imputeret fra lønsystemet på baggrunde af kontostrengen. Dem som der ikke kunne findes en hovedgruppe for, er er med i gruppen 'Andet'. Brancher med DB07 kode 84.22.00 placeres i hovedgruppen 'Forsvar' og DB07 koderne 84.23.00 og 84.24.00 place"
+"res i hovedgruppen 'Offentlig orden og sikkerhed'.  Resten som er i branchen 'Offentlig forvaltning og service' er med i gruppen 'Andet'.";
+NOTE[da]("grænse")="Grænse for at være i beskæftigelse er lønnen som svarer til mindst x antal timer på mindsetlønnen";
+NOTE[kl]="Innuttaasut najugaqavissut tassaapput Kalaallit Nunaanni ukiup aallartinnerani naaneranilu najugallit, qaammatillu aallartinnerani 15-inik ukioqalereersimasut";
+NOTE[kl]("inuussutissarsiornermi suliaqarfik")="Malugiuk qaffasissutsit ataatsimoortitat qaffasissutsimi annerpaami ataatsimut inernerinngimmata.##COFOG i starten af en branche er en opdeling af 'Offentlig forvaltning og service' i de 10 COFOG hovedgrupper og i en gruppe 'Andet'. For Selvstyret og ko"
+"mmunerne er COFOG hovedgrupperne imputeret fra lønsystemet på baggrunde af kontostrengen. Dem som der ikke kunne findes en hovedgruppe for, er er med i gruppen 'Andet'. Brancher med DB07 kode 84.22.00 placeres i hovedgruppen 'Forsvar' og DB07 koderne 84"
+".23.00 og 84.24.00 placeres i hovedgruppen 'Offentlig orden og sikkerhed'.  Resten som er i branchen 'Offentlig forvaltning og service' er med i gruppen 'Andet'.";
+NOTE[kl]("killigititaq")="Siliffilittut nalunaarsugaanermi minnerpaamik akunnerni x-ini akissarsiat appasinnerpaat malillugit akissarsiaqarsimanissaq killigititaavoq";
+DATA=
+28122 28453 28795 29095 29018 29444 29697 29877 27506 27856 28204 28492 28469 28900 29131 29339 26875 27225 27586 27889 27884 28310 28515 28770 26269 26621 26989 27265 27344 27732 27949 28225 25650 25983 26371 26670 26771 27131 27334 27653 24992 25302 25710 26022 26157 26524 26731 27066 24411 24726 25115 25425 25594 25947 26147 26479 23767 24058 24445 24784 25001 25360 25563 25907
+97 90 105 103 106 113 100 86 93 88 99 100 103 110 98 83 89 85 94 97 98 104 96 81 87 82 91 93 95 97 91 80 83 80 89 91 91 95 87 78 80 79 85 88 88 92 85 77 78 76 82 85 85 89 83 76 76 74 78 81 83 87 80 74
+4804 4700 4789 4812 4700 4460 4427 4603 4694 4594 4688 4725 4602 4362 4343 4517 4557 4450 4539 4601 4463 4225 4208 4405 4413 4315 4402 4470 4336 4087 4093 4296 4263 4175 4271 4339 4208 3954 3980 4191 4113 4022 4130 4198 4076 3840 3872 4087 3972 3897 3997 4070 3964 3723 3771 3978 3839 3752 3856 3943 3838 3603 3668 3877
+79 83 96 92 91 119 106 86 78 82 96 91 90 118 106 85 77 81 96 91 90 118 106 85 77 81 95 90 90 118 105 84 77 81 95 90 89 118 105 84 76 80 95 90 89 117 105 84 76 80 95 89 88 116 103 83 75 79 93 89 88 115 103 81
+231 232 207 213 218 229 236 237 224 224 201 207 213 224 229 231 217 215 195 204 207 219 223 225 213 208 190 199 202 215 216 218 208 201 185 194 196 210 210 212 204 194 180 189 192 204 204 206 199 190 176 184 187 198 199 200 192 183 170 177 181 192 192 193
+408 415 427 440 439 440 420 427 406 412 423 437 436 437 417 424 401 407 420 433 433 434 413 422 398 405 417 430 430 431 409 419 395 400 413 426 426 427 407 417 391 396 410 422 423 424 404 414 387 392 405 418 420 421 400 411 383 388 401 413 416 418 397 408
+1874 1893 1974 1970 2047 2322 2329 2260 1850 1873 1949 1949 2029 2296 2306 2239 1828 1850 1925 1927 2006 2271 2279 2212 1804 1826 1897 1904 1982 2245 2252 2186 1778 1795 1867 1874 1955 2214 2219 2155 1744 1761 1834 1839 1923 2180 2185 2120 1711 1729 1800 1805 1891 2139 2145 2089 1673 1691 1760 1762 1847 2089 2101 2046
+2859 2907 2963 3011 3003 3109 3165 3142 2774 2815 2868 2912 2912 3021 3072 3055 2686 2721 2773 2817 2823 2924 2969 2957 2590 2626 2678 2722 2737 2828 2869 2863 2505 2540 2589 2632 2645 2733 2778 2773 2418 2446 2489 2535 2547 2634 2675 2682 2335 2359 2408 2444 2463 2545 2577 2598 2246 2268 2314 2349 2375 2449 2476 2507
+1838 1892 1962 2036 1997 1972 2062 2107 1815 1873 1941 2013 1979 1955 2041 2087 1792 1854 1920 1992 1958 1937 2021 2067 1771 1834 1895 1968 1940 1920 2002 2049 1750 1813 1872 1945 1916 1900 1981 2029 1728 1793 1846 1921 1895 1882 1957 2009 1706 1771 1823 1891 1870 1863 1933 1987 1676 1743 1794 1859 1842 1843 1907 1961
+706 752 785 753 690 814 873 939 668 712 747 718 661 778 833 903 639 679 714 689 636 743 796 866 608 646 683 659 611 707 763 833 580 617 656 634 591 676 730 803 553 587 627 606 567 646 695 769 527 561 598 581 544 621 666 741 501 536 571 559 521 596 640 714
+728 708 662 634 622 613 569 563 717 700 656 628 615 608 563 555 711 694 650 623 611 605 560 551 706 688 646 618 606 600 556 546 698 683 641 614 604 597 553 543 695 678 636 611 602 595 551 542 692 675 632 607 599 593 549 540 687 667 626 600 595 590 548 538
+171 173 169 186 202 200 202 208 170 172 168 185 202 199 201 208 169 171 168 185 202 199 201 207 169 171 168 185 202 199 201 207 169 171 168 184 201 199 201 207 168 171 168 184 201 199 201 207 168 170 168 184 201 199 200 207 168 170 168 184 201 199 200 207
+326 324 238 267 279 273 301 329 320 317 234 262 275 270 297 325 316 311 230 258 272 267 293 322 311 305 227 254 268 264 290 318 307 301 224 251 265 260 287 316 304 296 220 249 262 258 285 312 301 292 219 246 259 256 283 308 297 288 217 243 257 254 280 303
+246 272 265 265 272 294 303 302 241 265 261 262 267 290 299 298 237 260 257 259 264 288 295 293 235 256 254 257 262 285 291 291 233 252 250 254 259 282 289 288 231 248 246 251 257 279 285 287 229 245 243 248 254 277 283 285 228 243 239 246 252 275 280 283
+512 515 545 498 477 411 414 463 488 495 525 484 461 402 403 449 466 479 506 469 447 392 393 436 445 462 490 457 434 383 385 425 423 445 474 445 421 371 375 414 401 425 456 430 407 358 362 399 383 405 438 419 395 347 351 384 365 387 419 405 383 338 342 374
+12201 12455 12564 12810 12989 13133 13118 12964 11942 12206 12322 12531 12748 12903 12861 12730 11689 11962 12096 12281 12522 12680 12634 12522 11465 11732 11875 12029 12317 12470 12421 12315 11232 11498 11647 11804 12093 12254 12199 12106 10976 11233 11388 11547 11848 12015 11967 11872 10762 11023 11158 11314 11626 11790 11744 11651 10505 10756 10896 11057 11395 11565 11512 11422
+1332 1411 1398 1419 1287 1312 1309 1278 1321 1401 1386 1405 1278 1303 1299 1270 1312 1390 1375 1393 1270 1295 1291 1263 1299 1378 1363 1381 1261 1287 1282 1257 1286 1366 1352 1370 1252 1279 1271 1248 1273 1352 1338 1354 1243 1267 1262 1240 1265 1339 1326 1342 1234 1257 1251 1230 1239 1316 1299 1320 1220 1243 1238 1217
+43 40 41 42 51 51 55 48 43 40 41 42 51 51 55 48 43 40 41 42 51 51 55 48 43 40 41 42 51 51 55 48 43 40 41 42 51 51 55 48 43 40 41 42 51 51 55 48 43 40 41 42 51 51 55 48 43 39 41 42 51 51 55 48
+498 497 485 506 541 557 535 549 475 469 459 483 514 529 506 521 462 456 448 472 501 513 493 511 456 450 440 465 493 502 484 503 450 446 435 459 488 494 479 497 445 443 431 455 484 488 475 493 443 440 428 451 475 475 464 484 434 435 422 443 471 469 459 480
+593 572 558 562 635 625 605 630 581 559 548 549 625 615 592 619 568 546 537 536 612 606 579 607 555 532 528 524 600 594 568 596 541 520 516 512 586 581 557 584 526 507 503 498 573 567 544 572 514 495 491 488 561 555 534 563 502 483 479 478 548 542 523 551
+202 216 219 225 253 269 275 267 199 212 216 221 250 266 272 264 196 206 212 217 245 263 270 261 191 200 209 213 240 258 266 258 188 194 204 209 236 254 261 254 184 189 200 205 232 251 257 250 181 184 197 202 229 247 252 246 176 179 192 198 224 242 247 241
+31 30 12 18 25 21 26 29 31 30 12 18 25 21 25 29 31 30 12 18 25 21 25 29 31 30 12 18 24 20 25 28 31 30 12 17 24 20 25 28 31 29 12 17 24 20 25 28 31 29 12 17 24 20 25 28 31 29 12 17 24 20 25 28
+1288 1303 1297 1298 1314 1319 1308 1318 1271 1289 1286 1282 1299 1304 1295 1302 1257 1278 1272 1266 1284 1288 1277 1288 1244 1265 1261 1253 1271 1273 1264 1274 1229 1253 1247 1240 1260 1258 1249 1260 1215 1238 1231 1226 1244 1244 1236 1244 1202 1226 1218 1212 1231 1231 1224 1230 1182 1206 1193 1195 1220 1218 1211 1216
+335 351 356 359 365 375 373 375 313 333 336 342 351 361 358 359 296 315 321 327 335 347 342 343 283 299 306 310 324 332 329 330 272 284 293 296 311 319 316 318 262 271 281 285 301 306 306 305 254 262 271 274 292 295 295 294 246 253 262 265 282 287 283 285
+2565 2597 2588 2607 2633 2614 2616 2507 2524 2556 2556 2571 2599 2585 2585 2479 2487 2520 2523 2534 2570 2555 2557 2453 2452 2484 2492 2500 2539 2529 2528 2425 2417 2447 2454 2467 2506 2498 2497 2394 2370 2403 2415 2433 2471 2460 2463 2359 2327 2370 2378 2397 2437 2429 2436 2328 2287 2324 2340 2356 2400 2396 2397 2292
+348 342 383 387 312 315 297 295 341 331 376 379 307 311 295 291 333 323 370 372 303 307 291 288 326 314 363 366 298 304 288 286 320 308 355 361 293 300 285 282 315 302 350 357 290 296 282 279 310 297 344 353 288 294 280 277 305 290 339 348 285 291 278 276
+1574 1576 1545 1537 1589 1596 1632 1578 1549 1555 1524 1516 1566 1578 1611 1559 1528 1535 1503 1492 1546 1558 1590 1540 1505 1514 1483 1472 1525 1541 1571 1520 1482 1491 1460 1450 1505 1521 1549 1497 1447 1459 1434 1424 1478 1493 1525 1471 1418 1438 1408 1399 1453 1468 1504 1446 1391 1410 1383 1370 1427 1443 1475 1419
+643 679 660 683 731 703 687 635 633 669 656 676 726 697 680 629 626 662 651 669 721 690 675 624 622 656 646 663 716 684 669 619 614 648 640 657 708 678 663 614 607 642 632 653 703 672 656 609 599 635 626 645 696 667 652 604 591 625 618 638 688 662 644 598
+4588 4773 4841 5057 5182 5305 5319 5193 4483 4673 4739 4930 5079 5204 5199 5089 4372 4562 4636 4814 4978 5098 5088 4985 4269 4455 4530 4680 4879 4996 4980 4877 4154 4336 4417 4565 4759 4883 4859 4766 4024 4197 4283 4418 4623 4758 4725 4635 3921 4086 4175 4300 4513 4648 4613 4528 3807 3965 4056 4168 4391 4529 4492 4403
+1062 1107 1143 1224 1302 1360 1375 1336 1042 1088 1124 1200 1284 1342 1349 1317 1018 1067 1103 1177 1264 1321 1327 1298 995 1047 1081 1147 1247 1302 1305 1278 973 1023 1058 1122 1224 1278 1279 1257 949 997 1029 1096 1199 1254 1254 1231 927 973 1005 1068 1178 1233 1229 1207 901 944 977 1035 1153 1206 1200 1180
+1284 1324 1290 1319 1336 1326 1331 1282 1249 1290 1257 1281 1306 1296 1298 1253 1210 1251 1225 1246 1273 1264 1264 1222 1177 1218 1192 1210 1244 1233 1233 1193 1137 1179 1160 1176 1210 1203 1202 1162 1092 1135 1122 1137 1169 1165 1166 1129 1061 1099 1088 1102 1136 1134 1134 1098 1026 1060 1054 1068 1100 1102 1099 1063
+2242 2343 2409 2514 2544 2619 2613 2575 2192 2294 2357 2449 2490 2566 2552 2519 2144 2244 2309 2392 2441 2513 2497 2465 2097 2191 2257 2324 2389 2462 2442 2406 2043 2133 2198 2267 2325 2403 2379 2348 1983 2065 2132 2186 2255 2338 2305 2275 1934 2014 2082 2131 2199 2281 2250 2223 1880 1961 2026 2066 2138 2221 2193 2159
+727 666 769 717 705 684 696 769 701 646 743 689 678 663 674 750 667 621 718 663 652 644 657 734 642 600 692 644 634 627 641 718 624 583 675 626 619 616 630 708 603 564 652 613 602 603 620 697 582 551 621 590 580 583 597 673 559 528 600 576 566 569 584 662
+319 333 335 353 317 319 327 341 308 320 320 336 305 306 317 330 295 308 307 323 292 297 305 317 284 295 295 311 283 288 297 304 275 286 284 297 273 278 288 293 264 277 275 286 264 267 279 284 253 266 265 275 256 260 271 275 242 257 255 267 246 252 263 262
+722 710 709 654 569 623 749 822 721 709 709 653 569 623 747 822 706 698 697 640 560 606 725 804 693 688 686 622 552 596 709 790 674 646 649 598 537 563 645 744 647 617 626 579 515 536 620 715 633 596 609 564 491 510 587 667 616 578 589 554 480 496 574 656
+;

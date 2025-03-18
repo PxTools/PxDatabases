@@ -1,0 +1,186 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210106 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIX020";
+COPYRIGHT=YES;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries and Catch";
+DESCRIPTION="Advice on permitted catches of marine mammals <em>[FIE020]</em>";
+TITLE="Advice on permitted catches of marine mammals by species, area, form and time";
+CONTENTS="Advice on permitted catches of marine mammals";
+STUB="species","area","form";
+HEADING="time";
+VALUES("species")="Walrus","Peluga","Narwhale","Minke whale","Fin whale","Humpback whale","Bowhead whale","Polar bear";
+VALUES("area")="Westgreenland","Eastgreenland","Northern water","Qaanaaq","Melville Bay";
+VALUES("form")="Advice","Kvota","Catch";
+VALUES("time")="2014","2015","2016","2017","2018","2019","2020","2021";
+ELIMINATION("area")=YES;
+ELIMINATION("form")=YES;
+LAST-UPDATED="20220808 09:00";
+UNITS="pieces";
+CONTACT="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+NOTE="Advice Polar bear in Estgreenland are after precautionary principle. 2021 is in preliminary numbers";
+NEXT-UPDATE="20230801 09:00";
+UPDATE-FREQUENCY="Annually";
+SUBJECT-AREA[da]="Fiskeri og fangst";
+DESCRIPTION[da]="Biologisk rådgivning for fangst af visse havpattedyr <em>[FID020]</em>";
+TITLE[da]="Biologisk rådgivning for fangst af visse havpattedyr efter art, område, form og tid";
+CONTENTS[da]="Biologisk rådgivning for fangst af visse havpattedyr";
+STUB[da]="art","område","form";
+HEADING[da]="tid";
+VALUES[da]("art")="Hvalros","Hvidhval","Narhval","Vågehval","Finhval","Pukkelhval","Grønlandshval","Isbjørn";
+VALUES[da]("område")="Vestgrønland","Østgrønland","Nordvandet","Qaanaaq","Melville bugt";
+VALUES[da]("form")="Rådgivning","Kvote","Fangst";
+VALUES[da]("tid")="2014","2015","2016","2017","2018","2019","2020","2021";
+ELIMINATION[da]("område")=YES;
+ELIMINATION[da]("form")=YES;
+LAST-UPDATED[da]="20220808 09:00";
+UNITS[da]="Stk";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+SOURCE[da]="Grønlands Statistik";
+NOTE[da]="Rådgivning af isbjørn i Østgrønland er efter forsigtighdesprincippet. 2021 er i foreløbig tal";
+SUBJECT-AREA[kl]="Aalisarneq piniarnerlu";
+DESCRIPTION[kl]="Uummasulerituut naliliineri malillugit miluumasunik imarniunik pisassanik siunnersuutit <em>[FIN020]</em>";
+TITLE[kl]="Uummasulerituut naliliineri malillugit miluumasunik imarniunik pisassanik siunnersuutit kingorna suussusaa, imartaq, formia aamma piffissaq";
+CONTENTS[kl]="Uummasulerituut naliliineri malillugit miluumasunik imarniunik pisassanik siunnersuutit";
+STUB[kl]="suussusaa","imartaq","formia";
+HEADING[kl]="piffissaq";
+VALUES[kl]("suussusaa")="Aaveq","Qilagugaq qaqortaq","Qilalugaq qernertaq","Tikaagullik","Tikaagulliusaaq","Qipoqqaq","Arfivik","Nanoq";
+VALUES[kl]("imartaq")="Kitaa","Tunu","Pikiulasorsuaq","Qaanaaq","Qimusseriarsuaq";
+VALUES[kl]("formia")="Siunnersuut","Pisassat","Pisat";
+VALUES[kl]("piffissaq")="2014","2015","2016","2017","2018","2019","2020","2021";
+ELIMINATION[kl]("imartaq")=YES;
+ELIMINATION[kl]("formia")=YES;
+LAST-UPDATED[kl]="20220808 09:00";
+UNITS[kl]="amerlassusii";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE[kl]="Tunumi nannunik pisassanik siunnersuineq mianersorneq aallaavigalugu siunnersuineruvoq. 2021 kisitsisaagallartuuvoq.";
+DATA=
+100	100	100	100	100	100	86	86
+61	69	69	69	69	69	74	74
+52	53	52	35	54	61	75	67
+18	18	18	18	18	18	19	19
+18	18	18	18	18	18	17	17
+8	4	9	3	10	7	8	12
+92	92	92	92	92	92	84	84
+61	86	86	85	85	85	79	79
+67	74	74	73	34	46	21	48
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+310	310	310	320	320	320	320	265
+385	330	320	320	320	320	320	265
+240	120	187	164	208	137	182	139
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+20	20	20	20	20	20	20	37
+20	20	20	20	22	20	20	29
+31	7	16	34	5	109	12	9
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+140	140	251	251	251	251	251	251
+144	144	231	231	251	251	251	251
+119	72	176	134	318	181	84	235
+88	88	66	10	10	0	0	0
+88	88	82	98	66	66	50	60
+81	94	53	91	74	76	57	20
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+85	85	103	103	103	103	103	98
+85	85	103	103	103	103	103	118
+102	75	81	108	57	164	93	94
+81	81	70	70	70	70	70	70
+81	81	116	100	90	86	70	70
+113	71	91	93	62	106	52	70
+164	179	179	179	179	212	164	164
+164	179	179	179	179	164	164	164
+146	133	148	133	116	160	138	177
+15	15	15	15	15	20	20	20
+15	15	15	15	15	20	20	20
+11	6	15	10	2	11	20	21
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+19	19	19	19	19	19	19	19
+19	19	19	19	19	19	19	19
+9	12	9	8	7	8	3	2
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+12	12	12	12	12	10	10	10
+12	12	12	12	12	10	10	10
+7	6	5	2	6	4	4	7
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+4	4	4	4	4	2	2	2
+4	4	4	4	4	2	2	2
+0	1	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+76	76	76	76	92	92	92	92
+76	76	76	76	92	92	92	92
+78	78	56	77	85	80	80	86
+54	54	54	54	54	54	54	54
+64	64	64	64	64	64	64	64
+67	64	64	65	64	60	73	51
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0
+;

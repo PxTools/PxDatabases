@@ -1,0 +1,85 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20200508 09:00";
+NEXT-UPDATE="20210508 09:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="SUXBUE";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SU";
+SUBJECT-AREA="Health";
+SUBJECT-AREA[da]="Sundhed";
+SUBJECT-AREA[kl]="Peqqissutsimut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Indicators for diet and physical activity, 2005-2018 <em>[SUEBUE]</em>";
+DESCRIPTION[da]="Indikatorer for kost og fysisk aktivitet, 2005-2018 <em>[SUDBUE]</em>";
+DESCRIPTION[kl]="Nerisaqarneq timimillu aalatitsineq, 2005-2018 <em>[SUNBUE]</em>";
+TITLE="Diet and exercise by Indicator and Time";
+TITLE[da]="Kost og fysisk aktivitet efter Indikator og Piffissaq";
+TITLE[kl]="Nerisaqarneq timimillu aalatitsineq : Indikatori , Tid";
+CONTENTS="Diet and exercise";
+CONTENTS[da]="Kost og fysisk aktivitet";
+CONTENTS[kl]="Nerisaqarneq timimillu aalatitsineq";
+UNITS="Percent";
+UNITS[da]="Procent";
+UNITS[kl]="Pct.";
+STUB="Indicator";
+STUB[da]="Indikator";
+STUB[kl]="Indikatori";
+HEADING="Time";
+HEADING[da]="Piffissaq";
+HEADING[kl]="Tid";
+VALUES("Indicator")="Percentage of respondents with a BMI of 30 or above (pct.)",
+"Physically active 1 hour a day (pct.)","Consumes fruit daily (pct.)",
+"Consumes vegetables daily (pct.)","Consumes fish at least once a week (pct.)",
+"Drinks soda or fruit syrup (common) daily (pct.)",
+"Consumes marine mammals 1-3 times a week (pct.)","Foodsecurity (pct.)";
+VALUES[da]("Indikator")="Andel med BMI på 30 eller derover (pct.)",
+"Fysisk aktive 1 time om dagen (pct.)","Spiser frugt dagligt (pct.)",
+"Spiser grøntsager dagligt (pct.)","Spiser fisk mindst 1 gang om ugen (pct.)",
+"Drikker saft eller sodavand hver dag (pct.)","Spiser havpattedyr 1-3 gange om ugen (pct.)",
+"Fødevaresikkerhed (pct.)";
+VALUES[kl]("Indikatori")=
+"BMI atorlugu misissuinermi 30 sinnerluguluunniit uuttuutillit annertussusaat (pct.)",
+"Ullormut nal. ak. ataaseq timimik aalatitsisartut (pct.)",
+"Ullormut paarnanik naatitartortartut (pct.)","Ullormut naatitartortartut (pct.)",
+"Sap.ak. minnerpaamik ataasiarlutik aalisagartortartut (pct.)",
+"Ullut tamaasa saftitunngikkunik sodavanditortartu (pct.)",
+"Immami miluumasut neqaannik sap. ak. ataasiarlutik pingasoriarlutilluunniit nerisartut (pct.)",
+"Naammattunik eqqortunillu inuussutissartalinnik nerisassaqarsinnaaneq (pct.)";
+VALUES("Time")="2005","2014","2018";
+VALUES[da]("Piffissaq")="2005","2014","2018";
+VALUES[kl]("Tid")="2005","2014","2018";
+CODES("Indicator")="1","2","3","4","5","6","7","8";
+CODES[da]("Indikator")="1","2","3","4","5","6","7","8";
+CODES[kl]("Indikatori")="1","2","3","4","5","6","7","8";
+CODES("Time")="2005","2014","2018";
+CODES[da]("Piffissaq")="2005","2014","2018";
+CODES[kl]("Tid")="2005","2014","2018";
+LAST-UPDATED="20200508 09:00";
+CONTACT="Christina Viskum Lytken Larsen, chly@sdu.dk";
+CONTACT[da]="Christina Viskum Lytken Larsen, chly@sdu.dk";
+CONTACT[kl]="Christina Viskum Lytken Larsen, chly@sdu.dk";
+SOURCE="National Institute of Public Health";
+SOURCE[da]="Statens Institut for Folkesundhed";
+SOURCE[kl]="Statens Institut for Folkesundhed";
+LINK="https://www.sdu.dk/da/sif/rapporter/2019/befolkningsundersoegelsen_i_groenland";
+LINK[da]="https://www.sdu.dk/da/sif/rapporter/2019/befolkningsundersoegelsen_i_groenland";
+LINK[kl]="https://www.sdu.dk/sif/-/media/images/sif/udgivelser/2019/kalaallit_nunaanni_innuttaasut_"
+"peqqissusaannik_misissuisitsineq_2018.pdf";
+NOTE="Indicators for public health in the Greenlandic Health Survey. Weighted to population in 2014.";
+NOTE[da]="Indikatorer for folkesundheden målt i befolkningsundersøgelsen. Vægtet til befolkningen i 2014.";
+NOTE[kl]="Innuttaasut peqqissusaannut misissuinermi uuttuutit. 2014-imi innuttaasut tunngavigalungit naatsorsugaq.";
+DATA=
+22.9 27.3 27.8
+85.4 81 86.6
+37.2 44.9 38.8
+23.9 30.4 29.6
+56 50.2 42.8
+24.4 32.1 43.9
+35.9 35.7 33.3
+"-" 11.8 8.2;

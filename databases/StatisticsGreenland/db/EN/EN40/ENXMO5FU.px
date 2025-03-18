@@ -1,0 +1,63 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20140505 11:00";
+NEXT-UPDATE="20250506 11:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+MATRIX="ENEMO4NY";
+SUBJECT-CODE="EN";
+SUBJECT-AREA="Energy";
+SUBJECT-AREA[da]="Energi";
+SUBJECT-AREA[kl]="Nukissiuuteqarneq";
+COPYRIGHT=YES;
+DESCRIPTION="Electric and hybrid cars according to the Greenland Police <em>[ENEMO5FU]</em>";
+DESCRIPTION[da]="El- og hybridbiler ifølge Grønlands Politi <em>[ENDMO5FU]</em>";
+DESCRIPTION[kl]="Kalaallit Nunaanni Politiit malillugit biilit innaallagiamik ingerlatillit aamma hybridimik ingerlatillit <em>[ENNMO5FU]</em>";
+TITLE="Electric and hybrid cars according to the Greenland Police by category and time";
+TITLE[da]="El- og hybridbiler ifølge Grønlands Politi efter kategori og tid";
+TITLE[kl]="Kalaallit Nunaanni Politiit malillugit biilit innaallagiamik ingerlatillit aamma hybridimik ingerlatillit by immikkoortunut atatitaq and piffissaq";
+CONTENTS="Electric and hybrid cars according to the Greenland Police";
+CONTENTS[da]="El- og hybridbiler ifølge Grønlands Politi";
+CONTENTS[kl]="Kalaallit Nunaanni Politiit malillugit biilit innaallagiamik ingerlatillit aamma hybridimik ingerlatillit";
+UNITS="Number of motor vehicles";
+UNITS[da]="Antal køretøjer";
+UNITS[kl]="Qamutit amerlassusaat";
+STUB="category";
+STUB[da]="kategori";
+STUB[kl]="immikkoortunut atatitaq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("category")="Electric and hybrid cars total","Electric cars","Hybrid cars with plug-in","Hybrid cars";
+VALUES[da]("kategori")="El- og hybridbiler i alt","Elbiler","Hybridbiler med plug-in","Hybridbiler";
+VALUES[kl]("immikkoortunut atatitaq")="Biilit innaallagiamik ingerlatillit aamma hybridimik ingerlatillit","Biilit innaallagiamik ingerlatillit","Biilit hybridimik plug-in atorlugu ingerlatillit","Biilit hybridit";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("category")="Electric and hybrid cars total";
+ELIMINATION[da]("kategori")="El- og hybridbiler i alt";
+ELIMINATION[kl]("immikkoortunut atatitaq")="Biilit innaallagiamik ingerlatillit aamma hybridimik ingerlatillit";
+ELIMINATION("time")="2023";
+ELIMINATION[da]("tid")="2023";
+ELIMINATION[kl]("piffissaq")="2023";
+TIMEVAL("time")=TLIST(A1,"2016"-"2023");
+TIMEVAL[da]("tid")=TLIST(A1,"2016"-"2023");
+TIMEVAL[kl]("piffissaq")=TLIST(A1,"2016"-"2023");
+LAST-UPDATED="20240508 11:00";
+CONTACT="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[da]="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[kl]="Lene Baunbæk, LEBA@stat.gl";
+NOTE="Before 2020 al electric and hybridcars were registrated as 'Electric cars'";
+NOTE[da]="Før 2020 blev alle el- og hybridbiler registreret som 'Elbiler'.#";
+NOTE[kl]="2020 sioqqullugu biilit innaallagiamik ingerlatillit aamma hybridit ’Biilit innaallagiamik ingerlatilittut´ nalunaarutigineqartarput.#";
+DATA=
+191	341	482	643	977	1466	1642	1995
+191	341	482	643	747	841	727	766
+"..."	"..."	"..."	"..."	203	554	810	1094
+"..."	"..."	"..."	"..."	27	71	105	135
+
+
+
+;

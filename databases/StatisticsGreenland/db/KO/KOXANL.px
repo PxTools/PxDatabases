@@ -1,0 +1,127 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150527 09:00";
+NEXT-UPDATE="20220215 09:00";
+UPDATE-FREQUENCY="Quarterly, kvartalsvis, kvartali";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="KOXANL";
+SUBJECT-CODE="KO";
+SUBJECT-AREA="Short term trends";
+SUBJECT-AREA[da]="Konjunktur";
+SUBJECT-AREA[kl]="Aningaasaqarnikkut pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Spendings from the construction and renovation fund by main areas (2010M01-2021M09) <em>[KOEANL]</em> ";
+DESCRIPTION[da]="Forbrug fra anlægs- og renoveringsfonden efter hovedgrupper (2010M01-2021M09) <em>[KODANL]</em> ";
+DESCRIPTION[kl]="Sanaartornermut Iluarsaassisarnermullu aningaasaateqarfiup atuinera, tunngavigalugu immikkoortut pingaarnerit (2010M01-2021M09) <em>[KONANL]</em>";
+TITLE="Spendings from the construction and renovation fund by main areas";
+TITLE[da]="Forbrug fra anlægs- og renoveringsfonden efter hovedgrupper";
+TITLE[kl]="Sanaartornermut Iluarsaassisarnermullu aningaasaateqarfiup atuinera, tunngavigalugu immikkoortut pingaarnerit";
+CONTENTS="Spendings from the construction and renovation fund";
+CONTENTS[da]="Anlægs- og renoveringsfonden";
+CONTENTS[kl]="Sanaartornermut Iluarsaassisarnermullu aningaasaateqarfik";
+UNITS="Mill. kr.";
+UNITS[da]="Mio. kr.";
+UNITS[kl]="Mio. kr.";
+STUB="time","main areas";
+STUB[da]="tid","hovedgruppe";
+STUB[kl]="piffissaq","immikkoortut pingaarnerit";
+HEADING="month";
+HEADING[da]="måned";
+HEADING[kl]="qaammat";
+VALUES("time")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019";
+VALUES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019";
+VALUES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019";
+VALUES("main areas")="Total","Housing","Construction fund, lending","Nukissiorfiit","Institutions",
+"Other, incl. runways";
+VALUES[da]("hovedgruppe")="Samlet","Boliger","Anlægsfonden, udlån","Nukissiorfiit","Institutioner",
+"Rest inkl. landingsbaner";
+VALUES[kl]("immikkoortut pingaarnerit")="Katillugit","Inissiat","Sanaartornermut Aningaasaateqarfimmit taarsigassarsiarititat",
+"Nukissiorfiit","Suliffeqarfiit","Sinneri mittarfiit ilanngullugit";
+VALUES("month")="Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","Whole year";
+VALUES[da]("måned")="Jan","Feb","Mar","Apr","Maj","Jun","Jul","Aug","Sep","Okt","Nov","Dec","Hele året";
+VALUES[kl]("qaammat")="Jan","Feb","Mar","Apr","Maj","Jun","Jul","Aug","Sep","Okt","Nov","Dec","Ukioq tamaat";
+TIMEVAL("time")=TLIST(A1,"2010"-"2021");
+TIMEVAL[da]("tid")=TLIST(A1,"2010"-"2021");
+TIMEVAL[kl]("piffissaq")=TLIST(A1,"2010"-"2021");
+ELIMINATION("main areas")="Total";
+ELIMINATION[da]("hovedgruppe")="Samlet";
+ELIMINATION[kl]("immikkoortut pingaarnerit")="Katillugit";
+LAST-UPDATED="20211130 09:00";
+CONTACT="Simon Westmann, siwe@stat.gl";
+CONTACT[da]="Simon Westmann, siwe@stat.gl";
+CONTACT[kl]="Simon Westmann, siwe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Loan from the construction and renovation fund are not accounted through the construction and renovation fund anymore starting from 2016.#"
+"An adjustment of 881 mio.kr. in December 2018 of the value of interest and interest-free loans on housing is not included.##";
+NOTE[da]="Fra 2016 bliver anlægsudlån ikke længere opgjort via anlægs- og renoveringsfonden.#"
+"En regulering på 881 mio.kr. af værdien af rente og afdragsfrie lån ultimo 2018 på boliger er ikke medtaget.##";
+NOTE[kl]="2016-imiit atuutsilersumik Sanaartornermut Iluarsaassisarnermullu aningaasaateqarfimmit taarsigassarsiarititaasut naatsorsorneqartarunnaarput .#"
+"2018-ip naanerani inissianut taarsigassarsiat erniaqanngitsut akilersugassaanngitsullu 881 mio. kr.-nut nalimmassarneqarneri ilanngunneqanngillat.##";
+DATA=
+
+22.1 25.5 30.2 38.9 36.9 94.7 62.8 87.4 99.4 61.8 70.4 273.9 904.1
+14.6 5.6 12.4 11.2 8.8 10.7 -6.4 -6.7 3.8 33.0 19.5 61.4 167.9
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 42.0 15.0 38.0 80.0 42.0 20.0 110.3 347.3
+7.5 19.9 17.2 28.2 26.0 39.2 26.1 53.7 13.1 -15.8 28.8 95.8 339.6
+0.0 0.0 0.5 -0.5 2.1 2.9 28.1 2.4 2.5 2.7 2.1 6.4 49.2
+0.0 62.5 67.9 46.7 17.3 127.6 80.7 67.3 69.7 179.6 -10.5 250.4 959.2
+0.0 37.0 33.3 5.4 1.4 50.8 6.9 7.2 31.8 38.8 8.9 -220.5 1.0
+0.0 0.0 0.0 0.0 0.5 0.6 -0.2 0.1 -9.0 0.1 -5.3 331.7 318.5
+0.0 0.0 0.0 30.0 0.0 40.0 40.0 40.0 0.0 120.0 0.0 57.1 327.1
+0.0 25.4 34.8 11.3 15.3 33.2 34.0 19.9 43.7 20.7 -15.5 76.8 299.6
+0.0 0.2 -0.2 0.0 0.0 3.0 0.0 0.0 3.2 0.0 1.4 5.3 12.9
+32.5 32.5 67.2 63.7 27.8 162.6 111.5 50.6 19.2 148.4 68.5 280.4 1064.9
+8.8 5.3 29.9 39.4 12.1 40.9 13.4 -30.7 3.3 108.4 -66.4 96.3 260.7
+0.0 0.0 -10.0 0.0 0.0 -0.5 18.3 62.9 -2.1 -17.8 105.8 -7.9 148.7
+25.0 0.0 0.0 0.0 0.0 78.0 57.0 0.0 20.0 38.0 0.0 106.0 324.0
+-1.3 27.4 47.2 24.1 15.6 44.1 22.7 33.3 22.6 19.7 28.8 79.4 363.7
+0.0 -0.2 0.1 0.2 0.1 0.2 0.1 -14.9 -24.6 0.0 0.3 6.5 -32.2
+80.6 60.9 39.2 46.2 65.8 55.0 33.6 43.6 102.0 77.0 17.8 151.3 772.8
+76.3 30.7 26.6 19.2 42.6 21.2 21.5 7.8 11.2 25.8 12.3 -115.5 179.9
+3.9 3.9 -4.5 0.0 6.0 0.0 0.0 -0.8 -0.1 0.1 0.0 108.5 117.2
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 70.0 0.0 0.0 89.4 159.4
+0.3 26.2 17.0 27.0 17.2 30.8 10.4 35.6 20.6 51.0 -10.1 64.7 290.7
+0.0 0.0 0.0 0.0 0.0 3.0 1.6 0.9 0.2 0.1 15.6 4.2 25.5
+47.6 -2.1 30.6 35.5 6.6 29.7 20.8 22.0 39.5 36.0 48.8 81.8 396.9
+-72.3 14.7 11.0 7.9 1.1 14.6 2.1 9.5 7.1 19.5 11.1 21.0 47.2
+114.1 -28.2 2.1 4.9 0.5 0.3 5.0 1.7 0.1 0.1 8.0 -0.6 108.1
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+5.8 9.8 17.5 22.3 4.9 14.8 13.7 10.8 26.4 16.3 26.8 46.3 215.4
+0.0 1.6 0.0 0.4 0.0 0.0 0.0 0.0 5.9 0.1 2.9 15.2 26.2
+19.9 21.4 13.5 28.5 88.6 -16.3 35.0 34.9 99.3 36.4 46.1 247.8 655.2
+7.7 13.5 -2.5 -10.9 -29.7 7.4 8.6 5.3 27.1 9.2 19.3 61.6 116.6
+0.0 0.0 3.9 19.2 92.1 -35.0 0.3 0.1 49.7 0.0 -1.7 106.2 234.7
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+12.2 7.8 10.5 18.7 24.3 9.6 26.1 26.3 22.0 23.2 23.2 58.7 262.7
+0.0 0.1 1.7 1.6 1.9 1.6 0.0 3.1 0.5 4.0 5.3 21.4 41.2
+13.8 19.6 29.9 32.1 31.9 39.7 27.8 51.3 51.5 42.5 35.0 64.6 439.7
+5.6 4.7 4.8 10.7 6.5 14.8 9.7 13.0 8.8 18.9 10.3 26.2 133.8
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+7.4 11.4 24.6 20.2 22.3 24.2 14.4 5.3 19.8 22.1 19.6 31.5 222.7
+0.9 3.5 0.5 1.3 3.1 0.7 3.6 33.0 22.9 1.6 5.1 6.9 83.2
+46.6 31.8 42.3 26.5 26.0 39.9 49.3 47.1 25.5 61.0 33.0 159.0 588.0
+9.7 6.5 6.9 7.1 6.4 16.0 33.6 19.4 14.8 16.0 14.0 18.0 168.5
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 40.0 60.0
+32.6 24.8 31.1 18.2 16.1 15.0 14.2 23.2 8.0 12.0 16.0 89.0 300.3
+4.2 0.6 4.3 1.1 3.5 8.9 1.4 4.5 2.7 13.0 3.0 12.0 59.2
+17.0 33.4 9.7 43.7 12.5 39.7 26.9 29.8 39.2 46.9 15.7 168.5 483.0
+5.5 16.6 6.3 7.4 25.4 9.4 15.4 23.0 24.9 33.4 5.8 20.7 193.9
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+9.1 14.8 -5.8 36.2 -6.4 14.3 8.5 -3.0 8.2 13.6 7.4 132.7 229.6
+2.4 2.0 9.2 0.1 -6.5 15.9 3.0 9.8 6.0 0.0 2.5 15.1 59.5
+8.4 12.6 66.1 -31.8 17.9 19.1 26.8 7.9 1.6 "..." "..." "..." 128.6
+6.2 3.5 7.5 -42.0 9.4 11.7 10.9 7.1 1.0 "..." "..." "..." 15.4
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 "..." "..." "..." 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 "..." "..." "..." 0.0
+1.6 6.0 12.1 3.3 5.2 3.1 5.4 0.5 0.4 "..." "..." "..." 37.5
+0.6 3.1 46.5 6.8 3.2 4.3 10.5 0.4 0.3 "..." "..." "..." 75.7
+;

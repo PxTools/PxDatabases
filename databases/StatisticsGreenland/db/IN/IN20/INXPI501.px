@@ -1,0 +1,74 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20201026 09:00";
+NEXT-UPDATE="20251016 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="INXPI501";
+SUBJECT-CODE="IN";
+SUBJECT-AREA="Income";
+SUBJECT-AREA[da]="Indkomster";
+SUBJECT-AREA[kl]="Isertitat";
+COPYRIGHT=YES;
+DESCRIPTION="Real income for persons (14 years +) by type of income (2002-2023) <em>[INEPI501]</em>";
+DESCRIPTION[da]="Realindkomst for personer over 14 år efter indkomsttype (2002-2023) <em>[INDPI501]</em>";
+DESCRIPTION[kl]="Realindkomst for personer over 14 år efter indkomsttype (2002-2023) <em>[INNPI501]</em>";
+TITLE="Real income for persons (14 years +) by unit, type of income and time";
+TITLE[da]="Realindkomst for personer over 14 år efter enhed, indkomsttype og tid";
+TITLE[kl]="Realindkomst for personer over 14 år : uuttuut, isertitat suuneri , piffissaq";
+CONTENTS="Real income for persons (14 years +)";
+CONTENTS[da]="Realindkomst for personer over 14 år";
+CONTENTS[kl]="Realindkomst for personer over 14 år";
+UNITS="DKK";
+UNITS[da]="Kr.";
+UNITS[kl]="Kr.";
+STUB="unit","type of income";
+STUB[da]="enhed","indkomsttype";
+STUB[kl]="uuttuut","isertitat suuneri";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("unit")="Nominal income","Real income";
+VALUES[da]("enhed")="Nominel indkomst","Realindkomst";
+VALUES[kl]("uuttuut")="Nominel indkomst","Realindkomst";
+VALUES("type of income")="Pre-tax income","Taxable income","Disposable income";
+VALUES[da]("indkomsttype")="Indkomst i alt før skat","Skattepligtig indkomst","Disponibel indkomst";
+VALUES[kl]("isertitat suuneri")="Isertitat akileraarutinik allanilluunniit ilanngarneqanngitsut",
+"Isertitat akileraaruserneqartussat agguaqatigiissillugit","Isertitat atoriaannaat";
+VALUES("time")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("time")="2023";
+ELIMINATION[da]("tid")="2023";
+ELIMINATION[kl]("piffissaq")="2023";
+LAST-UPDATED="20241016 09:00";
+CONTACT="stat@stat.gl";
+CONTACT[da]="stat@stat.gl";
+CONTACT[kl]="stat@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="List of Symbols:# .. Too uncertain to show or omitted due to discretion.#... Data not available.#";
+NOTE[da]="For beskivelse af kilder og opgørelsesmetoder henvises til metodeafsnittet i seneste indkomstpublikation (bemærk menuen i venstre side): www.stat.gl/IND202401/m1 #Signaturforklaring:# .. For usikker til at kunne angives eller udeladt af "
+"diskretionshensyn.#... Oplysninger foreligger ikke.#";
+NOTE[kl]="Ilisarnaatit nassuiaasersorneqarnerat:# ..  Nalunaarutigineqarnissaanut nalorninarpallaarpoq imaluunniit malunnaarsaarnissaq pissutigalugu ilanngunneqanngilaq.#...  Paasissutissaqanngitsoq.#";
+DATA=
+167677 169035 174898 177339 184325 190861 201626 203390 206577 211850 217675 221949 223350 233394 244392 249731 253151 258513 263429 264347 278891 291577 
+152047 153398 159398 160089 166133 169995 176899 181853 185275 190728 196239 201447 202217 213025 224396 230029 240239 246622 252187 253593 268469 280209 
+119912 120555 123959 126890 131332 136188 137443 137518 139451 141947 144925 148812 149193 155255 161572 164556 163302 166017 171369 171473 179712 185959 
+203730 200768 204325 205388 210704 210573 209070 207426 206577 204958 201816 203450 201812 208016 216112 219513 222918 224287 225150 225842 233703 238389 
+184739 182195 186217 185410 189908 187552 183430 185462 185275 184523 181942 184657 182717 189862 198430 202195 211548 213971 215542 216654 224970 229094 
+145695 143187 144815 146960 150127 150253 142518 140247 139451 137329 134366 136409 134806 138373 142875 144644 143799 144037 146467 146496 150594 152037; 

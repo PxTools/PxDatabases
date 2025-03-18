@@ -1,0 +1,98 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20140915 09:00";
+NEXT-UPDATE="20221206 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="ARXLED6_old";
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Unemployment among permanent residents aged 18-65 years by education <em>[ARELED6]</em>";
+DESCRIPTION[da]="Antal ledige i gennemsnit pr. måned blandt fastboende 18-65-årige fordelt på uddannelse <em>[ARDLED6]</em>";
+DESCRIPTION[kl]="Najugaqavissut akornanni 18-ni 65-lu akornanni utoqqaassusillit qaammatikkaartumik agguaqatigiissillugit amerlassusaat iliniakkanut immikkoortillugit <em>[ARNLED6]</em>";
+TITLE="Unemployment among permanent residents aged 18-65 years by education and time";
+TITLE[da]="Antal ledige i gennemsnit pr. måned blandt fastboende 18-65-årige efter uddannelse og tid";
+TITLE[kl]="Najugaqavissut akornanni 18-nit 65-lu akornanni utoqqaassusillit qaammatikkaartumik agguaqatigiissillugit amerlassusaat : ilinniarneq , piffissaq";
+CONTENTS="Unemployment among permanent residents aged 18-65 years";
+CONTENTS[da]="Antal ledige i gennemsnit pr. måned blandt fastboende 18-65-årige";
+CONTENTS[kl]="Najugaqavissut akornanni 18-nit 65-lu akornanni utoqqaassusillit qaammatikkaartumik agguaqatigiissillugit amerlassusaat";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+STUB="education";
+STUB[da]="uddannelse";
+STUB[kl]="ilinniarneq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("education")="Total","Primary","Upper secondary education - General",
+"Upper secondary education - Vocational; Total",
+"Upper secondary education - Vocational; Arts and humanities",
+"Upper secondary education - Vocational; Business, administration and law",
+"Upper secondary education - Vocational; Engineering, manufacturing and construction",
+"Upper secondary education - Vocational; Agriculture, forestry, fisheries and veterinary",
+"Upper secondary education - Vocational; Health and welfare",
+"Upper secondary education - Vocational; Services","Upper secondary education - Vocational; Other",
+"Post-secondary non-tertiary education","Bachelors, Masters, Doctoral or equivalent level";
+VALUES[da]("uddannelse")="Alle","Folkeskole","Gymnasieuddannelse","Erhvervsuddannelse; Samlet",
+"Erhvervsuddannelse; Kunst og humaniora","Erhvervsuddannelse; Erhverv, administration og jura",
+"Erhvervsuddannelse; Ingeniørvidenskab, produktion og konstruktion",
+"Erhvervsuddannelse; Landbrug, skovbrug, fiskeri og veterinær",
+"Erhvervsuddannelse; Sundhed og velfærd","Erhvervsuddannelse; Servicesektor",
+"Erhvervsuddannelse; Øvrige","Suppleringskursus","Videregående uddannelse";
+VALUES[kl]("ilinniarneq")="Katillugit","Atuarfik tunngaviliivik","Ilinniarnertuutut ilinniarneq",
+"Inuussutissarsiutinik ilinniarneq; Katillugit",
+"Inuussutissarsiutinik ilinniarneq; Eqqumiitsulerineq oqaluttuarissanermik, oqaatsinik atuakkianillu sammisaqarneq",
+"Inuussutissarsiutinik ilinniarneq; Suliffeqarneq, allaffissorneq inatsisilerinerlu",
+"Inuussutissarsiutinik ilinniarneq; Ingeniøritut ilisimatusaat, nioqqutissiorneq sanaartorneq",
+"Inuussutissarsiutinik ilinniarneq; Nunalerineq, orpippassualerineq, aalisarneq uumasulerinerlu",
+"Inuussutissarsiutinik ilinniarneq; Peqqinnik atugarissaarnerlu",
+"Inuussutissarsiutinik ilinniarneq; Sullissisoqarfik","Inuussutissarsiutinik ilinniarneq; Allat",
+"Qaffassarluni pikkorsissarneq","Ingerlaqqilluni ilinniarnerit";
+VALUES("time")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL("time")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[da]("tid")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020";
+ELIMINATION("education")="Total";
+ELIMINATION[da]("uddannelse")="Alle";
+ELIMINATION[kl]("ilinniarneq")="Katillugit";
+LAST-UPDATED="20220113 09:00";
+CONTACT="stat@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="stat@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTEX="Discontinued#Updated matrices are available under unemployment";
+NOTEX[da]="Afsluttet#Opdaterede matrixer findes under ledigheden";
+NOTEX[kl]="Afsluttet#Opdaterede matrixer findes under ledigheden";
+NOTE="The age of retirement was increased from 64 years to 65 years per January 1st 2017. From 2017, unemployed persons includes 18-65 years of age. For 2010-2016, unemployed persons includes 18-64 years of age.#";
+NOTE[da]="Anm.: Pensionsalderen blev forhøjet fra 64 år til 65 år pr. 1. januar 2017. Fra 2017 opgøres ledigheden derfor blandt de 18-65 årige. For 2010-2016 opgøres ledigheden blandt de 18-64 årige.#";
+NOTE[kl]="Malugiuk: 2017-imi januaarip aallaqqaataani 65-inik ukioqalereersimasut utoqqalinersisalerput siornatigut 64-inik ukiullit utoqqalinersiaqartalereertaraluartut. 2017 aallarnerfigalugu 18-65-inik ukiullit suliffissaaleqisut amerlassusaat "
+"pineqarput. 2010-2016-imi 18-64-inik ukiullit suliffissaaleqisut amerlassusaat pineqartut.";
+DATA=
+2056 2518 2655 2725 2754 2438 1971 1858 1582 1387 1431 
+1764 2170 2264 2303 2302 2046 1681 1565 1325 1158 1179 
+15 26 33 32 38 41 31 33 30 27 25 
+225 263 287 316 334 287 207 214 185 162 179 
+6 9 11 14 13 11 11 9 7 6 7 
+10 18 19 18 22 19 14 15 13 11 15 
+86 99 100 118 124 103 66 63 52 45 48 
+18 24 29 26 28 22 16 22 16 19 21 
+44 52 64 69 69 64 43 47 41 34 37 
+60 61 64 70 76 67 56 57 55 46 49 
+1 0 1 1 2 2 1 1 1 1 2 
+35 37 48 49 53 40 32 26 24 22 27 
+17 23 22 26 27 24 20 20 18 18 23; 

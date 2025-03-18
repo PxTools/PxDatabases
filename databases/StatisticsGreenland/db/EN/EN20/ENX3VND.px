@@ -1,0 +1,73 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20161206 12:43";
+NEXT-UPDATE="20251218 11:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+MATRIX="ENE3VND";
+SUBJECT-CODE="EN";
+SUBJECT-AREA="Energy";
+SUBJECT-AREA[da]="Energi";
+SUBJECT-AREA[kl]="Nukissiuuteqarneq";
+COPYRIGHT=YES;
+DESCRIPTION="Consumption of water for drinking and other use <em>[ENE3VND]</em>";
+DESCRIPTION[da]="Forbrug af drikkevand og brugsvand <em>[END3VND]</em>";
+DESCRIPTION[kl]="Imermik imigassamik atortussamillu atuineq <em>[ENN3VND]</em>";
+TITLE="Consumption of water for drinking and other use by use and time";
+TITLE[da]="Forbrug af drikkevand og brugsvand efter anvendelse og tid";
+TITLE[kl]="Imermik imigassamik atortussamillu atuineq by atuineq aamma piffissaq";
+CONTENTS="Consumption of water for drinking and other use";
+CONTENTS[da]="Forbrug af drikkevand og brugsvand";
+CONTENTS[kl]="Imermik imigassamik atortussamillu atuineq";
+UNITS="m3";
+UNITS[da]="m3";
+UNITS[kl]="m3";
+STUB="use";
+STUB[da]="anvendelse";
+STUB[kl]="atuineq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("use")="Total water consumption","Manufacturing industries total","- Agriculture, horticulture and forestry",
+"- Fisheries","- Mining and exploration","- Manufacturing","- Construction","Commercial and services total",
+"- Wholesale trade","- Retail","- Private service","- Public service","Households";
+VALUES[da]("anvendelse")="Forbrug af vand i alt","Produktionserhverv i alt","- Landbrug, skovbrug og gartneri",
+"- Fiskeri","- Råstofudvinding og efterforskning","- Fremstillingsvirksomhed","- Byggeri- og anlægsvirksomhed",
+"Handels- og serviceerhverv i alt","- Engroshandel","- Detailhandel","- Privat service","- Offentlig service",
+"Husholdninger";
+VALUES[kl]("atuineq")="Imermik atuineq tamakkerlugu","Nioqqutissiornermik inuussutissarsiutit katillugit",
+"- Naasorissaaneq, piniarneq il.il.","- Aalisarneq","- Aatsitassanik piaanneq misissueqqissaarnerlu",
+"- Pilersitsiortorneq","- Sanaartorneq sanaartorfigissaanerlu","Niuernermik kiffartuussinermillu inuussutissarsiutit katillugit",
+"- Amerlasuukaarlugit pisiniarfiit","- Pisiniarfiit","- Namminersortunik kiffartuussineq","- Pisortaqarfinnik kiffartuussineq",
+"Illumi atukkat";
+VALUES("time")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("time")="2023";
+ELIMINATION[da]("tid")="2023";
+ELIMINATION[kl]("piffissaq")="2023";
+TIMEVAL("time")=TLIST(A1,"2004"-"2023");
+TIMEVAL[da]("tid")=TLIST(A1,"2004"-"2023");
+TIMEVAL[kl]("piffissaq")=TLIST(A1,"2004"-"2023");
+LAST-UPDATED="20241220 11:00";
+CONTACT="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[da]="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[kl]="Lene Baunbæk, LEBA@stat.gl";
+DATA=
+5994191	6007721	6059321	6226700	6438087	5377877	5242366	5102287	4959323	4220195	4201950	4014683	4370978	4407236	4780957	4885263	5210530	5033880	5095490	5494206
+3811857	3824222	3856048	3951299	4103283	3219210	3106543	2946613	2829538	2237555	2135218	2044129	2326244	2061720	2366813	2459900	2682169	2677261	2717780	2921091
+502	504	508	521	540	425	410	384	378	296	265	296	298	205	476	201	534	485	45	9
+1204	1207	1217	1249	1294	1014	988	922	889	738	627	650	869	368	912	1295	823	1135	2385	2304
+172	172	174	178	185	145	140	133	128	100	98	91	102	104	95	102	112	182	248	185
+3775920	3788175	3819693	3914040	4064628	3188835	3077231	2918950	2802700	2216443	2115550	2024045	2304615	2044187	2339608	2440589	2665314	2653394	2688228	2878934
+34060	34164	34456	35311	36636	28791	27774	26224	25444	19978	18677	19047	20360	16857	25722	17713	15386	22065	26875	39659
+891817	894743	902186	924378	960133	753180	726484	689990	661758	522306	502456	475992	540134	497467	535308	566670	562923	544341	563825	640004
+25431	25513	25723	26366	27371	21467	20752	19633	18849	15051	14087	13609	16064	12763	16142	18664	14469	14491	13225	23670
+95146	95463	96246	98621	102455	80314	77529	73680	70398	55918	53778	49956	58844	53199	53035	68015	52170	52575	61491	66480
+182351	182934	184464	189032	196256	154024	148650	140815	135530	107115	101544	98699	111190	95999	118960	114294	94313	84950	115216	152830
+588889	590833	595754	610359	634051	497376	479553	455863	436981	344222	333047	313728	354036	335506	347170	365698	401971	392324	373893	397025
+1290516	1288756	1301086	1351024	1374670	1405487	1409339	1465683	1468027	1460334	1564276	1494562	1504600	1848049	1878837	1858693	1965438	1812278	1813884	1933111
+
+; 

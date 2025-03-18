@@ -1,0 +1,136 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210512 09:00";
+NEXT-UPDATE="20250405 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXPV002";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social Service";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Foster children in december by size of allowence <em>[SOEPV002]</em>";
+DESCRIPTION[da]="Plejebørn i december efter vederlagets størrelse <em>[SODPV002]</em>";
+DESCRIPTION[kl]="Decembarimi meeqqat paarineqartut akiliutit annertussusiinut immikkoortillugit <em>[SONPV002]</em>";
+TITLE="Foster Children by unit, age of the child and year";
+TITLE[da]="Plejebørn efter enhed, barns alder og år";
+TITLE[kl]="Meeqqat paarineqartut : amerlassusaat, meeqqap ukiui , ukioq";
+CONTENTS="Foster Children";
+CONTENTS[da]="Plejebørn";
+CONTENTS[kl]="Meeqqat paarineqartut";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit";
+STUB="unit","age of the child";
+STUB[da]="enhed","barns alder";
+STUB[kl]="amerlassusaat","meeqqap ukiui";
+HEADING="year";
+HEADING[da]="år";
+HEADING[kl]="ukioq";
+CONTVARIABLE="unit";
+CONTVARIABLE[da]="enhed";
+CONTVARIABLE[kl]="amerlassusaat";
+VALUES("unit")="increased","single";
+VALUES[da]("enhed")="forhøjet","enkelt";
+VALUES[kl]("amerlassusaat")="qaffanneqarsimasunik","ataasiaannartumik";
+VALUES("age of the child")="0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15",
+"16","17","18","19+","Total";
+VALUES[da]("barns alder")="0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15",
+"16","17","18","19+","I alt";
+VALUES[kl]("meeqqap ukiui")="0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15",
+"16","17","18","19+","Katillugit";
+VALUES("year")="2018","2019","2020","2021","2022","2023";
+VALUES[da]("år")="2018","2019","2020","2021","2022","2023";
+VALUES[kl]("ukioq")="2018","2019","2020","2021","2022","2023";
+TIMEVAL("year")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("år")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("ukioq")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+CODES("unit")="Dobbelt","Enkelt";
+CODES[da]("enhed")="Dobbelt","Enkelt";
+CODES[kl]("amerlassusaat")="Dobbelt","Enkelt";
+CODES("age of the child")="0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15",
+"16","17","18","19","99";
+CODES[da]("barns alder")="0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16",
+"17","18","19","99";
+CODES[kl]("meeqqap ukiui")="0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15",
+"16","17","18","19","99";
+CODES("year")="2018","2019","2020","2021","2022","2023";
+CODES[da]("år")="2018","2019","2020","2021","2022","2023";
+CODES[kl]("ukioq")="2018","2019","2020","2021","2022","2023";
+ELIMINATION("age of the child")="Total";
+ELIMINATION[da]("barns alder")="I alt";
+ELIMINATION[kl]("meeqqap ukiui")="Katillugit";
+LAST-UPDATED("increased")="20240405 09:00";
+LAST-UPDATED[da]("forhøjet")="20240405 09:00";
+LAST-UPDATED[kl]("qaffanneqarsimasunik")="20240405 09:00";
+LAST-UPDATED("single")="20240405 09:00";
+LAST-UPDATED[da]("enkelt")="20240405 09:00";
+LAST-UPDATED[kl]("ataasiaannartumik")="20240405 09:00";
+CONTACT("increased")="Anders Blaabjerg abla@stat.gl";
+CONTACT[da]("forhøjet")="Anders Blaabjerg abla@stat.gl";
+CONTACT[kl]("qaffanneqarsimasunik")="Anders Blaabjerg abla@stat.gl";
+CONTACT("single")="Anders Blaabjerg abla@stat.gl";
+CONTACT[da]("enkelt")="Anders Blaabjerg abla@stat.gl";
+CONTACT[kl]("ataasiaannartumik")="Anders Blaabjerg abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="www.stat.gl/sod202202/m1";
+LINK[da]="www.stat.gl/sod202202/m1";
+LINK[kl]="www.stat.gl/son202202/m1";
+NOTE="The statistics includes regular family care but not emergency care. Professional family care and network care are not included.";
+NOTE[da]="Opgørelsen omfatter almindelig familiepleje dog ikke akut pleje. Professionel familiepleje og netværkspleje er ikke inkluderet.";
+NOTE[kl]="Ilaqutariit paarsisartut pillugit naatsorsorneqarput, pinasuartumilli ilaqutariit paarsisartut ilanngunneqanngillat. Inuussutissarsiutigalugu ilaqutariit paarsisartut aamma ilaquttanik/kammalaatinik paarsisartut ilanngunneqanngillat. "
+"Paasisaqarnerorusukkuit";
+NOTE("age of the child")="Ukiumi pineqartumi januaarip 31.-ani ukioqqortussutsit nalunaarsorneqarput.";
+NOTE[da]("barns alder")="Alder er opgjort pr. 31. december det pågældende år.";
+NOTE[kl]("meeqqap ukiui")="Age is calculated on december 31th of the current year.";
+DATA=
+4 6 8 3 3 1
+3 8 10 12 5 8
+5 2 7 10 12 6
+4 6 6 10 10 8
+4 2 7 8 7 7
+4 3 4 8 7 9
+3 4 5 7 11 7
+0 3 5 5 7 12
+1 4 4 5 5 8
+1 3 8 7 3 4
+6 2 4 5 6 6
+3 4 3 4 4 8
+1 2 10 6 6 9
+5 3 5 9 9 6
+4 4 5 9 4 7
+9 5 7 4 6 4
+2 6 3 4 3 7
+5 4 5 2 6 0
+2 6 2 4 3 3
+2 2 5 5 6 4
+68 79 113 127 123 124
+2 4 3 4 3 3
+8 11 7 7 7 6
+14 13 13 10 6 9
+8 18 15 13 15 14
+11 13 17 20 18 19
+9 11 13 13 19 20
+18 15 9 15 18 16
+18 16 19 8 15 16
+21 19 15 18 10 15
+24 14 21 15 21 12
+15 19 14 19 20 20
+16 15 19 16 24 22
+12 22 14 21 13 22
+14 14 18 15 17 17
+21 16 14 17 13 13
+22 18 12 9 11 16
+10 16 16 13 7 9
+17 11 21 20 15 8
+9 11 6 12 9 12
+5 7 8 6 16 16
+274 283 274 271 277 285;

@@ -1,0 +1,109 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20140915 09:00";
+NEXT-UPDATE="20221206 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="ARXSTK2_old";
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Educational profile for the labour force (permanent residents aged 18-65 years) <em>[ARESTK2]</em>";
+DESCRIPTION[da]="Arbejdsstyrkens uddannelsesprofil (fastboende 18-65-årige) <em>[ARDSTK2]</em>";
+DESCRIPTION[kl]="Sulisinnaasutut naatsorsuutigisat ilinniarnerisa isikkuat (najugaqavissut 18-65 ukiullit) <em>[ARNSTK2]</em>";
+TITLE="The labour force among permanent residents aged 18-65 years by education, time and inventory variable";
+TITLE[da]="Arbejdsstyrken blandt fastboende 18-65-årige efter uddannelse, tid og opgørelsesvariabel";
+TITLE[kl]="Sulisorineqarsinnaasut najugaqavissut akornanni 18-niit 65-t angullugit utoqqaassusillit : ilinniarneq, piffissaq , naatsorsuinermi allanngorarneq";
+CONTENTS="The labour force among permanent residents aged 18-65 years";
+CONTENTS[da]="Arbejdsstyrken blandt fastboende 18-65-årige";
+CONTENTS[kl]="Sulisorineqarsinnaasut najugaqavissut akornanni 18-niit 65-t angullugit utoqqaassusillit";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+STUB="education";
+STUB[da]="uddannelse";
+STUB[kl]="ilinniarneq";
+HEADING="time","inventory variable";
+HEADING[da]="tid","opgørelsesvariabel";
+HEADING[kl]="piffissaq","naatsorsuinermi allanngorarneq";
+VALUES("education")="Total","Primary","Upper secondary education - General",
+"Upper secondary education - Vocational; Total",
+"Upper secondary education - Vocational; Arts and humanities",
+"Upper secondary education - Vocational; Business, administration and law",
+"Upper secondary education - Vocational; Engineering, manufacturing and construction",
+"Upper secondary education - Vocational; Agriculture, forestry, fisheries and veterinary",
+"Upper secondary education - Vocational; Health and welfare",
+"Upper secondary education - Vocational; Services","Upper secondary education - Vocational; Other",
+"Post-secondary non-tertiary education","Bachelors, Masters, Doctoral or equivalent level";
+VALUES[da]("uddannelse")="Alle","Folkeskole","Gymnasieuddannelse","Erhvervsuddannelse; Samlet",
+"Erhvervsuddannelse; Kunst og humaniora","Erhvervsuddannelse; Erhverv, administration og jura",
+"Erhvervsuddannelse; Ingeniørvidenskab, produktion og konstruktion",
+"Erhvervsuddannelse; Landbrug, skovbrug, fiskeri og veterinær",
+"Erhvervsuddannelse; Sundhed og velfærd","Erhvervsuddannelse; Servicesektor",
+"Erhvervsuddannelse; Øvrige","Suppleringskursus","Videregående uddannelse";
+VALUES[kl]("ilinniarneq")="Katillugit","Atuarfik tunngaviliivik","Ilinniarnertuutut ilinniarneq",
+"Inuussutissarsiutinik ilinniarneq; Katillugit",
+"Inuussutissarsiutinik ilinniarneq; Eqqumiitsulerineq oqaluttuarissanermik, oqaatsinik atuakkianillu sammisaqarneq",
+"Inuussutissarsiutinik ilinniarneq; Suliffeqarneq, allaffissorneq inatsisilerinerlu",
+"Inuussutissarsiutinik ilinniarneq; Ingeniøritut ilisimatusaat, nioqqutissiorneq sanaartorneq",
+"Inuussutissarsiutinik ilinniarneq; Nunalerineq, orpippassualerineq, aalisarneq uumasulerinerlu",
+"Inuussutissarsiutinik ilinniarneq; Peqqinnik atugarissaarnerlu",
+"Inuussutissarsiutinik ilinniarneq; Sullissisoqarfik","Inuussutissarsiutinik ilinniarneq; Allat",
+"Nalinnginnaasumik ilinniarnerit inuussutissarsiuteqalernissamullu","Ingerlaqqilluni ilinniarnerit";
+VALUES("time")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES("inventory variable")="Labour force in average per month","Employment in average per month",
+"Unemployment in average per month","Persons not in the labour force in average per month",
+"Total population";
+VALUES[da]("opgørelsesvariabel")="Arbejdsstyrken i gennemsnit pr. måned (beskæftigelse + ledighed)",
+"Beskæftigelse i gennemsnit pr. måned","Ledighed i gennemsnit pr. måned",
+"Personer uden for arbejdsstyrken i gennemsnit pr. måned (samlet befolkning - arbejdsstyrke)",
+"Samlet befolkning";
+VALUES[kl]("naatsorsuinermi allanngorarneq")=
+"Sulisorineqarsinnaasut qaammammut agguaqatigiissillugit","Sulineq qaammammut agguaqatigiissillugu",
+"Suliffeqanngitsut qaammammut agguaqatigiissillugit",
+"Inuit sulisorineqarsinnaasut avataannittut qaammammut agguaqatigiissillugit","Innuttaasut tamarmik";
+TIMEVAL("time")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[da]("tid")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020";
+ELIMINATION("education")="Total";
+ELIMINATION[da]("uddannelse")="Alle";
+ELIMINATION[kl]("ilinniarneq")="Katillugit";
+LAST-UPDATED="20220113 09:00";
+CONTACT="stat@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="stat@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTEX="Discontinued#Updated matrices are available under labour force";
+NOTEX[da]="Afsluttet#Opdaterede matrixer findes under arbejdsstyrken";
+NOTEX[kl]="Afsluttet#Opdaterede matrixer findes under arbejdsstyrken";
+NOTE="The age of retirement was increased from 64 years to 65 years per January 1st 2017. Hence, from 2017 the labour force includes persons of 18-65 years of age. For 2010-2016 the labour force includes persons of 18-64 years of age.";
+NOTE[da]="Anm.: Pensionsalderen blev forhøjet fra 64 år til 65 år pr. 1. januar 2017. Fra 2017 omfatter arbejdsstyrken derfor de 18-65-årige. For 2010-2016 omfatter arbejdsstyrken de 18-64 årige.";
+NOTE[kl]="Malugiuk: 2017-imi januaarip aallaqqaataani 65-inik ukioqalereersimasut utoqqalinersisalerput siornatigut 64-inik ukiullit utoqqalinersiaqartalereertaraluartut. 2017 aallarnerfigalugu 18-65-inik ukiullit sulisinnaasut pineqarput. 2010-2016-imi "
+"18-64-inik ukiullit sulisinnaasut pineqartut.";
+DATA=
+26482 24426 2056 9502 35984 26820 24302 2518 9498 36318 26994 24339 2655 9438 36432 27021 24296 2725 9489 36510 26764 24010 2754 9539 36303 26844 24406 2438 9400 36244 26893 24922 1971 9153 36046 27271 25413 1858 9313 36584 27231 25649 1582 9289 36520 27142 25755 1387 9421 36563 26978 25547 1431 9785 36763 
+15716 13952 1764 7715 23431 15715 13545 2170 7545 23260 15558 13294 2264 7441 22999 15312 13009 2303 7431 22743 14858 12556 2302 7402 22260 14680 12634 2046 7244 21924 14409 12728 1681 6941 21350 14251 12686 1565 7048 21299 14031 12706 1325 6971 21002 13734 12576 1158 7044 20778 13352 12173 1179 7217 20569 
+870 855 15 385 1255 951 925 26 465 1416 1019 986 33 506 1525 1084 1052 32 548 1632 1141 1103 38 605 1746 1195 1154 41 604 1799 1281 1250 31 629 1910 1378 1345 33 638 2016 1406 1376 30 606 2012 1448 1421 27 623 2071 1437 1412 25 679 2116 
+5563 5338 225 962 6525 5639 5376 263 1023 6662 5804 5517 287 1017 6821 5951 5635 316 1048 6999 6034 5700 334 1078 7112 6146 5859 287 1061 7207 6282 6075 207 1083 7365 6478 6264 214 1114 7592 6535 6350 185 1169 7704 6579 6417 162 1204 7783 6604 6425 179 1257 7861 
+145 139 6 34 179 148 139 9 40 188 161 150 11 39 200 152 138 14 42 194 164 151 13 39 203 165 154 11 35 200 174 163 11 36 210 177 168 9 39 216 172 165 7 50 222 174 168 6 48 222 176 169 7 49 225 
+587 577 10 75 662 612 594 18 88 700 639 620 19 90 729 704 686 18 97 801 725 703 22 96 821 762 743 19 97 859 805 791 14 98 903 836 821 15 102 938 868 855 13 105 973 878 867 11 106 984 882 867 15 109 991 
+2197 2111 86 336 2533 2200 2101 99 360 2560 2269 2169 100 315 2584 2279 2161 118 317 2596 2278 2154 124 335 2613 2278 2175 103 326 2604 2274 2208 66 316 2590 2314 2251 63 312 2626 2287 2235 52 335 2622 2297 2252 45 336 2633 2273 2225 48 381 2654 
+206 188 18 68 274 208 184 24 90 298 230 201 29 81 311 221 195 26 90 311 231 203 28 82 313 239 217 22 83 322 249 233 16 84 333 260 238 22 81 341 256 240 16 87 343 255 236 19 89 344 252 231 21 92 344 
+1334 1290 44 240 1574 1334 1282 52 239 1573 1354 1290 64 261 1615 1436 1367 69 268 1704 1465 1396 69 280 1745 1476 1412 64 283 1759 1486 1443 43 311 1797 1541 1494 47 321 1862 1560 1519 41 325 1885 1567 1533 34 335 1902 1574 1537 37 340 1914 
+1023 963 60 204 1227 1067 1006 61 201 1268 1077 1013 64 225 1302 1077 1007 70 228 1305 1087 1011 76 240 1327 1143 1076 67 230 1373 1211 1155 56 231 1442 1257 1200 57 254 1511 1294 1239 55 262 1556 1308 1262 46 286 1594 1346 1297 49 280 1626 
+70 69 1 6 76 69 69 0 6 75 74 73 1 6 80 82 81 1 6 88 84 82 2 6 90 85 83 2 5 90 82 81 1 8 90 94 93 1 4 98 98 97 1 5 103 99 98 1 5 104 101 99 2 6 107 
+1087 1052 35 166 1253 1079 1042 37 166 1245 1086 1038 48 167 1253 1088 1039 49 175 1263 1075 1022 53 176 1251 1073 1033 40 182 1255 1083 1051 32 190 1273 1118 1092 26 189 1307 1132 1108 24 188 1320 1133 1111 22 199 1332 1150 1123 27 224 1374 
+3246 3229 17 274 3520 3437 3414 23 298 3735 3528 3506 22 306 3834 3587 3561 26 286 3873 3657 3630 27 277 3934 3750 3726 24 309 4059 3838 3818 20 310 4148 4046 4026 20 324 4370 4127 4109 18 355 4482 4247 4229 18 352 4599 4437 4414 23 406 4843; 

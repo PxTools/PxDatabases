@@ -1,0 +1,81 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20180101 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIXISBHROS";
+COPYRIGHT=YES;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries and Catch";
+DESCRIPTION="Catched of Polar bears and walrus by districts, Greenland <em>[FIEISBHROS]</em>";
+TITLE="Catched of Polar bears and walrus, Greenland by species, area and time";
+CONTENTS="Catched of Polar bears and walrus, Greenland";
+STUB="species","area";
+HEADING="time";
+VALUES("species")="walrus","Polar bear";
+VALUES("area")="Qaanaaq","Upernavik","Uummannaq","Disko bay","Kangaatsiaq","Sisimiut","Ittoqqortoormiit","Tasiilaq","Other places";
+VALUES("time")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("species")=YES;
+ELIMINATION("area")=YES;
+LAST-UPDATED="20243108 09:00";
+UNITS="Pieces";
+CONTACT="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+NOTE="Disko bay includes Ilulissat, Qeqertarsuaq, Qasigiannguit and Aasiaat.#2023 is priliminary figures.";
+NEXT-UPDATE="20250831 09:00";
+UPDATE-FREQUENCY="Annually";
+SUBJECT-AREA[da]="Fiskeri og fangst";
+DESCRIPTION[da]="Fangst af isbjørne og hvalros fordelt i distrikter, Grønland <em>[FIDISBHROS]</em>";
+TITLE[da]="Fangst af isbjørne og hvalros, Grønland efter art, distrikt og tid";
+CONTENTS[da]="Fangst af isbjørne og hvalros, Grønland";
+STUB[da]="art","distrikt";
+HEADING[da]="tid";
+VALUES[da]("art")="Hvalros","Isbjørn";
+VALUES[da]("distrikt")="Qaanaaq","Upernavik","Uummannaq","Disko bugt","Kangaatsiaq","Sisimiut","Ittoqqortoormiit","Tasiilaq","Øvrige steder";
+VALUES[da]("tid")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION[da]("art")=YES;
+ELIMINATION[da]("distrikt")=YES;
+LAST-UPDATED[da]="20243108 09:00";
+UNITS[da]="Styk";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+SOURCE[da]="Grønlands Statistik";
+NOTE[da]="Disko Bugt omfatter byerne Ilulissat, Qeqertarsuaq, Aasiaat og Qasigiannguit.#2023 er foreløbig tal.";
+SUBJECT-AREA[kl]="Aalisarneq piniarnerlu";
+DESCRIPTION[kl]="Nannut aarrillu pisat sumiissutsinut agguarlugit, Kalaallit nunaat <em>[FINISBHROS]</em>";
+TITLE[kl]="Nannut aarrillu pisat, Kalaallit nunaat kingorna suussusaa, sumiissusaa aamma piffissaq";
+CONTENTS[kl]="Nannut aarrillu pisat, Kalaallit nunaat";
+STUB[kl]="suussusaa","sumiissusaa";
+HEADING[kl]="piffissaq";
+VALUES[kl]("suussusaa")="Aaveq","Nanoq";
+VALUES[kl]("sumiissusaa")="Qaanaaq","Uperenavik","Uummannaq","Qeqertarsuup tunua","Kangaatsiaq","Sisimiut","Ittoqqortoormiit","Tasiilaq","Sumiiffiit allat";
+VALUES[kl]("piffissaq")="2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION[kl]("suussusaa")=YES;
+ELIMINATION[kl]("sumiissusaa")=YES;
+LAST-UPDATED[kl]="20243107 09:00";
+UNITS[kl]="Qassiuneri";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE[kl]="Qeqertarsuup tunuatut pineqarput Ilulissat, Qeqertarsuaq, Aasiaat Qasigiannguillu.#2023-imi kisitsisit kisitsisaagallartuupput.";
+DATA=
+90	78	67	67	54	86	60	42	76	65	67	74	74	73	34	46	21	48	55	57
+9	59	5	13	12	4	4	9	7	8	9	8	8	8	12	15	18	7	10	10
+10	23	4	0	0	7	1	3	2	4	10	2	0	0	0	7	5	1	1	2
+17	11	3	5	3	7	2	7	0	3	5	5	7	1	3	4	6	6	7	8
+20	6	4	13	2	2	8	4	6	7	8	11	9	9	7	7	15	19	20	18
+29	55	49	25	22	15	23	22	15	21	16	24	20	16	28	26	26	26	20	26
+3	2	1	10	9	3	6	2	4	6	5	3	7	2	10	6	8	8	6	15
+1	14	4	0	0	1	1	3	0	2	3	1	2	1	0	1	0	4	0	2
+15	4	8	0	1	0	2	5	4	4	4	3	8	1	4	2	5	8	5	11
+29	50	16	23	19	20	14	24	24	23	23	24	19	20	31	17	34	18	31	"..."
+85	87	51	45	46	42	44	45	41	37	38	42	30	38	43	50	41	44	48	"..."
+8	15	1	2	0	4	1	0	0	5	8	3	3	1	3	5	3	4	3	"..."
+16	6	3	2	6	4	4	1	3	1	4	7	0	12	5	2	0	12	6	"..."
+13	1	2	4	1	3	2	2	4	1	2	2	1	1	3	7	2	4	2	"..."
+14	1	2	2	1	0	0	0	2	1	1	0	0	3	0	1	0	2	0	"..."
+33	29	26	30	35	30	30	35	36	30	36	35	35	35	35	35	35	27	40	"..."
+19	28	16	21	24	14	2	18	24	25	25	25	25	26	25	21	34	20	24	"..."
+8	6	2	1	7	7	3	6	4	4	6	4	7	6	4	4	4	6	5	"..."
+;

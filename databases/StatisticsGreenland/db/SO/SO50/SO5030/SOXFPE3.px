@@ -1,0 +1,91 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150626 09:00";
+NEXT-UPDATE="20250425 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXFPE3";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social benefits";
+SUBJECT-AREA[da]="Sociale ydelser";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="In- and outflux of early retirement pensioners by time and age <em>[SOEFPE3]</em>";
+DESCRIPTION[da]="Til- og afgang af førtidspensionister fordelt på tid og aldergruppe <em>[SODFPE3]</em>";
+DESCRIPTION[kl]="Siusinaarluni soraarnerussutisiallit amerleriarnerisa ikileriarnerisalu agguaanneri, piffissamut utoqqaassuseqatiginnermullu <em>[SONFPE3]</em>";
+TITLE="In- and outflux of early retirement pensioners by age group, movement and time";
+TITLE[da]="Til- og afgang af førtidspensionister efter aldersgruppe, bevægelse og tid";
+TITLE[kl]="Siusinaarluni soraarnerussutisiallit amerleriarnerisa ikileriarnerisalu : ukiut immikkoortiterneri, ingerlaarneq , piffissaq";
+CONTENTS="In- and outflux of early retirement pensioners";
+CONTENTS[da]="Til- og afgang af førtidspensionister";
+CONTENTS[kl]="Siusinaarluni soraarnerussutisiallit amerleriarnerisa ikileriarnerisalu";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit amerlassusii";
+STUB="age group","movement";
+STUB[da]="aldersgruppe","bevægelse";
+STUB[kl]="ukiut immikkoortiterneri","ingerlaarneq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("age group")="Total","18-24 years","25-34 years","35-44 years","45-54 years","55 + years";
+VALUES[da]("aldersgruppe")="I alt","18-24 år","25-34 år","35-44 år","45-54 år","55 + år";
+VALUES[kl]("ukiut immikkoortiterneri")="Katillugit","18-24-nik ukiullit","25-34-nik ukiullit",
+"35-44-nik ukiullit","45-54-nik ukiullit","55 +";
+VALUES("movement")="Influx","Outflux";
+VALUES[da]("bevægelse")="Tilgang","Afgang";
+VALUES[kl]("ingerlaarneq")="Amerliartorneq","Ikiliartorneq";
+VALUES("time")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[kl]("piffissaq")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+TIMEVAL("time")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+CODES("age group")="00. I alt","01. 18-24","02. 25-34","03. 35-44","04. 45-54","11. y_70";
+CODES[da]("aldersgruppe")="00. I alt","01. 18-24","02. 25-34","03. 35-44","04. 45-54","11. y_70";
+CODES[kl]("ukiut immikkoortiterneri")="00. I alt","01. 18-24","02. 25-34","03. 35-44","04. 45-54",
+"11. y_70";
+CODES("movement")="3. T","2. A";
+CODES[da]("bevægelse")="3. T","2. A";
+CODES[kl]("ingerlaarneq")="3. T","2. A";
+CODES("time")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("tid")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+ELIMINATION("age group")="Total";
+ELIMINATION[da]("aldersgruppe")="I alt";
+ELIMINATION[kl]("ukiut immikkoortiterneri")="Katillugit";
+LAST-UPDATED="20240425 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="When the number of people is 5 or less in the rows, they appear as .. (2 dots) for reasons of confidentiality.";
+NOTE[da]="Når antallet af personer er 5 eller mindre i rækkerne, vises de som .. (2 prikker) af diskretionshensyn.";
+NOTE[kl]="Ukiut immikkoortiterneri malillugit inuit amerlassussaat tallimaappata tallimaniilluunniit ikinneruppata naqitani tulleriiani ’Katillugit’ aammalu ’Ilisimaneqanngilaq’-mik allaqqasuni toornernik marlunnik (..) takutinneqassapput, tatiginartunik "
+"isumannaarsaaneq tunngavingalugu.";
+DATA=
+213 172 164 149 159 184 333 268 228 244 211 273
+250 244 218 257 373 141 227 264 218 124 274 279
+17 18 13 12 15 29 27 31 12 15 19 12
+2 1 1 1 3 3 4 5 3 1 0 4
+16 6 9 5 17 12 16 26 15 10 9 23
+5 9 8 7 8 7 8 4 5 5 5 8
+27 10 10 12 7 11 16 13 15 13 9 24
+9 9 7 11 21 9 6 9 4 4 10 14
+73 54 55 40 45 33 74 65 51 44 27 39
+35 30 38 33 93 34 29 34 25 27 29 20
+80 84 77 80 75 99 200 133 135 162 147 175
+199 195 164 205 248 88 180 212 181 87 230 233;

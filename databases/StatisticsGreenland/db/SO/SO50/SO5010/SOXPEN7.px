@@ -1,0 +1,110 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20200629 09:00";
+NEXT-UPDATE="20250425 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXPEN7";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Pension recipients and payouts in december, by pension type and family type <em>[SOEPEN7]</em>";
+DESCRIPTION[da]="Pensionsmodtagere og udbetalte beløb i december, efter pensionstype og familietype <em>[SODPEN7]</em>";
+DESCRIPTION[kl]="Decembarimi soraarnerussutisiallit aamma soraarnerussutisianut akililutit, soraarnerussutisianut aamma ilaqutariit qanoq isikkoqarnerinut immikkoortillugit <em>[SONPEN7]</em>";
+TITLE="Pension recipients and payouts in december, by pension type and family type by pension type, family type, unit and time";
+TITLE[da]="Pensionsmodtagere og udbetalte beløb i december, efter pensionstype og familietype efter pensionstype, familietype, enhed og tid";
+TITLE[kl]="Decembarimi soraarnerussutisiallit aamma soraarnerussutisianut akililutit, soraarnerussutisianut aamma ilaqutariit qanoq isikkoqarnerinut immikkoortillugit : soraarnerussutisiat suuneri, ilaqutariit qanoq isikkoqarneri, uuttuut , piffissaq";
+CONTENTS="Pension recipients and payouts in december, by pension type and family type";
+CONTENTS[da]="Pensionsmodtagere og udbetalte beløb i december, efter pensionstype og familietype";
+CONTENTS[kl]="Decembarimi soraarnerussutisiallit aamma soraarnerussutisianut akililutit, soraarnerussutisianut aamma ilaqutariit qanoq isikkoqarnerinut immikkoortillugit";
+UNITS="Number/Amount (1000 DKK)";
+UNITS[da]="Antal/Beløb";
+UNITS[kl]="Amerlassusaat/Aningaasat amerlassusaat";
+STUB="pension type","family type","unit";
+STUB[da]="pensionstype","familietype","enhed";
+STUB[kl]="soraarnerussutisiat suuneri","ilaqutariit qanoq isikkoqarneri","uuttuut";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("pension type")="Total","Age pension","Early retirement pension";
+VALUES[da]("pensionstype")="I alt","Alderspension","Førtidspension";
+VALUES[kl]("soraarnerussutisiat suuneri")="Katillugit","Utoqqalinermi soraarnerussutisiat",
+"Siusinaartumik soraarnerussutisiallit";
+VALUES("family type")="Total","Single","Couple","Institution";
+VALUES[da]("familietype")="I alt","Enlig","Par","Institution";
+VALUES[kl]("ilaqutariit qanoq isikkoqarneri")="Katillugit","Kisimiittoq","Aappariit","Atorfeqarfik";
+VALUES("unit")="Number","Amount (1.000 DKK)";
+VALUES[da]("enhed")="Antal","Beløb (1.000 DKK)";
+VALUES[kl]("uuttuut")="Amerlassusaat","Aningaasat amerlassusaat (1.000 DKK)";
+VALUES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+VALUES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES("pension type")="I alt","2. A","3. F";
+CODES[da]("pensionstype")="I alt","2. A","3. F";
+CODES[kl]("soraarnerussutisiat suuneri")="I alt","2. A","3. F";
+CODES("family type")="I alt","Enlig","Par","Inst";
+CODES[da]("familietype")="I alt","Enlig","Par","Inst";
+CODES[kl]("ilaqutariit qanoq isikkoqarneri")="I alt","Enlig","Par","Inst";
+CODES("unit")="Antal","Belob";
+CODES[da]("enhed")="Antal","Belob";
+CODES[kl]("uuttuut")="Antal","Belob";
+CODES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+CODES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+CODES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+ELIMINATION("pension type")="Total";
+ELIMINATION[da]("pensionstype")="I alt";
+ELIMINATION[kl]("soraarnerussutisiat suuneri")="Katillugit";
+ELIMINATION("family type")="Total";
+ELIMINATION[da]("familietype")="I alt";
+ELIMINATION[kl]("ilaqutariit qanoq isikkoqarneri")="Katillugit";
+LAST-UPDATED="20240425 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+6313 6314 6288 6236 6215 6233 6069 6159 6202 6343 6323 6322 6468
+46898 47302 49509 49055 50097 52325 50984 51887 53107 56347 57934 62042 65708
+3326 3331 3332 3308 3285 3357 3266 3294 3323 3388 3428 3420 3511
+30125 30198 31874 31796 32405 33409 32698 32980 33823 35557 36861 39133 41570
+2483 2497 2459 2414 2414 2379 2286 2369 2382 2433 2386 2385 2445
+15796 16161 16615 16204 16603 17835 17154 17806 18171 19602 19880 21548 22741
+504 486 497 514 516 497 517 496 497 522 509 517 512
+977 942 1020 1056 1090 1081 1132 1101 1112 1188 1193 1361 1398
+3585 3623 3669 3671 3758 3990 3783 3767 3806 3937 3797 3859 4011
+28508 28903 30655 30575 32066 34723 32920 32945 33708 36460 36073 39626 42305
+1798 1808 1854 1858 1893 1979 1878 1874 1890 1949 1904 1912 1982
+17816 17894 19236 19314 20127 21088 20197 20159 20621 22112 22103 23813 25362
+1437 1477 1456 1440 1486 1645 1529 1530 1549 1597 1521 1572 1648
+9972 10313 10642 10454 11098 12795 11854 11936 12221 13412 13048 14746 15829
+350 338 359 373 379 366 376 363 367 391 372 375 381
+720 696 777 807 841 840 870 851 865 936 922 1067 1114
+2728 2691 2619 2565 2457 2243 2286 2392 2396 2406 2526 2463 2457
+18390 18399 18854 18480 18031 17602 18063 18942 19399 19887 21860 22416 23403
+1528 1523 1478 1450 1392 1378 1388 1420 1433 1439 1524 1508 1529
+12309 12304 12638 12481 12277 12321 12502 12822 13201 13445 14758 15320 16208
+1046 1020 1003 974 928 734 757 839 833 836 865 813 797
+5825 5848 5973 5750 5505 5040 5300 5870 5951 6190 6832 6802 6912
+154 148 138 141 137 131 141 133 130 131 137 142 131
+257 247 244 249 249 241 262 250 247 252 271 294 283;

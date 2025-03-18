@@ -1,0 +1,128 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20110203 09:00";
+NEXT-UPDATE="20250106 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOX004";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social Services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Pisortanit ikiorsiissutit";
+COPYRIGHT=YES;
+DESCRIPTION="Public benefits by time, municipality, type, age and unit <em>[SOE004]</em>";
+DESCRIPTION[da]="Offentlig hjælp efter tid, kommune, ydelser, alder og enhed <em>[SOD004]</em>";
+DESCRIPTION[kl]="Pisortanit ikiorsiissutit piffissaq, kommuuni, ikiorsiissut, ukioqqortussuseq aamma uuttuut <em>[SON004]</em>";
+TITLE="Public benefits by municipality, unit, type and time";
+TITLE[da]="Offentlig hjælp efter kommune, enhed, ydelse og tid";
+TITLE[kl]="Pisortanit ikiorsiissutit : kommuuni, uuttuut, ikiorsiissut , piffissaq";
+CONTENTS="Public benefits";
+CONTENTS[da]="Offentlig hjælp";
+CONTENTS[kl]="Pisortanit ikiorsiissutit";
+UNITS="Number of recipients and amount (1000 DKK)";
+UNITS[da]="Antal/beløb (1000 DKK)";
+UNITS[kl]="Amerlassusii/aningaasat amerlassusii (1000 DKK)";
+STUB="municipality","unit","type";
+STUB[da]="kommune","enhed","ydelse";
+STUB[kl]="kommuuni","uuttuut","ikiorsiissut";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("municipality")="Total","Kommune Kujalleq","Kommuneqarfik Sermersooq","Qeqqata Kommunia",
+"Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[da]("kommune")="I alt","Kommune Kujalleq","Kommuneqarfik Sermersooq","Qeqqata Kommunia",
+"Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[kl]("kommuuni")="Katillugit","Kommune Kujalleq","Kommuneqarfik Sermersooq",
+"Qeqqata Kommunia","Kommune Qeqertalik","Avannaata Kommunia";
+VALUES("unit")="Number","Amount (1000 DKK)";
+VALUES[da]("enhed")="Antal","Beløb (1000 DKK)";
+VALUES[kl]("uuttuut")="Amerlassusii","Aningaasat amerlassusii (1000 DKK)";
+VALUES("type")="Public benefits total","Public benefits (taxable) total",
+"Public benefits (non-taxable) total";
+VALUES[da]("ydelse")="Offentlig hjælp i alt","Offentlig hjælp, skattepligtig i alt",
+"Offentlig hjælp, ikke skattepligtig i alt";
+VALUES[kl]("ikiorsiissut")="Pisortanit ikiorsiissutit katillugit",
+"Pisortanit ikiorsiissutit, akileraarusigassat katillugit",
+"Pisortanit ikiorsiissutit, akileraarusigassaanngitsut katillugit";
+VALUES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+VALUES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+CODES("municipality")="000","955","956","957","959","960";
+CODES[da]("kommune")="000","955","956","957","959","960";
+CODES[kl]("kommuuni")="000","955","956","957","959","960";
+CODES("unit")="Antal","Belob";
+CODES[da]("enhed")="Antal","Belob";
+CODES[kl]("uuttuut")="Antal","Belob";
+CODES("type")="10","20","30";
+CODES[da]("ydelse")="10","20","30";
+CODES[kl]("ikiorsiissut")="10","20","30";
+CODES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+CODES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+ELIMINATION("municipality")="Total";
+ELIMINATION[da]("kommune")="I alt";
+ELIMINATION[kl]("kommuuni")="Katillugit";
+ELIMINATION("type")="Public benefits total";
+ELIMINATION[da]("ydelse")="Offentlig hjælp i alt";
+ELIMINATION[kl]("ikiorsiissut")="Pisortanit ikiorsiissutit katillugit";
+LAST-UPDATED="20240306 09:00";
+CONTACT="Anders Blaabjerg. abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg. abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg. abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+7040 7477 7833 7971 8004 7887 7111 6063 5787 5051 4733 4296 3749 3323 3022
+6677 7140 7587 7741 7779 7665 6914 5865 5542 4895 4367 4013 3379 3070 2802
+1358 1375 1038 1045 1288 1275 1085 1067 1091 803 1066 1196 1188 953 729
+104309 116048 128328 139778 151775 162365 132564 109457 103711 87465 74958 73145 62464 53040 48781
+96020 108435 123782 135386 144878 154862 126200 103589 98115 83841 69143 63180 54663 48107 44985
+8289 7612 4546 4391 6897 7503 6364 5868 5596 3624 5815 9965 7800 4933 3796
+1202 1230 1222 1217 1203 1202 1120 1046 1035 920 855 863 729 721 662
+1146 1188 1174 1175 1148 1160 1087 996 984 896 824 836 702 693 644
+177 127 155 142 177 147 178 226 259 184 157 140 113 109 101
+15133 18209 17381 19303 20576 21076 20310 17822 17514 14894 13759 13560 12691 11531 10194
+14360 17518 16982 18731 19363 20075 18912 16297 15675 14050 13018 12894 12037 10991 9357
+773 692 399 572 1213 1001 1397 1525 1839 845 741 666 654 540 837
+2337 2556 2602 2734 2803 2866 2483 2174 2092 1829 1607 1401 1224 1045 945
+2233 2459 2527 2657 2747 2804 2426 2125 2014 1778 1452 1339 1125 995 885
+497 502 439 444 528 509 407 454 461 325 458 323 403 293 241
+45737 50389 56626 62469 69758 74919 54983 49521 45969 38613 29003 28922 24434 19953 18905
+43176 48468 54717 60909 67682 72446 53441 47503 44068 37323 27061 27507 23127 18888 18222
+2562 1921 1909 1560 2077 2473 1541 2018 1901 1290 1942 1415 1307 1065 684
+975 1056 1060 1059 1093 1082 1043 883 841 820 842 741 674 609 501
+879 964 1038 1035 1074 1071 1033 862 820 802 752 652 562 552 467
+266 322 59 86 104 55 51 71 75 56 170 417 334 247 156
+13140 15341 15502 17724 19286 21283 19943 15484 14090 13092 13574 13242 11234 10504 8854
+11530 13842 15420 17311 18808 21013 19551 14973 13775 12976 12201 8097 7690 8676 7740
+1610 1499 82 412 478 270 392 511 315 116 1373 5145 3543 1827 1114
+1049 1092 1146 1146 1077 974 951 783 724 642 683 615 510 462 454
+1012 1055 1125 1133 1064 950 932 771 711 636 659 580 469 431 438
+145 136 82 63 71 82 78 58 43 36 66 101 122 106 40
+13859 13591 15243 15156 14370 14790 13595 11151 11136 9180 10035 8725 7128 5857 6339
+12511 12130 14756 14743 13855 14247 13035 10553 10784 8830 9422 7950 6432 5251 6086
+1348 1461 487 413 515 543 560 598 351 351 613 775 696 606 254
+1477 1543 1803 1815 1828 1763 1514 1177 1095 840 746 676 612 486 460
+1407 1474 1723 1741 1746 1680 1436 1111 1013 783 680 606 521 399 368
+273 288 303 310 408 482 371 258 253 202 215 215 216 198 191
+16439 18518 23576 25126 27785 30297 23734 15479 15002 11684 8587 8696 6977 5196 4488
+14443 16479 21907 23692 25170 27081 21261 14263 13812 10663 7441 6732 5377 4301 3580
+1995 2039 1669 1434 2615 3216 2473 1216 1189 1022 1146 1964 1600 895 908;

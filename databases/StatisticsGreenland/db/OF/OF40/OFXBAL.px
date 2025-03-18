@@ -1,0 +1,157 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20200529 09:00";
+NEXT-UPDATE="20220527 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="OFXBAL";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="OF";
+SUBJECT-AREA="Public finances";
+SUBJECT-AREA[da]="Offentlige Finanser";
+SUBJECT-AREA[kl]="Pisortat aningaasaataat";
+COPYRIGHT=YES;
+DESCRIPTION="Municipalities financial status (DISCONTINUED) (2010-2020) <em>[OFEBAL]</em>";
+DESCRIPTION[da]="Kommunernes finansielle status (AFSLUTTET) (2010-2020) <em>[OFDBAL]</em>";
+DESCRIPTION[kl]="Kommuninut kisitsisit naatsorsuusiat (NUTARTIGASSAANNGITSOQ) (2010-2020) <em>[OFNBAL]</em>";
+TITLE="Municipalities financial status by account and municipality";
+TITLE[da]="Kommunernes finansielle status efter konto og kommune";
+TITLE[kl]="Kommuninut kisitsisit naatsorsuusiat efter konto aamma kommunit";
+CONTENTS="Municipalities financial status";
+CONTENTS[da]="Kommunernes finansielle status";
+CONTENTS[kl]="Kommuninut kisitsisit naatsorsuusiat";
+UNITS="1,000 DKK";
+UNITS[da]="1.000 DKK";
+UNITS[kl]="1.000 DKK";
+STUB="account","municipality";
+STUB[da]="konto","kommune";
+STUB[kl]="konto","kommunit";
+HEADING="year";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("account")="90: Likvider","91: Kortfristede tilgodehavender","92: Bundne midler",
+"93: Langfristede tilgodehavender","94: Uomsættelige aktiver","96: Kortfristet gæld",
+"97: Langfristet gæld","98: Regulerende passiver","99: Kapitalkonto";
+VALUES[da]("konto")="90: Likvider","91: Kortfristede tilgodehavender","92: Bundne midler",
+"93: Langfristede tilgodehavender","94: Uomsættelige aktiver","96: Kortfristet gæld",
+"97: Langfristet gæld","98: Regulerende passiver","99: Kapitalkonto";
+VALUES[kl]("konto")="90: Aningaasat","91: Piffissami sivikitsumi akiligassalinnit pisassarisat",
+"92: Aningaasat uninngasuutit","93: Piffissami sivisuumi akiligassalinnit pisassarisat",
+"94: Pigisat kaaviiaartinneqarsinnaanngitsut",
+"96: Taarsigassat piffissaq sivikitsoq atorlugu akiligassat",
+"97: Taarsigassat piffissaq sivisooq atorlugu taarsigassat","98: Akiitsut naqiissutit",
+"99: Aningaasaatinik uninngasuusivik";
+VALUES("municipality")="Total","Kujalleq","Sermersooq","Qeqqata","Qaasuitsup","Qeqertalik",
+"Avannaata";
+VALUES[da]("kommune")="I alt","Kujalleq","Sermersooq","Qeqqata","Qaasuitsup","Qeqertalik",
+"Avannaata";
+VALUES[kl]("kommunit")="Katillugit","Kujalleq","Sermersooq","Qeqqata","Qaasuitsup","Qeqertalik",
+"Avannaata";
+VALUES("year")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL("year")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[da]("tid")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020";
+CODES("account")="90","91","92","93","94","96","97","98","99";
+CODES[da]("konto")="90","91","92","93","94","96","97","98","99";
+CODES[kl]("konto")="90","91","92","93","94","96","97","98","99";
+CODES("municipality")="0","1","2","3","4","5","6";
+CODES[da]("kommune")="0","1","2","3","4","5","6";
+CODES[kl]("kommunit")="0","1","2","3","4","5","6";
+CODES("year")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+ELIMINATION("municipality")="Total";
+ELIMINATION[da]("kommune")="I alt";
+ELIMINATION[kl]("kommunit")="Katillugit";
+LAST-UPDATED="20210527 09:00";
+CONTACT="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[da]="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[kl]="Lene Baunbæk, LEBA@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Kommunernes regnskaber opstilles efter den autoriserede kontoplan. Kommunernes regnskaber kan afvige fra den autoriserede kontoplan. I disse tilfælde ændres konteringen til at følge den autoriserede kontoplan efter et skøn i Grønlands Statistik. "
+"Kommuneqarfik Sermersooq indgår ikke i tabellen fra og med 2018, og Qeqqata Kommune fra og med 2019, da disse kommuner anvender den nye kontoplan.";
+NOTE[da]="Kommunernes regnskaber opstilles efter den autoriserede kontoplan. Kommunernes regnskaber kan afvige fra den autoriserede kontoplan. I disse tilfælde ændres konteringen til at følge den autoriserede kontoplan efter et skøn i Grønlands Statistik. 
+"
+"Kommuneqarfik Sermersooq indgår ikke i tabellen fra og med 2018, og Qeqqata Kommune fra og med 2019, da disse kommuner anvender den nye kontoplan.";
+NOTE[kl]="Kommunernes regnskaber opstilles efter den autoriserede kontoplan. Kommunernes regnskaber kan afvige fra den autoriserede kontoplan. I disse tilfælde ændres konteringen til at følge den autoriserede kontoplan efter et skøn i Grønlands Statistik. 
+"
+"Kommuneqarfik Sermersooq indgår ikke i tabellen fra og med 2018, og Qeqqata Kommune fra og med 2019, da disse kommuner anvender den nye kontoplan.";
+NOTEX="<em>DISCONTINUED TIMESERIES</em>";
+NOTEX[da]="<em>AFSLUTTET TABEL</em>";
+NOTEX[kl]="<em>NUTARTIGASSAANNGITSOQ</em>";
+DATA=
+263825 241080 302354 171166 153536 298551 351544 236396 "..." "..." "..."
+46225 20260 28647 20341 15929 52777 34810 35075 24743 31179 23624
+118155 97928 179925 58097 40355 101065 93774 41646 "..." "..." "..."
+84767 72148 26734 12941 42955 28545 96982 158011 255781 "..." "..."
+14678 50744 67048 79787 54297 116165 125978 1664 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 65071 83611 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 58567 71237 "..."
+509428 551780 557488 546212 573765 675515 731328 802933 "..." "..." "..."
+64488 69347 80696 82474 84932 96751 116467 117856 118831 121181 98841
+208558 223419 225856 221872 240049 296685 292880 339266 "..." "..." "..."
+58099 65061 66026 66119 63623 81920 112837 128977 121241 "..." "..."
+178283 193952 184909 175747 185160 200159 209144 216834 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 111807 125389 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 138278 135916 "..."
+"-" 12978 13064 40001 40001 40058 40058 "-" "..." "..." "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 2308 2308 1598
+"-" 12978 13064 40001 40001 40058 40058 "-" "..." "..." "..."
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "..." "..."
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 482 -1055 "..."
+276413 335121 372743 372001 444864 465882 480738 526976 "..." "..." "..."
+18120 18174 18462 17891 18024 18136 19094 19589 20233 20200 21321
+200219 254904 259302 250756 310508 320793 326674 339222 "..." "..." "..."
+31159 33914 65263 74547 86713 98352 106103 105528 105461 "..." "..."
+26915 28129 29717 28808 29618 28601 28868 62637 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 6033 10487 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 56938 62243 "..."
+36153 172924 308670 136246 352459 236858 267710 133044 "..." "..." "..."
+-50152 -2122 -10665 -17981 17808 17546 16416 23932 56755 32453 57895
+-4570 75158 178067 37773 205686 110555 160161 50748 "..." "..." "..."
+35853 46615 53151 55778 62344 51987 29290 45560 34281 "..." "..."
+55021 53274 88117 60676 66623 56769 61844 12805 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -30376 -31204 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 62371 99501 "..."
+-96316 -170783 -212852 -162570 -263646 -308245 -344291 -110386 "..." "..." "..."
+-54336 -63668 -55399 -50143 -63954 -69550 -61124 -29889 -58131 -42548 -76281
+-534 -66950 -76230 -29165 -94747 -98160 -109873 -24606 "..." "..." "..."
+3351 -9333 -907 4077 -17845 -12251 -39359 -34745 -31334 "..." "..."
+-44796 -30832 -80316 -87339 -87099 -128285 -133934 -21146 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -9509 -9938 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -123952 -151212 "..."
+-196024 -199073 -178864 -171332 -132789 -161499 -86133 -121040 "..." "..." "..."
+-16408 -14712 -12579 -10681 -8520 -45725 -42224 -85533 -74043 -63809 -45699
+-24888 -20653 -19471 -18232 -16933 -15571 -14143 -12646 "..." "..." "..."
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "..." "..."
+-154728 -163708 -146813 -142419 -107336 -100203 -29766 -22861 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" 10 "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -8952 -19800 "..."
+8474 -21130 -139884 60276 -48134 -64925 -58844 -72779 "..." "..." "..."
+-14499 -15470 -11769 -11322 -11058 -27810 -23968 -32786 -28919 -29128 -11851
+57819 29468 -71441 113801 -1271 -816 -1024 -1024 "..." "..." "..."
+-25115 -26224 -48436 -41241 -34525 -35807 -32616 -38616 -31048 "..." "..."
+-9731 -8904 -8237 -961 -1280 -492 -1236 -353 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -1382 -1882 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -487 -487 "..."
+-801954 -922897 -1022720 -992001 -1120055 -1182187 -1382111 -1395144 "..." "..." "..."
+6562 -11809 -37394 -30579 -53160 -42125 -59471 -48243 -61776 -71836 -69448
+-554760 -606252 -689073 -674904 -723648 -754609 -788506 -732605 "..." "..." "..."
+-188115 -182180 -161830 -172220 -203264 -212739 -273237 -364715 -454383 "..." "..."
+-65641 -122656 -134423 -114299 -139983 -172714 -260897 -249580 "-" "-" "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -141654 -176463 "..."
+"-" "-" "-" "-" "-" "-" "-" "-" -183246 -196343 "...";

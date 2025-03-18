@@ -1,0 +1,126 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210106 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIX022";
+COPYRIGHT=YES;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries and Catch";
+DESCRIPTION="Biological advice, quota and catch of certain species of fish in Coastal fisheries<em>[FIE022]</em>";
+TITLE="Biological advice, quota and catch of certain species of fish in Coastal fishery by species, area, form and time";
+CONTENTS="Biological advice, quota and catch of certain species of fish in Coastal fishery";
+STUB="species","area","form";
+HEADING="time";
+VALUES("species")="Grenland halibut","Atlantic cod";
+VALUES("area")="Westgreenland","Eastgreenland","West- Eastgreenland","Upernavik","Uummannaq","Disko bugt","Sisimiut-Maniitsoq","Nuuk","Paamiut-Qaqortoq","Qaanaaq";
+VALUES("form")="Advice","Kvota","Catch";
+VALUES("time")="2014","2015","2016","2017","2018","2019","2020","2021","2022";
+ELIMINATION("area")=YES;
+ELIMINATION("form")=YES;
+LAST-UPDATED="20231208 09:00";
+UNITS="pieces";
+CONTACT="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+NOTE="2021 and 2022 are preliminary figures";
+NEXT-UPDATE="20241001 09:00";
+UPDATE-FREQUENCY="Annually";
+SUBJECT-AREA[da]="Fiskeri og fangst";
+DESCRIPTION[da]="Biologisk rådgivning, kvote og fangst af visse fiskearter i kystnære fiskeri <em>[FID022]</em>";
+TITLE[da]="Biologisk rådgivning, kvote og fangst af visse fiskearter i kystnære fiskeri efter art, område, form og tid";
+CONTENTS[da]="Biologisk rådgivning, kvote og fangst af visse fiskearter i kystnære fiskeri";
+STUB[da]="art","område","form";
+HEADING[da]="tid";
+VALUES[da]("art")="Hellefisk","Torsk";
+VALUES[da]("område")="Vestgrønland","Østgrønland","Vest- Østgrønland","Upernavik","Uummannaq","Disko bugt","Sisimiut-Maniitsoq","Nuuk","Paamiut-Qaqortoq","Qaanaaq";
+VALUES[da]("form")="Rådgivning","Kvote","Fangst";
+VALUES[da]("tid")="2014","2015","2016","2017","2018","2019","2020","2021","2022";
+ELIMINATION[da]("område")=YES;
+ELIMINATION[da]("form")=YES;
+LAST-UPDATED[da]="20231208 09:00";
+UNITS[da]="Ton";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+SOURCE[da]="Grønlands Statistik";
+NOTE[da]="2021 og 2022 er foreløbige tal";
+SUBJECT-AREA[kl]="Aalisarneq piniarnerlu";
+DESCRIPTION[kl]="Sinerissamut qanittumi aalisarnermi aalisagartassanik siunnersuutit, pisassat pisallu <em>[FIN022]</em>";
+TITLE[kl]="Sinerissamut qanittumi aalisarnermi aalisagartassanik siunnersuutit, pisassat pisallu kingorna suussusaa, imartaq, formia aamma piffissaq";
+CONTENTS[kl]="Sinerissamut qanittumi aalisarnermi aalisagartassanik siunnersuutit, pisassat pisallu";
+STUB[kl]="suussusaa","imartaq","formia";
+HEADING[kl]="piffissaq";
+VALUES[kl]("suussusaa")="Qalerallit","Saarulliit";
+VALUES[kl]("imartaq")="Kitaa","Tunu","Kitaa- Tunulu","Upernavik","Uummannaq","Disko bugt","Sisimiut-Maniitsoq","Nuuk","Paamiut-Qaqortoq","Qaanaaq";
+VALUES[kl]("formia")="Siunnersuut","Pisassat","Pisat";
+VALUES[kl]("piffissaq")="2014","2015","2016","2017","2018","2019","2020","2021","2022";
+ELIMINATION[kl]("imartaq")=YES;
+ELIMINATION[kl]("formia")=YES;
+LAST-UPDATED[kl]="20231208 09:00";
+UNITS[kl]="Tonsit";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE[kl]="2021 2022-lu kisitsisaagallartuupput";
+DATA=
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+1988	1942	2571	2717	2788	2240	1990	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	247	103
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+6300	6300	6300	6300	6300	5330	5330	5068	5068
+9015	9500	9600	9500	9500	8457	8457	9911	10002
+7038	6256	7311	6784	7558	8965	7574	8481	7738
+6000	6000	6000	6500	6500	5800	5800	5153	5153
+9379	9500	9600	9462	9500	9900	10028	9639	9650
+8184	8227	10364	9040	8836	10154	10685	9610	9006
+8000	8000	8000	6400	6400	5120	5120	4346	4346
+9000	9200	9300	9007	9200	11080	9325	10263	11379
+8998	8320	10276	6178	8193	8635	7519	9031	10359
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	300	300
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	300	300
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	225	169
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	647	398
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	1039	859
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	891	686
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	222	222
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	618	571
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	584	634
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	200	128
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	183	142
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+12063	12379	12379	12379	13952	14500	11000	10566	9560
+18500	27500	34000	36500	36500	27800	29800	21000	21000
+18502	25376	34800	32123	22995	20341	18288	13961	15440
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+;

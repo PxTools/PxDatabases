@@ -1,0 +1,381 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230201 09:39";
+NEXT-UPDATE="20260130 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="UDXUMG5";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="UD";
+SUBJECT-AREA="Education";
+SUBJECT-AREA[da]="Uddannelse";
+SUBJECT-AREA[kl]="Ilinniartitaaneq";
+COPYRIGHT=YES;
+DESCRIPTION="District, 2016-2023 <em>[UDEUMG5]</em>";
+DESCRIPTION[da]="Bopælsdistrikt, 2016-2023 <em>[UDDUMG5]</em>";
+DESCRIPTION[kl]="Najugarisaq, 2016-2023 <em>[UDNUMG5]</em>";
+TITLE="Education and employment for 16-25 year olds by district, gender, status and time";
+TITLE[da]="Uddannelse og beskæftigelse for 16-25 årige efter distrikt, køn, status og tid";
+TITLE[kl]="16-25-nik ukiullit ilinniarnerat suliffeqarnerallu : immikkoortortaqarfik, suiaassuseq, killiffik , piffissaq";
+CONTENTS="Education and employment for 16-25 year olds";
+CONTENTS[da]="Uddannelse og beskæftigelse for 16-25 årige";
+CONTENTS[kl]="16-25-nik ukiullit ilinniarnerat suliffeqarnerallu";
+STUB="district","gender","status";
+STUB[da]="distrikt","køn","status";
+STUB[kl]="immikkoortortaqarfik","suiaassuseq","killiffik";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("district")="Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk","Maniitsoq","Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit","Outside municipalities","Abroad";
+VALUES("gender")="Men","Women";
+VALUES("status")="Continuation school","Upper secondary education","Vocational education and training","Higher education","In employment","NEET","In total";
+VALUES[da]("status")="Efterskole","Gymnasial uddannelse","Erhvervsuddannelse","Videregående uddannelse","I beskæftigelse","Ikke i uddannelse eller beskæftigelse","I alt";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("distrikt")="Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk","Maniitsoq","Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit","Udenfor kommunerne","Udenfor Grønland";
+VALUES[da]("køn")="Mænd","Kvinder";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("immikkoortortaqarfik")="Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk","Maniitsoq","Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit","Kommunit avataanni","Kalaallit Nunaata avataani";
+VALUES[kl]("killiffik")="Efterskoli","Ilinniarnertuunngorniarneq","Inuussutissarsiornermik ilinniarneq","Ingerlariaqqiffiusumik ilinniarneq","Suliffeqarneq","Ilinnianngitsut imaluunniit suliffeqanngitsut","Katillugit";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("suiaassuseq")="Angutit","Arnat";
+UNITS="Persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("district")="01","02","03","05","06","07","08","09","10","11","12","14","15","16","17","18","19","20","99";
+CODES("gender")="1","2";
+CODES("status")="1","2","3","4","5","6","7";
+CODES[da]("status")="1","2","3","4","5","6","7";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("distrikt")="01","02","03","05","06","07","08","09","10","11","12","14","15","16","17","18","19","20","99";
+CODES[da]("køn")="1","2";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("immikkoortortaqarfik")="01","02","03","05","06","07","08","09","10","11","12","14","15","16","17","18","19","20","99";
+CODES[kl]("killiffik")="1","2","3","4","5","6","7";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("suiaassuseq")="1","2";
+VARIABLECODE("district")="distrikt";
+VARIABLECODE("gender")="kon";
+VARIABLECODE("status")="registrering";
+VARIABLECODE[da]("status")="registrering";
+VARIABLECODE("time")="aar";
+VARIABLECODE("antal")="antal";
+VARIABLECODE[da]("antal")="antal";
+VARIABLECODE[da]("distrikt")="distrikt";
+VARIABLECODE[da]("køn")="kon";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[kl]("antal")="antal";
+VARIABLECODE[kl]("immikkoortortaqarfik")="distrikt";
+VARIABLECODE[kl]("killiffik")="registrering";
+VARIABLECODE[kl]("piffissaq")="aar";
+VARIABLECODE[kl]("suiaassuseq")="kon";
+ELIMINATION("district")=YES;
+ELIMINATION("gender")=YES;
+ELIMINATION("status")="In total";
+ELIMINATION[da]("status")="I alt";
+ELIMINATION[da]("distrikt")=YES;
+ELIMINATION[da]("køn")=YES;
+ELIMINATION[kl]("immikkoortortaqarfik")=YES;
+ELIMINATION[kl]("killiffik")="Katillugit";
+ELIMINATION[kl]("suiaassuseq")=YES;
+LAST-UPDATED="20250130 09:00";
+LAST-UPDATED[da]="20250130 09:00";
+LAST-UPDATED[kl]="20250130 09:00";
+CONTACT="Samo Nielsen - snie@stat.gl";
+CONTACT[da]="Samo Nielsen - snie@stat.gl";
+CONTACT[kl]="Samo Nielsen - snie@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="https://www.stat.gl/udd202501/o1";
+LINK[da]="https://www.stat.gl/udd202501/o1";
+LINK[kl]="https://www.stat.gl/udn202501/o1";
+NOTE("status")="In educaion: Registated at the Ministry of Education, continuation school database or study grant database. #In employment: Registrated in the 11th month. #NEET: Not in education, employment, or training.";
+NOTE[da]("status")="I uddannelse: Registreret hos Uddannelsesdepartementet, Sprogcenteret eller Uddannelsesstøtteforvaltningen. #I beskæftigelse: Registrering i 11. måned. #Ikke i uddannelse eller beskæftigelse: Ikke registereret som uddannelsesaktiv eller i beskæftigelse.";
+NOTE="All figures are at the end of the year. For further information please visit: www.stat.gl #Persons in Greenland are permanent residents and returnees, whom earlier during the year have been active students, or are active students by the end of the year.";
+NOTE[da]="Alle tal er opgjort ved udgangen af tællingsåret. For metodebeskrivelse m.m.: www.stat.gl under Uddannelse. #Personer i Grønland dækker over fastboende og hjemvendte, der enten tidligere har været uddannelsesaktive i tællingsåret eller er uddannelsesakt"
+"ive ved udgangen af året.";
+NOTE[da]("distrikt")="en";
+NOTE[da]("køn")="en";
+NOTE[da]("tid")="en";
+NOTE[kl]="Kisitsisit tamarmik ukiup kisitsiviusup naanerani naatsorsorneqarput. Periaatsimut il.il.: www.stat.gl-imi Ilinniartitaanermut tunngasut takukkit. #Kalaallit Nunaanniittunut najugaqavissut imaluunniit ukiumi kisitsiviusumi naaneraniluunniit ilinniakkami"
+"k ingerlatsisimasutut nalunaarsorsimasut pineqarput.";
+NOTE[kl]("immikkoortortaqarfik")="da";
+NOTE[kl]("killiffik")="Ilinniartut: Ilinniartitaanermut Naalakkersuisoqarfimmi, Oqaasileriffimmi imaluunniit Ilinniagaqarnersiuteqartitsivimmi nalunaarsorsimasut. #Suliffillit: Qaammatit isikkanillissaannik sulisut. #Ilinnianngitsut imaluunniit suliffeqanngitsut: Ilinniakkami"
+"k ingerlatsisutut imaluunniit suliffilittut nalunaarsorsimanngitsut.";
+NOTE[kl]("piffissaq")="da";
+NOTE[kl]("suiaassuseq")="da";
+DATA=
+1 2 3 "-" 1 "-" 5 "-"
+6 8 4 3 1 4 1 2
+15 14 8 7 9 11 9 5
+2 3 2 1 1 "-" "-" "-"
+43 61 62 61 45 38 42 30
+65 48 50 48 60 49 38 44
+132 136 129 120 117 102 95 81
+2 1 1 1 "-" 1 3 3
+8 8 6 7 3 5 5 8
+4 7 5 6 9 4 7 4
+"-" "-" 1 "-" 1 3 2 3
+41 45 41 47 43 42 37 42
+56 51 49 49 43 42 39 29
+111 112 103 110 99 97 93 89
+6 1 1 1 4 2 1 4
+61 50 38 29 40 28 22 25
+25 25 32 21 24 21 21 27
+15 4 4 4 3 3 3 1
+64 89 102 95 84 82 83 75
+84 82 70 80 62 77 86 78
+255 251 247 230 217 213 216 210
+7 3 3 "-" 2 "-" 2 1
+81 73 67 62 70 60 53 52
+32 34 24 19 19 16 16 10
+16 17 15 8 6 6 9 8
+70 72 92 93 82 83 72 81
+67 83 51 61 62 62 62 41
+273 282 252 243 241 227 214 193
+1 2 "-" 2 1 2 3 "-"
+8 4 8 7 4 4 3 2
+5 6 7 7 14 12 10 9
+3 2 1 "-" 4 3 "-" 1
+37 54 48 53 46 50 49 45
+53 41 42 33 39 31 38 37
+107 109 106 102 108 102 103 94
+3 7 "-" 2 2 3 "-" 1
+8 3 6 5 6 7 7 7
+11 4 5 7 5 5 6 8
+3 3 2 "-" "-" "-" "-" 1
+39 47 36 34 47 41 47 39
+34 28 37 28 28 23 22 32
+98 92 86 76 88 79 82 88
+4 "-" 1 "-" 1 3 1 2
+3 1 "-" 1 2 1 3 3
+8 10 11 7 5 2 2 1
+"-" "-" "-" "-" "-" "-" "-" "-"
+69 55 53 53 47 48 42 41
+41 46 34 30 33 30 33 37
+125 112 99 91 88 84 81 84
+2 5 2 1 "-" "-" 2 1
+2 5 2 3 1 3 1 4
+6 8 7 8 7 9 8 6
+"-" "-" 1 "-" "-" "-" 1 2
+49 46 40 44 42 38 39 39
+47 37 45 39 31 32 26 28
+106 101 97 95 81 82 77 80
+13 8 7 8 6 6 4 4
+233 223 222 205 193 202 202 188
+106 107 115 109 114 114 111 114
+111 100 97 95 98 84 87 72
+459 476 530 499 487 498 465 466
+339 356 323 346 361 338 369 344
+1261 1270 1294 1262 1259 1242 1238 1188
+11 9 9 10 5 9 9 5
+256 271 269 252 290 282 295 281
+82 83 84 71 65 48 60 53
+223 210 232 229 227 238 236 214
+403 430 424 408 403 451 434 467
+274 260 247 273 276 255 225 244
+1249 1263 1265 1243 1266 1283 1259 1264
+10 15 13 4 3 2 4 5
+7 4 2 1 1 1 4 2
+12 13 14 9 10 9 6 12
+"-" "-" "-" "-" 1 "-" "-" 1
+143 131 134 141 129 121 114 105
+75 78 82 63 60 69 66 58
+247 241 245 218 204 202 194 183
+6 6 11 3 6 7 3 5
+5 1 3 2 4 6 4 8
+17 16 10 8 13 4 8 6
+2 1 "-" 2 "-" 1 1 1
+107 109 120 117 100 97 94 86
+50 51 49 52 51 49 47 43
+187 184 193 184 174 164 157 149
+2 5 3 2 2 5 4 4
+63 60 57 66 67 72 53 45
+53 47 53 45 50 47 36 44
+18 14 11 13 9 8 21 22
+216 215 204 211 179 193 176 192
+132 146 145 122 140 139 139 125
+484 487 473 459 447 464 429 432
+8 2 3 2 1 2 2 1
+102 95 94 93 100 99 106 99
+24 29 15 20 26 20 22 21
+33 26 19 16 18 13 11 14
+202 183 193 193 181 201 173 169
+132 144 133 131 131 121 116 105
+501 479 457 455 457 456 430 409
+6 5 6 4 1 3 6 2
+"-" "-" 1 2 3 5 3 2
+6 2 1 2 4 4 2 2
+"-" 2 "-" "-" "-" "-" "-" "-"
+44 49 41 47 31 38 41 39
+36 31 48 36 49 36 39 36
+92 89 97 91 88 86 91 81
+5 2 4 3 7 3 2 2
+1 "-" 1 1 10 7 7 3
+3 1 4 5 4 4 4 5
+1 1 1 "-" "-" "-" "-" 1
+46 38 42 39 38 31 32 22
+42 54 39 32 24 30 25 29
+98 96 91 80 83 75 70 62
+4 4 1 4 1 3 "-" 1
+68 68 61 48 43 40 42 52
+18 16 14 14 14 12 15 12
+4 2 4 1 2 4 2 2
+99 101 99 76 94 89 80 79
+72 71 72 72 61 56 56 63
+265 262 251 215 215 204 195 209
+2 5 6 1 10 3 "-" "-"
+140 133 121 98 98 87 83 94
+12 9 8 9 13 11 11 8
+6 5 6 6 5 5 4 5
+83 84 100 81 67 76 75 65
+88 78 80 53 56 53 54 57
+331 314 321 248 249 235 227 229
+2 2 "-" 2 2 1 3 1
+1 "-" "-" 1 5 4 5 "-"
+6 "-" 3 6 5 2 1 2
+1 1 "-" 2 2 2 "-" "-"
+34 41 40 34 36 33 32 33
+16 16 22 19 16 22 22 21
+60 60 65 64 66 64 63 57
+2 4 "-" 7 1 1 2 "-"
+2 1 4 4 8 8 7 3
+8 3 7 6 8 5 7 4
+"-" "-" "-" 1 1 1 2 4
+47 49 45 55 47 44 44 37
+23 21 25 19 23 12 19 16
+82 78 81 92 88 71 81 64
+3 1 11 6 13 7 12 5
+7 11 7 10 9 15 17 13
+28 28 32 34 34 23 20 22
+7 5 4 7 7 6 4 3
+167 146 129 138 129 148 157 163
+103 101 106 105 125 115 118 114
+315 292 289 300 317 314 328 320
+5 4 10 3 5 4 9 4
+2 5 15 20 21 28 29 16
+28 29 20 26 21 17 23 17
+24 14 16 9 12 13 14 23
+144 140 134 154 121 113 128 113
+105 88 65 73 93 86 73 93
+308 280 260 285 273 261 276 266
+1 4 5 3 3 2 1 1
+"-" "-" "-" 2 1 6 7 3
+"-" 4 2 1 1 3 4 1
+"-" "-" "-" "-" "-" "-" "-" "-"
+23 30 31 24 27 24 29 35
+25 8 14 25 25 31 24 18
+49 46 52 55 57 66 65 58
+"-" "-" 2 1 1 "-" 2 "-"
+1 1 2 "-" 2 2 3 3
+3 6 8 3 2 4 5 3
+"-" "-" "-" "-" 1 1 1 1
+32 37 28 36 31 32 30 28
+28 17 12 8 12 15 8 16
+64 61 52 48 49 54 49 51
+7 7 3 3 1 "-" 4 1
+1 1 1 3 3 3 1 1
+13 9 8 8 7 7 3 3
+1 2 1 2 1 2 1 3
+109 115 108 99 103 87 89 85
+77 53 54 59 57 59 55 45
+208 187 175 174 172 158 153 138
+6 6 1 2 "-" 9 5 5
+1 "-" 2 9 18 15 14 6
+5 8 9 9 12 7 5 3
+3 1 2 "-" 1 1 "-" 1
+91 85 99 100 94 85 93 72
+66 59 53 54 39 43 27 43
+172 159 166 174 164 160 144 130
+9 5 17 12 8 12 9 6
+4 "-" 2 6 4 5 5 3
+11 12 10 12 12 7 7 3
+1 "-" "-" "-" "-" "-" "-" "-"
+112 97 92 114 104 114 101 104
+91 98 86 85 103 92 87 86
+228 212 207 229 231 230 209 202
+9 14 15 12 8 6 7 12
+"-" "-" 1 7 5 3 3 5
+6 6 8 7 6 10 8 7
+"-" "-" "-" "-" 1 1 1 1
+71 73 88 83 90 94 86 71
+132 119 98 103 99 90 85 95
+218 212 210 212 209 204 190 191
+"-" 1 1 "-" "-" 4 1 8
+1 "-" "-" "-" "-" "-" 1 "-"
+3 3 2 1 3 2 1 1
+"-" "-" "-" "-" "-" "-" "-" "-"
+23 21 27 22 21 13 12 11
+31 24 19 22 24 24 25 22
+58 49 49 45 48 43 40 42
+"-" 1 1 4 1 2 3 3
+"-" "-" "-" "-" "-" "-" 1 "-"
+"-" 3 3 2 5 7 5 4
+"-" "-" "-" "-" "-" "-" "-" "-"
+22 14 30 26 19 19 20 19
+25 33 19 20 25 17 16 18
+47 51 53 52 50 45 45 44
+13 4 14 7 8 8 4 4
+11 4 2 1 4 6 7 6
+14 13 11 11 13 10 8 11
+"-" "-" 1 1 2 2 1 "-"
+88 79 115 93 79 83 74 79
+93 116 81 95 99 92 114 102
+219 216 224 208 205 201 208 202
+8 1 9 3 7 12 10 10
+8 6 3 5 2 6 8 10
+16 12 9 17 8 13 15 6
+5 1 "-" "-" 1 "-" 1 1
+80 78 84 94 74 82 84 90
+110 136 119 119 123 132 116 96
+227 234 224 238 215 245 234 213
+"-" "-" "-" 1 1 "-" "-" "-"
+"-" 1 2 "-" "-" "-" 1 1
+4 6 4 3 3 2 "-" 3
+"-" "-" "-" "-" "-" "-" "-" "-"
+13 12 15 19 18 16 11 14
+16 11 5 9 11 11 13 6
+33 30 26 32 33 29 25 24
+"-" 2 "-" "-" 1 "-" "-" "-"
+1 1 2 1 "-" 1 "-" 1
+"-" 2 "-" "-" "-" "-" 1 2
+"-" "-" "-" "-" "-" "-" 1 1
+11 6 7 11 17 14 15 11
+12 11 10 12 7 10 10 13
+24 22 19 24 25 25 27 28
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+1 2 "-" "-" "-" 1 2 1
+"-" "-" "-" "-" "-" "-" "-" "-"
+1 1 "-" "-" 1 "-" "-" 1
+1 1 1 1 1 "-" "-" "-"
+3 4 1 1 2 1 2 2
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+1 1 1 1 1 1 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 1 "-" "-" "-" "-" "-"
+2 1 1 "-" "-" "-" "-" 1
+3 2 3 1 1 1 1 1
+116 111 99 90 63 56 72 87
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+116 111 99 90 63 56 72 87
+81 103 95 76 61 51 95 78
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+81 103 95 76 61 51 95 78
+;

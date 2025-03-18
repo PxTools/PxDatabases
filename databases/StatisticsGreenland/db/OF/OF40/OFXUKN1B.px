@@ -1,0 +1,262 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20240627 09:00";
+NEXT-UPDATE="20250607 09:00";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="OFXUKN1B";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="OF";
+SUBJECT-AREA="Public finances";
+SUBJECT-AREA[da]="Offenlig finanser";
+SUBJECT-AREA[kl]="Pisortat aningaasaataat";
+COPYRIGHT=YES;
+DESCRIPTION="Preschool coverage of children 3-5 years by residence type  and gender (2016-2023) <em>[OFEUKN1B]</em>";
+DESCRIPTION[da]="Førskole dagtilbud dækningsgrad for børn 3-5 år efter bostedstype og køn (2016-2023) <em>[OFDUKN1B]</em>";
+DESCRIPTION[kl]="Meeqqat 3-5-inik ukiullit atualinnginnermi ulluunerani neqeroorutinik atuinerat, najugaqarfiup suussusaa suiaassuserlu malillugit (2016-2023) <em>[OFNUKN1B]</em>";
+TITLE="Preschool coverage of children 3-5 years by residence type  and gender";
+TITLE[da]="Førskole dagtilbud dækningsgrad for børn 3-5 år efter bostedstype og køn";
+TITLE[kl]="Meeqqat 3-5-inik ukiullit atualinnginnermi ulluunerani neqeroorutinik atuinerat, najugaqarfiup suussusaa suiaassuserlu malillugit";
+CONTENTS="Preschool";
+CONTENTS[da]="Førskole dagtilbud";
+CONTENTS[kl]="Atualinnginnermi ulluunerani neqeroorutit";
+UNITS="Number";
+UNITS[da]="Antal";
+UNITS[kl]="Amerlassusaat";
+STUB="residence type","gender","keyfigures";
+STUB[da]="bostedstype","køn","nøgletal";
+STUB[kl]="najugaqarfik","suiaassuseq","kisitsisit pingaarnerit";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("gender")="Total","Boys","Girls";
+VALUES("keyfigures")="All children in daycare (3-5)","Children 3 years","Children 4 years","Children 5 years","Number of children of population","Coverage of children 3-5 years (pct.)";
+VALUES("residence type")="Total","Capital city","Main settlements","Larger settlements","Settlements","Smaller settlements","Smallest settlements","Other localities","Moved out before 2024";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("bostedstype")="I alt","Hovedstad","Hovedbosteder","Større bosteder","Bosteder","Mindre bosteder","Mindste bosteder","Andre lokaliteter","Fraflyttet før 2024";
+VALUES[da]("køn")="I alt","Drenge","Piger";
+VALUES[da]("nøgletal")="Alle børn i dagtilbud (3-5)","Børn 3 år","Børn 4 år","Børn 5 år","Antal børn i befolkningen","Dækningsgrad for børn 3-5 år (pct.)";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("kisitsisit pingaarnerit")="Meeqqat ulluunerani neqeroorutiniittut tamakkerlutik (3-5)","Meeqqat 3-nik ukiullit","Meeqqat 4-inik ukiullit","Meeqqat 5-inik ukiullit","Innuttaasut akornanni meeqqat amerlassusaat","Meeqqat 3-5-inut ukiullit allatsissimasut amerlassusaat (pct.)";
+VALUES[kl]("najugaqarfik")="Katillugit","Inoqarfiit pingaarnersaat","Inoqarfiit pingaarnerusut","Inoqarfiit annerit","Inoqarfiit","Inoqarfiit minnerit","Inoqarfiit minnerpaat","Inoqarfiit allat","2024 sioqqullugu nuunnikut";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("suiaassuseq")="Katillugit","Nukappiaqqat","Niviarsiaqqat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("gender")="A","M","K";
+CODES("keyfigures")="A","3","4","5","B","D";
+CODES("residence type")="S","a","b","c","d","e","f","g","u";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("bostedstype")="S","a","b","c","d","e","f","g","u";
+CODES[da]("køn")="A","M","K";
+CODES[da]("nøgletal")="A","3","4","5","B","D";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("kisitsisit pingaarnerit")="A","3","4","5","B","D";
+CODES[kl]("najugaqarfik")="S","a","b","c","d","e","f","g","u";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("suiaassuseq")="A","M","K";
+VARIABLECODE("figures_")="antal";
+VARIABLECODE("gender")="koen";
+VARIABLECODE("keyfigures")="born_var";
+VARIABLECODE("residence type")="btypaar";
+VARIABLECODE("time")="aar";
+VARIABLECODE[da]("bostedstype")="btypaar";
+VARIABLECODE[da]("figures_")="antal";
+VARIABLECODE[da]("køn")="koen";
+VARIABLECODE[da]("nøgletal")="born_var";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[kl]("figures_")="antal";
+VARIABLECODE[kl]("kisitsisit pingaarnerit")="born_var";
+VARIABLECODE[kl]("najugaqarfik")="btypaar";
+VARIABLECODE[kl]("piffissaq")="aar";
+VARIABLECODE[kl]("suiaassuseq")="koen";
+ELIMINATION("gender")="Total";
+ELIMINATION("residence type")="Total";
+ELIMINATION[da]("bostedstype")="I alt";
+ELIMINATION[da]("køn")="I alt";
+ELIMINATION[kl]("najugaqarfik")="Katillugit";
+ELIMINATION[kl]("suiaassuseq")="Katillugit";
+PRECISION("keyfigures","Coverage of children 3-5 years (pct.)")=1;
+PRECISION[da]("nøgletal","Dækningsgrad for børn 3-5 år (pct.)")=1;
+PRECISION[kl]("kisitsisit pingaarnerit","Meeqqat 3-5-inut ukiullit allatsissimasut amerlassusaat (pct.)")=1;
+LAST-UPDATED="20240708 09:00";
+LAST-UPDATED[da]="20240708 09:00";
+LAST-UPDATED[kl]="20240708 09:00";
+CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Coverage of children 3-5 years, is the coverage of all children in the selected variables which are enrolled in a public preschool.";
+NOTE[da]="Dækningsgrad for børn 3-5 år er andelen af børn i aldersgruppe, der efter valgte variable går i offentlig førskoleinstitution.";
+NOTE[kl]="Inissaqartitsinermik atuineq tassaavoq meeqqat 3-5-inik ukiullit naatsorsuutini tunngaviit malillugit pisortat atualinnginnermi neqeroorutaanniittut annertussusaat.";
+DATA=
+1938 1965 2004 2063 2098 2195 2171 2201
+627 677 695 719 710 759 703 743
+651 646 687 672 722 732 759 700
+660 642 622 672 666 704 709 758
+2290 2297 2303 2374 2392 2488 2454 2461
+84.6 85.5 87 86.9 87.7 88.2 88.5 89.4
+1003 1048 1047 1089 1088 1134 1138 1123
+322 382 351 366 379 394 365 369
+348 327 384 351 365 384 394 360
+333 339 312 372 344 356 379 394
+1184 1213 1200 1252 1235 1290 1280 1258
+84.7 86.4 87.3 87 88.1 87.9 88.9 89.3
+935 917 957 974 1010 1061 1033 1078
+305 295 344 353 331 365 338 374
+303 319 303 321 357 348 365 340
+327 303 310 300 322 348 330 364
+1106 1084 1103 1122 1157 1198 1174 1203
+84.5 84.6 86.8 86.8 87.3 88.6 88 89.6
+596 621 622 656 650 672 645 665
+196 214 200 230 199 244 207 226
+197 205 217 207 231 197 245 192
+203 202 205 219 220 231 193 247
+673 712 706 752 745 766 746 786
+88.6 87.2 88.1 87.2 87.2 87.7 86.5 84.6
+322 331 338 364 339 338 330 326
+106 127 106 117 103 128 101 107
+100 103 125 114 115 103 124 91
+116 101 107 133 121 107 105 128
+366 381 381 408 383 381 373 391
+88 86.9 88.7 89.2 88.5 88.7 88.5 83.4
+274 290 284 292 311 334 315 339
+90 87 94 113 96 116 106 119
+97 102 92 93 116 94 121 101
+87 101 98 86 99 124 88 119
+307 331 325 344 362 385 373 395
+89.3 87.6 87.4 84.9 85.9 86.8 84.5 85.8
+629 633 671 678 696 721 743 705
+203 219 241 221 248 246 250 239
+209 209 213 230 214 265 239 234
+217 205 217 227 234 210 254 232
+676 680 708 720 737 755 779 725
+93 93.1 94.8 94.2 94.4 95.5 95.4 97.2
+327 336 345 351 355 381 388 365
+109 118 111 117 138 121 127 123
+115 107 124 111 110 150 117 123
+103 111 110 123 107 110 144 119
+354 360 365 370 378 401 412 374
+92.4 93.3 94.5 94.9 93.9 95 94.2 97.6
+302 297 326 327 341 340 355 340
+94 101 130 104 110 125 123 116
+94 102 89 119 104 115 122 111
+114 94 107 104 127 100 110 113
+322 320 343 350 359 354 367 351
+93.8 92.8 95 93.4 95 96 96.7 96.9
+471 477 487 487 493 529 509 555
+151 165 172 184 166 185 159 194
+153 153 174 150 180 172 176 175
+167 159 141 153 147 172 174 186
+533 515 523 531 520 571 544 585
+88.4 92.6 93.1 91.7 94.8 92.6 93.6 94.9
+230 251 254 252 263 289 284 291
+67 92 92 93 94 104 90 93
+81 75 96 78 93 94 101 95
+82 84 66 81 76 91 93 103
+261 264 270 276 275 312 302 306
+88.1 95.1 94.1 91.3 95.6 92.6 94 95.1
+241 226 233 235 230 240 225 264
+84 73 80 91 72 81 69 101
+72 78 78 72 87 78 75 80
+85 75 75 72 71 81 81 83
+272 251 253 255 245 259 242 279
+88.6 90 92.1 92.2 93.9 92.7 93 94.6
+148 134 134 138 159 156 176 170
+44 43 46 45 64 47 55 53
+55 47 49 53 52 62 58 61
+49 44 39 40 43 47 63 56
+218 204 201 192 220 214 207 197
+67.9 65.7 66.7 71.9 72.3 72.9 85 86.3
+71 72 73 75 85 78 85 85
+22 26 29 23 31 23 28 27
+28 25 22 33 28 26 29 31
+21 21 22 19 26 29 28 27
+106 106 106 105 118 110 100 100
+67 67.9 68.9 71.4 72 70.9 85 85
+77 62 61 63 74 78 91 85
+22 17 17 22 33 24 27 26
+27 22 27 20 24 36 29 30
+28 23 17 21 17 18 35 29
+112 98 95 87 102 104 107 97
+68.8 63.3 64.2 72.4 72.5 75 85 87.6
+91 96 89 103 94 116 95 105
+32 35 36 39 32 37 30 31
+35 32 33 32 42 35 41 37
+24 29 20 32 20 44 24 37
+160 154 150 154 150 163 161 152
+56.9 62.3 59.3 66.9 62.7 71.2 59 69.1
+51 55 37 47 43 48 50 55
+18 19 13 16 13 18 18 19
+22 17 17 15 18 11 23 19
+11 19 7 16 12 19 9 17
+83 84 71 78 67 73 84 79
+61.4 65.5 52.1 60.3 64.2 65.8 59.5 69.6
+40 41 52 56 51 68 45 50
+14 16 23 23 19 19 12 12
+13 15 16 17 24 24 18 18
+13 10 13 16 8 25 15 20
+77 70 79 76 83 90 77 73
+51.9 58.6 65.8 73.7 61.4 75.6 58.4 68.5
+3 4 1 1 6 1 3 1
+1 1 "-" "-" 1 "-" 2 "-"
+2 "-" 1 "-" 3 1 "-" 1
+"-" 3 "-" 1 2 "-" 1 "-"
+20 21 11 20 20 19 17 16
+15 19 9.1 5 30 5.3 17.6 6.3
+2 3 "-" "-" 3 "-" 1 1
+"-" "-" "-" "-" "-" "-" 1 "-"
+2 "-" "-" "-" 1 "-" "-" 1
+"-" 3 "-" "-" 2 "-" "-" "-"
+10 13 5 13 14 13 9 8
+20 23.1 "-" "-" 21.4 "-" 11.1 12.5
+1 1 1 1 3 1 2 "-"
+1 1 "-" "-" 1 "-" 1 "-"
+"-" "-" 1 "-" 2 1 "-" "-"
+"-" "-" "-" 1 "-" "-" 1 "-"
+10 8 6 7 6 6 8 8
+10 12.5 16.7 14.3 50 16.7 25 "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+10 11 4 5 "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+4 5 2 2 "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+6 6 2 3 "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-"
+;

@@ -4,7 +4,7 @@ CODEPAGE="windows-1252";
 LANGUAGE="en";
 LANGUAGES="en","da","kl";
 CREATION-DATE="20101004 09:00";
-NEXT-UPDATE="20250403 09:00";
+NEXT-UPDATE="20250306 09:00";
 UPDATE-FREQUENCY="Monthly, Månedligt, Qaammammut";
 DECIMALS=0;
 SHOWDECIMALS=0;
@@ -16,9 +16,9 @@ SUBJECT-AREA="Labour Market";
 SUBJECT-AREA[da]="Arbejdsmarked";
 SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
 COPYRIGHT=YES;
-DESCRIPTION="Registered jobseekers by gender, place of residence and age (1996M01-2025M02) <em>[ARELED2]</em>";
-DESCRIPTION[da]="Registrerede arbejdssøgende efter køn, bosted og alder (1996M01-2025M02) <em>[ARDLED2]</em>";
-DESCRIPTION[kl]="Suliffissarsiortutut nalunaarsukkat suiaassuseq, najugaqarfik, utoqqaassuseq (1996M01-2025M02) <em>[ARNLED2]</em>";
+DESCRIPTION="Registered jobseekers by gender, place of residence and age (1996M01-2025M01) <em>[ARELED2]</em>";
+DESCRIPTION[da]="Registrerede arbejdssøgende efter køn, bosted og alder (1996M01-2025M01) <em>[ARDLED2]</em>";
+DESCRIPTION[kl]="Suliffissarsiortutut nalunaarsukkat suiaassuseq, najugaqarfik, utoqqaassuseq (1996M01-2025M01) <em>[ARNLED2]</em>";
 TITLE="Registered jobseekers by time, month, gender, place of residence and age";
 TITLE[da]="Registrerede arbejdssøgende efter tid, måned, køn, bosted og alder";
 TITLE[kl]="Suliffissarsiortutut nalunaarsukkat : piffissaq, qaammat, suiaassuseq, najugaqarfik , utoqqaassuseq";
@@ -94,9 +94,9 @@ ELIMINATION[da]("køn")="I alt";
 ELIMINATION[kl]("najugaqarfik")="Katillugit";
 ELIMINATION[kl]("suiaassuseq")="Katillugit";
 ELIMINATION[kl]("utoqqaassuseq")=YES;
-LAST-UPDATED="20250306 09:00";
-LAST-UPDATED[da]="20250306 09:00";
-LAST-UPDATED[kl]="20250306 09:00";
+LAST-UPDATED="20250206 09:00";
+LAST-UPDATED[da]="20250206 09:00";
+LAST-UPDATED[kl]="20250206 09:00";
 CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
 CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
 CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
@@ -3254,15 +3254,15 @@ DATA=
 130 263 260 256 224 207 147 166 264 242
 92 176 191 196 191 170 124 133 216 202
 38 87 69 60 33 37 23 33 48 40
-63 125 125 136 121 114 82 85 138 156
-47 89 95 108 106 95 68 74 117 131
-16 36 30 28 15 19 14 11 21 25
-46 121 113 104 87 75 47 59 88 80
-32 73 84 70 69 58 37 43 63 65
-14 48 29 34 18 17 10 16 25 15
-109 246 238 240 208 189 129 144 226 236
-79 162 179 178 175 153 105 117 180 196
-30 84 59 62 33 36 24 27 46 40
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ...
 ... ... ... ... ... ... ... ... ... ...
 ... ... ... ... ... ... ... ... ... ...
 ... ... ... ... ... ... ... ... ... ...

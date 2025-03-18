@@ -1,0 +1,1874 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20140215 09:00";
+NEXT-UPDATE="20170210 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="NAXT7";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="NA";
+SUBJECT-AREA="Names";
+SUBJECT-AREA[da]="Navne";
+SUBJECT-AREA[kl]="Inuit aqqi";
+COPYRIGHT=YES;
+DESCRIPTION="First firstname for girls born in Greenland. 2021 <em>[NAET7]</em>";
+DESCRIPTION[da]="Første fornavn på piger født i Grønland. 2021 <em>[NADT7]</em>";
+DESCRIPTION[kl]="Niviarsiaqqat Kalaallit Nunaanni inuusimasut aqqi siulliit. 2021 <em>[NANT7]</em>";
+TITLE="Baby girls names by first firstname and cohort";
+TITLE[da]="Pigenavne efter første fornavn og fødselsår";
+TITLE[kl]="Niviarsiaqqat aqqi : inuup aqqa siulleq , ukioq inunngorfik";
+CONTENTS="Baby girls names";
+CONTENTS[da]="Pigenavne";
+CONTENTS[kl]="Niviarsiaqqat aqqi";
+UNITS="Girls born in Greenland";
+UNITS[da]="Piger født i Grønland";
+UNITS[kl]="Niviarsiaqqat Kalaallit Nunaanni inuusimasut";
+STUB="first firstname";
+STUB[da]="første fornavn";
+STUB[kl]="inuup aqqa siulleq";
+HEADING="cohort";
+HEADING[da]="fødselsår";
+HEADING[kl]="ukioq inunngorfik";
+VALUES("first firstname")="Aaja","Aajunnguaq","Aaliyah-Leona","Aaninnguaq","Aanngiiuk","Aarna",
+"Aarnaseeraq","Abi","Abigael","Abigail","Ada-Louise","Adela","Adina","Adriana","Aeja","Agathe",
+"Agnethe","Aia","Aicha","Aida","Aika","Aila","Aili","Aima","Aimee","Aimee-Hansa","Aimi","Aimie",
+"Aimée","Aina","Aina-Marianne","Ainannguaq","Aiva","Aivi","Aiya","Aiyana","Aiyna","Aja","Ajaaja",
+"Ajaana","Ajaanngu-Pia","Ajannguaq","Ajla","Ajâja","Akaluuna","Aki","Akisooq","Akitsinnguaq",
+"Alaska","Alata","Alaya","Alba","Aleida","Aleqa","Aleqasina","Alexandra","Aliaana","Alicia","Alina",
+"Aline","Alliaq","Alma","Alva","Alvina","Alyssa","Amalia","Amalie","Amaliánguak","Amanda","Amiuna",
+"Amy","Anabella","Andrea","Ane","Ane-Aretha","Ane-Dorthe","Ane-Helene","Ane-Jonna","Ane-Justine",
+"Ane-Louise","Ane-Marie","Ane-Mina","Ane-Naja","Ane-Sofie","Angaju","Angelica","Angerlannguaq",
+"Angerlartoq","Angerlartunnguaq","Anika","Anike","Anina","Anitse","Anja","Ann","Anna","Anna-Louise",
+"Anna-Maline","Anna-Marie","Anna-Miia","Anna-Rosa","Annabella","Annabelle","Annaluna","Anne",
+"Anouk","Anso","Anuk","Apannguaq","Aqattannguaq","Aqattaq","Aria","Ariana","Ariane","Arina",
+"Arlene","Arnaaluk","Arnaaraq","Arnajaraq","Arnakitsoq","Arnakkuluk","Arnaliaq","Arnamineq",
+"Arnanguak","Arnannguaq","Arnaq","Arnaq-Nivi","Arnarissoq","Arnartaq","Arnarulunnguaq","Arnaruniaq",
+"Arnatsiannguaq","Arnatsiaq","Arnatuk","Arnavarakkuluk","Arnavaraq","Arsugaq","Aruna","Arya",
+"Aryana","Asa","Asa-Niviaaluk","Asamanadee","Asana","Ashley","Asiarpa","Asta","Astrid",
+"Astrid-Lariisa","Athena","Augusta","Augusta-Niviaq","Aura","Aurora","Ava","Avaruna","Aviaaja",
+"Aviaajannguaq","Aviaana","Aviaja","Aviak","Aviana","Aviana-Dodo","Aviaq","Aviaya","Aviina","Avike",
+"Avikkee","Aviluannguaq","Aviula","Aviva","Aviâja","Aviâna","Aya","Ayalik","Ayana","Ayda","Aye",
+"Ayla","Ayla-Marie","Ayna","Aysha","Balikka","Bartholine","Bea","Beathe","Belinda","Beline","Bella",
+"Bella-Mia","Bendo","Benjamine","Bente","Bertha","Bertha-Inuk","Bertheline","Betina","Bianca",
+"Bibi","Biibi","Birgethe","Birgithe","Birthe","Bjørk","Bodil","Bodil-Dorthe","Bodil-Maren",
+"Bolethe","Bolethe-Tina","Breanna","Brenda","Britta","Caia","Camilla","Carla","Caroline",
+"Cassandra","Cassiopiea","Caya","Cayla","Cecilia","Cecilie","Cecilie-Ella","Celina","Cesi",
+"Charlotte","Charlotte-Ali","Chelsea","Chloe","Christa","Christa-Naja","Ciara","Ciea","Cina",
+"Clara","Claudia","Cora","Daaya","Dagmar","Daisy","Dakshita","Dana","Dana-Anja","Daniella","Dea",
+"Dea-Navarana","Dea-Paninnguaq","Debbo","Debo","Delaila","Demi","Dia","Diana","Diannguaq",
+"Digaajaat","Dija","Dina","Dina-Sofie","Diya","Dodo","Domilia","Dora","Dora-Salome","Dorthe",
+"Dorthea","Dorthennguaq","Dorthia","Ea","Edith","Eema","Eike","Elaine","Elfi","Elisa","Elisabeth",
+"Elise","Elizabeth","Ella","Ellen","Ellie","Elna","Else","Else-Johanne","Else-Manumina",
+"Else-Perpilua","Elvira","Emilia","Emilie","Emilina","Emily","Emma","Emmy","Enola","Enooya","Erika",
+"Erna","Erna-Monika","Esmeralda-Naja","Esther","Esther-Marie","Eva","Eve-Rosa","Evelyn","Evita",
+"Evitha","Evona","Evy","Fia-Aviana","Fie","Filippa","Fiona","Flavia","Francine","Fraya","Freda",
+"Frederikka","Frederikke","Frederina","Freja","Freya","Freyja","Frida","Frigga","Gabrieline",
+"Gabriella","Gabrielle","Genoveva","Gertrud","Ghita","Gitte","Grethe","Grethe-Naja","Gry","Gudrun",
+"Guluk","Gundine","Gunna","Hailie","Hannah","Hanne","Hanne-Nukaaraq","Hansa","Hansina","Hansine",
+"Harriet","Hedvig","Heide","Heidi","Helene","Helene-Margrethe","Helga","Hella","Henriethe",
+"Henriette","Hilda","Holly","Ida","Ida-Amalia","Ida-Mathilda","Ida-Mette","Ida-Olivia","Iiliina",
+"Iina","Ikilana","Ikinngut-Titta","Ikiuna","Ikiuuna","Ikke-navngivet","Iliinnaaraq","Iluna",
+"Iluuna","Ilúúla","Ina","Inalliaq","Inaluk","Inalunnguaq","Inequ","Inequnaaraq","Inga","Inge",
+"Inge-Maria","Ingeborg","Inger","Ingrid","Inneruulaq","Inni","Inugtak","Inugtak'","Inuina",
+"Inuina-Arnajaraq","Inunnguaq","Inuula","Inuuna","Inuuna-Nuka","Inûna","Isa","Isabella",
+"Isabella-Petrine","Isabelle","Isadora-Pivik","Isi","Iva","Ivaana","Ivaana-Margrethe","Ivalo",
+"Ivalo-Athena","Ivalu","Ivalu-Inuk","Ivana","Ivinnguaq","Ivvii","Ivy","Ivâna","Ivínguak",
+"Izabela-Laura","Jaane","Jacqueline","Jakobine","Jane","Jane-Hansigne","Jannie","Jasmin","Jasmine",
+"Jenna","Jennie","Jennifer","Jenny","Jensine","Jessica","Jette","Jirapat","Johanne","Johna",
+"Jonasine","Jonna","Jonna-Dea","Jonna-Isabella","Judithe","Julia","Juliane","Julie","Justine",
+"Jørgine","Kaaka","Kaalat","Kaila","Kaisa","Kaitlyn","Kaja","Kaka","Kakillarnaq","Kamilla","Karen",
+"Karen-Agathe","Karen-Melissa","Karen-Nukaaraq","Karen-Rosa","Karina","Karla","Karline","Karna",
+"Karoline","Kasandra","Kassaaluk","Katalina","Kate","Kathrine","Katinka","Katiyana","Katja",
+"Katrin","Katrine","Katsi","Katta","Kattaliit","Kaya","Kaya-Ivaana","Kaya-Pani","Kayla","Keira",
+"Kelly","Ketura","Kiajúnguak","Kiana","Kiara","Kida","Kiiki","Kim","Kimia","Kimmernannguaq",
+"Kimmernaq","Kira","Kirstine","Kista","Kitora","Kiva","Klara","Klaura","Kore","Korka","Kornelia",
+"Krista","Kristian","Kristiane","Kristina","Kristinannguaq","Kristine","Kristine-Johanne","Kuannia",
+"Kuka","Kukakkuluk","Kulapak","Kuluk","Kulunnguaq","Kuluuna","Kuuna","Laali","Laana","Labinnah",
+"Lady","Laia","Laila","Laisa","Lajla-Nuka","Lana","Lane","Lane-Sara","Lania","Lara","Larisa",
+"Laura","Lea","Leah","Leah-Selena","Leana","Leanna","Leela","Leelo","Leia","Leica","Lena",
+"Lena-Marie","Leni","Leona","Leonora","Lexie","Lia","Liana","Liila","Liina","Liiva","Lila",
+"Liliana","Lilja","Lilli","Lillian","Lilly","Lilu","Lily","Lilyana","Lina","Linda","Linn","Lisa",
+"Lise","Lita","Liv","Liva","Liya","Lola","Lola-Mike","Lola-Nuka","Lona","Lone","Lora","Lotta",
+"Lotte","Louisa","Louise","Lucia","Lucie","Lucy","Lucy-Nuunu","Ludvikka","Lula","Lulu","Luna",
+"Luuiisa","Luulu","Lydia","Lydie","Lykke","Lyla","Ma","Maalia","Maaliaannaaraq","Maaliannguaq",
+"Maannguaq","Madi","Magda","Magdalene","Magdaline","Magde","Maggie","Mai-Britt","Maika","Maiken",
+"Maila","Maili","Maita","Maite","Maja","Majka","Majken","Makkannguaq","Makkaritta","Malene-Johanne",
+"Maliina","Maliiva","Malika","Maline","Maliva","Malo","Malou","Malouk","Malu","Malu-Julia",
+"Malu-Soralu","Malunnguaq","Mannik","Manumina","Mara","Maren","Maren-Viola","Margrethe",
+"Margrethe-Duuda","Maria","Maria-Magdalina","Maria-Nuka","Mariah","Mariane","Marianne","Marie",
+"Marie-Dagmar","Marie-Johanne","Marie-Kathrine","Marie-Katrine","Marie-Lise","Marie-Malene",
+"Mariina","Marika","Marina","Marion-Ayla","Marita","Marta","Martha","Martine","Maryan","Masja",
+"Massora","Mathilda","Mathilde","Mattaaraq","Maya","Maya-Paneeraq","Maybrit","Mayla","Maysiya",
+"Mea","Megan","Meliina","Melissa","Mella","Menina","Mercedes","Mette","Mette-Maria","Mettennguaq",
+"Meya","Mia","Mia-Birthe","Mia-Niviana","Miaja","Mianna","Michaela","Michalla","Michelle","Mie",
+"Miia","Miiannguaq","Miila","Miina","Mikaella","Mikela","Mikisoq","Mila","Miley","Milla",
+"Milla-Loui","Mille","Mille-Maja","Milly","Mina","Mina-Louise","Mina-Marie","Minikka","Mira",
+"Miranda","Mischa","Misha","Misu","Mollie","Molly","Mona","Mona-Mettennguaq","Mona-Rita","Moni",
+"Monica","Monika","Monique","Motzfeldt","Mudi","Muko","Mynthe","Naalu","Naasoq-Rosa","Naasu",
+"Naasunnguaq","Nadia","Nadina","Nadja","Naduk","Nadya","Naisha","Naja","Naja-Ali","Naja-Angajo",
+"Naja-Dorthe","Naja-Elisa","Naja-Nuka","Najaaaraq","Najaaja","Najaaka","Najaana","Najaaraq","Najak",
+"Najakkuluk","Najakkuluk-Karen","Najana","Najannguaq","Najattaannguaq","Najattaaq","Najattaava",
+"Najavaraq","Nancy","Nanna","Natacha","Natasha","Natasja","Nathalia","Natkrita","Natuk","Nava",
+"Navaran","Navarana","Navaruna","Naya","Neala","Neela","Nefertiti","Nellie","Nete","Neva","Neyla",
+"Nia","Niattaa","Niattaaq","Niattaavaraq","Nielsine","Niia-Nuunu","Niini","Nikita","Nikkia",
+"Niko-Jonna","Nikulina","Nina","Nina-Viivi","Nini","Nini-Sikkerneq","Ninna","Ninni","Nita","Nitta",
+"Nive","Nivi","Nivi-Margrethe","Niviaaja","Niviaaluk","Niviaana","Niviana","Niviaq","Niviarsiaq",
+"Niviarsiaraq","Niviarsina","Niviatsiaq","Nivikka","Nivinnguaq","Niviâna","Noella","Nola","Noomi",
+"Nora","Norah","Norsannguaq","Nova","Nuiana","Nuila","Nuka","Nuka-Heidi","Nuka-Marie",
+"Nuka-Miitinnguaq","Nuka-Naja","Nuka-Sara","Nuka-Viivi","Nukaaka","Nukaaka-Alliaq","Nukaaraq",
+"Nukajaraq","Nukakkuluk","Nukalaat","Nukannguaq","Nukarliaq","Nukarlinnguaq","Nukavik","Nukuna",
+"Nukâka","Nuni-Rita","Nunni","Nunnu","Nunuko","Nuuna","Nuuni","Nuunu","Nuunu-Maren",
+"Nuunu-Nielsine","Nuusa-Nivarna","Oktavia","Olina","Oline","Olivia","Orpa","Paarma","Paarna",
+"Paarnannguaq","Paarnaq","Pakkutaq","Palikka","Palleq","Pallu","Pallunnguaq","Pamela","Pamîla",
+"Paneeraq","Pani","Paniaraq","Panik","Paninnguaq","Panissaaq","Paniula","Pano","Panu","Parnannguaq",
+"Parnuuna","Patricia","Paula","Pauline","Pernille","Petra","Petra-Esma","Petrina","Petrine","Pia",
+"Piiannguaq","Piipa","Pikeera","Pikiti","Pilu","Pilunnguaq","Pinnaluk","Pipa","Pipaluk","Pivik",
+"Pivinnguaq","Priya","Puto","Qiajunnguaq","Qivioq","Qunerseeq","Qupaluk","Qupanu","Qupanuk",
+"Rachel","Rackel","Rafaela","Randi","Randi-Nuuni","Rasma","Rasmine","Rebecca","Rebekka-Karen",
+"Regine","Rena-Sørina","Renee","Ria","Ria-Bolette","Riaana","Riana","Rianna","Rikke","Rina","Rinda",
+"Rita","Rita-Lea","Ritha","Ronja","Rosa","Rosamaria","Rosannguaq","Rosine","Runa","Ruth","Sabina",
+"Sabine","Sabrina","Saffie","Safine","Safira","Saga","Saime","Salma","Salome-Natuk","Sandi",
+"Sandra","Sandy","Sara","Sara-Dorthe","Sara-Elisabeth","Sara-Kathrine","Sara-Louise",
+"Sara-Magdalene","Sara-Malou","Sara-Marie","Sara-Viola","Sarah","Sarah-Johanne","Sascha","Sasha",
+"Sasha-Dodo","Sasja","Scout","Sebora","Selena","Selinda","Selma","Seqininnguaq","Serena","Seria",
+"Serie","Serminnguak","Shaima","Shanaya","Shiela","Shiloh","Sia","Sialuk","Sialunnguaq","Signa",
+"Signa-Pipaluk","Signe","Siira","Sika","Sikkerneq","Sikkerninnguaq","Sikkersoq","Silje","Silke",
+"Silla","Silpa","Silvia","Simigaq","Simone","Sina","Siorpâluk","Siri","Siuana","Smilla","Sofia",
+"Sofie","Solveig","Sonja","Soralu","Sorina","Stella","Stephanie","Stina","Stinannnguaq",
+"Stine-Lisa","Sunna","Susanne","Suzi","Sylvia","Søriinannguaq","Sørina","Sørinannguaq","Sørine",
+"Taja","Tanja","Tanya","Tarja","Tascha","Tasya","Tatiana","Tatjana","Tea","Teresa","Teresia",
+"Thaila","Thala","Thaya","Thea","Thelma","Theodora","Therecie","Theresia","Therisie","Thomasine",
+"Thora","Tiahna","Tiana","Tina","Tinka-Lykke","Tira","Titte-Marie","Titti","Tonya","Trine",
+"Tuarana","Tukuma","Tukummeq","Tukúmínguak","Tullerunnaq","Tuminnguaq","Tupaarnaq","Tuperna",
+"Tupârnak","Uiloq","Uiloq-Amaliannguaq","Uilu","Uka","Uka-Maja","Ukaaka","Ulaaju","Ulla",
+"Ulo-Melissa","Ulu","Ululina","Ulunnguaq","Uluutannguaq","Unalina","Ungaatinnguaq","Upaluk",
+"Upanuk","Vaale","Valborg","Vanessa","Vanûva","Varna","Vera","Veronica","Veronika","Via","Viana",
+"Vicki","Victoria","Viiannguaq","Viivi","Viktoria","Viktoria-Martha","Vilde","Vinuuna","Viola",
+"Viola-Lisa","Viola-Paninnguaq","Viona","Vivi","Vivian","Vivien","Wella","Winnie","Winona","Xela",
+"Yasmin","Yvonne","Zascha","Zelda","Zira","Zita","Zoi","Àsa","Ârk'ê";
+VALUES[da]("første fornavn")="Aaja","Aajunnguaq","Aaliyah-Leona","Aaninnguaq","Aanngiiuk","Aarna",
+"Aarnaseeraq","Abi","Abigael","Abigail","Ada-Louise","Adela","Adina","Adriana","Aeja","Agathe",
+"Agnethe","Aia","Aicha","Aida","Aika","Aila","Aili","Aima","Aimee","Aimee-Hansa","Aimi","Aimie",
+"Aimée","Aina","Aina-Marianne","Ainannguaq","Aiva","Aivi","Aiya","Aiyana","Aiyna","Aja","Ajaaja",
+"Ajaana","Ajaanngu-Pia","Ajannguaq","Ajla","Ajâja","Akaluuna","Aki","Akisooq","Akitsinnguaq",
+"Alaska","Alata","Alaya","Alba","Aleida","Aleqa","Aleqasina","Alexandra","Aliaana","Alicia","Alina",
+"Aline","Alliaq","Alma","Alva","Alvina","Alyssa","Amalia","Amalie","Amaliánguak","Amanda","Amiuna",
+"Amy","Anabella","Andrea","Ane","Ane-Aretha","Ane-Dorthe","Ane-Helene","Ane-Jonna","Ane-Justine",
+"Ane-Louise","Ane-Marie","Ane-Mina","Ane-Naja","Ane-Sofie","Angaju","Angelica","Angerlannguaq",
+"Angerlartoq","Angerlartunnguaq","Anika","Anike","Anina","Anitse","Anja","Ann","Anna","Anna-Louise",
+"Anna-Maline","Anna-Marie","Anna-Miia","Anna-Rosa","Annabella","Annabelle","Annaluna","Anne",
+"Anouk","Anso","Anuk","Apannguaq","Aqattannguaq","Aqattaq","Aria","Ariana","Ariane","Arina",
+"Arlene","Arnaaluk","Arnaaraq","Arnajaraq","Arnakitsoq","Arnakkuluk","Arnaliaq","Arnamineq",
+"Arnanguak","Arnannguaq","Arnaq","Arnaq-Nivi","Arnarissoq","Arnartaq","Arnarulunnguaq","Arnaruniaq",
+"Arnatsiannguaq","Arnatsiaq","Arnatuk","Arnavarakkuluk","Arnavaraq","Arsugaq","Aruna","Arya",
+"Aryana","Asa","Asa-Niviaaluk","Asamanadee","Asana","Ashley","Asiarpa","Asta","Astrid",
+"Astrid-Lariisa","Athena","Augusta","Augusta-Niviaq","Aura","Aurora","Ava","Avaruna","Aviaaja",
+"Aviaajannguaq","Aviaana","Aviaja","Aviak","Aviana","Aviana-Dodo","Aviaq","Aviaya","Aviina","Avike",
+"Avikkee","Aviluannguaq","Aviula","Aviva","Aviâja","Aviâna","Aya","Ayalik","Ayana","Ayda","Aye",
+"Ayla","Ayla-Marie","Ayna","Aysha","Balikka","Bartholine","Bea","Beathe","Belinda","Beline","Bella",
+"Bella-Mia","Bendo","Benjamine","Bente","Bertha","Bertha-Inuk","Bertheline","Betina","Bianca",
+"Bibi","Biibi","Birgethe","Birgithe","Birthe","Bjørk","Bodil","Bodil-Dorthe","Bodil-Maren",
+"Bolethe","Bolethe-Tina","Breanna","Brenda","Britta","Caia","Camilla","Carla","Caroline",
+"Cassandra","Cassiopiea","Caya","Cayla","Cecilia","Cecilie","Cecilie-Ella","Celina","Cesi",
+"Charlotte","Charlotte-Ali","Chelsea","Chloe","Christa","Christa-Naja","Ciara","Ciea","Cina",
+"Clara","Claudia","Cora","Daaya","Dagmar","Daisy","Dakshita","Dana","Dana-Anja","Daniella","Dea",
+"Dea-Navarana","Dea-Paninnguaq","Debbo","Debo","Delaila","Demi","Dia","Diana","Diannguaq",
+"Digaajaat","Dija","Dina","Dina-Sofie","Diya","Dodo","Domilia","Dora","Dora-Salome","Dorthe",
+"Dorthea","Dorthennguaq","Dorthia","Ea","Edith","Eema","Eike","Elaine","Elfi","Elisa","Elisabeth",
+"Elise","Elizabeth","Ella","Ellen","Ellie","Elna","Else","Else-Johanne","Else-Manumina",
+"Else-Perpilua","Elvira","Emilia","Emilie","Emilina","Emily","Emma","Emmy","Enola","Enooya","Erika",
+"Erna","Erna-Monika","Esmeralda-Naja","Esther","Esther-Marie","Eva","Eve-Rosa","Evelyn","Evita",
+"Evitha","Evona","Evy","Fia-Aviana","Fie","Filippa","Fiona","Flavia","Francine","Fraya","Freda",
+"Frederikka","Frederikke","Frederina","Freja","Freya","Freyja","Frida","Frigga","Gabrieline",
+"Gabriella","Gabrielle","Genoveva","Gertrud","Ghita","Gitte","Grethe","Grethe-Naja","Gry","Gudrun",
+"Guluk","Gundine","Gunna","Hailie","Hannah","Hanne","Hanne-Nukaaraq","Hansa","Hansina","Hansine",
+"Harriet","Hedvig","Heide","Heidi","Helene","Helene-Margrethe","Helga","Hella","Henriethe",
+"Henriette","Hilda","Holly","Ida","Ida-Amalia","Ida-Mathilda","Ida-Mette","Ida-Olivia","Iiliina",
+"Iina","Ikilana","Ikinngut-Titta","Ikiuna","Ikiuuna","Ikke-navngivet","Iliinnaaraq","Iluna",
+"Iluuna","Ilúúla","Ina","Inalliaq","Inaluk","Inalunnguaq","Inequ","Inequnaaraq","Inga","Inge",
+"Inge-Maria","Ingeborg","Inger","Ingrid","Inneruulaq","Inni","Inugtak","Inugtak'","Inuina",
+"Inuina-Arnajaraq","Inunnguaq","Inuula","Inuuna","Inuuna-Nuka","Inûna","Isa","Isabella",
+"Isabella-Petrine","Isabelle","Isadora-Pivik","Isi","Iva","Ivaana","Ivaana-Margrethe","Ivalo",
+"Ivalo-Athena","Ivalu","Ivalu-Inuk","Ivana","Ivinnguaq","Ivvii","Ivy","Ivâna","Ivínguak",
+"Izabela-Laura","Jaane","Jacqueline","Jakobine","Jane","Jane-Hansigne","Jannie","Jasmin","Jasmine",
+"Jenna","Jennie","Jennifer","Jenny","Jensine","Jessica","Jette","Jirapat","Johanne","Johna",
+"Jonasine","Jonna","Jonna-Dea","Jonna-Isabella","Judithe","Julia","Juliane","Julie","Justine",
+"Jørgine","Kaaka","Kaalat","Kaila","Kaisa","Kaitlyn","Kaja","Kaka","Kakillarnaq","Kamilla","Karen",
+"Karen-Agathe","Karen-Melissa","Karen-Nukaaraq","Karen-Rosa","Karina","Karla","Karline","Karna",
+"Karoline","Kasandra","Kassaaluk","Katalina","Kate","Kathrine","Katinka","Katiyana","Katja",
+"Katrin","Katrine","Katsi","Katta","Kattaliit","Kaya","Kaya-Ivaana","Kaya-Pani","Kayla","Keira",
+"Kelly","Ketura","Kiajúnguak","Kiana","Kiara","Kida","Kiiki","Kim","Kimia","Kimmernannguaq",
+"Kimmernaq","Kira","Kirstine","Kista","Kitora","Kiva","Klara","Klaura","Kore","Korka","Kornelia",
+"Krista","Kristian","Kristiane","Kristina","Kristinannguaq","Kristine","Kristine-Johanne","Kuannia",
+"Kuka","Kukakkuluk","Kulapak","Kuluk","Kulunnguaq","Kuluuna","Kuuna","Laali","Laana","Labinnah",
+"Lady","Laia","Laila","Laisa","Lajla-Nuka","Lana","Lane","Lane-Sara","Lania","Lara","Larisa",
+"Laura","Lea","Leah","Leah-Selena","Leana","Leanna","Leela","Leelo","Leia","Leica","Lena",
+"Lena-Marie","Leni","Leona","Leonora","Lexie","Lia","Liana","Liila","Liina","Liiva","Lila",
+"Liliana","Lilja","Lilli","Lillian","Lilly","Lilu","Lily","Lilyana","Lina","Linda","Linn","Lisa",
+"Lise","Lita","Liv","Liva","Liya","Lola","Lola-Mike","Lola-Nuka","Lona","Lone","Lora","Lotta",
+"Lotte","Louisa","Louise","Lucia","Lucie","Lucy","Lucy-Nuunu","Ludvikka","Lula","Lulu","Luna",
+"Luuiisa","Luulu","Lydia","Lydie","Lykke","Lyla","Ma","Maalia","Maaliaannaaraq","Maaliannguaq",
+"Maannguaq","Madi","Magda","Magdalene","Magdaline","Magde","Maggie","Mai-Britt","Maika","Maiken",
+"Maila","Maili","Maita","Maite","Maja","Majka","Majken","Makkannguaq","Makkaritta","Malene-Johanne",
+"Maliina","Maliiva","Malika","Maline","Maliva","Malo","Malou","Malouk","Malu","Malu-Julia",
+"Malu-Soralu","Malunnguaq","Mannik","Manumina","Mara","Maren","Maren-Viola","Margrethe",
+"Margrethe-Duuda","Maria","Maria-Magdalina","Maria-Nuka","Mariah","Mariane","Marianne","Marie",
+"Marie-Dagmar","Marie-Johanne","Marie-Kathrine","Marie-Katrine","Marie-Lise","Marie-Malene",
+"Mariina","Marika","Marina","Marion-Ayla","Marita","Marta","Martha","Martine","Maryan","Masja",
+"Massora","Mathilda","Mathilde","Mattaaraq","Maya","Maya-Paneeraq","Maybrit","Mayla","Maysiya",
+"Mea","Megan","Meliina","Melissa","Mella","Menina","Mercedes","Mette","Mette-Maria","Mettennguaq",
+"Meya","Mia","Mia-Birthe","Mia-Niviana","Miaja","Mianna","Michaela","Michalla","Michelle","Mie",
+"Miia","Miiannguaq","Miila","Miina","Mikaella","Mikela","Mikisoq","Mila","Miley","Milla",
+"Milla-Loui","Mille","Mille-Maja","Milly","Mina","Mina-Louise","Mina-Marie","Minikka","Mira",
+"Miranda","Mischa","Misha","Misu","Mollie","Molly","Mona","Mona-Mettennguaq","Mona-Rita","Moni",
+"Monica","Monika","Monique","Motzfeldt","Mudi","Muko","Mynthe","Naalu","Naasoq-Rosa","Naasu",
+"Naasunnguaq","Nadia","Nadina","Nadja","Naduk","Nadya","Naisha","Naja","Naja-Ali","Naja-Angajo",
+"Naja-Dorthe","Naja-Elisa","Naja-Nuka","Najaaaraq","Najaaja","Najaaka","Najaana","Najaaraq","Najak",
+"Najakkuluk","Najakkuluk-Karen","Najana","Najannguaq","Najattaannguaq","Najattaaq","Najattaava",
+"Najavaraq","Nancy","Nanna","Natacha","Natasha","Natasja","Nathalia","Natkrita","Natuk","Nava",
+"Navaran","Navarana","Navaruna","Naya","Neala","Neela","Nefertiti","Nellie","Nete","Neva","Neyla",
+"Nia","Niattaa","Niattaaq","Niattaavaraq","Nielsine","Niia-Nuunu","Niini","Nikita","Nikkia",
+"Niko-Jonna","Nikulina","Nina","Nina-Viivi","Nini","Nini-Sikkerneq","Ninna","Ninni","Nita","Nitta",
+"Nive","Nivi","Nivi-Margrethe","Niviaaja","Niviaaluk","Niviaana","Niviana","Niviaq","Niviarsiaq",
+"Niviarsiaraq","Niviarsina","Niviatsiaq","Nivikka","Nivinnguaq","Niviâna","Noella","Nola","Noomi",
+"Nora","Norah","Norsannguaq","Nova","Nuiana","Nuila","Nuka","Nuka-Heidi","Nuka-Marie",
+"Nuka-Miitinnguaq","Nuka-Naja","Nuka-Sara","Nuka-Viivi","Nukaaka","Nukaaka-Alliaq","Nukaaraq",
+"Nukajaraq","Nukakkuluk","Nukalaat","Nukannguaq","Nukarliaq","Nukarlinnguaq","Nukavik","Nukuna",
+"Nukâka","Nuni-Rita","Nunni","Nunnu","Nunuko","Nuuna","Nuuni","Nuunu","Nuunu-Maren",
+"Nuunu-Nielsine","Nuusa-Nivarna","Oktavia","Olina","Oline","Olivia","Orpa","Paarma","Paarna",
+"Paarnannguaq","Paarnaq","Pakkutaq","Palikka","Palleq","Pallu","Pallunnguaq","Pamela","Pamîla",
+"Paneeraq","Pani","Paniaraq","Panik","Paninnguaq","Panissaaq","Paniula","Pano","Panu","Parnannguaq",
+"Parnuuna","Patricia","Paula","Pauline","Pernille","Petra","Petra-Esma","Petrina","Petrine","Pia",
+"Piiannguaq","Piipa","Pikeera","Pikiti","Pilu","Pilunnguaq","Pinnaluk","Pipa","Pipaluk","Pivik",
+"Pivinnguaq","Priya","Puto","Qiajunnguaq","Qivioq","Qunerseeq","Qupaluk","Qupanu","Qupanuk",
+"Rachel","Rackel","Rafaela","Randi","Randi-Nuuni","Rasma","Rasmine","Rebecca","Rebekka-Karen",
+"Regine","Rena-Sørina","Renee","Ria","Ria-Bolette","Riaana","Riana","Rianna","Rikke","Rina","Rinda",
+"Rita","Rita-Lea","Ritha","Ronja","Rosa","Rosamaria","Rosannguaq","Rosine","Runa","Ruth","Sabina",
+"Sabine","Sabrina","Saffie","Safine","Safira","Saga","Saime","Salma","Salome-Natuk","Sandi",
+"Sandra","Sandy","Sara","Sara-Dorthe","Sara-Elisabeth","Sara-Kathrine","Sara-Louise",
+"Sara-Magdalene","Sara-Malou","Sara-Marie","Sara-Viola","Sarah","Sarah-Johanne","Sascha","Sasha",
+"Sasha-Dodo","Sasja","Scout","Sebora","Selena","Selinda","Selma","Seqininnguaq","Serena","Seria",
+"Serie","Serminnguak","Shaima","Shanaya","Shiela","Shiloh","Sia","Sialuk","Sialunnguaq","Signa",
+"Signa-Pipaluk","Signe","Siira","Sika","Sikkerneq","Sikkerninnguaq","Sikkersoq","Silje","Silke",
+"Silla","Silpa","Silvia","Simigaq","Simone","Sina","Siorpâluk","Siri","Siuana","Smilla","Sofia",
+"Sofie","Solveig","Sonja","Soralu","Sorina","Stella","Stephanie","Stina","Stinannnguaq",
+"Stine-Lisa","Sunna","Susanne","Suzi","Sylvia","Søriinannguaq","Sørina","Sørinannguaq","Sørine",
+"Taja","Tanja","Tanya","Tarja","Tascha","Tasya","Tatiana","Tatjana","Tea","Teresa","Teresia",
+"Thaila","Thala","Thaya","Thea","Thelma","Theodora","Therecie","Theresia","Therisie","Thomasine",
+"Thora","Tiahna","Tiana","Tina","Tinka-Lykke","Tira","Titte-Marie","Titti","Tonya","Trine",
+"Tuarana","Tukuma","Tukummeq","Tukúmínguak","Tullerunnaq","Tuminnguaq","Tupaarnaq","Tuperna",
+"Tupârnak","Uiloq","Uiloq-Amaliannguaq","Uilu","Uka","Uka-Maja","Ukaaka","Ulaaju","Ulla",
+"Ulo-Melissa","Ulu","Ululina","Ulunnguaq","Uluutannguaq","Unalina","Ungaatinnguaq","Upaluk",
+"Upanuk","Vaale","Valborg","Vanessa","Vanûva","Varna","Vera","Veronica","Veronika","Via","Viana",
+"Vicki","Victoria","Viiannguaq","Viivi","Viktoria","Viktoria-Martha","Vilde","Vinuuna","Viola",
+"Viola-Lisa","Viola-Paninnguaq","Viona","Vivi","Vivian","Vivien","Wella","Winnie","Winona","Xela",
+"Yasmin","Yvonne","Zascha","Zelda","Zira","Zita","Zoi","Àsa","Ârk'ê";
+VALUES[kl]("inuup aqqa siulleq")="Aaja","Aajunnguaq","Aaliyah-Leona","Aaninnguaq","Aanngiiuk",
+"Aarna","Aarnaseeraq","Abi","Abigael","Abigail","Ada-Louise","Adela","Adina","Adriana","Aeja",
+"Agathe","Agnethe","Aia","Aicha","Aida","Aika","Aila","Aili","Aima","Aimee","Aimee-Hansa","Aimi",
+"Aimie","Aimée","Aina","Aina-Marianne","Ainannguaq","Aiva","Aivi","Aiya","Aiyana","Aiyna","Aja",
+"Ajaaja","Ajaana","Ajaanngu-Pia","Ajannguaq","Ajla","Ajâja","Akaluuna","Aki","Akisooq",
+"Akitsinnguaq","Alaska","Alata","Alaya","Alba","Aleida","Aleqa","Aleqasina","Alexandra","Aliaana",
+"Alicia","Alina","Aline","Alliaq","Alma","Alva","Alvina","Alyssa","Amalia","Amalie","Amaliánguak",
+"Amanda","Amiuna","Amy","Anabella","Andrea","Ane","Ane-Aretha","Ane-Dorthe","Ane-Helene",
+"Ane-Jonna","Ane-Justine","Ane-Louise","Ane-Marie","Ane-Mina","Ane-Naja","Ane-Sofie","Angaju",
+"Angelica","Angerlannguaq","Angerlartoq","Angerlartunnguaq","Anika","Anike","Anina","Anitse","Anja",
+"Ann","Anna","Anna-Louise","Anna-Maline","Anna-Marie","Anna-Miia","Anna-Rosa","Annabella",
+"Annabelle","Annaluna","Anne","Anouk","Anso","Anuk","Apannguaq","Aqattannguaq","Aqattaq","Aria",
+"Ariana","Ariane","Arina","Arlene","Arnaaluk","Arnaaraq","Arnajaraq","Arnakitsoq","Arnakkuluk",
+"Arnaliaq","Arnamineq","Arnanguak","Arnannguaq","Arnaq","Arnaq-Nivi","Arnarissoq","Arnartaq",
+"Arnarulunnguaq","Arnaruniaq","Arnatsiannguaq","Arnatsiaq","Arnatuk","Arnavarakkuluk","Arnavaraq",
+"Arsugaq","Aruna","Arya","Aryana","Asa","Asa-Niviaaluk","Asamanadee","Asana","Ashley","Asiarpa",
+"Asta","Astrid","Astrid-Lariisa","Athena","Augusta","Augusta-Niviaq","Aura","Aurora","Ava",
+"Avaruna","Aviaaja","Aviaajannguaq","Aviaana","Aviaja","Aviak","Aviana","Aviana-Dodo","Aviaq",
+"Aviaya","Aviina","Avike","Avikkee","Aviluannguaq","Aviula","Aviva","Aviâja","Aviâna","Aya",
+"Ayalik","Ayana","Ayda","Aye","Ayla","Ayla-Marie","Ayna","Aysha","Balikka","Bartholine","Bea",
+"Beathe","Belinda","Beline","Bella","Bella-Mia","Bendo","Benjamine","Bente","Bertha","Bertha-Inuk",
+"Bertheline","Betina","Bianca","Bibi","Biibi","Birgethe","Birgithe","Birthe","Bjørk","Bodil",
+"Bodil-Dorthe","Bodil-Maren","Bolethe","Bolethe-Tina","Breanna","Brenda","Britta","Caia","Camilla",
+"Carla","Caroline","Cassandra","Cassiopiea","Caya","Cayla","Cecilia","Cecilie","Cecilie-Ella",
+"Celina","Cesi","Charlotte","Charlotte-Ali","Chelsea","Chloe","Christa","Christa-Naja","Ciara",
+"Ciea","Cina","Clara","Claudia","Cora","Daaya","Dagmar","Daisy","Dakshita","Dana","Dana-Anja",
+"Daniella","Dea","Dea-Navarana","Dea-Paninnguaq","Debbo","Debo","Delaila","Demi","Dia","Diana",
+"Diannguaq","Digaajaat","Dija","Dina","Dina-Sofie","Diya","Dodo","Domilia","Dora","Dora-Salome",
+"Dorthe","Dorthea","Dorthennguaq","Dorthia","Ea","Edith","Eema","Eike","Elaine","Elfi","Elisa",
+"Elisabeth","Elise","Elizabeth","Ella","Ellen","Ellie","Elna","Else","Else-Johanne","Else-Manumina",
+"Else-Perpilua","Elvira","Emilia","Emilie","Emilina","Emily","Emma","Emmy","Enola","Enooya","Erika",
+"Erna","Erna-Monika","Esmeralda-Naja","Esther","Esther-Marie","Eva","Eve-Rosa","Evelyn","Evita",
+"Evitha","Evona","Evy","Fia-Aviana","Fie","Filippa","Fiona","Flavia","Francine","Fraya","Freda",
+"Frederikka","Frederikke","Frederina","Freja","Freya","Freyja","Frida","Frigga","Gabrieline",
+"Gabriella","Gabrielle","Genoveva","Gertrud","Ghita","Gitte","Grethe","Grethe-Naja","Gry","Gudrun",
+"Guluk","Gundine","Gunna","Hailie","Hannah","Hanne","Hanne-Nukaaraq","Hansa","Hansina","Hansine",
+"Harriet","Hedvig","Heide","Heidi","Helene","Helene-Margrethe","Helga","Hella","Henriethe",
+"Henriette","Hilda","Holly","Ida","Ida-Amalia","Ida-Mathilda","Ida-Mette","Ida-Olivia","Iiliina",
+"Iina","Ikilana","Ikinngut-Titta","Ikiuna","Ikiuuna","Ikke-navngivet","Iliinnaaraq","Iluna",
+"Iluuna","Ilúúla","Ina","Inalliaq","Inaluk","Inalunnguaq","Inequ","Inequnaaraq","Inga","Inge",
+"Inge-Maria","Ingeborg","Inger","Ingrid","Inneruulaq","Inni","Inugtak","Inugtak'","Inuina",
+"Inuina-Arnajaraq","Inunnguaq","Inuula","Inuuna","Inuuna-Nuka","Inûna","Isa","Isabella",
+"Isabella-Petrine","Isabelle","Isadora-Pivik","Isi","Iva","Ivaana","Ivaana-Margrethe","Ivalo",
+"Ivalo-Athena","Ivalu","Ivalu-Inuk","Ivana","Ivinnguaq","Ivvii","Ivy","Ivâna","Ivínguak",
+"Izabela-Laura","Jaane","Jacqueline","Jakobine","Jane","Jane-Hansigne","Jannie","Jasmin","Jasmine",
+"Jenna","Jennie","Jennifer","Jenny","Jensine","Jessica","Jette","Jirapat","Johanne","Johna",
+"Jonasine","Jonna","Jonna-Dea","Jonna-Isabella","Judithe","Julia","Juliane","Julie","Justine",
+"Jørgine","Kaaka","Kaalat","Kaila","Kaisa","Kaitlyn","Kaja","Kaka","Kakillarnaq","Kamilla","Karen",
+"Karen-Agathe","Karen-Melissa","Karen-Nukaaraq","Karen-Rosa","Karina","Karla","Karline","Karna",
+"Karoline","Kasandra","Kassaaluk","Katalina","Kate","Kathrine","Katinka","Katiyana","Katja",
+"Katrin","Katrine","Katsi","Katta","Kattaliit","Kaya","Kaya-Ivaana","Kaya-Pani","Kayla","Keira",
+"Kelly","Ketura","Kiajúnguak","Kiana","Kiara","Kida","Kiiki","Kim","Kimia","Kimmernannguaq",
+"Kimmernaq","Kira","Kirstine","Kista","Kitora","Kiva","Klara","Klaura","Kore","Korka","Kornelia",
+"Krista","Kristian","Kristiane","Kristina","Kristinannguaq","Kristine","Kristine-Johanne","Kuannia",
+"Kuka","Kukakkuluk","Kulapak","Kuluk","Kulunnguaq","Kuluuna","Kuuna","Laali","Laana","Labinnah",
+"Lady","Laia","Laila","Laisa","Lajla-Nuka","Lana","Lane","Lane-Sara","Lania","Lara","Larisa",
+"Laura","Lea","Leah","Leah-Selena","Leana","Leanna","Leela","Leelo","Leia","Leica","Lena",
+"Lena-Marie","Leni","Leona","Leonora","Lexie","Lia","Liana","Liila","Liina","Liiva","Lila",
+"Liliana","Lilja","Lilli","Lillian","Lilly","Lilu","Lily","Lilyana","Lina","Linda","Linn","Lisa",
+"Lise","Lita","Liv","Liva","Liya","Lola","Lola-Mike","Lola-Nuka","Lona","Lone","Lora","Lotta",
+"Lotte","Louisa","Louise","Lucia","Lucie","Lucy","Lucy-Nuunu","Ludvikka","Lula","Lulu","Luna",
+"Luuiisa","Luulu","Lydia","Lydie","Lykke","Lyla","Ma","Maalia","Maaliaannaaraq","Maaliannguaq",
+"Maannguaq","Madi","Magda","Magdalene","Magdaline","Magde","Maggie","Mai-Britt","Maika","Maiken",
+"Maila","Maili","Maita","Maite","Maja","Majka","Majken","Makkannguaq","Makkaritta","Malene-Johanne",
+"Maliina","Maliiva","Malika","Maline","Maliva","Malo","Malou","Malouk","Malu","Malu-Julia",
+"Malu-Soralu","Malunnguaq","Mannik","Manumina","Mara","Maren","Maren-Viola","Margrethe",
+"Margrethe-Duuda","Maria","Maria-Magdalina","Maria-Nuka","Mariah","Mariane","Marianne","Marie",
+"Marie-Dagmar","Marie-Johanne","Marie-Kathrine","Marie-Katrine","Marie-Lise","Marie-Malene",
+"Mariina","Marika","Marina","Marion-Ayla","Marita","Marta","Martha","Martine","Maryan","Masja",
+"Massora","Mathilda","Mathilde","Mattaaraq","Maya","Maya-Paneeraq","Maybrit","Mayla","Maysiya",
+"Mea","Megan","Meliina","Melissa","Mella","Menina","Mercedes","Mette","Mette-Maria","Mettennguaq",
+"Meya","Mia","Mia-Birthe","Mia-Niviana","Miaja","Mianna","Michaela","Michalla","Michelle","Mie",
+"Miia","Miiannguaq","Miila","Miina","Mikaella","Mikela","Mikisoq","Mila","Miley","Milla",
+"Milla-Loui","Mille","Mille-Maja","Milly","Mina","Mina-Louise","Mina-Marie","Minikka","Mira",
+"Miranda","Mischa","Misha","Misu","Mollie","Molly","Mona","Mona-Mettennguaq","Mona-Rita","Moni",
+"Monica","Monika","Monique","Motzfeldt","Mudi","Muko","Mynthe","Naalu","Naasoq-Rosa","Naasu",
+"Naasunnguaq","Nadia","Nadina","Nadja","Naduk","Nadya","Naisha","Naja","Naja-Ali","Naja-Angajo",
+"Naja-Dorthe","Naja-Elisa","Naja-Nuka","Najaaaraq","Najaaja","Najaaka","Najaana","Najaaraq","Najak",
+"Najakkuluk","Najakkuluk-Karen","Najana","Najannguaq","Najattaannguaq","Najattaaq","Najattaava",
+"Najavaraq","Nancy","Nanna","Natacha","Natasha","Natasja","Nathalia","Natkrita","Natuk","Nava",
+"Navaran","Navarana","Navaruna","Naya","Neala","Neela","Nefertiti","Nellie","Nete","Neva","Neyla",
+"Nia","Niattaa","Niattaaq","Niattaavaraq","Nielsine","Niia-Nuunu","Niini","Nikita","Nikkia",
+"Niko-Jonna","Nikulina","Nina","Nina-Viivi","Nini","Nini-Sikkerneq","Ninna","Ninni","Nita","Nitta",
+"Nive","Nivi","Nivi-Margrethe","Niviaaja","Niviaaluk","Niviaana","Niviana","Niviaq","Niviarsiaq",
+"Niviarsiaraq","Niviarsina","Niviatsiaq","Nivikka","Nivinnguaq","Niviâna","Noella","Nola","Noomi",
+"Nora","Norah","Norsannguaq","Nova","Nuiana","Nuila","Nuka","Nuka-Heidi","Nuka-Marie",
+"Nuka-Miitinnguaq","Nuka-Naja","Nuka-Sara","Nuka-Viivi","Nukaaka","Nukaaka-Alliaq","Nukaaraq",
+"Nukajaraq","Nukakkuluk","Nukalaat","Nukannguaq","Nukarliaq","Nukarlinnguaq","Nukavik","Nukuna",
+"Nukâka","Nuni-Rita","Nunni","Nunnu","Nunuko","Nuuna","Nuuni","Nuunu","Nuunu-Maren",
+"Nuunu-Nielsine","Nuusa-Nivarna","Oktavia","Olina","Oline","Olivia","Orpa","Paarma","Paarna",
+"Paarnannguaq","Paarnaq","Pakkutaq","Palikka","Palleq","Pallu","Pallunnguaq","Pamela","Pamîla",
+"Paneeraq","Pani","Paniaraq","Panik","Paninnguaq","Panissaaq","Paniula","Pano","Panu","Parnannguaq",
+"Parnuuna","Patricia","Paula","Pauline","Pernille","Petra","Petra-Esma","Petrina","Petrine","Pia",
+"Piiannguaq","Piipa","Pikeera","Pikiti","Pilu","Pilunnguaq","Pinnaluk","Pipa","Pipaluk","Pivik",
+"Pivinnguaq","Priya","Puto","Qiajunnguaq","Qivioq","Qunerseeq","Qupaluk","Qupanu","Qupanuk",
+"Rachel","Rackel","Rafaela","Randi","Randi-Nuuni","Rasma","Rasmine","Rebecca","Rebekka-Karen",
+"Regine","Rena-Sørina","Renee","Ria","Ria-Bolette","Riaana","Riana","Rianna","Rikke","Rina","Rinda",
+"Rita","Rita-Lea","Ritha","Ronja","Rosa","Rosamaria","Rosannguaq","Rosine","Runa","Ruth","Sabina",
+"Sabine","Sabrina","Saffie","Safine","Safira","Saga","Saime","Salma","Salome-Natuk","Sandi",
+"Sandra","Sandy","Sara","Sara-Dorthe","Sara-Elisabeth","Sara-Kathrine","Sara-Louise",
+"Sara-Magdalene","Sara-Malou","Sara-Marie","Sara-Viola","Sarah","Sarah-Johanne","Sascha","Sasha",
+"Sasha-Dodo","Sasja","Scout","Sebora","Selena","Selinda","Selma","Seqininnguaq","Serena","Seria",
+"Serie","Serminnguak","Shaima","Shanaya","Shiela","Shiloh","Sia","Sialuk","Sialunnguaq","Signa",
+"Signa-Pipaluk","Signe","Siira","Sika","Sikkerneq","Sikkerninnguaq","Sikkersoq","Silje","Silke",
+"Silla","Silpa","Silvia","Simigaq","Simone","Sina","Siorpâluk","Siri","Siuana","Smilla","Sofia",
+"Sofie","Solveig","Sonja","Soralu","Sorina","Stella","Stephanie","Stina","Stinannnguaq",
+"Stine-Lisa","Sunna","Susanne","Suzi","Sylvia","Søriinannguaq","Sørina","Sørinannguaq","Sørine",
+"Taja","Tanja","Tanya","Tarja","Tascha","Tasya","Tatiana","Tatjana","Tea","Teresa","Teresia",
+"Thaila","Thala","Thaya","Thea","Thelma","Theodora","Therecie","Theresia","Therisie","Thomasine",
+"Thora","Tiahna","Tiana","Tina","Tinka-Lykke","Tira","Titte-Marie","Titti","Tonya","Trine",
+"Tuarana","Tukuma","Tukummeq","Tukúmínguak","Tullerunnaq","Tuminnguaq","Tupaarnaq","Tuperna",
+"Tupârnak","Uiloq","Uiloq-Amaliannguaq","Uilu","Uka","Uka-Maja","Ukaaka","Ulaaju","Ulla",
+"Ulo-Melissa","Ulu","Ululina","Ulunnguaq","Uluutannguaq","Unalina","Ungaatinnguaq","Upaluk",
+"Upanuk","Vaale","Valborg","Vanessa","Vanûva","Varna","Vera","Veronica","Veronika","Via","Viana",
+"Vicki","Victoria","Viiannguaq","Viivi","Viktoria","Viktoria-Martha","Vilde","Vinuuna","Viola",
+"Viola-Lisa","Viola-Paninnguaq","Viona","Vivi","Vivian","Vivien","Wella","Winnie","Winona","Xela",
+"Yasmin","Yvonne","Zascha","Zelda","Zira","Zita","Zoi","Àsa","Ârk'ê";
+VALUES("cohort")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[da]("fødselsår")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[kl]("ukioq inunngorfik")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL("cohort")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL[da]("fødselsår")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL[kl]("ukioq inunngorfik")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+CODES("first firstname")="Aaja","Aajunnguaq","Aaliyah-Leona","Aaninnguaq","Aanngiiuk","Aarna",
+"Aarnaseeraq","Abi","Abigael","Abigail","Ada-Louise","Adela","Adina","Adriana","Aeja","Agathe",
+"Agnethe","Aia","Aicha","Aida","Aika","Aila","Aili","Aima","Aimee","Aimee-Hansa","Aimi","Aimie",
+"Aimée","Aina","Aina-Marianne","Ainannguaq","Aiva","Aivi","Aiya","Aiyana","Aiyna","Aja","Ajaaja",
+"Ajaana","Ajaanngu-Pia","Ajannguaq","Ajla","Ajâja","Akaluuna","Aki","Akisooq","Akitsinnguaq",
+"Alaska","Alata","Alaya","Alba","Aleida","Aleqa","Aleqasina","Alexandra","Aliaana","Alicia","Alina",
+"Aline","Alliaq","Alma","Alva","Alvina","Alyssa","Amalia","Amalie","Amaliánguak","Amanda","Amiuna",
+"Amy","Anabella","Andrea","Ane","Ane-Aretha","Ane-Dorthe","Ane-Helene","Ane-Jonna","Ane-Justine",
+"Ane-Louise","Ane-Marie","Ane-Mina","Ane-Naja","Ane-Sofie","Angaju","Angelica","Angerlannguaq",
+"Angerlartoq","Angerlartunnguaq","Anika","Anike","Anina","Anitse","Anja","Ann","Anna","Anna-Louise",
+"Anna-Maline","Anna-Marie","Anna-Miia","Anna-Rosa","Annabella","Annabelle","Annaluna","Anne",
+"Anouk","Anso","Anuk","Apannguaq","Aqattannguaq","Aqattaq","Aria","Ariana","Ariane","Arina",
+"Arlene","Arnaaluk","Arnaaraq","Arnajaraq","Arnakitsoq","Arnakkuluk","Arnaliaq","Arnamineq",
+"Arnanguak","Arnannguaq","Arnaq","Arnaq-Nivi","Arnarissoq","Arnartaq","Arnarulunnguaq","Arnaruniaq",
+"Arnatsiannguaq","Arnatsiaq","Arnatuk","Arnavarakkuluk","Arnavaraq","Arsugaq","Aruna","Arya",
+"Aryana","Asa","Asa-Niviaaluk","Asamanadee","Asana","Ashley","Asiarpa","Asta","Astrid",
+"Astrid-Lariisa","Athena","Augusta","Augusta-Niviaq","Aura","Aurora","Ava","Avaruna","Aviaaja",
+"Aviaajannguaq","Aviaana","Aviaja","Aviak","Aviana","Aviana-Dodo","Aviaq","Aviaya","Aviina","Avike",
+"Avikkee","Aviluannguaq","Aviula","Aviva","Aviâja","Aviâna","Aya","Ayalik","Ayana","Ayda","Aye",
+"Ayla","Ayla-Marie","Ayna","Aysha","Balikka","Bartholine","Bea","Beathe","Belinda","Beline","Bella",
+"Bella-Mia","Bendo","Benjamine","Bente","Bertha","Bertha-Inuk","Bertheline","Betina","Bianca",
+"Bibi","Biibi","Birgethe","Birgithe","Birthe","Bjørk","Bodil","Bodil-Dorthe","Bodil-Maren",
+"Bolethe","Bolethe-Tina","Breanna","Brenda","Britta","Caia","Camilla","Carla","Caroline",
+"Cassandra","Cassiopiea","Caya","Cayla","Cecilia","Cecilie","Cecilie-Ella","Celina","Cesi",
+"Charlotte","Charlotte-Ali","Chelsea","Chloe","Christa","Christa-Naja","Ciara","Ciea","Cina",
+"Clara","Claudia","Cora","Daaya","Dagmar","Daisy","Dakshita","Dana","Dana-Anja","Daniella","Dea",
+"Dea-Navarana","Dea-Paninnguaq","Debbo","Debo","Delaila","Demi","Dia","Diana","Diannguaq",
+"Digaajaat","Dija","Dina","Dina-Sofie","Diya","Dodo","Domilia","Dora","Dora-Salome","Dorthe",
+"Dorthea","Dorthennguaq","Dorthia","Ea","Edith","Eema","Eike","Elaine","Elfi","Elisa","Elisabeth",
+"Elise","Elizabeth","Ella","Ellen","Ellie","Elna","Else","Else-Johanne","Else-Manumina",
+"Else-Perpilua","Elvira","Emilia","Emilie","Emilina","Emily","Emma","Emmy","Enola","Enooya","Erika",
+"Erna","Erna-Monika","Esmeralda-Naja","Esther","Esther-Marie","Eva","Eve-Rosa","Evelyn","Evita",
+"Evitha","Evona","Evy","Fia-Aviana","Fie","Filippa","Fiona","Flavia","Francine","Fraya","Freda",
+"Frederikka","Frederikke","Frederina","Freja","Freya","Freyja","Frida","Frigga","Gabrieline",
+"Gabriella","Gabrielle","Genoveva","Gertrud","Ghita","Gitte","Grethe","Grethe-Naja","Gry","Gudrun",
+"Guluk","Gundine","Gunna","Hailie","Hannah","Hanne","Hanne-Nukaaraq","Hansa","Hansina","Hansine",
+"Harriet","Hedvig","Heide","Heidi","Helene","Helene-Margrethe","Helga","Hella","Henriethe",
+"Henriette","Hilda","Holly","Ida","Ida-Amalia","Ida-Mathilda","Ida-Mette","Ida-Olivia","Iiliina",
+"Iina","Ikilana","Ikinngut-Titta","Ikiuna","Ikiuuna","Ikke-navngivet","Iliinnaaraq","Iluna",
+"Iluuna","Ilúúla","Ina","Inalliaq","Inaluk","Inalunnguaq","Inequ","Inequnaaraq","Inga","Inge",
+"Inge-Maria","Ingeborg","Inger","Ingrid","Inneruulaq","Inni","Inugtak","Inugtak'","Inuina",
+"Inuina-Arnajaraq","Inunnguaq","Inuula","Inuuna","Inuuna-Nuka","Inûna","Isa","Isabella",
+"Isabella-Petrine","Isabelle","Isadora-Pivik","Isi","Iva","Ivaana","Ivaana-Margrethe","Ivalo",
+"Ivalo-Athena","Ivalu","Ivalu-Inuk","Ivana","Ivinnguaq","Ivvii","Ivy","Ivâna","Ivínguak",
+"Izabela-Laura","Jaane","Jacqueline","Jakobine","Jane","Jane-Hansigne","Jannie","Jasmin","Jasmine",
+"Jenna","Jennie","Jennifer","Jenny","Jensine","Jessica","Jette","Jirapat","Johanne","Johna",
+"Jonasine","Jonna","Jonna-Dea","Jonna-Isabella","Judithe","Julia","Juliane","Julie","Justine",
+"Jørgine","Kaaka","Kaalat","Kaila","Kaisa","Kaitlyn","Kaja","Kaka","Kakillarnaq","Kamilla","Karen",
+"Karen-Agathe","Karen-Melissa","Karen-Nukaaraq","Karen-Rosa","Karina","Karla","Karline","Karna",
+"Karoline","Kasandra","Kassaaluk","Katalina","Kate","Kathrine","Katinka","Katiyana","Katja",
+"Katrin","Katrine","Katsi","Katta","Kattaliit","Kaya","Kaya-Ivaana","Kaya-Pani","Kayla","Keira",
+"Kelly","Ketura","Kiajúnguak","Kiana","Kiara","Kida","Kiiki","Kim","Kimia","Kimmernannguaq",
+"Kimmernaq","Kira","Kirstine","Kista","Kitora","Kiva","Klara","Klaura","Kore","Korka","Kornelia",
+"Krista","Kristian","Kristiane","Kristina","Kristinannguaq","Kristine","Kristine-Johanne","Kuannia",
+"Kuka","Kukakkuluk","Kulapak","Kuluk","Kulunnguaq","Kuluuna","Kuuna","Laali","Laana","Labinnah",
+"Lady","Laia","Laila","Laisa","Lajla-Nuka","Lana","Lane","Lane-Sara","Lania","Lara","Larisa",
+"Laura","Lea","Leah","Leah-Selena","Leana","Leanna","Leela","Leelo","Leia","Leica","Lena",
+"Lena-Marie","Leni","Leona","Leonora","Lexie","Lia","Liana","Liila","Liina","Liiva","Lila",
+"Liliana","Lilja","Lilli","Lillian","Lilly","Lilu","Lily","Lilyana","Lina","Linda","Linn","Lisa",
+"Lise","Lita","Liv","Liva","Liya","Lola","Lola-Mike","Lola-Nuka","Lona","Lone","Lora","Lotta",
+"Lotte","Louisa","Louise","Lucia","Lucie","Lucy","Lucy-Nuunu","Ludvikka","Lula","Lulu","Luna",
+"Luuiisa","Luulu","Lydia","Lydie","Lykke","Lyla","Ma","Maalia","Maaliaannaaraq","Maaliannguaq",
+"Maannguaq","Madi","Magda","Magdalene","Magdaline","Magde","Maggie","Mai-Britt","Maika","Maiken",
+"Maila","Maili","Maita","Maite","Maja","Majka","Majken","Makkannguaq","Makkaritta","Malene-Johanne",
+"Maliina","Maliiva","Malika","Maline","Maliva","Malo","Malou","Malouk","Malu","Malu-Julia",
+"Malu-Soralu","Malunnguaq","Mannik","Manumina","Mara","Maren","Maren-Viola","Margrethe",
+"Margrethe-Duuda","Maria","Maria-Magdalina","Maria-Nuka","Mariah","Mariane","Marianne","Marie",
+"Marie-Dagmar","Marie-Johanne","Marie-Kathrine","Marie-Katrine","Marie-Lise","Marie-Malene",
+"Mariina","Marika","Marina","Marion-Ayla","Marita","Marta","Martha","Martine","Maryan","Masja",
+"Massora","Mathilda","Mathilde","Mattaaraq","Maya","Maya-Paneeraq","Maybrit","Mayla","Maysiya",
+"Mea","Megan","Meliina","Melissa","Mella","Menina","Mercedes","Mette","Mette-Maria","Mettennguaq",
+"Meya","Mia","Mia-Birthe","Mia-Niviana","Miaja","Mianna","Michaela","Michalla","Michelle","Mie",
+"Miia","Miiannguaq","Miila","Miina","Mikaella","Mikela","Mikisoq","Mila","Miley","Milla",
+"Milla-Loui","Mille","Mille-Maja","Milly","Mina","Mina-Louise","Mina-Marie","Minikka","Mira",
+"Miranda","Mischa","Misha","Misu","Mollie","Molly","Mona","Mona-Mettennguaq","Mona-Rita","Moni",
+"Monica","Monika","Monique","Motzfeldt","Mudi","Muko","Mynthe","Naalu","Naasoq-Rosa","Naasu",
+"Naasunnguaq","Nadia","Nadina","Nadja","Naduk","Nadya","Naisha","Naja","Naja-Ali","Naja-Angajo",
+"Naja-Dorthe","Naja-Elisa","Naja-Nuka","Najaaaraq","Najaaja","Najaaka","Najaana","Najaaraq","Najak",
+"Najakkuluk","Najakkuluk-Karen","Najana","Najannguaq","Najattaannguaq","Najattaaq","Najattaava",
+"Najavaraq","Nancy","Nanna","Natacha","Natasha","Natasja","Nathalia","Natkrita","Natuk","Nava",
+"Navaran","Navarana","Navaruna","Naya","Neala","Neela","Nefertiti","Nellie","Nete","Neva","Neyla",
+"Nia","Niattaa","Niattaaq","Niattaavaraq","Nielsine","Niia-Nuunu","Niini","Nikita","Nikkia",
+"Niko-Jonna","Nikulina","Nina","Nina-Viivi","Nini","Nini-Sikkerneq","Ninna","Ninni","Nita","Nitta",
+"Nive","Nivi","Nivi-Margrethe","Niviaaja","Niviaaluk","Niviaana","Niviana","Niviaq","Niviarsiaq",
+"Niviarsiaraq","Niviarsina","Niviatsiaq","Nivikka","Nivinnguaq","Niviâna","Noella","Nola","Noomi",
+"Nora","Norah","Norsannguaq","Nova","Nuiana","Nuila","Nuka","Nuka-Heidi","Nuka-Marie",
+"Nuka-Miitinnguaq","Nuka-Naja","Nuka-Sara","Nuka-Viivi","Nukaaka","Nukaaka-Alliaq","Nukaaraq",
+"Nukajaraq","Nukakkuluk","Nukalaat","Nukannguaq","Nukarliaq","Nukarlinnguaq","Nukavik","Nukuna",
+"Nukâka","Nuni-Rita","Nunni","Nunnu","Nunuko","Nuuna","Nuuni","Nuunu","Nuunu-Maren",
+"Nuunu-Nielsine","Nuusa-Nivarna","Oktavia","Olina","Oline","Olivia","Orpa","Paarma","Paarna",
+"Paarnannguaq","Paarnaq","Pakkutaq","Palikka","Palleq","Pallu","Pallunnguaq","Pamela","Pamîla",
+"Paneeraq","Pani","Paniaraq","Panik","Paninnguaq","Panissaaq","Paniula","Pano","Panu","Parnannguaq",
+"Parnuuna","Patricia","Paula","Pauline","Pernille","Petra","Petra-Esma","Petrina","Petrine","Pia",
+"Piiannguaq","Piipa","Pikeera","Pikiti","Pilu","Pilunnguaq","Pinnaluk","Pipa","Pipaluk","Pivik",
+"Pivinnguaq","Priya","Puto","Qiajunnguaq","Qivioq","Qunerseeq","Qupaluk","Qupanu","Qupanuk",
+"Rachel","Rackel","Rafaela","Randi","Randi-Nuuni","Rasma","Rasmine","Rebecca","Rebekka-Karen",
+"Regine","Rena-Sørina","Renee","Ria","Ria-Bolette","Riaana","Riana","Rianna","Rikke","Rina","Rinda",
+"Rita","Rita-Lea","Ritha","Ronja","Rosa","Rosamaria","Rosannguaq","Rosine","Runa","Ruth","Sabina",
+"Sabine","Sabrina","Saffie","Safine","Safira","Saga","Saime","Salma","Salome-Natuk","Sandi",
+"Sandra","Sandy","Sara","Sara-Dorthe","Sara-Elisabeth","Sara-Kathrine","Sara-Louise",
+"Sara-Magdalene","Sara-Malou","Sara-Marie","Sara-Viola","Sarah","Sarah-Johanne","Sascha","Sasha",
+"Sasha-Dodo","Sasja","Scout","Sebora","Selena","Selinda","Selma","Seqininnguaq","Serena","Seria",
+"Serie","Serminnguak","Shaima","Shanaya","Shiela","Shiloh","Sia","Sialuk","Sialunnguaq","Signa",
+"Signa-Pipaluk","Signe","Siira","Sika","Sikkerneq","Sikkerninnguaq","Sikkersoq","Silje","Silke",
+"Silla","Silpa","Silvia","Simigaq","Simone","Sina","Siorpâluk","Siri","Siuana","Smilla","Sofia",
+"Sofie","Solveig","Sonja","Soralu","Sorina","Stella","Stephanie","Stina","Stinannnguaq",
+"Stine-Lisa","Sunna","Susanne","Suzi","Sylvia","Søriinannguaq","Sørina","Sørinannguaq","Sørine",
+"Taja","Tanja","Tanya","Tarja","Tascha","Tasya","Tatiana","Tatjana","Tea","Teresa","Teresia",
+"Thaila","Thala","Thaya","Thea","Thelma","Theodora","Therecie","Theresia","Therisie","Thomasine",
+"Thora","Tiahna","Tiana","Tina","Tinka-Lykke","Tira","Titte-Marie","Titti","Tonya","Trine",
+"Tuarana","Tukuma","Tukummeq","Tukúmínguak","Tullerunnaq","Tuminnguaq","Tupaarnaq","Tuperna",
+"Tupârnak","Uiloq","Uiloq-Amaliannguaq","Uilu","Uka","Uka-Maja","Ukaaka","Ulaaju","Ulla",
+"Ulo-Melissa","Ulu","Ululina","Ulunnguaq","Uluutannguaq","Unalina","Ungaatinnguaq","Upaluk",
+"Upanuk","Vaale","Valborg","Vanessa","Vanûva","Varna","Vera","Veronica","Veronika","Via","Viana",
+"Vicki","Victoria","Viiannguaq","Viivi","Viktoria","Viktoria-Martha","Vilde","Vinuuna","Viola",
+"Viola-Lisa","Viola-Paninnguaq","Viona","Vivi","Vivian","Vivien","Wella","Winnie","Winona","Xela",
+"Yasmin","Yvonne","Zascha","Zelda","Zira","Zita","Zoi","Àsa","Ârk'ê";
+CODES[da]("første fornavn")="Aaja","Aajunnguaq","Aaliyah-Leona","Aaninnguaq","Aanngiiuk","Aarna",
+"Aarnaseeraq","Abi","Abigael","Abigail","Ada-Louise","Adela","Adina","Adriana","Aeja","Agathe",
+"Agnethe","Aia","Aicha","Aida","Aika","Aila","Aili","Aima","Aimee","Aimee-Hansa","Aimi","Aimie",
+"Aimée","Aina","Aina-Marianne","Ainannguaq","Aiva","Aivi","Aiya","Aiyana","Aiyna","Aja","Ajaaja",
+"Ajaana","Ajaanngu-Pia","Ajannguaq","Ajla","Ajâja","Akaluuna","Aki","Akisooq","Akitsinnguaq",
+"Alaska","Alata","Alaya","Alba","Aleida","Aleqa","Aleqasina","Alexandra","Aliaana","Alicia","Alina",
+"Aline","Alliaq","Alma","Alva","Alvina","Alyssa","Amalia","Amalie","Amaliánguak","Amanda","Amiuna",
+"Amy","Anabella","Andrea","Ane","Ane-Aretha","Ane-Dorthe","Ane-Helene","Ane-Jonna","Ane-Justine",
+"Ane-Louise","Ane-Marie","Ane-Mina","Ane-Naja","Ane-Sofie","Angaju","Angelica","Angerlannguaq",
+"Angerlartoq","Angerlartunnguaq","Anika","Anike","Anina","Anitse","Anja","Ann","Anna","Anna-Louise",
+"Anna-Maline","Anna-Marie","Anna-Miia","Anna-Rosa","Annabella","Annabelle","Annaluna","Anne",
+"Anouk","Anso","Anuk","Apannguaq","Aqattannguaq","Aqattaq","Aria","Ariana","Ariane","Arina",
+"Arlene","Arnaaluk","Arnaaraq","Arnajaraq","Arnakitsoq","Arnakkuluk","Arnaliaq","Arnamineq",
+"Arnanguak","Arnannguaq","Arnaq","Arnaq-Nivi","Arnarissoq","Arnartaq","Arnarulunnguaq","Arnaruniaq",
+"Arnatsiannguaq","Arnatsiaq","Arnatuk","Arnavarakkuluk","Arnavaraq","Arsugaq","Aruna","Arya",
+"Aryana","Asa","Asa-Niviaaluk","Asamanadee","Asana","Ashley","Asiarpa","Asta","Astrid",
+"Astrid-Lariisa","Athena","Augusta","Augusta-Niviaq","Aura","Aurora","Ava","Avaruna","Aviaaja",
+"Aviaajannguaq","Aviaana","Aviaja","Aviak","Aviana","Aviana-Dodo","Aviaq","Aviaya","Aviina","Avike",
+"Avikkee","Aviluannguaq","Aviula","Aviva","Aviâja","Aviâna","Aya","Ayalik","Ayana","Ayda","Aye",
+"Ayla","Ayla-Marie","Ayna","Aysha","Balikka","Bartholine","Bea","Beathe","Belinda","Beline","Bella",
+"Bella-Mia","Bendo","Benjamine","Bente","Bertha","Bertha-Inuk","Bertheline","Betina","Bianca",
+"Bibi","Biibi","Birgethe","Birgithe","Birthe","Bjørk","Bodil","Bodil-Dorthe","Bodil-Maren",
+"Bolethe","Bolethe-Tina","Breanna","Brenda","Britta","Caia","Camilla","Carla","Caroline",
+"Cassandra","Cassiopiea","Caya","Cayla","Cecilia","Cecilie","Cecilie-Ella","Celina","Cesi",
+"Charlotte","Charlotte-Ali","Chelsea","Chloe","Christa","Christa-Naja","Ciara","Ciea","Cina",
+"Clara","Claudia","Cora","Daaya","Dagmar","Daisy","Dakshita","Dana","Dana-Anja","Daniella","Dea",
+"Dea-Navarana","Dea-Paninnguaq","Debbo","Debo","Delaila","Demi","Dia","Diana","Diannguaq",
+"Digaajaat","Dija","Dina","Dina-Sofie","Diya","Dodo","Domilia","Dora","Dora-Salome","Dorthe",
+"Dorthea","Dorthennguaq","Dorthia","Ea","Edith","Eema","Eike","Elaine","Elfi","Elisa","Elisabeth",
+"Elise","Elizabeth","Ella","Ellen","Ellie","Elna","Else","Else-Johanne","Else-Manumina",
+"Else-Perpilua","Elvira","Emilia","Emilie","Emilina","Emily","Emma","Emmy","Enola","Enooya","Erika",
+"Erna","Erna-Monika","Esmeralda-Naja","Esther","Esther-Marie","Eva","Eve-Rosa","Evelyn","Evita",
+"Evitha","Evona","Evy","Fia-Aviana","Fie","Filippa","Fiona","Flavia","Francine","Fraya","Freda",
+"Frederikka","Frederikke","Frederina","Freja","Freya","Freyja","Frida","Frigga","Gabrieline",
+"Gabriella","Gabrielle","Genoveva","Gertrud","Ghita","Gitte","Grethe","Grethe-Naja","Gry","Gudrun",
+"Guluk","Gundine","Gunna","Hailie","Hannah","Hanne","Hanne-Nukaaraq","Hansa","Hansina","Hansine",
+"Harriet","Hedvig","Heide","Heidi","Helene","Helene-Margrethe","Helga","Hella","Henriethe",
+"Henriette","Hilda","Holly","Ida","Ida-Amalia","Ida-Mathilda","Ida-Mette","Ida-Olivia","Iiliina",
+"Iina","Ikilana","Ikinngut-Titta","Ikiuna","Ikiuuna","Ikke-navngivet","Iliinnaaraq","Iluna",
+"Iluuna","Ilúúla","Ina","Inalliaq","Inaluk","Inalunnguaq","Inequ","Inequnaaraq","Inga","Inge",
+"Inge-Maria","Ingeborg","Inger","Ingrid","Inneruulaq","Inni","Inugtak","Inugtak'","Inuina",
+"Inuina-Arnajaraq","Inunnguaq","Inuula","Inuuna","Inuuna-Nuka","Inûna","Isa","Isabella",
+"Isabella-Petrine","Isabelle","Isadora-Pivik","Isi","Iva","Ivaana","Ivaana-Margrethe","Ivalo",
+"Ivalo-Athena","Ivalu","Ivalu-Inuk","Ivana","Ivinnguaq","Ivvii","Ivy","Ivâna","Ivínguak",
+"Izabela-Laura","Jaane","Jacqueline","Jakobine","Jane","Jane-Hansigne","Jannie","Jasmin","Jasmine",
+"Jenna","Jennie","Jennifer","Jenny","Jensine","Jessica","Jette","Jirapat","Johanne","Johna",
+"Jonasine","Jonna","Jonna-Dea","Jonna-Isabella","Judithe","Julia","Juliane","Julie","Justine",
+"Jørgine","Kaaka","Kaalat","Kaila","Kaisa","Kaitlyn","Kaja","Kaka","Kakillarnaq","Kamilla","Karen",
+"Karen-Agathe","Karen-Melissa","Karen-Nukaaraq","Karen-Rosa","Karina","Karla","Karline","Karna",
+"Karoline","Kasandra","Kassaaluk","Katalina","Kate","Kathrine","Katinka","Katiyana","Katja",
+"Katrin","Katrine","Katsi","Katta","Kattaliit","Kaya","Kaya-Ivaana","Kaya-Pani","Kayla","Keira",
+"Kelly","Ketura","Kiajúnguak","Kiana","Kiara","Kida","Kiiki","Kim","Kimia","Kimmernannguaq",
+"Kimmernaq","Kira","Kirstine","Kista","Kitora","Kiva","Klara","Klaura","Kore","Korka","Kornelia",
+"Krista","Kristian","Kristiane","Kristina","Kristinannguaq","Kristine","Kristine-Johanne","Kuannia",
+"Kuka","Kukakkuluk","Kulapak","Kuluk","Kulunnguaq","Kuluuna","Kuuna","Laali","Laana","Labinnah",
+"Lady","Laia","Laila","Laisa","Lajla-Nuka","Lana","Lane","Lane-Sara","Lania","Lara","Larisa",
+"Laura","Lea","Leah","Leah-Selena","Leana","Leanna","Leela","Leelo","Leia","Leica","Lena",
+"Lena-Marie","Leni","Leona","Leonora","Lexie","Lia","Liana","Liila","Liina","Liiva","Lila",
+"Liliana","Lilja","Lilli","Lillian","Lilly","Lilu","Lily","Lilyana","Lina","Linda","Linn","Lisa",
+"Lise","Lita","Liv","Liva","Liya","Lola","Lola-Mike","Lola-Nuka","Lona","Lone","Lora","Lotta",
+"Lotte","Louisa","Louise","Lucia","Lucie","Lucy","Lucy-Nuunu","Ludvikka","Lula","Lulu","Luna",
+"Luuiisa","Luulu","Lydia","Lydie","Lykke","Lyla","Ma","Maalia","Maaliaannaaraq","Maaliannguaq",
+"Maannguaq","Madi","Magda","Magdalene","Magdaline","Magde","Maggie","Mai-Britt","Maika","Maiken",
+"Maila","Maili","Maita","Maite","Maja","Majka","Majken","Makkannguaq","Makkaritta","Malene-Johanne",
+"Maliina","Maliiva","Malika","Maline","Maliva","Malo","Malou","Malouk","Malu","Malu-Julia",
+"Malu-Soralu","Malunnguaq","Mannik","Manumina","Mara","Maren","Maren-Viola","Margrethe",
+"Margrethe-Duuda","Maria","Maria-Magdalina","Maria-Nuka","Mariah","Mariane","Marianne","Marie",
+"Marie-Dagmar","Marie-Johanne","Marie-Kathrine","Marie-Katrine","Marie-Lise","Marie-Malene",
+"Mariina","Marika","Marina","Marion-Ayla","Marita","Marta","Martha","Martine","Maryan","Masja",
+"Massora","Mathilda","Mathilde","Mattaaraq","Maya","Maya-Paneeraq","Maybrit","Mayla","Maysiya",
+"Mea","Megan","Meliina","Melissa","Mella","Menina","Mercedes","Mette","Mette-Maria","Mettennguaq",
+"Meya","Mia","Mia-Birthe","Mia-Niviana","Miaja","Mianna","Michaela","Michalla","Michelle","Mie",
+"Miia","Miiannguaq","Miila","Miina","Mikaella","Mikela","Mikisoq","Mila","Miley","Milla",
+"Milla-Loui","Mille","Mille-Maja","Milly","Mina","Mina-Louise","Mina-Marie","Minikka","Mira",
+"Miranda","Mischa","Misha","Misu","Mollie","Molly","Mona","Mona-Mettennguaq","Mona-Rita","Moni",
+"Monica","Monika","Monique","Motzfeldt","Mudi","Muko","Mynthe","Naalu","Naasoq-Rosa","Naasu",
+"Naasunnguaq","Nadia","Nadina","Nadja","Naduk","Nadya","Naisha","Naja","Naja-Ali","Naja-Angajo",
+"Naja-Dorthe","Naja-Elisa","Naja-Nuka","Najaaaraq","Najaaja","Najaaka","Najaana","Najaaraq","Najak",
+"Najakkuluk","Najakkuluk-Karen","Najana","Najannguaq","Najattaannguaq","Najattaaq","Najattaava",
+"Najavaraq","Nancy","Nanna","Natacha","Natasha","Natasja","Nathalia","Natkrita","Natuk","Nava",
+"Navaran","Navarana","Navaruna","Naya","Neala","Neela","Nefertiti","Nellie","Nete","Neva","Neyla",
+"Nia","Niattaa","Niattaaq","Niattaavaraq","Nielsine","Niia-Nuunu","Niini","Nikita","Nikkia",
+"Niko-Jonna","Nikulina","Nina","Nina-Viivi","Nini","Nini-Sikkerneq","Ninna","Ninni","Nita","Nitta",
+"Nive","Nivi","Nivi-Margrethe","Niviaaja","Niviaaluk","Niviaana","Niviana","Niviaq","Niviarsiaq",
+"Niviarsiaraq","Niviarsina","Niviatsiaq","Nivikka","Nivinnguaq","Niviâna","Noella","Nola","Noomi",
+"Nora","Norah","Norsannguaq","Nova","Nuiana","Nuila","Nuka","Nuka-Heidi","Nuka-Marie",
+"Nuka-Miitinnguaq","Nuka-Naja","Nuka-Sara","Nuka-Viivi","Nukaaka","Nukaaka-Alliaq","Nukaaraq",
+"Nukajaraq","Nukakkuluk","Nukalaat","Nukannguaq","Nukarliaq","Nukarlinnguaq","Nukavik","Nukuna",
+"Nukâka","Nuni-Rita","Nunni","Nunnu","Nunuko","Nuuna","Nuuni","Nuunu","Nuunu-Maren",
+"Nuunu-Nielsine","Nuusa-Nivarna","Oktavia","Olina","Oline","Olivia","Orpa","Paarma","Paarna",
+"Paarnannguaq","Paarnaq","Pakkutaq","Palikka","Palleq","Pallu","Pallunnguaq","Pamela","Pamîla",
+"Paneeraq","Pani","Paniaraq","Panik","Paninnguaq","Panissaaq","Paniula","Pano","Panu","Parnannguaq",
+"Parnuuna","Patricia","Paula","Pauline","Pernille","Petra","Petra-Esma","Petrina","Petrine","Pia",
+"Piiannguaq","Piipa","Pikeera","Pikiti","Pilu","Pilunnguaq","Pinnaluk","Pipa","Pipaluk","Pivik",
+"Pivinnguaq","Priya","Puto","Qiajunnguaq","Qivioq","Qunerseeq","Qupaluk","Qupanu","Qupanuk",
+"Rachel","Rackel","Rafaela","Randi","Randi-Nuuni","Rasma","Rasmine","Rebecca","Rebekka-Karen",
+"Regine","Rena-Sørina","Renee","Ria","Ria-Bolette","Riaana","Riana","Rianna","Rikke","Rina","Rinda",
+"Rita","Rita-Lea","Ritha","Ronja","Rosa","Rosamaria","Rosannguaq","Rosine","Runa","Ruth","Sabina",
+"Sabine","Sabrina","Saffie","Safine","Safira","Saga","Saime","Salma","Salome-Natuk","Sandi",
+"Sandra","Sandy","Sara","Sara-Dorthe","Sara-Elisabeth","Sara-Kathrine","Sara-Louise",
+"Sara-Magdalene","Sara-Malou","Sara-Marie","Sara-Viola","Sarah","Sarah-Johanne","Sascha","Sasha",
+"Sasha-Dodo","Sasja","Scout","Sebora","Selena","Selinda","Selma","Seqininnguaq","Serena","Seria",
+"Serie","Serminnguak","Shaima","Shanaya","Shiela","Shiloh","Sia","Sialuk","Sialunnguaq","Signa",
+"Signa-Pipaluk","Signe","Siira","Sika","Sikkerneq","Sikkerninnguaq","Sikkersoq","Silje","Silke",
+"Silla","Silpa","Silvia","Simigaq","Simone","Sina","Siorpâluk","Siri","Siuana","Smilla","Sofia",
+"Sofie","Solveig","Sonja","Soralu","Sorina","Stella","Stephanie","Stina","Stinannnguaq",
+"Stine-Lisa","Sunna","Susanne","Suzi","Sylvia","Søriinannguaq","Sørina","Sørinannguaq","Sørine",
+"Taja","Tanja","Tanya","Tarja","Tascha","Tasya","Tatiana","Tatjana","Tea","Teresa","Teresia",
+"Thaila","Thala","Thaya","Thea","Thelma","Theodora","Therecie","Theresia","Therisie","Thomasine",
+"Thora","Tiahna","Tiana","Tina","Tinka-Lykke","Tira","Titte-Marie","Titti","Tonya","Trine",
+"Tuarana","Tukuma","Tukummeq","Tukúmínguak","Tullerunnaq","Tuminnguaq","Tupaarnaq","Tuperna",
+"Tupârnak","Uiloq","Uiloq-Amaliannguaq","Uilu","Uka","Uka-Maja","Ukaaka","Ulaaju","Ulla",
+"Ulo-Melissa","Ulu","Ululina","Ulunnguaq","Uluutannguaq","Unalina","Ungaatinnguaq","Upaluk",
+"Upanuk","Vaale","Valborg","Vanessa","Vanûva","Varna","Vera","Veronica","Veronika","Via","Viana",
+"Vicki","Victoria","Viiannguaq","Viivi","Viktoria","Viktoria-Martha","Vilde","Vinuuna","Viola",
+"Viola-Lisa","Viola-Paninnguaq","Viona","Vivi","Vivian","Vivien","Wella","Winnie","Winona","Xela",
+"Yasmin","Yvonne","Zascha","Zelda","Zira","Zita","Zoi","Àsa","Ârk'ê";
+CODES[kl]("inuup aqqa siulleq")="Aaja","Aajunnguaq","Aaliyah-Leona","Aaninnguaq","Aanngiiuk",
+"Aarna","Aarnaseeraq","Abi","Abigael","Abigail","Ada-Louise","Adela","Adina","Adriana","Aeja",
+"Agathe","Agnethe","Aia","Aicha","Aida","Aika","Aila","Aili","Aima","Aimee","Aimee-Hansa","Aimi",
+"Aimie","Aimée","Aina","Aina-Marianne","Ainannguaq","Aiva","Aivi","Aiya","Aiyana","Aiyna","Aja",
+"Ajaaja","Ajaana","Ajaanngu-Pia","Ajannguaq","Ajla","Ajâja","Akaluuna","Aki","Akisooq",
+"Akitsinnguaq","Alaska","Alata","Alaya","Alba","Aleida","Aleqa","Aleqasina","Alexandra","Aliaana",
+"Alicia","Alina","Aline","Alliaq","Alma","Alva","Alvina","Alyssa","Amalia","Amalie","Amaliánguak",
+"Amanda","Amiuna","Amy","Anabella","Andrea","Ane","Ane-Aretha","Ane-Dorthe","Ane-Helene",
+"Ane-Jonna","Ane-Justine","Ane-Louise","Ane-Marie","Ane-Mina","Ane-Naja","Ane-Sofie","Angaju",
+"Angelica","Angerlannguaq","Angerlartoq","Angerlartunnguaq","Anika","Anike","Anina","Anitse","Anja",
+"Ann","Anna","Anna-Louise","Anna-Maline","Anna-Marie","Anna-Miia","Anna-Rosa","Annabella",
+"Annabelle","Annaluna","Anne","Anouk","Anso","Anuk","Apannguaq","Aqattannguaq","Aqattaq","Aria",
+"Ariana","Ariane","Arina","Arlene","Arnaaluk","Arnaaraq","Arnajaraq","Arnakitsoq","Arnakkuluk",
+"Arnaliaq","Arnamineq","Arnanguak","Arnannguaq","Arnaq","Arnaq-Nivi","Arnarissoq","Arnartaq",
+"Arnarulunnguaq","Arnaruniaq","Arnatsiannguaq","Arnatsiaq","Arnatuk","Arnavarakkuluk","Arnavaraq",
+"Arsugaq","Aruna","Arya","Aryana","Asa","Asa-Niviaaluk","Asamanadee","Asana","Ashley","Asiarpa",
+"Asta","Astrid","Astrid-Lariisa","Athena","Augusta","Augusta-Niviaq","Aura","Aurora","Ava",
+"Avaruna","Aviaaja","Aviaajannguaq","Aviaana","Aviaja","Aviak","Aviana","Aviana-Dodo","Aviaq",
+"Aviaya","Aviina","Avike","Avikkee","Aviluannguaq","Aviula","Aviva","Aviâja","Aviâna","Aya",
+"Ayalik","Ayana","Ayda","Aye","Ayla","Ayla-Marie","Ayna","Aysha","Balikka","Bartholine","Bea",
+"Beathe","Belinda","Beline","Bella","Bella-Mia","Bendo","Benjamine","Bente","Bertha","Bertha-Inuk",
+"Bertheline","Betina","Bianca","Bibi","Biibi","Birgethe","Birgithe","Birthe","Bjørk","Bodil",
+"Bodil-Dorthe","Bodil-Maren","Bolethe","Bolethe-Tina","Breanna","Brenda","Britta","Caia","Camilla",
+"Carla","Caroline","Cassandra","Cassiopiea","Caya","Cayla","Cecilia","Cecilie","Cecilie-Ella",
+"Celina","Cesi","Charlotte","Charlotte-Ali","Chelsea","Chloe","Christa","Christa-Naja","Ciara",
+"Ciea","Cina","Clara","Claudia","Cora","Daaya","Dagmar","Daisy","Dakshita","Dana","Dana-Anja",
+"Daniella","Dea","Dea-Navarana","Dea-Paninnguaq","Debbo","Debo","Delaila","Demi","Dia","Diana",
+"Diannguaq","Digaajaat","Dija","Dina","Dina-Sofie","Diya","Dodo","Domilia","Dora","Dora-Salome",
+"Dorthe","Dorthea","Dorthennguaq","Dorthia","Ea","Edith","Eema","Eike","Elaine","Elfi","Elisa",
+"Elisabeth","Elise","Elizabeth","Ella","Ellen","Ellie","Elna","Else","Else-Johanne","Else-Manumina",
+"Else-Perpilua","Elvira","Emilia","Emilie","Emilina","Emily","Emma","Emmy","Enola","Enooya","Erika",
+"Erna","Erna-Monika","Esmeralda-Naja","Esther","Esther-Marie","Eva","Eve-Rosa","Evelyn","Evita",
+"Evitha","Evona","Evy","Fia-Aviana","Fie","Filippa","Fiona","Flavia","Francine","Fraya","Freda",
+"Frederikka","Frederikke","Frederina","Freja","Freya","Freyja","Frida","Frigga","Gabrieline",
+"Gabriella","Gabrielle","Genoveva","Gertrud","Ghita","Gitte","Grethe","Grethe-Naja","Gry","Gudrun",
+"Guluk","Gundine","Gunna","Hailie","Hannah","Hanne","Hanne-Nukaaraq","Hansa","Hansina","Hansine",
+"Harriet","Hedvig","Heide","Heidi","Helene","Helene-Margrethe","Helga","Hella","Henriethe",
+"Henriette","Hilda","Holly","Ida","Ida-Amalia","Ida-Mathilda","Ida-Mette","Ida-Olivia","Iiliina",
+"Iina","Ikilana","Ikinngut-Titta","Ikiuna","Ikiuuna","Ikke-navngivet","Iliinnaaraq","Iluna",
+"Iluuna","Ilúúla","Ina","Inalliaq","Inaluk","Inalunnguaq","Inequ","Inequnaaraq","Inga","Inge",
+"Inge-Maria","Ingeborg","Inger","Ingrid","Inneruulaq","Inni","Inugtak","Inugtak'","Inuina",
+"Inuina-Arnajaraq","Inunnguaq","Inuula","Inuuna","Inuuna-Nuka","Inûna","Isa","Isabella",
+"Isabella-Petrine","Isabelle","Isadora-Pivik","Isi","Iva","Ivaana","Ivaana-Margrethe","Ivalo",
+"Ivalo-Athena","Ivalu","Ivalu-Inuk","Ivana","Ivinnguaq","Ivvii","Ivy","Ivâna","Ivínguak",
+"Izabela-Laura","Jaane","Jacqueline","Jakobine","Jane","Jane-Hansigne","Jannie","Jasmin","Jasmine",
+"Jenna","Jennie","Jennifer","Jenny","Jensine","Jessica","Jette","Jirapat","Johanne","Johna",
+"Jonasine","Jonna","Jonna-Dea","Jonna-Isabella","Judithe","Julia","Juliane","Julie","Justine",
+"Jørgine","Kaaka","Kaalat","Kaila","Kaisa","Kaitlyn","Kaja","Kaka","Kakillarnaq","Kamilla","Karen",
+"Karen-Agathe","Karen-Melissa","Karen-Nukaaraq","Karen-Rosa","Karina","Karla","Karline","Karna",
+"Karoline","Kasandra","Kassaaluk","Katalina","Kate","Kathrine","Katinka","Katiyana","Katja",
+"Katrin","Katrine","Katsi","Katta","Kattaliit","Kaya","Kaya-Ivaana","Kaya-Pani","Kayla","Keira",
+"Kelly","Ketura","Kiajúnguak","Kiana","Kiara","Kida","Kiiki","Kim","Kimia","Kimmernannguaq",
+"Kimmernaq","Kira","Kirstine","Kista","Kitora","Kiva","Klara","Klaura","Kore","Korka","Kornelia",
+"Krista","Kristian","Kristiane","Kristina","Kristinannguaq","Kristine","Kristine-Johanne","Kuannia",
+"Kuka","Kukakkuluk","Kulapak","Kuluk","Kulunnguaq","Kuluuna","Kuuna","Laali","Laana","Labinnah",
+"Lady","Laia","Laila","Laisa","Lajla-Nuka","Lana","Lane","Lane-Sara","Lania","Lara","Larisa",
+"Laura","Lea","Leah","Leah-Selena","Leana","Leanna","Leela","Leelo","Leia","Leica","Lena",
+"Lena-Marie","Leni","Leona","Leonora","Lexie","Lia","Liana","Liila","Liina","Liiva","Lila",
+"Liliana","Lilja","Lilli","Lillian","Lilly","Lilu","Lily","Lilyana","Lina","Linda","Linn","Lisa",
+"Lise","Lita","Liv","Liva","Liya","Lola","Lola-Mike","Lola-Nuka","Lona","Lone","Lora","Lotta",
+"Lotte","Louisa","Louise","Lucia","Lucie","Lucy","Lucy-Nuunu","Ludvikka","Lula","Lulu","Luna",
+"Luuiisa","Luulu","Lydia","Lydie","Lykke","Lyla","Ma","Maalia","Maaliaannaaraq","Maaliannguaq",
+"Maannguaq","Madi","Magda","Magdalene","Magdaline","Magde","Maggie","Mai-Britt","Maika","Maiken",
+"Maila","Maili","Maita","Maite","Maja","Majka","Majken","Makkannguaq","Makkaritta","Malene-Johanne",
+"Maliina","Maliiva","Malika","Maline","Maliva","Malo","Malou","Malouk","Malu","Malu-Julia",
+"Malu-Soralu","Malunnguaq","Mannik","Manumina","Mara","Maren","Maren-Viola","Margrethe",
+"Margrethe-Duuda","Maria","Maria-Magdalina","Maria-Nuka","Mariah","Mariane","Marianne","Marie",
+"Marie-Dagmar","Marie-Johanne","Marie-Kathrine","Marie-Katrine","Marie-Lise","Marie-Malene",
+"Mariina","Marika","Marina","Marion-Ayla","Marita","Marta","Martha","Martine","Maryan","Masja",
+"Massora","Mathilda","Mathilde","Mattaaraq","Maya","Maya-Paneeraq","Maybrit","Mayla","Maysiya",
+"Mea","Megan","Meliina","Melissa","Mella","Menina","Mercedes","Mette","Mette-Maria","Mettennguaq",
+"Meya","Mia","Mia-Birthe","Mia-Niviana","Miaja","Mianna","Michaela","Michalla","Michelle","Mie",
+"Miia","Miiannguaq","Miila","Miina","Mikaella","Mikela","Mikisoq","Mila","Miley","Milla",
+"Milla-Loui","Mille","Mille-Maja","Milly","Mina","Mina-Louise","Mina-Marie","Minikka","Mira",
+"Miranda","Mischa","Misha","Misu","Mollie","Molly","Mona","Mona-Mettennguaq","Mona-Rita","Moni",
+"Monica","Monika","Monique","Motzfeldt","Mudi","Muko","Mynthe","Naalu","Naasoq-Rosa","Naasu",
+"Naasunnguaq","Nadia","Nadina","Nadja","Naduk","Nadya","Naisha","Naja","Naja-Ali","Naja-Angajo",
+"Naja-Dorthe","Naja-Elisa","Naja-Nuka","Najaaaraq","Najaaja","Najaaka","Najaana","Najaaraq","Najak",
+"Najakkuluk","Najakkuluk-Karen","Najana","Najannguaq","Najattaannguaq","Najattaaq","Najattaava",
+"Najavaraq","Nancy","Nanna","Natacha","Natasha","Natasja","Nathalia","Natkrita","Natuk","Nava",
+"Navaran","Navarana","Navaruna","Naya","Neala","Neela","Nefertiti","Nellie","Nete","Neva","Neyla",
+"Nia","Niattaa","Niattaaq","Niattaavaraq","Nielsine","Niia-Nuunu","Niini","Nikita","Nikkia",
+"Niko-Jonna","Nikulina","Nina","Nina-Viivi","Nini","Nini-Sikkerneq","Ninna","Ninni","Nita","Nitta",
+"Nive","Nivi","Nivi-Margrethe","Niviaaja","Niviaaluk","Niviaana","Niviana","Niviaq","Niviarsiaq",
+"Niviarsiaraq","Niviarsina","Niviatsiaq","Nivikka","Nivinnguaq","Niviâna","Noella","Nola","Noomi",
+"Nora","Norah","Norsannguaq","Nova","Nuiana","Nuila","Nuka","Nuka-Heidi","Nuka-Marie",
+"Nuka-Miitinnguaq","Nuka-Naja","Nuka-Sara","Nuka-Viivi","Nukaaka","Nukaaka-Alliaq","Nukaaraq",
+"Nukajaraq","Nukakkuluk","Nukalaat","Nukannguaq","Nukarliaq","Nukarlinnguaq","Nukavik","Nukuna",
+"Nukâka","Nuni-Rita","Nunni","Nunnu","Nunuko","Nuuna","Nuuni","Nuunu","Nuunu-Maren",
+"Nuunu-Nielsine","Nuusa-Nivarna","Oktavia","Olina","Oline","Olivia","Orpa","Paarma","Paarna",
+"Paarnannguaq","Paarnaq","Pakkutaq","Palikka","Palleq","Pallu","Pallunnguaq","Pamela","Pamîla",
+"Paneeraq","Pani","Paniaraq","Panik","Paninnguaq","Panissaaq","Paniula","Pano","Panu","Parnannguaq",
+"Parnuuna","Patricia","Paula","Pauline","Pernille","Petra","Petra-Esma","Petrina","Petrine","Pia",
+"Piiannguaq","Piipa","Pikeera","Pikiti","Pilu","Pilunnguaq","Pinnaluk","Pipa","Pipaluk","Pivik",
+"Pivinnguaq","Priya","Puto","Qiajunnguaq","Qivioq","Qunerseeq","Qupaluk","Qupanu","Qupanuk",
+"Rachel","Rackel","Rafaela","Randi","Randi-Nuuni","Rasma","Rasmine","Rebecca","Rebekka-Karen",
+"Regine","Rena-Sørina","Renee","Ria","Ria-Bolette","Riaana","Riana","Rianna","Rikke","Rina","Rinda",
+"Rita","Rita-Lea","Ritha","Ronja","Rosa","Rosamaria","Rosannguaq","Rosine","Runa","Ruth","Sabina",
+"Sabine","Sabrina","Saffie","Safine","Safira","Saga","Saime","Salma","Salome-Natuk","Sandi",
+"Sandra","Sandy","Sara","Sara-Dorthe","Sara-Elisabeth","Sara-Kathrine","Sara-Louise",
+"Sara-Magdalene","Sara-Malou","Sara-Marie","Sara-Viola","Sarah","Sarah-Johanne","Sascha","Sasha",
+"Sasha-Dodo","Sasja","Scout","Sebora","Selena","Selinda","Selma","Seqininnguaq","Serena","Seria",
+"Serie","Serminnguak","Shaima","Shanaya","Shiela","Shiloh","Sia","Sialuk","Sialunnguaq","Signa",
+"Signa-Pipaluk","Signe","Siira","Sika","Sikkerneq","Sikkerninnguaq","Sikkersoq","Silje","Silke",
+"Silla","Silpa","Silvia","Simigaq","Simone","Sina","Siorpâluk","Siri","Siuana","Smilla","Sofia",
+"Sofie","Solveig","Sonja","Soralu","Sorina","Stella","Stephanie","Stina","Stinannnguaq",
+"Stine-Lisa","Sunna","Susanne","Suzi","Sylvia","Søriinannguaq","Sørina","Sørinannguaq","Sørine",
+"Taja","Tanja","Tanya","Tarja","Tascha","Tasya","Tatiana","Tatjana","Tea","Teresa","Teresia",
+"Thaila","Thala","Thaya","Thea","Thelma","Theodora","Therecie","Theresia","Therisie","Thomasine",
+"Thora","Tiahna","Tiana","Tina","Tinka-Lykke","Tira","Titte-Marie","Titti","Tonya","Trine",
+"Tuarana","Tukuma","Tukummeq","Tukúmínguak","Tullerunnaq","Tuminnguaq","Tupaarnaq","Tuperna",
+"Tupârnak","Uiloq","Uiloq-Amaliannguaq","Uilu","Uka","Uka-Maja","Ukaaka","Ulaaju","Ulla",
+"Ulo-Melissa","Ulu","Ululina","Ulunnguaq","Uluutannguaq","Unalina","Ungaatinnguaq","Upaluk",
+"Upanuk","Vaale","Valborg","Vanessa","Vanûva","Varna","Vera","Veronica","Veronika","Via","Viana",
+"Vicki","Victoria","Viiannguaq","Viivi","Viktoria","Viktoria-Martha","Vilde","Vinuuna","Viola",
+"Viola-Lisa","Viola-Paninnguaq","Viona","Vivi","Vivian","Vivien","Wella","Winnie","Winona","Xela",
+"Yasmin","Yvonne","Zascha","Zelda","Zira","Zita","Zoi","Àsa","Ârk'ê";
+CODES("cohort")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[da]("fødselsår")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[kl]("ukioq inunngorfik")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+ELIMINATION("first firstname")=YES;
+ELIMINATION[da]("første fornavn")=YES;
+ELIMINATION[kl]("inuup aqqa siulleq")=YES;
+LAST-UPDATED="20160208 09:00";
+CONTACT="Lars Pedersen, larp@stat.gl";
+CONTACT[da]="Lars Pedersen, larp@stat.gl";
+CONTACT[kl]="Lars Pedersen, larp@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Statistics Greenlands population register contains information on names of all persons who have resided in Greenland as of 1 July since 2011. After the formation of the statistical register, information on names is kept separate from all information,"
+" so these can not be combined with any other statistics. The name information is used only for this.";
+NOTE[da]="Grønlands Statistiks befolkningsregister indeholder oplysninger om for og efternavne på alle personer der har haft bopæl i Grønland pr 1. juli siden 2011. Efter dannelse af statistikregister, holdes oplysninger om navne adskildt fra personnumre, "
+"så disse kan ikke sættes sammen med anden statistik. Oplysningerne bruges alene til denne navnestatistik.";
+NOTE[kl]="Naatsorsueqqissaatarfiup innuttaasunut nalunaarsuisarfia innuttaasut 1. juuli 2011-miilli Kalaallit Nunaanni najugaqarsimasut siuliaqutaannik naggataannillu paassissutissanik imaqarpoq. Kisitsisitigut paasissutissanut nalunaarsuivimmik "
+"pilersitsereernerup kingorna inuit aqqi inuup-normuilu immikkoortinneqarput, kisitsisinut allanut ilanngunneqarsinnaajunnaarlugit. Inuillu aqqi pillugit paasissutissat kisitsisini matumani kisimi atorneqarput.";
+DATA=
+"-" "-" 1 "-" "-" "-" "-" 2 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 3 "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+3 "-" 2 1 3 1 1 2 "-" 
+3 1 4 "-" "-" 1 "-" 2 1 
+4 3 1 2 1 1 3 3 2 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 2 "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 1 1 "-" 1 "-" 1 
+1 "-" 1 "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+3 1 "-" "-" 1 "-" "-" 1 "-" 
+1 1 "-" "-" 1 "-" 2 "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 2 2 1 3 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 1 "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 1 "-" "-" "-" "-" 2 "-" "-" 
+1 2 2 2 "-" "-" "-" 2 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 2 "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 2 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 2 1 "-" 1 "-" 1 "-" "-" 
+2 3 1 1 "-" 1 1 1 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" 1 "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+2 "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" 1 2 1 "-" 1 "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" 1 "-" 1 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 2 1 "-" 2 "-" "-" 3 1 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" "-" 1 "-" "-" 
+1 2 1 1 "-" 2 "-" 1 2 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" 1 1 3 2 3 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 4 1 1 "-" 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+2 1 2 1 1 1 1 1 3 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 1 "-" 1 2 "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" 2 "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+1 2 1 1 2 1 "-" 1 "-" 
+"-" "-" 1 1 "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 1 1 "-" 1 "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+2 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 2 "-" 
+"-" 1 3 1 1 4 4 2 "-" 
+3 1 2 "-" 4 1 4 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 2 "-" "-" 1 2 3 "-" 
+1 "-" 1 2 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+3 4 3 1 1 4 3 3 3 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 3 1 "-" 2 1 2 1 "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" 2 3 2 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 2 3 "-" 3 1 3 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+2 1 1 "-" 1 "-" 3 3 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 2 3 3 1 2 2 2 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 3 1 "-" 
+"-" "-" 2 "-" "-" "-" "-" "-" "-" 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+1 1 1 2 "-" "-" 1 "-" "-" 
+1 "-" 1 "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 2 2 2 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 1 "-" "-" "-" 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" 1 2 "-" 4 "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+2 "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 1 "-" "-" "-" "-" 1 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" 2 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 1 "-" "-" 2 4 "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 1 "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+2 "-" "-" "-" 1 3 4 1 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 1 4 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" 2 2 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" 2 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 2 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 2 "-" "-" 1 1 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" 2 "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" 2 1 2 1 1 "-" "-" 1 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 2 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 3 2 2 "-" 4 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+2 "-" "-" "-" "-" "-" 1 "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 2 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" 1 1 "-" 1 1 1 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" 1 2 "-" "-" "-" 
+"-" 1 "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" 2 1 2 "-" 1 
+"-" 2 1 2 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 1 "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 2 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 1 1 "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" 2 "-" "-" "-" "-" "-" "-" 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 2 "-" 1 "-" 1 1 
+"-" "-" "-" "-" "-" 1 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 "-" 2 "-" 1 2 2 4 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 2 1 1 2 1 2 2 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 2 4 10 22 170 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 1 "-" 1 3 4 3 1 2 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 3 "-" 4 "-" 2 3 3 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 2 2 2 3 2 "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 2 "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" 2 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+2 "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 2 3 3 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 1 1 3 3 3 "-" 6 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+4 3 6 4 4 4 3 2 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+6 7 6 1 8 9 5 3 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 2 1 1 1 2 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+7 1 5 6 3 1 4 1 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" 3 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" "-" "-" "-" "-" 
+"-" 2 "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 1 1 1 "-" "-" 2 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 1 "-" "-" 2 "-" 
+"-" "-" "-" "-" 1 1 "-" 1 "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 1 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" 1 "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 2 1 2 3 "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+1 1 "-" 2 1 1 2 "-" "-" 
+1 "-" "-" 1 2 2 3 2 2 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" 2 "-" 1 "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 1 1 "-" "-" "-" 1 2 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" 3 2 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" 1 
+"-" "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+3 3 2 "-" 6 1 2 "-" 1 
+"-" "-" 2 "-" "-" 1 "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 2 "-" 
+"-" "-" "-" "-" 1 1 "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 2 "-" 1 2 1 1 
+1 "-" "-" 1 1 1 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 3 "-" "-" 2 "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" 2 2 2 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" 1 "-" "-" 1 2 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" 1 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 2 "-" "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" "-" 1 "-" 1 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+2 4 1 1 6 "-" "-" 1 "-" 
+2 1 1 1 3 2 1 "-" 5 
+"-" 1 "-" 1 1 "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 2 1 "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 2 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 2 "-" "-" 1 "-" "-" 1 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 2 1 3 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 2 "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" 1 "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 2 1 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 2 "-" 2 3 2 3 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 2 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 2 1 1 2 2 "-" 
+"-" 1 "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+1 1 1 "-" "-" 1 3 2 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 3 1 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" 1 2 1 "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" 1 1 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 3 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 2 "-" "-" "-" 1 1 1 1 
+1 1 3 1 2 2 1 3 4 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 1 "-" "-" 1 "-" 1 
+"-" "-" "-" "-" 2 "-" "-" 2 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 2 "-" "-" "-" 
+1 2 1 2 1 1 "-" 1 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" 2 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+1 3 1 2 "-" "-" 4 "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 1 2 "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+5 3 2 3 2 7 2 3 2 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+3 "-" 1 1 2 1 "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" 1 1 "-" "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" 1 1 "-" 1 2 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 3 "-" 1 "-" "-" "-" 
+2 3 2 1 "-" 1 1 "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+2 1 5 7 1 2 3 4 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" 1 2 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 1 "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 1 "-" "-" 1 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+4 1 3 1 1 2 1 4 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+1 "-" 1 2 2 "-" 3 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 1 "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" 3 "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 1 1 1 "-" 2 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 1 "-" 1 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" 1 1 "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+2 "-" "-" 2 "-" "-" 1 "-" 1 
+4 1 4 2 3 4 3 "-" "-" 
+"-" "-" 1 1 "-" 1 2 1 2 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+4 "-" 3 1 "-" 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 2 2 2 6 2 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 4 "-" 1 1 2 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 3 2 2 3 "-" 3 1 
+"-" "-" "-" "-" "-" "-" "-" 1 1 
+"-" "-" "-" "-" "-" 1 "-" "-" 1 
+1 "-" 1 2 1 3 "-" 1 4 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+2 3 "-" 1 1 "-" 1 "-" "-" 
+1 1 "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+3 3 "-" 5 "-" 2 1 2 "-" 
+"-" "-" 1 1 "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 4 1 2 4 3 "-" 3 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 3 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 2 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+3 2 2 "-" 1 "-" 5 "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" 1 "-" "-" 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 2 "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+5 5 2 6 6 2 5 3 4 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+2 1 "-" 1 2 2 2 4 3 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" 2 2 1 1 4 1 1 1 
+1 7 2 6 4 4 4 3 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+3 3 2 2 1 2 "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" 1 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" 2 "-" 2 2 1 "-" 3 
+1 1 1 1 "-" "-" 3 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" 1 
+"-" "-" 2 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 2 2 3 1 3 1 1 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+3 4 3 6 "-" "-" 1 2 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 1 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 2 1 "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" 1 2 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 2 "-" "-" "-" 1 2 "-" 
+1 1 "-" "-" "-" "-" "-" 1 1 
+1 3 2 "-" 5 2 1 2 2 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 1 1 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+1 "-" 1 "-" 1 "-" "-" 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" 1 "-" 2 1 "-" 1 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+1 1 2 1 "-" 1 "-" 1 "-" 
+"-" 1 "-" 2 1 1 "-" 2 2 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" 1 "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+2 4 "-" 6 3 1 4 1 3 
+"-" 1 "-" "-" 1 1 "-" "-" 2 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 2 6 5 3 3 3 1 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 2 "-" "-" 2 1 2 "-" 2 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+3 "-" "-" "-" 1 2 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" 2 "-" "-" 1 1 
+"-" 2 "-" "-" "-" "-" 1 1 "-" 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+4 "-" 1 "-" 1 "-" 1 1 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 1 1 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" 1 "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 2 "-" 1 "-" "-" 3 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 2 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+5 2 7 4 4 6 "-" "-" 2 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" 1 1 "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" 1 2 2 1 "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 3 "-" 1 3 "-" 2 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 2 1 2 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 2 1 "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 2 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" 2 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" 2 "-" "-" 1 "-" 1 2 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 2 1 2 4 1 1 2 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 2 "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" 2 "-" 
+"-" 1 "-" "-" "-" 1 2 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 2 1 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" 2 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 2 "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+3 2 4 1 2 2 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 1 1 "-" "-" 1 1 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 1 "-" "-" "-" 2 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" 1 
+2 "-" "-" "-" 1 3 "-" 1 "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" 1 2 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 2 4 4 2 "-" "-" 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 1 1 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" 3 1 "-" "-" 2 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" 3 "-" 1 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" 1 "-" "-" 
+3 2 2 4 3 1 1 2 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" 2 1 1 "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 2 1 1 1 2 2 2 1 
+"-" 1 "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+2 5 8 2 4 5 5 2 3 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 1 1 "-" "-" "-" "-" 2 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 2 "-" "-" 
+"-" "-" 1 1 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" 1 1 2 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" 1 "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 1 "-" 1 "-" 4 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 3 1 2 2 1 1 4 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" 1 2 "-" 
+1 "-" "-" "-" 2 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 2 2 "-" 1 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-"; 

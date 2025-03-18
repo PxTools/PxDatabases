@@ -1,0 +1,87 @@
+CHARSET="ANSI";
+AXIS-VERSION=2010;
+CODEPAGE="Windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20111207 09:00";
+NEXT-UPDATE="20231130 09:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="NRX02";
+SUBJECT-CODE="NR";
+SUBJECT-AREA="Nationalregnskab";
+SUBJECT-AREA[da]="National accounts";
+SUBJECT-AREA[kl]="Nuna tamakkerlugu naatsorsuutit";
+COPYRIGHT=YES;
+DESCRIPTION="Account 2.1.1: Generation of income (2003-2021) <em>[NRE02]</em>";
+DESCRIPTION[da]="Konto 2.1.1: Indkomstdannelse (2003-2021) <em>[NRD02]</em>";
+DESCRIPTION[kl]="Konto 2.1.1: Isertitanik pilersitsineq (2003-2021) <em>[NRN02]</em>";
+TITLE="Account 2.1.1: Generation of income by account name, units and time";
+TITLE[da]="Konto 2.1.1: Indkomstdannelse efter enhed, kontonavn og tid efter kontonavn, enhed og tid";
+TITLE[kl]="Konto 2.1.1: Isertitanik pilersitsineq kingorna konto, uuttuut aamma piffissaq";
+CONTENTS="Account 2.1.1: Generation of income";
+CONTENTS[da]="Konto 2.1.1: Indkomstdannelse efter enhed, kontonavn og tid";
+CONTENTS[kl]="Konto 2.1.1: Isertitanik pilersitsineq";
+UNITS="Million DKK";
+UNITS[da]="Mio. kr.";
+UNITS[kl]="Mio. kr.";
+STUB="account name";
+STUB[da]="kontonavn";
+STUB[kl]="konto";
+HEADING="units","time";
+HEADING[da]="enhed","tid";
+HEADING[kl]="uuttuut","piffissaq";
+VALUES("account name")="1 Gross Domestic Product GDP","2 Taxes less subsidies on products","3 Gross value added (1-2)","4 Other taxes less subsidies on production","5 Gross Domestic Product at factor cost (3-4)","6 Compensation of employees (resident producers costs)",
+"7 Gross operating surplus and mixed income in total (5-6)";
+VALUES("time")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES("units")="Current prices, million dkk";
+VALUES[da]("enhed")="Løbende priser";
+VALUES[da]("kontonavn")="1 Bruttonationalprodukt BNP","2 Produktskatter minus produktsubsidier","3 Bruttoværditilvækst (1-2)","4 Andre produktskatter minus -subsidier","5 Bruttofaktorindkomst, BFI (3-4)","6 Aflønning af ansatte (residente producenters udgifter)",
+"7 Bruttooverskud af prod. og blandet indk. (5-6)";
+VALUES[da]("tid")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES[kl]("konto")="1 Tunisassiat ataatsimut nalingat BNP","2 Tunisassianut akitsuutit tapiissutit ilanngaatigereerlugit","3 Naleqarnerulersitsineq (1-2)","4 Tunisassianut akitsuutit allat tapiissutit ilanngaatigereerlugit",
+"5 Tunisassiornerup pilersitaanik ataatsimut isertitat BFI (3-4)","6 Sulisunik akissarsiaqartitsineq","7 Tunisassiornermi sinneqartoorneq isertitallu allat (5-6)";
+VALUES[kl]("piffissaq")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+VALUES[kl]("uuttuut")="Akit ingerlaavartut, mio. kr.";
+TIMEVAL("time")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+TIMEVAL[da]("tid")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES("account name")="LBNPTOT","L1000TOT","LBVTTOT","LAPSNTOT","LBFITOT","LLONTOT","LBOBITOT";
+CODES("time")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES("units")="L";
+CODES[da]("enhed")="L";
+CODES[da]("kontonavn")="LBNPTOT","L1000TOT","LBVTTOT","LAPSNTOT","LBFITOT","LLONTOT","LBOBITOT";
+CODES[da]("tid")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES[kl]("konto")="LBNPTOT","L1000TOT","LBVTTOT","LAPSNTOT","LBFITOT","LLONTOT","LBOBITOT";
+CODES[kl]("piffissaq")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+CODES[kl]("uuttuut")="L";
+VARIABLECODE("account name")="account name";
+VARIABLECODE("time")="time";
+VARIABLECODE("units")="units";
+VARIABLECODE[da]("enhed")="units";
+VARIABLECODE[da]("kontonavn")="account name";
+VARIABLECODE[da]("tid")="time";
+VARIABLECODE[kl]("konto")="account name";
+VARIABLECODE[kl]("piffissaq")="time";
+VARIABLECODE[kl]("uuttuut")="units";
+LAST-UPDATED="20230512 09:00";
+LAST-UPDATED[da]="20230512 09:00";
+LAST-UPDATED[kl]="20230512 09:00";
+CONTACT="Josef Kâjangmat, joka@stat.gl, Daniel Østergaard Madsen, daos@stat.gl";
+CONTACT[da]="Josef Kâjangmat, joka@stat.gl, Daniel Østergaard Madsen, daos@stat.gl";
+CONTACT[kl]="Josef Kâjangmat, joka@stat.gl, Daniel Østergaard Madsen, daos@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Figures for 2003-2019 are final figures and 2020-2021 figures are preliminary figures.##It is not possible to simply aggregated chained value by level, see publication for further details.#";
+NOTE[da]="Tallene for 2003-2019 er endelige tal og 2020-2021 er foreløbige tal.##Det er ikke muligt at lave en simple aggregering af kædede værdier, se publikation for yderligere detaljer.#";
+NOTE[kl]="Kisitsisit 2003-2019 inaarutaasumik naatsorsuinerupput, taavalu 2020-2021 kisitsigallarnerullutik.##Akiusimasunit kisitat, allanngorarnera naatsorsukkanut qaffasinerusunut naatsorsorneqarsinnaanngilaq#";
+DATA=
+10268.6 10918.7 11093.1 11971.5 12247.3 12740.7 13562.8 14078 14412.1 15116.5 15079.5 15951 16813.8 18223.7 18828.900000000001 19296.099999999999 19990.400000000001 20168.7 20343.900000000001
+233.6 275.60000000000002 341.8 375 424.6 442.8 426.3 407.6 417.8 491 442.6 544.6 501.1 632 637.5 771.3 769.4 760.6 753.9
+10035 10643.1 10751.2 11596.5 11822.7 12297.9 13136.5 13670.4 13994.3 14625.5 14637 15406.4 16312.7 17591.7 18191.400000000001 18524.8 19221 19408.099999999999 19590
+-169.5 -154.1 -148.5 -161.1 -168.3 -148.19999999999999 -128.30000000000001 -151.5 -127.9 -123.3 -120.3 -125.3 -129.9 -107.3 -97.9 -171.9 -182.1 -255.4 -170.3
+10204.5 10797.1 10899.8 11757.6 11991 12446.1 13264.8 13821.9 14122.2 14748.8 14757.2 15531.7 16442.599999999999 17699 18289.3 18696.7 19403.099999999999 19663.5 19760.3
+6061.4 6399.9 6481.4 6846.2 7516.3 7972.8 8103.7 8395 8934.4 8931.4 8817.9 8742.5 9192.6 9673.7000000000007 10042.6 10362 10795.5 11046.3 11659.8
+4143.1000000000004 4397.2 4418.3999999999996 4911.3999999999996 4474.7 4473.2 5161.1000000000004 5427 5187.7 5817.4 5939.3 6789.2 7249.9 8025.2 8246.7000000000007 8334.7000000000007 8607.6 8617.2000000000007 8100.4
+;

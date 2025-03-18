@@ -1,0 +1,91 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210106 09:00";
+NEXT-UPDATE="20241001 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIX021";
+COPYRIGHT=YES;
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries";
+SUBJECT-AREA[da]="Fiskeri";
+SUBJECT-AREA[kl]="Aalisarneq";
+DESCRIPTION="Biological advice, quota and catch of certain species of fish in offshore fisheries <em>[FIE021]</em>";
+DESCRIPTION[da]="Biologisk rådgivning, kvote og fangst af visse fiskearter i havgående fiskeri <em>[FID021]</em>";
+DESCRIPTION[kl]="Avataasiorluni aalisarnermi aalisagartassanik siunnersuutit, pisassat pisallu <em>[FIN021]</em>";
+TITLE="Biological advice, quota and catch of certain species of fish in offshore fishery by species, area, form and time";
+TITLE[da]="Biologisk rådgivning, kvote og fangst af visse fiskearter i havgående fiskeri efter art, område, form og tid";
+TITLE[kl]="Avataasiorluni aalisarnermi aalisagartassanik siunnersuutit, pisassat pisallu kingorna suussusaa, imartaq, formia aamma piffissaq";
+CONTENTS="Biological advice, quota and catch of certain species of fish in offshore fishery";
+CONTENTS[da]="Biologisk rådgivning, kvote og fangst af visse fiskearter i havgående fiskeri";
+CONTENTS[kl]="Avataasiorluni aalisarnermi aalisagartassanik siunnersuutit, pisassat pisallu";
+UNITS="Tonnes";
+UNITS[da]="Ton";
+UNITS[kl]="Tonsit";
+STUB="species","area","form";
+STUB[da]="art","område","form";
+STUB[kl]="suussusaa","imartaq","formia";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("species")="Prawns","Grenland halibut","Atlantic cod";
+VALUES[da]("art")="Rejer","Hellefisk","Torsk";
+VALUES[kl]("suussusaa")="Kinguppaat","Qalerallit","Saarulliit";
+VALUES("area")="Westgreenland","Eastgreenland","West- Eastgreenland";
+VALUES[da]("område")="Vestgrønland","Østgrønland","Vest- Østgrønland";
+VALUES[kl]("imartaq")="Kitaa","Tunu","Kitaa- Tunulu";
+VALUES("form")="Advice","Kvota","Catch";
+VALUES[da]("form")="Rådgivning","Kvote","Fangst";
+VALUES[kl]("formia")="Siunnersuut","Pisassat","Pisat";
+VALUES("time")="2014","2015","2016","2017","2018","2019","2020","2021","2022";
+VALUES[da]("tid")="2014","2015","2016","2017","2018","2019","2020","2021","2022";
+VALUES[kl]("piffissaq")="2014","2015","2016","2017","2018","2019","2020","2021","2022";
+ELIMINATION("area")=YES;
+ELIMINATION[da]("område")=YES;
+ELIMINATION[kl]("imartaq")=YES;
+ELIMINATION("form")=YES;
+ELIMINATION[da]("form")=YES;
+ELIMINATION[kl]("formia")=YES;
+LAST-UPDATED="20231208 09:00";
+CONTACT="Lars Geraae, lage@stat.gl";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="2021 and 2022 are preliminary figures";
+NOTE[da]="2021 og 2022 er foreløbige tal";
+NOTE[kl]="2021 2022-lu kisitsisaagallartuupput";
+DATA=
+78061	58061	87801	88956	103383	103383	108383	113777	113777
+83062	71061	82801	88956	101250	103383	108383	113777	113777
+86527	68999	80795	85838	90075	98115	107860	108352	112659
+2000	2000	2000	2000	2000	2000	2000	3000	3000
+8300	7300	5300	5000	4300	4000	4750	7000	6850
+621	576	49	561	547	1574	3172	3071	5510
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+15000	15000	15000	16150	16150	18184	18184	18184	18185
+15000	15000	15000	16150	16150	18184	18184	18184	18185
+14849	14873	14990	16190	16219	18324	18146	17989	18112
+8320	9468	8272	9024	9024	9084	8010	8847	10020
+8320	9468	8272	9024	9024	9080	8031	8847	10020
+7634	9773	8309	9004	8947	9087	7046	8255	8933
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."
+0	0	7577	7930	12151	5363	3409	6091	8708
+10000	25000	21000	21000	21000	22000	18824	26091	21630
+7063	18664	16915	18154	18306	18412	15807	16146	21487;

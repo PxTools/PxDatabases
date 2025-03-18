@@ -1,0 +1,64 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20180424 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIXSDYR";
+COPYRIGHT=YES;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries, Catch and agriculture";
+DESCRIPTION="Slaughtered lamb, sheep, reindeer and cattle, by year <em>[FIESDYR]</em>";
+TITLE="slaughtered lamb, sheep, reindeer and cattle, by year by species and time";
+CONTENTS="slaughtered lamb, sheep, reindeer and cattle, by year";
+STUB="species";
+HEADING="time";
+VARIABLECODE("species")="species";
+VALUES("species")="Lamb","Sheep","Reindeer","Cattle";
+VARIABLECODE("time")="time";
+VALUES("time")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("species")=YES;
+LAST-UPDATED="20240605 09:00";
+UNITS="Pieces";
+CONTACT="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+NEXT-UPDATE="20250601 09:00";
+UPDATE-FREQUENCY="Annually";
+SUBJECT-AREA[da]="Fiskeri, fangst og landbrug";
+DESCRIPTION[da]="slagtede lam, får, rensdyr og kvæg fordelt på år  <em>[FIDSDYR]</em>";
+TITLE[da]="slagtede lam, får, rensdyr og kvæg fordelt på år efter art og tid";
+CONTENTS[da]="slagtede lam, får, rensdyr og kvæg fordelt på år";
+STUB[da]="art";
+HEADING[da]="tid";
+VARIABLECODE[da]("art")="species";
+VALUES[da]("art")="Lam","Får","Tamren","Kvæg";
+VARIABLECODE[da]("tid")="time";
+VALUES[da]("tid")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION[da]("art")=YES;
+LAST-UPDATED[da]="20240605 09:00";
+UNITS[da]="Antal";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+SOURCE[da]="Grønlands Statistik";
+SUBJECT-AREA[kl]="Aalisarneq, piniarneq nunalerinerlu";
+DESCRIPTION[kl]="Uummasuutit toqoraavinni toqorakkat ukiunut agguarlugit <em>[FINSDYR]</em>";
+TITLE[kl]="Uummasuutit toqoraavinni toqorakkat ukiunut agguarlugit kingorna Uummasoq aamma piffissaq";
+CONTENTS[kl]="Uummasuutit toqoraavinni toqorakkat ukiunut agguarlugit";
+STUB[kl]="Uummasoq";
+HEADING[kl]="piffissaq";
+VARIABLECODE[kl]("Uummasoq")="species";
+VALUES[kl]("Uummasoq")="Savaaqqat","Savat","Tuttut","Nersussuit";
+VARIABLECODE[kl]("piffissaq")="time";
+VALUES[kl]("piffissaq")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION[kl]("Uummasoq")=YES;
+LAST-UPDATED[kl]="20240605 09:00";
+UNITS[kl]="Qassiuneri";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+19314	21390	21178	22357	20940	21114	21359	21967	20344	20316	18413	17602	18815	18020	19401 	18924	18705	20273	18903
+1230	1440	1340	1678	1461	1241	1420	1603	1518	1501	1515	1237	1759	1680	1877 	1626	1403	1962	1771
+0	99	0	0	0	194	0	0	112	0	87	73	0	62	159 	249	190	161	106
+0	0	0	0	0	4	12	0	17	0	46	23	41	40	66 	55	66	101	90
+;

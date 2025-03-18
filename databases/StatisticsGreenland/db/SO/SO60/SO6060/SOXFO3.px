@@ -1,0 +1,243 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20201110 09:00";
+NEXT-UPDATE="20250304 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXFO3";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Residents in The Government of Greenland´s disability institutions and orphanages, by gender, age and type of institution <em>[SOEFO3]</em>";
+DESCRIPTION[da]="Beboere på Selvstyrets B & U- og handicapinstitutioner, fordelt på køn,alder og institutionstype <em>[SODFO3]</em>";
+DESCRIPTION[kl]="Namminersorlutik Oqartussat meeqqanut inuusuttuaqqanullu innarluutilinnullu paaqqinnittarfiutaanni najugaqartut suiaassuseq, ukiut paaqqinnittarfiullu suussusaa malillugu <em>[SONFO3]</em>";
+TITLE="Residents in The Government of Greenland´s disability institutions and orphanages by age, gender, type and time";
+TITLE[da]="Beboere på Selvstyrets døgninstitutioner efter alder, køn, type og tid";
+TITLE[kl]="Namminersorlutik Oqartussat ulloq unnuarlu paaqqinnittarfiutaanni najugaqartut : ukiut, suiaassuseq, suussuseq , piffissaq";
+CONTENTS="Residents in The Government of Greenland´s disability institutions and orphanages";
+CONTENTS[da]="Beboere på Selvstyrets døgninstitutioner";
+CONTENTS[kl]="Namminersorlutik Oqartussat ulloq unnuarlu paaqqinnittarfiutaanni najugaqartut";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit";
+STUB="age","gender","type";
+STUB[da]="alder","køn","type";
+STUB[kl]="ukiut","suiaassuseq","suussuseq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("age")="a. 0-5","b. 6-10","c. 11-15","d. 16-20","e. 21-25","f. 26-30","g. 31-35","h. 36-40",
+"i. 41-45","j. 46-50","k. 51-55","l. 56-60","m. 61-65","n. 66-70","o. 70+","Total";
+VALUES[da]("alder")="a. 0-5","b. 6-10","c. 11-15","d. 16-20","e. 21-25","f. 26-30","g. 31-35",
+"h. 36-40","i. 41-45","j. 46-50","k. 51-55","l. 56-60","m. 61-65","n. 66-70","o. 70+","I alt";
+VALUES[kl]("ukiut")="a. 0-5","b. 6-10","c. 11-15","d. 16-20","e. 21-25","f. 26-30","g. 31-35",
+"h. 36-40","i. 41-45","j. 46-50","k. 51-55","l. 56-60","m. 61-65","n. 66-70","o. 70+","Katillugit";
+VALUES("gender")="Total","Man","Woman";
+VALUES[da]("køn")="I alt","Mand","Kvinde";
+VALUES[kl]("suiaassuseq")="Katillugit","Angut","Arnaq";
+VALUES("type")="Total","Orphanage","Disability";
+VALUES[da]("type")="I alt","Børn og unge","Handicap";
+VALUES[kl]("suussuseq")="Katillugit","Meeqqat inuusuttuaqqallu","Innarluutillit";
+VALUES("time")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+VALUES[da]("tid")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2008","2009","2010","2011","2012","2013","2014","2015","2016",
+"2017","2018","2019","2020","2021","2022","2023";
+CODES("age")="a. 0-5","b. 6-10","c. 11-15","d. 16-20","e. 21-25","f. 26-30","g. 31-35","h. 36-40",
+"i. 41-45","j. 46-50","k. 51-55","l. 56-60","m. 61-65","n. 66-70","o. 70+","I alt";
+CODES[da]("alder")="a. 0-5","b. 6-10","c. 11-15","d. 16-20","e. 21-25","f. 26-30","g. 31-35",
+"h. 36-40","i. 41-45","j. 46-50","k. 51-55","l. 56-60","m. 61-65","n. 66-70","o. 70+","I alt";
+CODES[kl]("ukiut")="a. 0-5","b. 6-10","c. 11-15","d. 16-20","e. 21-25","f. 26-30","g. 31-35",
+"h. 36-40","i. 41-45","j. 46-50","k. 51-55","l. 56-60","m. 61-65","n. 66-70","o. 70+","I alt";
+CODES("gender")="3","1","2";
+CODES[da]("køn")="3","1","2";
+CODES[kl]("suiaassuseq")="3","1","2";
+CODES("type")="I alt","B & U","Handi";
+CODES[da]("type")="I alt","B & U","Handi";
+CODES[kl]("suussuseq")="I alt","B & U","Handi";
+CODES("time")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES[da]("tid")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+ELIMINATION("age")="Total";
+ELIMINATION[da]("alder")="I alt";
+ELIMINATION[kl]("ukiut")="Katillugit";
+ELIMINATION("gender")="Total";
+ELIMINATION[da]("køn")="I alt";
+ELIMINATION[kl]("suiaassuseq")="Katillugit";
+ELIMINATION("type")="Total";
+ELIMINATION[da]("type")="I alt";
+ELIMINATION[kl]("suussuseq")="Katillugit";
+LAST-UPDATED="20240304 09:00";
+CONTACT="Ane Louise Brandt,  alob@stat.gl";
+CONTACT[da]="Ane Louise Brandt,  alob@stat.gl";
+CONTACT[kl]="Ane Louise Brandt,  alob@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Residents are counted each December 1st. Residents in independent and municipal institutions are not included.  Number of residents are calculated from data, delivered by Socialstyrelsen.";
+NOTE[da]="Beboere er optalt pr. 1.december i det aktuelle år. Tabellen medregner ikke beboere på selvejende og kommunale institutioner. Antal beboere er opgjort efter data leveret af Socialstyrelsen.";
+NOTE[kl]="Ukiumi pineqartumi decebarip aallaqqaataani innuttaasut naatsorsuutigineqarsimapput. Tabelimut ilanngunneqanngillat paaqqinnittarfinni nammineq pigisuni najugaqartut aamma kommuninit pigineqartuni najugaqartut. Najugaqartut amerlassusaat "
+"paasissut Isumaginninnermi Aqutsisoqarfimmit pissarsiarineqarsimasut atorlugit naatsorsorneqarput. Ulloq unnuarlu paaqqinniffinni inissat amerlassusaat Aningaasaqarnermut Inatsimmit pissarsiarineqarput ukiut pineqartut tunngavigalugit. Malugiuk, "
+"Aningaasaqarnermut Inatsimmi Uulinermi inissat 2018-imi aamma 2019-imi inissat ataatsimoortillugit allanneqarsimaneri, siusinnerusukkut Uulinermi immikkoortortaqarfinnut pingasuusunut nalunaarutigineqartarsimagaluartut.";
+DATA=
+15 18 16 15 20 21 27 28 32 27 25 26 22 19 22 17
+15 18 14 15 20 21 27 27 30 27 25 25 21 19 22 16
+"-" "-" 2 "-" "-" "-" "-" 1 2 "-" "-" 1 1 "-" "-" 1
+9 11 10 7 10 12 14 16 19 15 15 15 11 13 14 7
+9 11 9 7 10 12 14 16 18 15 15 14 10 13 14 6
+"-" "-" 1 "-" "-" "-" "-" "-" 1 "-" "-" 1 1 "-" "-" 1
+6 7 6 8 10 9 13 12 13 12 10 11 11 6 8 10
+6 7 5 8 10 9 13 11 12 12 10 11 11 6 8 10
+"-" "-" 1 "-" "-" "-" "-" 1 1 "-" "-" "-" "-" "-" "-" "-"
+29 32 28 34 37 32 42 51 43 46 42 44 40 43 37 27
+25 26 24 28 30 26 36 45 41 42 38 39 37 39 35 23
+4 6 4 6 7 6 6 6 2 4 4 5 3 4 2 4
+18 20 17 20 22 18 25 29 23 21 22 25 23 24 24 17
+17 17 14 17 17 14 20 24 21 18 19 21 21 21 22 14
+1 3 3 3 5 4 5 5 2 3 3 4 2 3 2 3
+11 12 11 14 15 14 17 22 20 25 20 19 17 19 13 10
+8 9 10 11 13 12 16 21 20 24 19 18 16 18 13 9
+3 3 1 3 2 2 1 1 "-" 1 1 1 1 1 "-" 1
+63 72 74 83 75 75 76 53 71 72 64 69 76 72 77 75
+56 63 65 72 60 61 64 40 53 54 53 59 66 66 68 66
+7 9 9 11 15 14 12 13 18 18 11 10 10 6 9 9
+34 38 38 47 41 42 45 28 46 44 36 37 40 39 36 40
+31 32 32 39 31 32 37 20 34 32 27 29 31 33 28 32
+3 6 6 8 10 10 8 8 12 12 9 8 9 6 8 8
+29 34 36 36 34 33 31 25 25 28 28 32 36 33 41 35
+25 31 33 33 29 29 27 20 19 22 26 30 35 33 40 34
+4 3 3 3 5 4 4 5 6 6 2 2 1 "-" 1 1
+50 62 62 51 49 48 47 53 65 70 79 82 80 58 62 52
+40 47 44 36 34 32 33 38 48 46 51 60 60 33 40 39
+10 15 18 15 15 16 14 15 17 24 28 22 20 25 22 13
+22 29 31 25 25 25 27 28 32 36 37 36 37 32 33 30
+19 24 25 20 20 16 17 18 21 23 23 24 26 16 18 19
+3 5 6 5 5 9 10 10 11 13 14 12 11 16 15 11
+28 33 31 26 24 23 20 25 33 34 42 46 43 26 29 22
+21 23 19 16 14 16 16 20 27 23 28 36 34 17 22 20
+7 10 12 10 10 7 4 5 6 11 14 10 9 9 7 2
+16 16 19 23 21 16 20 21 16 19 16 13 25 25 29 35
+2 2 4 6 6 5 5 4 5 7 8 4 9 7 7 11
+14 14 15 17 15 11 15 17 11 12 8 9 16 18 22 24
+5 6 7 6 4 4 6 9 7 9 9 9 15 14 16 17
+"-" "-" 1 "-" "-" 1 2 3 2 3 5 3 6 3 3 3
+5 6 6 6 4 3 4 6 5 6 4 6 9 11 13 14
+11 10 12 17 17 12 14 12 9 10 7 4 10 11 13 18
+2 2 3 6 6 4 3 1 3 4 3 1 3 4 4 8
+9 8 9 11 11 8 11 11 6 6 4 3 7 7 9 10
+18 15 18 19 16 18 18 13 13 10 11 14 14 12 11 9
+1 "-" 1 "-" "-" 1 2 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+17 15 17 19 16 17 16 13 13 10 11 14 14 12 11 9
+13 11 13 13 10 9 8 5 5 4 5 6 8 9 8 6
+"-" "-" "-" "-" "-" 1 "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+13 11 13 13 10 8 8 5 5 4 5 6 8 9 8 6
+5 4 5 6 6 9 10 8 8 6 6 8 6 3 3 3
+1 "-" 1 "-" "-" "-" 2 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+4 4 4 6 6 9 8 8 8 6 6 8 6 3 3 3
+4 11 10 13 16 17 17 22 15 14 17 14 11 10 9 11
+"-" "-" "-" "-" "-" 1 2 3 "-" "-" 1 "-" "-" "-" "-" "-"
+4 11 10 13 16 16 15 19 15 14 16 14 11 10 9 11
+1 6 6 8 10 12 11 14 11 9 8 7 3 3 3 5
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 6 6 8 10 12 11 14 11 9 8 7 3 3 3 5
+3 5 4 5 6 5 6 8 4 5 9 7 8 7 6 6
+"-" "-" "-" "-" "-" 1 2 3 "-" "-" 1 "-" "-" "-" "-" "-"
+3 5 4 5 6 4 4 5 4 5 8 7 8 7 6 6
+8 6 7 6 4 4 8 9 13 15 17 16 20 15 13 13
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+8 6 7 6 4 4 8 9 13 15 17 16 20 15 13 13
+4 3 3 2 "-" 2 5 7 9 11 13 13 16 11 8 5
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+4 3 3 2 "-" 2 5 7 9 11 13 13 16 11 8 5
+4 3 4 4 4 2 3 2 4 4 4 3 4 4 5 8
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+4 3 4 4 4 2 3 2 4 4 4 3 4 4 5 8
+7 10 8 11 9 9 5 5 4 5 7 8 7 13 17 19
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+7 10 8 11 9 9 5 5 4 5 7 8 7 13 17 19
+6 7 5 5 6 4 2 1 "-" 1 5 5 5 9 12 14
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+6 7 5 5 6 4 2 1 "-" 1 5 5 5 9 12 14
+1 3 3 6 3 5 3 4 4 4 2 3 2 4 5 5
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 3 3 6 3 5 3 4 4 4 2 3 2 4 5 5
+12 13 12 12 12 8 11 12 8 9 9 7 6 5 5 5
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+12 13 12 12 12 8 11 12 8 9 9 7 6 5 5 5
+10 10 8 8 9 5 5 7 4 7 5 4 2 1 1 3
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+10 10 8 8 9 5 5 7 4 7 5 4 2 1 1 3
+2 3 4 4 3 3 6 5 4 2 4 3 4 4 4 2
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 3 4 4 3 3 6 5 4 2 4 3 4 4 4 2
+2 3 6 7 6 10 9 10 12 11 8 13 12 7 6 8
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 3 6 7 6 10 9 10 12 11 8 13 12 7 6 8
+1 2 5 5 3 7 7 7 9 9 5 8 8 5 5 4
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 2 5 5 3 7 7 7 9 9 5 8 8 5 5 4
+1 1 1 2 3 3 2 3 3 2 3 5 4 2 1 4
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 1 1 2 3 3 2 3 3 2 3 5 4 2 1 4
+3 3 3 3 2 2 4 5 5 5 9 6 8 10 9 6
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+3 3 3 3 2 2 4 5 5 5 9 6 8 10 9 6
+2 2 2 2 1 1 3 4 4 3 7 4 5 7 7 4
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 2 2 2 1 1 3 4 4 3 7 4 5 7 7 4
+1 1 1 1 1 1 1 1 1 2 2 2 3 3 2 2
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 1 1 1 1 1 1 1 1 2 2 2 3 3 2 2
+1 1 2 2 2 1 1 1 "-" 1 1 2 2 3 3 6
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 1 2 2 2 1 1 1 "-" 1 1 2 2 3 3 6
+1 1 2 2 1 1 1 1 "-" "-" "-" 1 1 2 1 4
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 1 2 2 1 1 1 1 "-" "-" "-" 1 1 2 1 4
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 1 1 1 1 1 2 2
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 1 1 1 1 1 2 2
+"-" "-" "-" "-" 1 1 1 1 1 "-" "-" "-" "-" "-" 2 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 1 1 1 1 "-" "-" "-" "-" "-" 2 1
+"-" "-" "-" "-" 1 1 1 1 1 "-" "-" "-" "-" "-" 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 1 1 1 1 "-" "-" "-" "-" "-" 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" 1 1 1 1 1 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" 1 1 1 1 1 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" 1 1 1 1 1 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" 1 1 1 1 1 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+228 262 265 279 270 262 286 284 298 305 306 315 324 293 303 285
+139 156 152 157 150 147 169 157 177 176 176 187 193 164 172 155
+89 106 113 122 120 115 117 127 121 129 130 128 131 129 131 130
+126 146 147 150 143 143 160 157 170 170 168 171 175 170 170 157
+76 84 81 83 78 76 90 81 96 91 89 91 94 86 85 74
+50 62 66 67 65 67 70 76 74 79 79 80 81 84 85 83
+102 116 118 129 127 119 126 127 128 135 138 144 149 123 133 128
+63 72 71 74 72 71 79 76 81 85 87 96 99 78 87 81
+39 44 47 55 55 48 47 51 47 50 51 48 50 45 46 47;

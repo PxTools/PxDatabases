@@ -1,0 +1,305 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20190426 09:00";
+NEXT-UPDATE="20240630 09:00";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="ESX6A";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ES";
+SUBJECT-AREA="Businesses";
+SUBJECT-AREA[da]="Erhverv";
+SUBJECT-AREA[kl]="Inuussutissarsiorneq";
+COPYRIGHT=YES;
+DESCRIPTION="Number of businesses by business sector, time and interval of aggregate salaries and shares <em>[ESE6A]</em>";
+DESCRIPTION[da]="Antal virksomheder efter hovedbranche, tid og lønsumsinterval <em>[ESD6A]</em>";
+DESCRIPTION[kl]="Suliffeqarfiit amerlassusaat by suliaqarfik, piffissaq and akissarsialiussaqassuseq <em>[ESN6A]</em>";
+TITLE="Businesses Structure by interval of aggregate salaries and shares, business sector, unit and time";
+TITLE[da]="Erhvervstruktur efter lønsumsinterval, hovedbranche, enhed og tid";
+TITLE[kl]="Suliffeqarfiit amerlassusaat : akissarsialiussaqassuseq, suliaqarfik, end , piffissaq";
+CONTENTS="Businesses Structure";
+CONTENTS[da]="Erhvervstruktur";
+CONTENTS[kl]="Suliffeqarfiit amerlassusaat";
+UNITS="Number of businesses";
+UNITS[da]="Antal virksomheder";
+UNITS[kl]="Suliffeqarfiit amerlassusaat";
+STUB="interval of aggregate salaries and shares","business sector","unit";
+STUB[da]="lønsumsinterval","hovedbranche","enhed";
+STUB[kl]="akissarsialiussaqassuseq","suliaqarfik","end";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("interval of aggregate salaries and shares")="A. 00-10","B. 10-50","C. 50-100","D. 100-250",
+"E. 250-500","F. 500-1.000","G. 1.000-5.000","H. 5.000-10.000","K. Over 10.000","Total";
+VALUES[da]("lønsumsinterval")="A. 00-10","B. 10-50","C. 50-100","D. 100-250","E. 250-500",
+"F. 500-1.000","G. 1.000-5.000","H. 5.000-10.000","K. Over 10.000","Total";
+VALUES[kl]("akissarsialiussaqassuseq")="A. 00-10","B. 10-50","C. 50-100","D. 100-250","E. 250-500",
+"F. 500-1.000","G. 1.000-5.000","H. 5.000-10.000","K. 10.000-it sinnerlugit","Katillugit";
+VALUES("business sector")="A. Fishing and other related industries","B. Mining and quarrying",
+"C. Manufacturing","E. Watersupply, sewage and waste","F. Construction",
+"G. Wholesale and retail trade: repair of motor vehicles and motorcycles",
+"H. Transportation and storage","I. Accommodation and food service activities",
+"J. Information and communication","K. Financial and insurance activities",
+"L. Real estate activities","M. Professional, scientific and technical activities",
+"N. Administrative and support service activities","P. Education",
+"Q. Health care and social services","R.  Culture, recreational and sport services",
+"S. Other services","X. No information given","Total";
+VALUES[da]("hovedbranche")="A. Fiskeri og fiskerirelateret industri og handel",
+"B. Råstofindvinding","C. Fremstillingsvirksomhed",
+"E. Vandforsyning: kloakvæsen og affaldshåndtering","F. Bygge- og anlægsvirksomhed",
+"G. Engroshandel og detailhandel: reparation af motorkøretøjer og motorcykler",
+"H. Transport og godshåndtering","I. Overnatningsfaciliteter og restaurationsvirksomhed",
+"J. Information og kommunikation","K. Pengeinstitut- og finansvirksomhed, forsikring",
+"L. Fast ejendom","M. Liberale, videnskabelige og tekniske tjenesteydelser",
+"N. Administrative tjenesteydelser og hjælpetjenester","P. Undervisning",
+"Q. Sundhedsvæsen og sociale foranstaltninger","R. Kultur, forlystelser og sport",
+"S. Andre serviceydelser","X. Uoplyst","Total";
+VALUES[kl]("suliaqarfik")="A. Aalisarneq, aalisakkanik tunisassiorneq niuernerlu",
+"B. Aatsitassiorneq","C. Atortussiorneq","E. Imeqarfiit,  eqqakkat aqqutaat eqqagassalerinerllu",
+"F. Sanaartorneq",
+"G. Niuertunik pilersuineq atugassanillu nioqquteqarneq: Qamutinik iluarsartuussinerit",
+"H. Assartuineq assartugassalerinerlu","I. Akunnittarfiit neriniartarfiillu",
+"J. Paasissutissalerineq attaveqaatilerinerlu",
+"K. Aningaaseriviit, aningaasaliisarfiit sillimmasiisarfiillu",
+"L.  Inissianik attartortitsinerit sullissinerillu allat",
+"M. Namminersortunit, ilisimatusarnikkut teknikkikkullu suliaqartunit kiffartuussinerit",
+"N. Allaffissornikkut kiffartuussinerit","P. Ilinniartitsineq",
+"Q. Peqqinnissutsikkut illersugaanermillu kiffartuussinerit",
+"R. Piorsarsimassutsikkut, sunngiffimmi timersornermillu kiffartuussinerit",
+"S. Kiffartuussinerit allat","R. Paasissutissartaqanngitsut","Katillugit";
+VALUES("unit")="Number of businesses";
+VALUES[da]("enhed")="Antal virksomheder";
+VALUES[kl]("end")="Suliffeqarfiit amerlassusaat";
+VALUES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021";
+VALUES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021";
+VALUES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021";
+TIMEVAL("time")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021";
+TIMEVAL[da]("tid")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021";
+CODES("interval of aggregate salaries and shares")="A","B","C","D","E","F","G","H","K","T";
+CODES[da]("lønsumsinterval")="A","B","C","D","E","F","G","H","K","T";
+CODES[kl]("akissarsialiussaqassuseq")="A","B","C","D","E","F","G","H","K","T";
+CODES("business sector")="A","B","C","E","F","G","H","I","J","K","L","M","N","P","Q","R","S","X","T";
+CODES[da]("hovedbranche")="A","B","C","E","F","G","H","I","J","K","L","M","N","P","Q","R","S","X",
+"T";
+CODES[kl]("suliaqarfik")="A","B","C","E","F","G","H","I","J","K","L","M","N","P","Q","R","S","X","T";
+CODES("unit")="N";
+CODES[da]("enhed")="N";
+CODES[kl]("end")="N";
+CODES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021";
+CODES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021";
+CODES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021";
+ELIMINATION("business sector")=YES;
+ELIMINATION[da]("hovedbranche")=YES;
+ELIMINATION[kl]("suliaqarfik")=YES;
+LAST-UPDATED="20240219 09:00";
+CONTACT="Aqqaluaq Lund aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq Lund aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq Lund aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+282 341 268 231 258 220 163 124 137 133 125 181 251 
+1 "-" 4 2 2 "-" 2 "-" 2 1 2 2 "-" 
+6 10 9 12 12 5 13 10 13 12 7 9 12 
+9 3 7 5 3 4 3 2 2 "-" 1 3 1 
+6 10 8 9 10 7 10 6 12 5 4 6 2 
+29 19 13 24 20 21 24 18 22 20 24 10 4 
+19 7 9 8 6 6 9 12 9 8 11 6 14 
+10 9 4 11 10 9 7 8 10 8 5 3 4 
+4 5 3 7 7 9 3 8 12 7 7 8 7 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" "-" "-" "-" "-" 
+2 2 4 2 2 2 3 2 3 3 1 2 2 
+13 11 9 9 9 15 12 20 16 15 23 17 19 
+15 18 20 15 22 10 16 21 8 10 18 18 9 
+2 2 4 4 3 4 6 5 3 6 9 9 1 
+1 3 6 3 1 1 3 5 6 5 1 1 4 
+14 12 8 11 10 15 9 14 7 9 7 8 7 
+12 10 13 15 11 11 11 18 10 11 8 5 11 
+11 12 12 16 13 12 6 10 11 6 9 22 6 
+436 474 402 384 399 351 301 283 283 259 262 310 354 
+504 517 418 405 336 350 288 295 305 324 343 330 417 
+1 8 1 2 3 2 2 2 3 3 3 2 4 
+15 13 16 16 8 12 6 14 24 16 20 13 14 
+12 8 7 3 6 3 6 4 5 5 5 3 8 
+12 13 7 8 11 7 7 9 11 8 15 6 8 
+30 28 30 21 25 29 19 36 28 28 25 17 27 
+23 17 20 10 16 20 7 22 23 16 24 17 16 
+10 8 9 5 3 6 7 7 5 11 9 8 16 
+5 2 9 8 9 19 24 18 12 23 18 12 15 
+5 5 3 4 1 4 "-" "-" "-" "-" "-" 1 1 
+5 3 5 5 6 3 5 9 7 7 8 3 4 
+10 17 17 20 24 28 30 31 32 43 38 23 27 
+20 19 14 12 15 17 18 25 28 21 21 15 21 
+3 4 4 7 6 7 10 10 9 12 11 11 10 
+5 9 10 9 9 11 8 9 3 12 13 7 10 
+12 13 13 10 4 12 13 12 17 11 14 1 16 
+17 13 20 23 33 33 24 30 35 26 27 24 21 
+26 26 31 35 27 24 27 26 36 22 16 17 45 
+715 723 634 603 542 587 501 559 583 588 610 510 680 
+352 398 370 333 326 275 291 243 309 293 286 323 320 
+2 2 4 2 4 "-" 2 4 1 2 4 1 1 
+5 5 8 8 10 11 8 9 8 12 5 4 9 
+5 6 4 7 2 4 4 2 2 4 6 7 6 
+9 8 14 9 15 10 13 13 15 9 10 12 15 
+19 13 22 20 32 29 25 25 29 25 26 13 35 
+14 18 24 12 21 12 19 23 31 26 17 9 19 
+7 11 7 11 3 10 6 9 11 10 11 5 10 
+5 6 5 10 13 6 12 10 13 13 11 5 9 
+"-" 1 3 1 1 "-" "-" 2 1 1 2 1 3 
+1 5 1 6 10 9 7 10 9 11 8 6 8 
+12 15 18 27 22 28 24 29 37 26 20 16 26 
+8 6 19 17 22 19 29 21 28 30 23 19 25 
+2 6 2 3 5 5 6 9 6 4 11 4 12 
+7 9 7 14 9 11 11 12 10 8 8 5 8 
+4 8 10 9 18 10 7 9 17 21 17 14 18 
+15 14 15 13 13 23 20 13 21 13 14 13 15 
+15 21 21 19 31 19 17 13 23 17 12 4 18 
+482 552 554 521 557 481 501 456 571 525 491 461 557 
+290 346 457 507 480 472 497 497 551 545 594 486 484 
+1 5 9 11 18 9 6 6 4 2 4 3 4 
+8 9 9 11 13 18 12 15 8 15 8 7 14 
+6 5 9 9 15 12 11 13 16 12 14 13 9 
+22 29 22 32 30 23 25 25 27 27 30 12 30 
+34 38 38 62 50 42 51 55 45 41 41 21 31 
+42 38 37 49 37 56 40 32 40 38 43 31 45 
+9 13 15 14 18 18 17 10 8 15 17 21 13 
+8 7 10 15 20 19 15 29 20 13 19 12 16 
+4 3 4 5 3 3 4 2 3 "-" 1 1 1 
+14 3 6 15 12 14 14 10 18 14 12 19 12 
+28 24 27 34 33 37 27 34 28 31 43 33 39 
+30 28 19 37 45 38 34 41 39 41 36 26 46 
+6 6 4 7 11 9 11 7 7 10 8 6 8 
+7 7 6 4 14 12 13 8 16 11 13 9 13 
+7 8 3 9 8 20 15 17 16 20 21 12 17 
+17 15 23 28 23 34 38 37 29 27 34 29 23 
+26 28 26 21 22 22 16 18 19 42 18 10 13 
+559 612 724 870 852 858 846 856 894 904 956 751 818 
+85 118 162 198 276 258 341 406 362 369 377 408 334 
+1 6 9 8 2 3 4 6 4 3 3 1 3 
+10 12 8 11 9 10 12 5 2 4 13 5 8 
+5 3 4 7 6 10 11 12 7 11 7 6 9 
+40 38 34 39 33 41 32 36 35 28 22 21 21 
+30 35 36 47 52 50 50 51 34 37 24 22 25 
+35 30 31 43 40 44 41 31 37 28 30 34 43 
+16 17 11 18 20 15 15 12 10 12 11 13 17 
+7 11 12 8 13 11 9 13 14 12 9 9 12 
+1 3 5 2 1 3 2 2 1 2 1 1 2 
+6 7 6 10 8 12 10 12 8 9 9 10 16 
+25 26 31 29 32 29 22 25 29 24 23 16 29 
+13 19 27 35 27 36 33 22 33 31 24 27 27 
+3 2 4 2 4 5 4 4 10 7 6 5 8 
+10 7 7 8 6 14 19 12 9 10 9 18 17 
+5 4 4 7 7 6 7 8 10 5 10 7 4 
+25 30 27 26 38 29 28 27 29 27 28 27 28 
+15 14 13 9 16 4 12 12 20 20 7 11 10 
+332 382 431 507 590 580 652 696 654 639 613 641 613 
+48 51 87 86 79 93 145 196 131 149 140 155 128 
+3 9 9 4 7 5 5 1 2 2 1 "-" 3 
+9 7 9 8 8 5 2 6 6 5 7 5 8 
+1 6 3 2 3 2 3 3 5 3 6 4 7 
+56 44 46 49 46 50 45 43 42 39 48 29 40 
+41 38 45 52 52 47 47 43 41 32 31 32 29 
+24 35 36 35 31 21 24 26 22 28 24 24 26 
+13 11 15 19 18 19 17 16 12 15 11 6 16 
+10 9 9 12 11 10 11 8 14 13 11 10 12 
+4 3 1 3 2 2 2 4 1 "-" 2 2 1 
+7 8 7 7 11 8 8 7 5 6 7 6 2 
+19 23 22 31 27 25 27 28 28 29 19 24 22 
+22 24 19 28 14 15 13 25 22 16 21 24 24 
+2 2 1 4 3 5 1 5 3 3 5 3 4 
+8 9 8 9 10 9 8 9 13 13 15 14 14 
+5 4 7 5 3 3 2 7 4 8 8 5 5 
+13 18 15 19 20 17 15 13 11 15 18 18 22 
+9 5 8 5 7 7 3 8 7 11 7 7 9 
+294 306 347 378 352 343 378 448 369 387 381 368 372 
+39 38 47 66 66 77 77 96 81 85 87 78 78 
+4 19 32 13 11 12 7 10 12 12 8 8 9 
+7 5 5 6 8 8 10 8 10 12 10 10 8 
+5 4 4 4 4 3 2 3 3 3 2 4 3 
+113 108 101 97 87 85 88 97 87 89 95 96 97 
+78 78 78 75 77 69 73 67 63 61 61 71 70 
+28 31 34 31 35 39 37 38 35 37 38 33 34 
+33 34 36 35 37 35 34 33 34 31 36 34 35 
+13 10 10 12 10 12 13 15 12 10 13 14 12 
+6 8 7 7 5 4 5 5 6 5 6 6 5 
+14 12 15 11 14 11 12 17 12 11 14 12 16 
+30 27 34 35 32 35 37 36 37 33 32 31 36 
+19 20 26 28 27 22 24 23 21 24 27 21 21 
+4 6 7 5 3 5 6 5 5 5 4 4 3 
+6 9 10 10 11 9 10 14 13 16 16 15 16 
+7 8 8 8 9 10 10 9 12 10 11 12 11 
+16 19 20 18 19 15 18 17 21 22 21 24 18 
+3 3 2 2 3 2 "-" 1 2 5 1 6 5 
+425 439 476 463 458 453 463 494 466 471 482 479 477 
+6 6 6 6 10 8 8 10 5 11 14 10 5 
+2 8 8 6 3 2 1 "-" "-" 2 "-" "-" 1 
+4 4 4 5 5 4 3 6 6 5 4 4 2 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+14 14 17 19 19 22 13 13 15 20 15 22 22 
+6 7 7 10 9 11 10 11 11 13 12 7 8 
+7 9 8 7 8 9 5 7 7 6 5 4 4 
+4 5 6 5 4 5 7 7 6 9 10 9 10 
+3 2 2 2 1 2 1 1 2 3 2 2 2 
+"-" 3 1 "-" "-" 2 2 2 3 3 1 1 1 
+3 5 2 5 5 3 2 "-" 2 1 2 3 "-" 
+4 5 5 7 4 3 4 8 8 8 10 5 7 
+2 4 3 4 6 7 4 3 5 5 6 8 8 
+3 3 2 3 3 2 2 2 2 3 3 3 5 
+1 1 2 2 4 4 5 7 6 4 4 4 3 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" "-" 1 "-" "-" 
+4 3 3 3 3 4 3 3 3 2 3 2 3 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 1 "-" "-" 
+63 79 76 84 84 88 70 81 81 95 93 84 81 
+19 20 20 23 19 18 17 20 20 23 21 19 22 
+2 7 8 4 2 2 2 2 2 2 3 3 4 
+4 4 4 3 2 1 2 2 1 2 2 2 4 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+16 16 17 18 16 12 18 19 22 20 21 23 26 
+6 5 5 5 5 5 6 8 8 7 8 7 7 
+5 5 6 6 6 5 7 7 8 9 10 10 11 
+3 4 3 4 3 3 3 4 5 5 6 6 6 
+5 5 5 5 6 5 6 6 5 5 6 5 5 
+3 1 2 3 3 1 1 2 1 1 3 3 4 
+3 2 4 2 3 4 3 3 4 2 2 3 3 
+2 2 2 2 3 4 5 4 4 5 4 5 7 
+3 3 4 1 1 1 3 5 4 6 6 6 4 
+1 1 "-" "-" 1 1 1 1 1 1 1 1 1 
+"-" "-" "-" "-" "-" 2 1 1 3 4 4 4 5 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 1 1 1 2 2 1 1 1 1 1 
+1 2 1 1 1 1 1 1 4 1 1 2 1 
+73 77 82 78 72 66 78 87 93 94 99 100 111 
+1625 1835 1835 1855 1850 1771 1827 1887 1901 1932 1987 1990 2039 
+17 64 84 52 52 35 31 31 30 29 28 20 29 
+68 69 72 80 75 74 68 75 78 83 76 59 79 
+43 35 38 37 39 38 40 39 40 38 41 40 43 
+288 280 266 280 267 257 251 261 266 245 260 227 261 
+273 261 274 316 322 303 305 314 281 264 252 200 236 
+197 190 205 201 200 212 189 198 212 196 202 168 212 
+105 112 106 122 116 120 113 106 101 116 116 105 127 
+60 57 65 79 90 93 94 108 104 99 96 77 90 
+23 27 27 25 16 19 17 19 16 12 16 16 18 
+55 47 50 63 71 66 64 70 68 64 63 64 63 
+143 150 165 194 186 204 188 215 219 214 212 170 212 
+132 141 151 177 179 165 174 186 188 184 182 164 185 
+26 32 28 35 39 43 47 48 46 51 58 46 52 
+45 54 56 59 64 73 78 77 79 83 83 77 90 
+54 57 53 59 59 76 63 77 83 84 89 59 78 
+119 122 137 146 161 167 159 160 160 144 154 143 142 
+106 111 114 108 120 91 82 89 122 124 72 79 107 
+3379 3644 3726 3888 3906 3807 3790 3960 3994 3962 3987 3704 4063; 

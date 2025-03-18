@@ -1,0 +1,286 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230106 09:00";
+NEXT-UPDATE="20251205 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="ARXBFB07";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Main employment for permanent residents by time, industry and nationality <em>[AREBFB07]</em>";
+DESCRIPTION[da]="Hovedbeskæftigelse blandt fastboende fordelt på tid, branche og nationalitet <em>[ARDBFB07]</em>";
+DESCRIPTION[kl]="Najugaqavissut akornanni pingaarnertut suliffillit, piffissaq, suliaqarfik inuiaassuserlu malillugit <em>[ARNBFB07]</em>";
+TITLE="Main employment for permanent residents by nationality, industry and time";
+TITLE[da]="Hovedbeskæftigelse blandt fastboende efter nationalite, branche og tid";
+TITLE[kl]="Najugaqavissut akornanni pingaarnertut suliffillit : inuiaassuseq, inuussutissarsiornermi suliaqarfik , piffissaq";
+CONTENTS="Main employment for permanent residents";
+CONTENTS[da]="Hovedbeskæftigelse blandt fastboende";
+CONTENTS[kl]="Najugaqavissut akornanni pingaarnertut suliffillit";
+STUB="nationality","industry";
+STUB[da]="nationalite","branche";
+STUB[kl]="inuiaassuseq","inuussutissarsiornermi suliaqarfik";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("nationality")="Total","Denmark (born in Greenland)","Denmark (born outside Greenland)","Europe","Outside Europe";
+VALUES("industry")="All industries","Agriculture, forestry and related industries","Fishing and other related industries","Mining and quarrying","Manufacturing","Energy and watersupply","Construction","Wholesale and retail trade","Transportation and storage",
+"Accommodation and food service activities","Information and communication","Financial and insurance activities","Real estate activities","Professional, scientific and technical activities","Administrative and support service activities",
+"Public administration and service","General public services (COFOG 1)","Defence (COFOG 2)","Public order and safety (COFOG 3)","Economic affairs (COFOG 4)","Environmental protection (COFOG 5)","Housing and community amenities (COFOG 6)",
+"Health (COFOG 7)","Recreation, culture and religion (COFOG 8)","Education (COFOG 9)","Education other (COFOG 9.x)","Primary education (COFOG 9.10)","Youth-level education (COFOG 9.20)","Social protection (COFOG 10)","Social protection (COFOG 10.x)",
+"Old age (COFOG 10.20)","Family and children (COFOG 10.40)","Other (COFOG x)","Other service industries","Unknown";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("branche")="Alle brancher","Landbrug, skovbrug og landbrugsrelateret industri og handel","Fiskeri og fiskerirelateret industri og handel","Råstofindvinding","Fremstillingsvirksomhed","Energi- og vandforsyning","Bygge- og anlægsvirksomhed",
+"Engroshandel og detailhandel","Transport og godshåndtering","Overnatningsfaciliteter og restaurationsvirksomhed","Information og kommunikation","Pengeinstitut og finansvirksomhed","Fast ejendom","Liberale, videnskabelige og tekniske tjenesteydelser",
+"Administrative tjenesteydelser og hjælpetjenester","Offentlig forvaltning og service","Generelle offentlige tjenester (COFOG 1)","Forsvar (COFOG 2)","Offentlig orden og sikkerhed (COFOG3)","Økonomiske anliggender (COFOG 4)","Miljøbeskyttelse (COFOG 5)",
+"Boliger og offentlige faciliteter (COFOG 6)","Sundhedsvæsen (COFOG 7)","Fritid, kultur og religion (COFOG 8)","Undervisning (COFOG 9)","Undervisning andet (COFOG 9.x)","Folkeskolen og lign. (COFOG 9.10)","Ungdomsuddannelsesniveau (COFOG 9.20)",
+"Social beskyttelse (COFOG 10)","Social beskyttelse (COFOG 10.x)","Alderdom (COFOG 10.20)","Familie og børne (COFOG 10.40)","Andet (COFOG x)","Øvrige serviceerhverv","Uoplyst";
+VALUES[da]("nationalite")="Alle","Danmark (født i Grønland)","Danmark (født uden for Grønland)","Europa","Uden for Europa";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("inuiaassuseq")="Katillugit","Danmark (Kalaallit Nunaanni inunngortut)","Danmark (Kalaallit Nunaata avataani inunngortut)","Europa","Europa avataani";
+VALUES[kl]("inuussutissarsiornermi suliaqarfik")="Suliaqarfiit katillugit","Nunalerineq, orpippassualerineq nunalerinermilu tunisassiorneq niuernerlu","Aalisarneq aalisakkanillu tunisassiornermi niuerneq","Aatsitassarsiorneq","Nioqqutissiorneq","Nukissiuutinik imermillu pilersuineq",
+"Sanaartorneq sanaartortitsinerlu","Niuertunik pilersuineq atungassanillu nioqquteqarneq","Assartuineq assartugassalerinerlu","Akunnittarfiit neriniartarfiillu","Paasissutissalerineq attaveqaatilerinerlu","Aningaaseriviit aningaasaliisarfiillu",
+"Inissiaateqarneq","Namminersortunit, ilisimatusarnikkut teknikkikkullu suliaqartunit kiffartuussinerit","Allaffissornikkut kiffartuussinerit","Pisortat allaffissornerat kiffartuussinerallu","Pisortat nalinginnaasumik kiffartuussinerat (COFOG 1)",
+"Illersornissaq (COFOG 2)","Inuiaqatigiinni toqqissisimaneq isumannaassuserlu (COFOG 3)","Aningaasaqarnermut tunngasut (COFOG 4)","Avatangiisit innarlitsaaliorneqarnerat (COFOG 5)","Inissiat tamanillu orninneqarsinnaasut (COFOG 6)",
+"Peqqinnissaqarfik (COFOG 7)","Sunngiffik, kulturi upperisarlu (COFOG 8)","Ilinniartitsineq (COFOG 9)","Ilinniartitsineq allat (COFOG 9.x)","Meeqqat atuarfiat sanilliunneqarsinnaasullu (COFOG 9.10)",
+"Inuusuttut ilinniartitaanerata qaffasissusia (COFOG 9.20)","Inuiaqatigiit illersugaanerat (COFOG 10)","Inuiaqatigiit illersugaanerat (COFOG 10.x)","Utoqqalineq (COFOG 10.20)","Ilaqutariit meeqqallu (COFOG 10.40)","Allat (COFOG x)",
+"Kiffartuussilluni inuussutissarsiorfiit allat","Nalunaarsuuteqanngitsut";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("nationality")="AA","11","12","14","19";
+CODES("industry")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("branche")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES[da]("nationalite")="AA","11","12","14","19";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("inuiaassuseq")="AA","11","12","14","19";
+CODES[kl]("inuussutissarsiornermi suliaqarfik")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+DOMAIN("industry")="VPBRCHE";
+DOMAIN[da]("branche")="VPBRCHD";
+DOMAIN[kl]("inuussutissarsiornermi suliaqarfik")="VPBRCHK";
+VARIABLECODE("nationality")="verdensdel";
+VARIABLECODE("industry")="branche";
+VARIABLECODE("time")="aar";
+VARIABLECODE("antal")="antal";
+VARIABLECODE[da]("antal")="antal";
+VARIABLECODE[da]("branche")="branche";
+VARIABLECODE[da]("nationalite")="verdensdel";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[kl]("antal")="antal";
+VARIABLECODE[kl]("inuiaassuseq")="verdensdel";
+VARIABLECODE[kl]("inuussutissarsiornermi suliaqarfik")="branche";
+VARIABLECODE[kl]("piffissaq")="aar";
+ELIMINATION("industry")="All industries";
+ELIMINATION[da]("branche")="Alle brancher";
+ELIMINATION[kl]("inuussutissarsiornermi suliaqarfik")="Suliaqarfiit katillugit";
+LAST-UPDATED="20241206 09:00";
+LAST-UPDATED[da]="20241206 09:00";
+LAST-UPDATED[kl]="20241206 09:00";
+CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE("industry")="Note that the aggregate levels do not add up to the overall level.##COFOG at the start of a industry is a division of 'Public administration and service' into the 10 main COFOG groups and into a group 'Other'. For the Self-Government and the municipalit"
+"ies, the COFOG main groups are imputed from the payroll system based on the account string. Those for whom a main group could not be found are included in the group 'Other'. Industries with DB07 code 84.22.00 are placed in the main group 'Defence' and D"
+"B07 codes 84.23.00 and 84.24.00 are placed in the main group 'Public order and safety '. The rest who are in the industry 'Public administration and service' are included in the group 'Other'.";
+NOTE="The permanent resident population is defined as all citizens residing in the country at the beginning and end of the year, and who have turned 15 at the beginning of the month";
+NOTE[da]="Den fastboende befolkning defineres som alle borgere bosiddende i landet primo og ultimo året, og som primo måneden er fyldt 15 år";
+NOTE[da]("branche")="Bemærk at de aggregerede niveauer ikke summer til det overordnede niveau.##COFOG i starten af en branche er en opdeling af 'Offentlig forvaltning og service' i de 10 COFOG hovedgrupper og i en gruppe 'Andet'. For Selvstyret og kommunerne er COFOG hovedg"
+"rupperne imputeret fra lønsystemet på baggrunde af kontostrengen. Dem som der ikke kunne findes en hovedgruppe for, er er med i gruppen 'Andet'. Brancher med DB07 kode 84.22.00 placeres i hovedgruppen 'Forsvar' og DB07 koderne 84.23.00 og 84.24.00 place"
+"res i hovedgruppen 'Offentlig orden og sikkerhed'.  Resten som er i branchen 'Offentlig forvaltning og service' er med i gruppen 'Andet'.";
+NOTE[kl]="Innuttaasut najugaqavissut tassaapput Kalaallit Nunaanni ukiup aallartinnerani naaneranilu najugallit, qaammatillu aallartinnerani 15-inik ukioqalereersimasut";
+NOTE[kl]("inuussutissarsiornermi suliaqarfik")="Malugiuk qaffasissutsit ataatsimoortitat qaffasissutsimi annerpaami ataatsimut inernerinngimmata.##COFOG i starten af en branche er en opdeling af 'Offentlig forvaltning og service' i de 10 COFOG hovedgrupper og i en gruppe 'Andet'. For Selvstyret og ko"
+"mmunerne er COFOG hovedgrupperne imputeret fra lønsystemet på baggrunde af kontostrengen. Dem som der ikke kunne findes en hovedgruppe for, er er med i gruppen 'Andet'. Brancher med DB07 kode 84.22.00 placeres i hovedgruppen 'Forsvar' og DB07 koderne 84"
+".23.00 og 84.24.00 placeres i hovedgruppen 'Offentlig orden og sikkerhed'.  Resten som er i branchen 'Offentlig forvaltning og service' er med i gruppen 'Andet'.";
+DATA=
+27506 27856 28204 28492 28469 28900 29131 29339
+93 88 99 100 103 110 98 83
+4694 4594 4688 4725 4602 4362 4343 4517
+78 82 96 91 90 118 106 85
+224 224 201 207 213 224 229 231
+406 412 423 437 436 437 417 424
+1850 1873 1949 1949 2029 2296 2306 2239
+2774 2815 2868 2912 2912 3021 3072 3055
+1815 1873 1941 2013 1979 1955 2041 2087
+668 712 747 718 661 778 833 903
+717 700 656 628 615 608 563 555
+170 172 168 185 202 199 201 208
+320 317 234 262 275 270 297 325
+241 265 261 262 267 290 299 298
+488 495 525 484 461 402 403 449
+11942 12206 12322 12531 12748 12903 12861 12730
+1321 1401 1386 1405 1278 1303 1299 1270
+43 40 41 42 51 51 55 48
+475 469 459 483 514 529 506 521
+581 559 548 549 625 615 592 619
+199 212 216 221 250 266 272 264
+31 30 12 18 25 21 25 29
+1271 1289 1286 1282 1299 1304 1295 1302
+313 333 336 342 351 361 358 359
+2524 2556 2556 2571 2599 2585 2585 2479
+341 331 376 379 307 311 295 291
+1549 1555 1524 1516 1566 1578 1611 1559
+633 669 656 676 726 697 680 629
+4483 4673 4739 4930 5079 5204 5199 5089
+1042 1088 1124 1200 1284 1342 1349 1317
+1249 1290 1257 1281 1306 1296 1298 1253
+2192 2294 2357 2449 2490 2566 2552 2519
+701 646 743 689 678 663 674 750
+308 320 320 336 305 306 317 330
+721 709 709 653 569 623 747 822
+24159 24506 24896 25199 25010 25420 25553 25529
+92 87 98 100 102 109 96 81
+4486 4370 4411 4419 4291 4067 3991 4118
+45 49 62 59 61 90 79 57
+190 192 176 181 188 202 204 206
+337 342 355 369 369 370 358 362
+1507 1537 1620 1635 1693 1908 1845 1724
+2509 2536 2580 2615 2586 2674 2718 2640
+1533 1605 1686 1752 1721 1712 1807 1853
+478 508 527 495 421 524 561 555
+579 566 530 513 498 489 458 451
+118 120 118 133 145 143 146 158
+231 246 201 227 239 235 262 293
+133 163 164 177 171 191 202 194
+388 387 396 341 311 256 263 284
+10759 11017 11186 11427 11549 11743 11722 11633
+1142 1211 1212 1251 1127 1155 1162 1139
+8 8 8 6 10 13 11 7
+420 412 397 416 436 457 437 434
+488 466 456 463 527 522 507 530
+182 195 195 198 225 242 244 236
+21 25 11 12 15 14 16 18
+1059 1072 1085 1095 1090 1105 1094 1116
+280 298 304 311 313 326 324 328
+2177 2204 2250 2277 2283 2287 2290 2214
+286 275 313 314 250 249 237 230
+1422 1434 1430 1425 1466 1475 1505 1474
+469 494 506 539 567 563 547 510
+4360 4546 4602 4793 4926 5047 5047 4947
+997 1042 1073 1151 1217 1274 1291 1263
+1232 1275 1238 1261 1286 1276 1280 1239
+2131 2229 2290 2380 2422 2497 2475 2445
+622 580 667 606 595 576 591 665
+263 277 281 291 261 255 266 273
+511 503 504 465 405 453 575 646
+2917 2919 2839 2748 2835 2826 2752 2670
+0 0 0 0 1 1 2 2
+177 196 211 209 188 179 177 165
+26 27 28 28 23 24 23 24
+31 31 24 26 24 21 23 22
+65 66 63 65 65 64 56 58
+305 304 300 283 306 336 347 339
+226 230 234 230 238 245 227 221
+240 228 218 221 223 210 208 200
+83 87 91 83 86 99 98 103
+128 123 118 106 108 110 97 95
+52 51 50 50 56 55 54 49
+88 68 31 32 32 32 29 26
+101 96 92 82 92 95 92 95
+72 83 106 104 101 85 79 80
+1103 1116 1064 1030 1124 1084 1062 1006
+171 182 165 148 143 141 133 124
+34 31 33 36 40 38 43 42
+54 55 60 65 77 71 67 83
+85 85 83 76 87 83 73 72
+17 16 21 23 25 24 29 28
+8 5 2 6 9 6 9 10
+196 203 189 176 199 191 192 175
+30 31 30 28 33 31 30 27
+326 332 289 272 292 276 270 242
+51 52 58 57 50 52 49 53
+123 118 91 86 93 97 97 77
+152 162 140 129 149 126 124 112
+116 118 125 124 142 147 143 129
+45 45 50 47 63 65 54 47
+15 13 15 16 17 17 15 11
+56 60 61 62 63 65 74 71
+67 58 67 76 77 78 73 74
+36 35 34 38 33 38 35 38
+184 180 175 161 136 148 145 148
+201 179 170 162 161 180 201 194
+0 0 0 0 0 0 0 0
+17 15 13 14 13 16 14 11
+5 6 5 4 6 4 4 4
+1 1 1 1 1 1 1 1
+3 3 3 3 2 2 2 2
+30 23 22 24 23 43 65 54
+6 5 5 6 4 4 7 6
+33 31 26 26 25 21 17 17
+7 6 7 7 7 8 4 6
+8 8 6 5 5 5 4 4
+1 1 1 2 1 0 0 1
+1 3 2 2 2 1 2 1
+3 3 3 3 4 4 4 5
+9 8 7 6 6 4 6 8
+54 47 48 46 48 50 52 59
+9 8 8 6 7 6 4 6
+1 0 0 0 0 0 1 0
+1 1 1 1 1 1 1 4
+3 2 4 5 7 7 10 15
+1 0 0 0 0 0 0 0
+1 0 0 0 1 1 1 1
+12 11 8 7 7 7 7 9
+3 3 2 1 2 2 2 1
+13 14 13 16 16 15 18 18
+2 3 3 5 5 6 6 6
+4 2 3 3 4 4 5 6
+7 9 7 8 7 5 7 6
+4 5 7 6 5 6 3 2
+0 1 1 1 2 3 1 0
+1 1 2 1 1 1 1 1
+3 3 4 4 2 2 1 1
+6 4 5 3 2 5 5 3
+3 1 1 0 1 4 2 2
+19 19 20 14 14 14 17 14
+229 252 299 383 464 475 626 947
+1 0 0 0 0 0 0 0
+14 14 52 83 110 100 162 224
+1 0 0 0 0 0 0 0
+2 0 0 0 0 0 1 2
+1 1 1 0 0 1 1 2
+8 9 7 6 7 10 49 121
+33 45 49 61 85 97 119 187
+9 10 10 14 11 11 10 17
+99 111 121 133 148 149 170 239
+2 2 2 3 4 4 4 5
+0 0 0 0 1 1 1 1
+0 0 0 1 2 2 4 4
+3 3 2 0 1 0 1 4
+18 18 16 32 44 57 55 77
+26 25 24 28 28 25 25 32
+0 0 0 1 1 1 0 1
+0 0 0 0 0 0 0 0
+0 1 1 1 0 0 0 0
+5 6 4 5 4 3 2 2
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5 4 4 4 3 2 2 2
+0 1 1 2 3 2 2 2
+7 6 5 5 8 7 7 6
+1 1 1 3 2 3 2 2
+0 0 1 1 3 2 3 3
+6 5 2 1 3 3 2 1
+3 4 5 7 7 5 7 11
+0 0 1 1 2 0 3 6
+1 1 2 3 2 2 2 2
+2 3 2 3 3 3 2 3
+5 4 5 4 3 4 5 8
+5 7 4 7 10 10 14 18
+8 7 11 13 14 8 10 14
+;

@@ -1,0 +1,167 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20110203 09:00";
+NEXT-UPDATE="20240603 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOX009";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Isumaginninnermut tunngasut";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Social Services";
+COPYRIGHT=YES;
+DESCRIPTION="Unemployment and maternity benefits by time, district, type and unit <em>[SOE009]</em>";
+DESCRIPTION[da]="Arbejdsmarkedsydelser og barselsdagpenge efter tid, distrikt, ydelser og enhed <em>[SOD009]</em>";
+DESCRIPTION[kl]="Suliffeqanngikkallarnermi aammalu erninermi suliffeqanngikkallarnermi ikiorsiissutit piffissaq, immikkoortortaqarfik, ikiorsiissut aamma uuttuut malillugit <em>[SON009]</em>";
+TITLE="Unemployment and maternity benefits by district, unit, type and time";
+TITLE[da]="Arbejdsmarkedsydelser og barselsdagpenge efter distrikt, enhed, ydelse og tid";
+TITLE[kl]="Suliffeqanngikkallarnermi aammalu erninermi suliffeqanngikkallarnermi ikiorsiissutit : distrikti, uuttuut, ikiorsiissut , piffissaq";
+CONTENTS="Unemployment and maternity benefits";
+CONTENTS[da]="Arbejdsmarkedsydelser og barselsdagpenge";
+CONTENTS[kl]="Suliffeqanngikkallarnermi aammalu erninermi suliffeqanngikkallarnermi ikiorsiissutit";
+UNITS="Number of recipients and amount (1000 DKK)";
+UNITS[da]="Antal/beløb (1000 DKK)";
+UNITS[kl]="Amerlassusii/aningaasat amerlassusii (1000 DKK)";
+STUB="district","unit","type";
+STUB[da]="distrikt","enhed","ydelse";
+STUB[kl]="distrikti","uuttuut","ikiorsiissut";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("district")="Total","Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk","Maniitsoq","Sisimiut",
+"Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik",
+"Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES[da]("distrikt")="I alt","Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk","Maniitsoq",
+"Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq","Uummannaq",
+"Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES[kl]("distrikti")="Katillugit","Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk","Maniitsoq",
+"Sisimiut","Kangaatsiaq","Aasiaat","Qasigiannguit","Ilulissat","Qeqertarsuaq","Uummannaq",
+"Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES("unit")="Number","Amount (1000 DKK)";
+VALUES[da]("enhed")="Antal","Beløb (1000 DKK)";
+VALUES[kl]("uuttuut")="Amerlassusii","Aningaasat amerlassusii (1000 DKK)";
+VALUES("type")="Unemployment benefits","Maternity benefits";
+VALUES[da]("ydelse")="Arbejdsmarkedsydelser","Barselsdagpenge";
+VALUES[kl]("ikiorsiissut")="Suliffeqanngikkallarnermi ikiorsiissutit","Ernereernermi ullormusiat";
+VALUES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+VALUES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+CODES("district")="00","01","02","03","05","06","07","08","09","10","11","12","14","15","16","17",
+"18","19";
+CODES[da]("distrikt")="00","01","02","03","05","06","07","08","09","10","11","12","14","15","16",
+"17","18","19";
+CODES[kl]("distrikti")="00","01","02","03","05","06","07","08","09","10","11","12","14","15","16",
+"17","18","19";
+CODES("unit")="Antal","Belob";
+CODES[da]("enhed")="Antal","Belob";
+CODES[kl]("uuttuut")="Antal","Belob";
+CODES("type")="20","30";
+CODES[da]("ydelse")="20","30";
+CODES[kl]("ikiorsiissut")="20","30";
+CODES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+CODES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+ELIMINATION("district")="Total";
+ELIMINATION[da]("distrikt")="I alt";
+ELIMINATION[kl]("distrikti")="Katillugit";
+LAST-UPDATED="20240603 09:00";
+CONTACT="Anders Blaabjerg         abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg         abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg         abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="When the number of people is 5 or less in rows total and unknow in the age groups, they appear as .. (2 dots) for reasons of confidentiality. For Sermersooq 2018, Unemployment Benefit, disease is counted as Unemployment Benefit, basic.";
+NOTE[da]="Når antallet af personer er 5 eller mindre i rækkerne, vises de som .. (2 prikker) af diskretionshensyn. For Sermersooq 2018 tæller Arbejdsmarkedsydelse ved ledighed tillige Arbejdsmarkedsydelse ved sygdom.";
+NOTE[kl]="Inuit amerlassusii tallimaappata, tallimaniilluunniit ikinneruppata toornernik marlunnik (..) takutinneqassapput, tatiginartumik isumannaarsaaneq tunngavingalugu. 2018-imi Sermersuumi suliffeqannginnermi ikiorsiissutini napparsimalluni "
+"suliffeqannginnermi ikiorsiissutit ilanngunneqarput.";
+DATA=
+3465 3234 3406 3163 3094 3073 3099 2842 2894 2533 2253 2314 2124 3056 1821
+1106 1127 1048 992 1036 996 1025 1082 1040 1023 1087 1032 982 846 719
+41227 38665 45872 41185 39713 42012 40546 31856 38498 31616 29813 30034 25022 28314 25238
+34349 34175 33232 30889 31591 32467 33477 36160 36609 36790 38822 43385 41115 35119 31775
+146 116 81 73 117 140 140 137 159 131 133 147 115 157 81
+47 46 39 43 31 25 46 44 46 33 39 39 28 22 16
+2641 1587 1319 1177 1994 2425 2348 2083 2937 2030 2636 2571 1533 1869 1058
+1336 1325 1028 1340 904 1104 1667 1608 1893 1175 1219 1202 1408 727 518
+159 172 173 172 163 174 180 150 150 141 118 137 104 194 114
+76 78 56 50 74 60 80 65 69 72 67 74 59 52 46
+2256 2864 2790 2765 2544 2621 3115 2543 2691 2002 1815 2052 1661 2039 2012
+2136 2488 2023 1324 2433 2156 2648 2165 2437 2475 2094 2909 2412 2147 2044
+182 157 161 139 155 160 174 168 174 143 102 104 101 121 97
+35 37 38 29 39 54 32 37 39 30 22 23 34 27 22
+2795 2188 2169 2104 2077 2602 3134 2527 2715 2198 1361 1414 1452 1421 1649
+954 1224 1025 968 953 1763 972 1218 1398 1400 741 1142 1522 1442 844
+109 164 179 190 181 158 141 136 111 94 85 62 39 83 40
+24 37 27 28 34 49 35 34 22 17 32 28 20 12 22
+991 1780 2137 2097 1858 1910 1668 1469 1191 899 1231 777 391 559 469
+753 1187 1054 898 742 1062 1093 880 704 515 1271 1325 687 462 1168
+392 377 422 443 496 457 442 405 419 318 343 344 288 463 228
+271 276 230 253 267 228 244 237 231 242 269 268 275 220 176
+4891 4281 5818 5554 6991 7344 6896 5515 5544 4384 5483 5731 4154 4699 4281
+9070 8865 7985 8558 8219 8214 8016 8595 8218 8773 10603 11409 10782 8525 7813
+271 211 208 236 225 213 243 275 280 220 179 164 143 263 116
+78 74 80 74 78 54 61 58 73 63 90 75 78 52 44
+2696 2294 1959 2448 2938 2266 2794 2386 3319 2006 1729 1451 1231 1779 1064
+2289 2124 2520 2133 1841 1361 1964 1808 2537 2313 3564 3027 3588 2568 2005
+478 487 442 346 350 346 349 304 322 266 229 312 344 473 233
+144 123 140 124 145 119 116 129 128 135 138 117 147 119 76
+5785 6114 7621 3693 4444 4287 3990 2645 3483 2863 2560 3629 3218 3576 2558
+4694 3853 4342 4091 4121 3774 4092 4311 4399 4634 5036 5607 6501 5167 3393
+211 126 109 78 75 112 108 133 138 147 114 105 86 115 110
+40 40 21 29 25 23 30 56 42 31 34 23 10 27 34
+1877 1700 1638 1037 907 1714 1246 1460 1995 2869 1963 1738 1051 1212 1899
+1264 740 472 709 983 651 696 1803 1467 744 956 1178 347 1122 1258
+241 243 254 216 229 200 226 237 237 222 212 180 151 267 150
+51 62 66 69 59 83 62 59 55 63 67 67 51 42 40
+2447 2717 2814 2473 2918 2606 2681 2547 3821 3039 2380 1929 1959 2083 2141
+1360 2104 1926 2097 1805 2945 2143 2176 1820 2696 2215 2986 2433 1681 1841
+121 69 186 187 128 164 169 120 130 98 102 105 118 116 69
+43 39 23 20 23 37 43 29 37 28 30 20 26 18 19
+1658 884 2085 3160 1210 1445 1638 772 1600 927 869 1057 1051 1063 1002
+1231 963 700 690 608 1159 1335 942 1412 667 1010 1150 1018 652 1074
+508 452 448 436 368 340 345 294 272 267 207 222 220 292 203
+86 105 118 82 75 94 93 108 105 94 94 102 81 89 74
+6232 4901 5650 6495 4670 4440 4081 2837 3264 3172 2234 2536 2788 2173 2140
+2589 2906 3552 2399 2737 3488 3146 3837 4314 3807 3486 3677 3614 3862 3034
+57 60 51 37 41 60 42 59 56 55 49 60 58 74 60
+18 16 19 20 13 13 18 25 12 10 21 17 19 16 11
+756 823 729 443 548 943 569 699 819 645 683 687 577 824 866
+567 497 626 568 529 533 693 794 312 332 998 992 823 767 805
+230 182 246 227 196 204 225 153 164 125 99 116 111 122 88
+51 46 50 41 40 38 43 54 56 47 47 50 41 43 47
+2262 1750 3392 2800 2359 2954 2567 1228 1568 1092 884 1013 926 980 752
+1678 1643 1759 1257 1169 800 1507 1627 1767 1721 1509 1974 1704 1793 2079
+202 194 209 182 167 161 141 119 126 122 89 82 124 166 116
+61 64 56 53 53 45 56 65 56 65 64 58 56 50 40
+2460 2260 2864 2586 1930 2182 1474 1172 1431 1103 973 859 1143 1504 1575
+1741 1667 1482 1642 1645 1320 1647 2009 1823 2067 2092 2209 2264 1785 1736
+34 52 63 35 34 26 31 28 35 42 47 42 22 34 22
+13 24 16 20 21 15 25 31 21 24 26 18 16 17 22
+276 560 812 370 427 193 236 209 299 324 462 373 214 337 185
+335 703 353 502 657 365 601 764 627 779 815 563 504 667 963
+108 147 146 142 138 130 118 110 112 125 134 119 94 110 85
+49 42 49 34 39 39 32 46 37 61 37 41 34 35 27
+990 1709 1739 1686 1542 1834 1811 1595 1742 1871 2374 2008 1633 2172 1520
+1722 1480 1617 1006 1474 1132 910 1480 1128 2478 915 1591 1248 1573 1090
+16 25 28 24 31 28 25 14 9 17 11 13 6 6 9
+19 18 20 23 20 20 9 5 11 8 10 12 7 5 3
+213 252 338 296 354 246 297 169 78 194 174 209 38 23 69
+630 405 767 709 771 639 346 142 354 214 298 444 259 179 111;

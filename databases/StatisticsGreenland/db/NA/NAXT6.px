@@ -1,0 +1,1738 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20140215 09:00";
+NEXT-UPDATE="20170210 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="NAXT6";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="NA";
+SUBJECT-AREA="Names";
+SUBJECT-AREA[da]="Navne";
+SUBJECT-AREA[kl]="Inuit aqqi";
+COPYRIGHT=YES;
+DESCRIPTION="First firstname for boys born in Greenland. 2021 <em>[NAET6]</em>";
+DESCRIPTION[da]="Første fornavn på drenge født i Grønland. 2021 <em>[NADT6]</em>";
+DESCRIPTION[kl]="Nukappiaqqat Kalaallit Nunaanni inuusimasut aqqi siulliit. 2021 <em>[NANT6]</em>";
+TITLE="Baby boys names by first firstname and cohort";
+TITLE[da]="Drengenavne efter første fornavn og fødselsår";
+TITLE[kl]="Nukappiaqqat aqqi : inuup aqqa siulleq , ukioq inunngorfik";
+CONTENTS="Baby boys names";
+CONTENTS[da]="Drengenavne";
+CONTENTS[kl]="Nukappiaqqat aqqi";
+UNITS="Boys born in Greenland";
+UNITS[da]="Drenge født i Grønland";
+UNITS[kl]="Nukappiaqqat Kalaallit Nunaanni inuusimasut";
+STUB="first firstname";
+STUB[da]="første fornavn";
+STUB[kl]="inuup aqqa siulleq";
+HEADING="cohort";
+HEADING[da]="fødselsår";
+HEADING[kl]="ukioq inunngorfik";
+VALUES("first firstname")="Aage","Aajaku","Aaju","Aaksel","Aalik","Aalut","Aanguaq","Aannguaq",
+"Aantuut","Aaqqii","Aaqqioq","Aarnu","Aaron","Aatsi","Abel","Abia","Abia-Gail","Abraham","Adam",
+"Adam-Otto","Adam-Qavak","Ado","Ado-Neo","Adrian","Aggu","Aggunnguaq","Aidan","Aiden","Aigo","Aiko",
+"Ailo","Aino","Airvin","Aka","Aka-Nuka","Aka-Peter","Akamali","Akamalik","Akigssiak","Akisooq",
+"Akisooq-Loui","Akku","Akkui","Aksel","Aksel-Aqqalu","Akutaaneq","Akutaq","Alan","Albert","Alberto",
+"Albrecht","Aleksander","Alex","Alexander","Alexi","Alfred","Aligiaq","Allan","Allen","Alvin",
+"Amarok'","Ammunnguaq","Amos","Amund","Ananias","Anata","Anda","Andeas-Nukaaraq","Anders","Andreas",
+"Angajo","Angajutsiaq","Angelo","Angerla","Angerlannguaq","Angula","Angulluk","Angunnguaq","Angut",
+"Angut-Hans","Anguteeraq","Anguteeraq-Louis","Anguteq","Angutimmarik","Angutinnguaq","Angutitsiaq",
+"Angutivaraq","Angutivik","Anguvik","Ani-Mike","Aningaaq","Aninnguaq","Anker","Anoraannguaq",
+"Anori","Anorinnguaq","Anouik","Anthon","Anthonio","Anton","Anuik","Anuu","Apollôrak'",
+"Appalinnguaq","Apu","Apunnguaq","Aputsiak","Aputsiaq","Aqissiaq","Aqissiatsiaq","Aqqa",
+"Aqqa-Malik","Aqqalivartaa","Aqqalooraq","Aqqalu","Aqqalu-Nuka","Aqqalu-Willy","Aqqaluartaa",
+"Aqqaluk","Aqqaluk-Anders","Aqqaluk-Nuka","Aqqalunnguaq","Aqqalutsiaq","Ara","Arhur","Ari",
+"Ari-John","Aric","Arjen","Arkalo","Arne","Arne-Johan","Arne-Michael","Arnfinn","Aron","Arsugak'",
+"Arsugaq","Arthur","Asaf","Asarpannguaq","Asasaq","Asbjørn","Asger","Asker","Aslak","Assa","Asser",
+"Ataatsiaq","Atlas","Atsiannguaq","Atsiaq","Atterdag","Augo","Avalequt","Avatannguaq","Avataq",
+"Avigiaq","Aviu","Axel","Balder","Barsalaj","Barselaj","Bastian","Bendt","Benjamin","Benny","Bent",
+"Bertram","Bianco","Biiniaaraq","Billiam","Birk","Bjarne","Bodhi","Boye","Brian","Broa","Bror",
+"Bruno","Carl","Carlo","Carsten","Casper","Charles","Charlie","Christian","Christoffer",
+"Christopher","Claus","Cody","Constantin","Cristiano","Cuno","Daani","Daavi-Tuppi","Dani","Daniel",
+"Danny","David","David-Jonas","Dean","Dennis","Denny","Devin","Dexter","Dian","Diego","Dilan",
+"Dines","Dino","Dylan","Ean","Edvard","Edvard-Inuk","Edward","Eerinni","Efraim","Eigel","Eigil",
+"Eiko","Eino","Eipi","Ejgil","Ejvind","El","Eli","Elia","Elias","Elliot","Elo","Emanuel","Emil",
+"Emil-Peter","Emmanuel","Enok","Eri-Angutitsiaq","Erik","Erling","Erne-Inunnguaq","Erneeraq",
+"Erneq","Erni","Erni-Poul","Erninnguaq","Ernitsiaq","Ernst-Kartaat","Ernu-Adam","Erwin","Esaias",
+"Esikias-Anders","Esra","Ethan","Evald","Evan","Felix","Ferdinand","Filip","Finn","Flemming",
+"Flint","Francis","Frank","Franz","Frederik","Frej","Fritz","Gaaba","Gaba","Gabriel","Gedion",
+"Geerti","Georg","Gert","Gerth","Gerth-Mario","Gino","Gottlieb","Gudmund","Gunnar","Gustav","Hans",
+"Hans-Anda","Hans-Daniel","Hans-Frederik","Hans-Henrik","Hans-Inuk","Hans-Jakob","Hans-Jokum",
+"Hans-Jørgen","Hans-Kristian","Hans-Lars","Hans-Louis","Hans-Peter","Hans-Åge","Hanseeraq",
+"Hansi-Joorut","Hansinnguaq","Hanspeter","Harald","Hector","Heino","Heinrich","Helge","Hendrik",
+"Hendrik-Kristin","Henning","Henrik","Herman","Hermann","Holger","Hugo","Ian","Ib","Ignatius",
+"Iinnguaali","Ikke-navngivet","Ikuala","Ilannguaq","Ilasiaq","Ilatsiaq","Ilik","Immanuel","Inequ",
+"Inequnaaluk","Inequtsiaq","Ingkasi","Ingmar","Innaaq","Innisaq","Inooraq","Inuik","Inuik-Nanoq",
+"Inuk","Inuk-Kuluk","Inuk-Ulloriaq","Inukitsoq","Inukitsorujuk","Inukkuluk","Inumineq","Inunnguaq",
+"Inutsiaq","Inuujuk","Inuuteq","Inuuti","Inuvik","Isaac","Isaak","Isajas","Isak","Isak-Peter",
+"Isamu","Ittullak","Ivaaq","Ivan","Ivik","Ivo","Jaaku-Juulut","Jaakunnguaq","Jaappili","Jack",
+"Jacob","Jaffet","Jake","Jakob","Jakob-Marius","Jakob-Qajuuttaq","James","Jan","Jan-Malik",
+"Jannick","Janseeraq","Jaqqu","Jason","Jean","Jebbe","Jens","Jens-Daniel","Jens-Jakob",
+"Jens-Jørgen","Jens-Karl","Jens-Ole","Jens-Ove","Jens-Peter","Jenseeraq","Jeremias","Jerimias",
+"Jesper","Jim","Jimmy","Joas","Joenash","Joey","Johan","Johan-Karl","Johannes","Johansinnguaq",
+"John","John-Bastian","John-Frederik","Jon","Jonah","Jonas","Jonas-Marius","Jonathan","Jonni",
+"Joorsi","Joorut","Jose","Josef","Joseph","Joshua","Josva","Joël","Juaaka","Juaasinnguaq","Juaat",
+"Julian","Julius","Junior","Juno","Justus","Juuluaraq","Juulut","Juunaq","Jâkúnguak","Jógvan",
+"Jørgen","Kaaka","Kaakaaq","Kaali","Kaalivaraq","Kaassannguaq","Kaino","Kaj","Kaj-Vittus","Kaka",
+"Kamillo","Karale","Karl","Karl-Berthel","Karl-Kristian","Karl-Peter","Karlo","Karlu","Karolus",
+"Karsten","Karta-Boye","Kasper","Kassoq","Katagté","Katu","Kavi","Kean","Keanu","Kelvin","Kendrick",
+"Kenneth","Kenni","Kenny","Kent","Keven","Kevin","Kiaanu","Kian","Kigutikkaq","Kiiannguaq","Kikkik",
+"Killiaq","Kim","Kimi-Ivan","Kimik","King","Kissavik","Kjeld","Kjell","Klaus","Knud","Knud-Peter",
+"Konrad","Kore","Kornelius","Kragh-Pele","Kristian","Kristian-Andreas","Kristjan","Kristoffer",
+"Kuannia","Kuka","Kuka-","Kuka-Mark","Kuka-Ulrik","Kulu","Kuluk","Kunna","Kuno","Kunuk",
+"Kunuunnguaq","Kunuuti","Kurt","Kuunu","Kyle","Kàri","Kûitse","Laarseeraq","Laasi","Lado","Lars",
+"Lars-Erik","Lars-Franz","Lars-Henrik","Lars-Jakob","Lars-Nuka","Lars-Pavia","Lauge","Leam","Lean",
+"Leif-Konrad","Leo","Leon","Leonardo","Leonel","Leopold","Levi","Liam","Lian","Lino","Linus",
+"Lionel","Logan","Looqi","Lora","Loui","Louie","Louis","Louis-Johan","Luca","Lucas","Lucca","Lucio",
+"Luckas","Ludvig","Lui","Luis","Luka","Lukas","Luke","Lukka","Luui","Maanguaq","Maariooraq","Maaru",
+"Maaseeraq","Maasi","Maasinnguaq","Maassannguaq","Mack","Mads","Magnus","Maick","Mailo","Majaq",
+"Mala","Malakias","Maleraq","Maligiaq","Malik","Malik-Lauge","Malinnguaq","Malitsiaq","Mamarut",
+"Manasse","Manu","Manu-Aqqaluk","Manu-Lio","Manuel","Manunnguaq","Marc","Marchel","Marco","Marcus",
+"Mario","Marius","Mark","Markus","Marley","Marloq","Marti-Malik","Martin","Martinique","Marty",
+"Masaana","Massanti","Mateo","Mathias","Mathæus","Matteo","Matthew","Matty","Max","Max-Mickey",
+"Max-Peter","Maximillian","Maximus","Meck","Meino","Melik","Melvin","Menino","Meo-Mark","Meyer",
+"Mian","Mica","Mican","Micas","Michael","Michio","Mick","Mickey-Milo","Mico","Miika","Miilo",
+"Miilu","Mika","Mika-Pavia","Mikael","Mikah","Mike","Mikey","Miki","Miki-Inuik","Mikinnguaq",
+"Mikisok","Mikisoq","Mikisuluk","Mikkel","Mikki","Miké","Milan","Milas","Milaz","Milo","Milyan",
+"Minaat","Mingus","Minik","Mininnguaq","Mino","Mio","Mirza","Momen","Morten","Moses","Mouritz",
+"Muko","Mutti","Mílo","Mîlo","Múte","Naalu","NaimángitsoK'","Naimángitsok'","Naleraq","Nando",
+"Nanny","Nanok'","Nanoq","Nanu","Nanu-Ivik","Napaaq","Nathan","Nathan-Pele","Nathaniel",
+"Nattoralik","Naviaq","Neal","Nelas","Nello","Nemo","Neo","Neruana","Nguju","Nicas","Nicholas",
+"Nick","Nickie","Nicklas","Nicklas-Nanoq","Nicklas-Ole","Nickolas","Niclas","Niclaz","Nico",
+"Nicolai","Nicolas","Nicu","Niels","Niels-Aqqalu","Niels-Bo","Niels-Ejner","Niels-Lukas",
+"Niels-Ole","Niels-Otto","Niels-Pele","Niels-Peter","Niels-Ulrik","Niininnguaq","Niinu","Niisi-Ole",
+"Nike","Nikki","Nikki-Aqqalu","Nikki-Malik","Nikku","Niklas","Niko","Nikolai","Nikolaj","Nikolas",
+"Nino","Njord","Noa","Noah","Nohr","Nolan","Nord","Norsannguaq","Norsaq","Novah","Nuka","Nuka-Aiko",
+"Nuka-Aqqalu","Nuka-Aqqaluk","Nuka-Aron","Nuka-Leo","Nuka-Peter","Nuka-Uno","Nukaaraq","Nukaati",
+"Nukakkuluk","Nukannguaq","Nukano","Nukanu","Nukanuk","Nukanunnguaq","Nukappi","Nukappiaaluk",
+"Nukappiannguaq","Nukappiaq","Nukappiarannguaq","Nukappiaraq","Nukarleq","Nukarpa","Nukartaannguaq",
+"Nukartaq","Nukatsaaq","Nukatsiaq","Nukavaraq","Nukavik","Nukki","Nuko","Nuku","Nunni","Nuunu",
+"Nuunu-Lars","Nâlagât","Nîo","Nûno-Mîlo","Nûnuko","Olaf","Ole","Ole-Rasmus","Oliver","Oluf","Ooqi",
+"Ooquna","Oquna","Orla","Oscar","Oskar","Otto","Ottonnguaq","Ottooraq","Ove","Paalu","Paartoq",
+"Paaviannguaq","Palle","Palleq","Palo","Palu","Papik","Patrick","Paul-Minik","Paulus","Pavia",
+"Peder","Pedersen","Pele","Pele-Bjarno","Per","Peter","Peter-Joorsi","Peter-Looqqi","Philip",
+"Phillip","Piili-Paalu","Piilinnguaq","Piitannguaq","Pikinnguaq","Pikkuluk","Pilo","Pilu","Pilutaq",
+"Pingajuaq","Pingajuat","Pirlo","Pituaq","Pivik","Pivinnguaq","Pollas","Poul","Preben","Pâlo",
+"Qarsoq","Qasapi","Qasiaq","Qillaq","Qisunnguaq","Qivioq","Qooqa","Qooqqa","Qulutak","Qulutannguaq",
+"Qulutaq","Qunaaq","Rafael","Ragnar","Rasmus","Reginald","Reimart","Remee","Rene","Reno","René",
+"Reo","Rex","Richard","Rico","Rikka","Riko","Rink","Rio","Robert","Robin","Rone","Rooney","Rossi",
+"Ruben","Rudi","Rudolf","Rune","Rûne","Saamik","Saamik-Nukaaraq","Saamu","Sakkak","Sakæus","Salik",
+"Salik-Aaju","Sam","Sammy","Samson","Samuel","Sander","Sean","Sebastian","Sem","Sem-Jakob",
+"Sequssuna","Seth","Shawn","Shingelu","Sigurd","Siiva","Sikunnguaq","Silas","Silas-Nukappi",
+"Simeon","Simon","Simon-Gustav","Sisu","Sivert","Siverth","Sofus","Sonny","Sophos","Soralu",
+"Sorlannguaq","Steen","Stefano","Steffan","Steffen","Sten","Stephan","Stephen","Stevan","Steve",
+"Steve-Ove","Steven","Stian","Stig","Suersaq","Suiaq","Suikkaq","Suluk","Sulunnguaq","Suni",
+"Suuffu","Suuluaraq","Suulunnguaq","Suulut","Sven","Svend","Svend-","Svend-Erik","Sâmik","Søren",
+"Søren-Peter","Taatsi","Taatsiaq","Taatsiaq-Looqi","Tage","Taiz","Taqqik","Tarralik","Taseraq",
+"Tautsiannguaq","Teddy","Teo","Thele","Thele-Salomon","Theo","Therkild","Thile-Peter","Thomas",
+"Thomas-Kristian","Thor","Thorbjørn","Thorlak","Thorvald","Thue","Thæmutius","Till","Tino","Tittu",
+"Tittus","Tobias","Tom","Tommy","Tomteem","Tonny","Tony","Tore","Tristan","Tuilik","Tulliaq",
+"Tullitsiaq","Tulluartoq","Tuppi","Tuuda","Tuullik","Téo","Ujarak","Ujarneq","Ujo","Uju",
+"Ujuaansinnguaq","Ujuansi","Ujuunnguaq","Uka","Ukaaraq","Ukkiaq","Ukkujaaq","Ulaajuk","Ulannaq",
+"Ulloriannguaq","Ulloriaq","Ulrik","Uma-Angerlartoq","Unatsiaq","Ungaaq","Ungâk","Uno","Uppik",
+"Utertoq","Utertunnguaq","Utuuniaq","Uulareeraq","Uularik","Uusaqqak","Uvdloriak'","UvloriaK'",
+"Uvloriaq","Vagn","Valde","Vandi","Veerti","Vico","Victor","Viggo","Viisu","Viktor","Vilas",
+"Vilhelm","Villads","Vincent","Violan","Vito","Vittunnguujuk","Vittus","William","Willy","Xander",
+"Xavier","Yaayuk","Yannick","Zack-Mario","Zakarias","Zayn","Zeth","Zian","Zidane","Åge-Hans",
+"Ûssark'";
+VALUES[da]("første fornavn")="Aage","Aajaku","Aaju","Aaksel","Aalik","Aalut","Aanguaq","Aannguaq",
+"Aantuut","Aaqqii","Aaqqioq","Aarnu","Aaron","Aatsi","Abel","Abia","Abia-Gail","Abraham","Adam",
+"Adam-Otto","Adam-Qavak","Ado","Ado-Neo","Adrian","Aggu","Aggunnguaq","Aidan","Aiden","Aigo","Aiko",
+"Ailo","Aino","Airvin","Aka","Aka-Nuka","Aka-Peter","Akamali","Akamalik","Akigssiak","Akisooq",
+"Akisooq-Loui","Akku","Akkui","Aksel","Aksel-Aqqalu","Akutaaneq","Akutaq","Alan","Albert","Alberto",
+"Albrecht","Aleksander","Alex","Alexander","Alexi","Alfred","Aligiaq","Allan","Allen","Alvin",
+"Amarok'","Ammunnguaq","Amos","Amund","Ananias","Anata","Anda","Andeas-Nukaaraq","Anders","Andreas",
+"Angajo","Angajutsiaq","Angelo","Angerla","Angerlannguaq","Angula","Angulluk","Angunnguaq","Angut",
+"Angut-Hans","Anguteeraq","Anguteeraq-Louis","Anguteq","Angutimmarik","Angutinnguaq","Angutitsiaq",
+"Angutivaraq","Angutivik","Anguvik","Ani-Mike","Aningaaq","Aninnguaq","Anker","Anoraannguaq",
+"Anori","Anorinnguaq","Anouik","Anthon","Anthonio","Anton","Anuik","Anuu","Apollôrak'",
+"Appalinnguaq","Apu","Apunnguaq","Aputsiak","Aputsiaq","Aqissiaq","Aqissiatsiaq","Aqqa",
+"Aqqa-Malik","Aqqalivartaa","Aqqalooraq","Aqqalu","Aqqalu-Nuka","Aqqalu-Willy","Aqqaluartaa",
+"Aqqaluk","Aqqaluk-Anders","Aqqaluk-Nuka","Aqqalunnguaq","Aqqalutsiaq","Ara","Arhur","Ari",
+"Ari-John","Aric","Arjen","Arkalo","Arne","Arne-Johan","Arne-Michael","Arnfinn","Aron","Arsugak'",
+"Arsugaq","Arthur","Asaf","Asarpannguaq","Asasaq","Asbjørn","Asger","Asker","Aslak","Assa","Asser",
+"Ataatsiaq","Atlas","Atsiannguaq","Atsiaq","Atterdag","Augo","Avalequt","Avatannguaq","Avataq",
+"Avigiaq","Aviu","Axel","Balder","Barsalaj","Barselaj","Bastian","Bendt","Benjamin","Benny","Bent",
+"Bertram","Bianco","Biiniaaraq","Billiam","Birk","Bjarne","Bodhi","Boye","Brian","Broa","Bror",
+"Bruno","Carl","Carlo","Carsten","Casper","Charles","Charlie","Christian","Christoffer",
+"Christopher","Claus","Cody","Constantin","Cristiano","Cuno","Daani","Daavi-Tuppi","Dani","Daniel",
+"Danny","David","David-Jonas","Dean","Dennis","Denny","Devin","Dexter","Dian","Diego","Dilan",
+"Dines","Dino","Dylan","Ean","Edvard","Edvard-Inuk","Edward","Eerinni","Efraim","Eigel","Eigil",
+"Eiko","Eino","Eipi","Ejgil","Ejvind","El","Eli","Elia","Elias","Elliot","Elo","Emanuel","Emil",
+"Emil-Peter","Emmanuel","Enok","Eri-Angutitsiaq","Erik","Erling","Erne-Inunnguaq","Erneeraq",
+"Erneq","Erni","Erni-Poul","Erninnguaq","Ernitsiaq","Ernst-Kartaat","Ernu-Adam","Erwin","Esaias",
+"Esikias-Anders","Esra","Ethan","Evald","Evan","Felix","Ferdinand","Filip","Finn","Flemming",
+"Flint","Francis","Frank","Franz","Frederik","Frej","Fritz","Gaaba","Gaba","Gabriel","Gedion",
+"Geerti","Georg","Gert","Gerth","Gerth-Mario","Gino","Gottlieb","Gudmund","Gunnar","Gustav","Hans",
+"Hans-Anda","Hans-Daniel","Hans-Frederik","Hans-Henrik","Hans-Inuk","Hans-Jakob","Hans-Jokum",
+"Hans-Jørgen","Hans-Kristian","Hans-Lars","Hans-Louis","Hans-Peter","Hans-Åge","Hanseeraq",
+"Hansi-Joorut","Hansinnguaq","Hanspeter","Harald","Hector","Heino","Heinrich","Helge","Hendrik",
+"Hendrik-Kristin","Henning","Henrik","Herman","Hermann","Holger","Hugo","Ian","Ib","Ignatius",
+"Iinnguaali","Ikke-navngivet","Ikuala","Ilannguaq","Ilasiaq","Ilatsiaq","Ilik","Immanuel","Inequ",
+"Inequnaaluk","Inequtsiaq","Ingkasi","Ingmar","Innaaq","Innisaq","Inooraq","Inuik","Inuik-Nanoq",
+"Inuk","Inuk-Kuluk","Inuk-Ulloriaq","Inukitsoq","Inukitsorujuk","Inukkuluk","Inumineq","Inunnguaq",
+"Inutsiaq","Inuujuk","Inuuteq","Inuuti","Inuvik","Isaac","Isaak","Isajas","Isak","Isak-Peter",
+"Isamu","Ittullak","Ivaaq","Ivan","Ivik","Ivo","Jaaku-Juulut","Jaakunnguaq","Jaappili","Jack",
+"Jacob","Jaffet","Jake","Jakob","Jakob-Marius","Jakob-Qajuuttaq","James","Jan","Jan-Malik",
+"Jannick","Janseeraq","Jaqqu","Jason","Jean","Jebbe","Jens","Jens-Daniel","Jens-Jakob",
+"Jens-Jørgen","Jens-Karl","Jens-Ole","Jens-Ove","Jens-Peter","Jenseeraq","Jeremias","Jerimias",
+"Jesper","Jim","Jimmy","Joas","Joenash","Joey","Johan","Johan-Karl","Johannes","Johansinnguaq",
+"John","John-Bastian","John-Frederik","Jon","Jonah","Jonas","Jonas-Marius","Jonathan","Jonni",
+"Joorsi","Joorut","Jose","Josef","Joseph","Joshua","Josva","Joël","Juaaka","Juaasinnguaq","Juaat",
+"Julian","Julius","Junior","Juno","Justus","Juuluaraq","Juulut","Juunaq","Jâkúnguak","Jógvan",
+"Jørgen","Kaaka","Kaakaaq","Kaali","Kaalivaraq","Kaassannguaq","Kaino","Kaj","Kaj-Vittus","Kaka",
+"Kamillo","Karale","Karl","Karl-Berthel","Karl-Kristian","Karl-Peter","Karlo","Karlu","Karolus",
+"Karsten","Karta-Boye","Kasper","Kassoq","Katagté","Katu","Kavi","Kean","Keanu","Kelvin","Kendrick",
+"Kenneth","Kenni","Kenny","Kent","Keven","Kevin","Kiaanu","Kian","Kigutikkaq","Kiiannguaq","Kikkik",
+"Killiaq","Kim","Kimi-Ivan","Kimik","King","Kissavik","Kjeld","Kjell","Klaus","Knud","Knud-Peter",
+"Konrad","Kore","Kornelius","Kragh-Pele","Kristian","Kristian-Andreas","Kristjan","Kristoffer",
+"Kuannia","Kuka","Kuka-","Kuka-Mark","Kuka-Ulrik","Kulu","Kuluk","Kunna","Kuno","Kunuk",
+"Kunuunnguaq","Kunuuti","Kurt","Kuunu","Kyle","Kàri","Kûitse","Laarseeraq","Laasi","Lado","Lars",
+"Lars-Erik","Lars-Franz","Lars-Henrik","Lars-Jakob","Lars-Nuka","Lars-Pavia","Lauge","Leam","Lean",
+"Leif-Konrad","Leo","Leon","Leonardo","Leonel","Leopold","Levi","Liam","Lian","Lino","Linus",
+"Lionel","Logan","Looqi","Lora","Loui","Louie","Louis","Louis-Johan","Luca","Lucas","Lucca","Lucio",
+"Luckas","Ludvig","Lui","Luis","Luka","Lukas","Luke","Lukka","Luui","Maanguaq","Maariooraq","Maaru",
+"Maaseeraq","Maasi","Maasinnguaq","Maassannguaq","Mack","Mads","Magnus","Maick","Mailo","Majaq",
+"Mala","Malakias","Maleraq","Maligiaq","Malik","Malik-Lauge","Malinnguaq","Malitsiaq","Mamarut",
+"Manasse","Manu","Manu-Aqqaluk","Manu-Lio","Manuel","Manunnguaq","Marc","Marchel","Marco","Marcus",
+"Mario","Marius","Mark","Markus","Marley","Marloq","Marti-Malik","Martin","Martinique","Marty",
+"Masaana","Massanti","Mateo","Mathias","Mathæus","Matteo","Matthew","Matty","Max","Max-Mickey",
+"Max-Peter","Maximillian","Maximus","Meck","Meino","Melik","Melvin","Menino","Meo-Mark","Meyer",
+"Mian","Mica","Mican","Micas","Michael","Michio","Mick","Mickey-Milo","Mico","Miika","Miilo",
+"Miilu","Mika","Mika-Pavia","Mikael","Mikah","Mike","Mikey","Miki","Miki-Inuik","Mikinnguaq",
+"Mikisok","Mikisoq","Mikisuluk","Mikkel","Mikki","Miké","Milan","Milas","Milaz","Milo","Milyan",
+"Minaat","Mingus","Minik","Mininnguaq","Mino","Mio","Mirza","Momen","Morten","Moses","Mouritz",
+"Muko","Mutti","Mílo","Mîlo","Múte","Naalu","NaimángitsoK'","Naimángitsok'","Naleraq","Nando",
+"Nanny","Nanok'","Nanoq","Nanu","Nanu-Ivik","Napaaq","Nathan","Nathan-Pele","Nathaniel",
+"Nattoralik","Naviaq","Neal","Nelas","Nello","Nemo","Neo","Neruana","Nguju","Nicas","Nicholas",
+"Nick","Nickie","Nicklas","Nicklas-Nanoq","Nicklas-Ole","Nickolas","Niclas","Niclaz","Nico",
+"Nicolai","Nicolas","Nicu","Niels","Niels-Aqqalu","Niels-Bo","Niels-Ejner","Niels-Lukas",
+"Niels-Ole","Niels-Otto","Niels-Pele","Niels-Peter","Niels-Ulrik","Niininnguaq","Niinu","Niisi-Ole",
+"Nike","Nikki","Nikki-Aqqalu","Nikki-Malik","Nikku","Niklas","Niko","Nikolai","Nikolaj","Nikolas",
+"Nino","Njord","Noa","Noah","Nohr","Nolan","Nord","Norsannguaq","Norsaq","Novah","Nuka","Nuka-Aiko",
+"Nuka-Aqqalu","Nuka-Aqqaluk","Nuka-Aron","Nuka-Leo","Nuka-Peter","Nuka-Uno","Nukaaraq","Nukaati",
+"Nukakkuluk","Nukannguaq","Nukano","Nukanu","Nukanuk","Nukanunnguaq","Nukappi","Nukappiaaluk",
+"Nukappiannguaq","Nukappiaq","Nukappiarannguaq","Nukappiaraq","Nukarleq","Nukarpa","Nukartaannguaq",
+"Nukartaq","Nukatsaaq","Nukatsiaq","Nukavaraq","Nukavik","Nukki","Nuko","Nuku","Nunni","Nuunu",
+"Nuunu-Lars","Nâlagât","Nîo","Nûno-Mîlo","Nûnuko","Olaf","Ole","Ole-Rasmus","Oliver","Oluf","Ooqi",
+"Ooquna","Oquna","Orla","Oscar","Oskar","Otto","Ottonnguaq","Ottooraq","Ove","Paalu","Paartoq",
+"Paaviannguaq","Palle","Palleq","Palo","Palu","Papik","Patrick","Paul-Minik","Paulus","Pavia",
+"Peder","Pedersen","Pele","Pele-Bjarno","Per","Peter","Peter-Joorsi","Peter-Looqqi","Philip",
+"Phillip","Piili-Paalu","Piilinnguaq","Piitannguaq","Pikinnguaq","Pikkuluk","Pilo","Pilu","Pilutaq",
+"Pingajuaq","Pingajuat","Pirlo","Pituaq","Pivik","Pivinnguaq","Pollas","Poul","Preben","Pâlo",
+"Qarsoq","Qasapi","Qasiaq","Qillaq","Qisunnguaq","Qivioq","Qooqa","Qooqqa","Qulutak","Qulutannguaq",
+"Qulutaq","Qunaaq","Rafael","Ragnar","Rasmus","Reginald","Reimart","Remee","Rene","Reno","René",
+"Reo","Rex","Richard","Rico","Rikka","Riko","Rink","Rio","Robert","Robin","Rone","Rooney","Rossi",
+"Ruben","Rudi","Rudolf","Rune","Rûne","Saamik","Saamik-Nukaaraq","Saamu","Sakkak","Sakæus","Salik",
+"Salik-Aaju","Sam","Sammy","Samson","Samuel","Sander","Sean","Sebastian","Sem","Sem-Jakob",
+"Sequssuna","Seth","Shawn","Shingelu","Sigurd","Siiva","Sikunnguaq","Silas","Silas-Nukappi",
+"Simeon","Simon","Simon-Gustav","Sisu","Sivert","Siverth","Sofus","Sonny","Sophos","Soralu",
+"Sorlannguaq","Steen","Stefano","Steffan","Steffen","Sten","Stephan","Stephen","Stevan","Steve",
+"Steve-Ove","Steven","Stian","Stig","Suersaq","Suiaq","Suikkaq","Suluk","Sulunnguaq","Suni",
+"Suuffu","Suuluaraq","Suulunnguaq","Suulut","Sven","Svend","Svend-","Svend-Erik","Sâmik","Søren",
+"Søren-Peter","Taatsi","Taatsiaq","Taatsiaq-Looqi","Tage","Taiz","Taqqik","Tarralik","Taseraq",
+"Tautsiannguaq","Teddy","Teo","Thele","Thele-Salomon","Theo","Therkild","Thile-Peter","Thomas",
+"Thomas-Kristian","Thor","Thorbjørn","Thorlak","Thorvald","Thue","Thæmutius","Till","Tino","Tittu",
+"Tittus","Tobias","Tom","Tommy","Tomteem","Tonny","Tony","Tore","Tristan","Tuilik","Tulliaq",
+"Tullitsiaq","Tulluartoq","Tuppi","Tuuda","Tuullik","Téo","Ujarak","Ujarneq","Ujo","Uju",
+"Ujuaansinnguaq","Ujuansi","Ujuunnguaq","Uka","Ukaaraq","Ukkiaq","Ukkujaaq","Ulaajuk","Ulannaq",
+"Ulloriannguaq","Ulloriaq","Ulrik","Uma-Angerlartoq","Unatsiaq","Ungaaq","Ungâk","Uno","Uppik",
+"Utertoq","Utertunnguaq","Utuuniaq","Uulareeraq","Uularik","Uusaqqak","Uvdloriak'","UvloriaK'",
+"Uvloriaq","Vagn","Valde","Vandi","Veerti","Vico","Victor","Viggo","Viisu","Viktor","Vilas",
+"Vilhelm","Villads","Vincent","Violan","Vito","Vittunnguujuk","Vittus","William","Willy","Xander",
+"Xavier","Yaayuk","Yannick","Zack-Mario","Zakarias","Zayn","Zeth","Zian","Zidane","Åge-Hans",
+"Ûssark'";
+VALUES[kl]("inuup aqqa siulleq")="Aage","Aajaku","Aaju","Aaksel","Aalik","Aalut","Aanguaq",
+"Aannguaq","Aantuut","Aaqqii","Aaqqioq","Aarnu","Aaron","Aatsi","Abel","Abia","Abia-Gail","Abraham",
+"Adam","Adam-Otto","Adam-Qavak","Ado","Ado-Neo","Adrian","Aggu","Aggunnguaq","Aidan","Aiden","Aigo",
+"Aiko","Ailo","Aino","Airvin","Aka","Aka-Nuka","Aka-Peter","Akamali","Akamalik","Akigssiak",
+"Akisooq","Akisooq-Loui","Akku","Akkui","Aksel","Aksel-Aqqalu","Akutaaneq","Akutaq","Alan","Albert",
+"Alberto","Albrecht","Aleksander","Alex","Alexander","Alexi","Alfred","Aligiaq","Allan","Allen",
+"Alvin","Amarok'","Ammunnguaq","Amos","Amund","Ananias","Anata","Anda","Andeas-Nukaaraq","Anders",
+"Andreas","Angajo","Angajutsiaq","Angelo","Angerla","Angerlannguaq","Angula","Angulluk",
+"Angunnguaq","Angut","Angut-Hans","Anguteeraq","Anguteeraq-Louis","Anguteq","Angutimmarik",
+"Angutinnguaq","Angutitsiaq","Angutivaraq","Angutivik","Anguvik","Ani-Mike","Aningaaq","Aninnguaq",
+"Anker","Anoraannguaq","Anori","Anorinnguaq","Anouik","Anthon","Anthonio","Anton","Anuik","Anuu",
+"Apollôrak'","Appalinnguaq","Apu","Apunnguaq","Aputsiak","Aputsiaq","Aqissiaq","Aqissiatsiaq",
+"Aqqa","Aqqa-Malik","Aqqalivartaa","Aqqalooraq","Aqqalu","Aqqalu-Nuka","Aqqalu-Willy","Aqqaluartaa",
+"Aqqaluk","Aqqaluk-Anders","Aqqaluk-Nuka","Aqqalunnguaq","Aqqalutsiaq","Ara","Arhur","Ari",
+"Ari-John","Aric","Arjen","Arkalo","Arne","Arne-Johan","Arne-Michael","Arnfinn","Aron","Arsugak'",
+"Arsugaq","Arthur","Asaf","Asarpannguaq","Asasaq","Asbjørn","Asger","Asker","Aslak","Assa","Asser",
+"Ataatsiaq","Atlas","Atsiannguaq","Atsiaq","Atterdag","Augo","Avalequt","Avatannguaq","Avataq",
+"Avigiaq","Aviu","Axel","Balder","Barsalaj","Barselaj","Bastian","Bendt","Benjamin","Benny","Bent",
+"Bertram","Bianco","Biiniaaraq","Billiam","Birk","Bjarne","Bodhi","Boye","Brian","Broa","Bror",
+"Bruno","Carl","Carlo","Carsten","Casper","Charles","Charlie","Christian","Christoffer",
+"Christopher","Claus","Cody","Constantin","Cristiano","Cuno","Daani","Daavi-Tuppi","Dani","Daniel",
+"Danny","David","David-Jonas","Dean","Dennis","Denny","Devin","Dexter","Dian","Diego","Dilan",
+"Dines","Dino","Dylan","Ean","Edvard","Edvard-Inuk","Edward","Eerinni","Efraim","Eigel","Eigil",
+"Eiko","Eino","Eipi","Ejgil","Ejvind","El","Eli","Elia","Elias","Elliot","Elo","Emanuel","Emil",
+"Emil-Peter","Emmanuel","Enok","Eri-Angutitsiaq","Erik","Erling","Erne-Inunnguaq","Erneeraq",
+"Erneq","Erni","Erni-Poul","Erninnguaq","Ernitsiaq","Ernst-Kartaat","Ernu-Adam","Erwin","Esaias",
+"Esikias-Anders","Esra","Ethan","Evald","Evan","Felix","Ferdinand","Filip","Finn","Flemming",
+"Flint","Francis","Frank","Franz","Frederik","Frej","Fritz","Gaaba","Gaba","Gabriel","Gedion",
+"Geerti","Georg","Gert","Gerth","Gerth-Mario","Gino","Gottlieb","Gudmund","Gunnar","Gustav","Hans",
+"Hans-Anda","Hans-Daniel","Hans-Frederik","Hans-Henrik","Hans-Inuk","Hans-Jakob","Hans-Jokum",
+"Hans-Jørgen","Hans-Kristian","Hans-Lars","Hans-Louis","Hans-Peter","Hans-Åge","Hanseeraq",
+"Hansi-Joorut","Hansinnguaq","Hanspeter","Harald","Hector","Heino","Heinrich","Helge","Hendrik",
+"Hendrik-Kristin","Henning","Henrik","Herman","Hermann","Holger","Hugo","Ian","Ib","Ignatius",
+"Iinnguaali","Ikke-navngivet","Ikuala","Ilannguaq","Ilasiaq","Ilatsiaq","Ilik","Immanuel","Inequ",
+"Inequnaaluk","Inequtsiaq","Ingkasi","Ingmar","Innaaq","Innisaq","Inooraq","Inuik","Inuik-Nanoq",
+"Inuk","Inuk-Kuluk","Inuk-Ulloriaq","Inukitsoq","Inukitsorujuk","Inukkuluk","Inumineq","Inunnguaq",
+"Inutsiaq","Inuujuk","Inuuteq","Inuuti","Inuvik","Isaac","Isaak","Isajas","Isak","Isak-Peter",
+"Isamu","Ittullak","Ivaaq","Ivan","Ivik","Ivo","Jaaku-Juulut","Jaakunnguaq","Jaappili","Jack",
+"Jacob","Jaffet","Jake","Jakob","Jakob-Marius","Jakob-Qajuuttaq","James","Jan","Jan-Malik",
+"Jannick","Janseeraq","Jaqqu","Jason","Jean","Jebbe","Jens","Jens-Daniel","Jens-Jakob",
+"Jens-Jørgen","Jens-Karl","Jens-Ole","Jens-Ove","Jens-Peter","Jenseeraq","Jeremias","Jerimias",
+"Jesper","Jim","Jimmy","Joas","Joenash","Joey","Johan","Johan-Karl","Johannes","Johansinnguaq",
+"John","John-Bastian","John-Frederik","Jon","Jonah","Jonas","Jonas-Marius","Jonathan","Jonni",
+"Joorsi","Joorut","Jose","Josef","Joseph","Joshua","Josva","Joël","Juaaka","Juaasinnguaq","Juaat",
+"Julian","Julius","Junior","Juno","Justus","Juuluaraq","Juulut","Juunaq","Jâkúnguak","Jógvan",
+"Jørgen","Kaaka","Kaakaaq","Kaali","Kaalivaraq","Kaassannguaq","Kaino","Kaj","Kaj-Vittus","Kaka",
+"Kamillo","Karale","Karl","Karl-Berthel","Karl-Kristian","Karl-Peter","Karlo","Karlu","Karolus",
+"Karsten","Karta-Boye","Kasper","Kassoq","Katagté","Katu","Kavi","Kean","Keanu","Kelvin","Kendrick",
+"Kenneth","Kenni","Kenny","Kent","Keven","Kevin","Kiaanu","Kian","Kigutikkaq","Kiiannguaq","Kikkik",
+"Killiaq","Kim","Kimi-Ivan","Kimik","King","Kissavik","Kjeld","Kjell","Klaus","Knud","Knud-Peter",
+"Konrad","Kore","Kornelius","Kragh-Pele","Kristian","Kristian-Andreas","Kristjan","Kristoffer",
+"Kuannia","Kuka","Kuka-","Kuka-Mark","Kuka-Ulrik","Kulu","Kuluk","Kunna","Kuno","Kunuk",
+"Kunuunnguaq","Kunuuti","Kurt","Kuunu","Kyle","Kàri","Kûitse","Laarseeraq","Laasi","Lado","Lars",
+"Lars-Erik","Lars-Franz","Lars-Henrik","Lars-Jakob","Lars-Nuka","Lars-Pavia","Lauge","Leam","Lean",
+"Leif-Konrad","Leo","Leon","Leonardo","Leonel","Leopold","Levi","Liam","Lian","Lino","Linus",
+"Lionel","Logan","Looqi","Lora","Loui","Louie","Louis","Louis-Johan","Luca","Lucas","Lucca","Lucio",
+"Luckas","Ludvig","Lui","Luis","Luka","Lukas","Luke","Lukka","Luui","Maanguaq","Maariooraq","Maaru",
+"Maaseeraq","Maasi","Maasinnguaq","Maassannguaq","Mack","Mads","Magnus","Maick","Mailo","Majaq",
+"Mala","Malakias","Maleraq","Maligiaq","Malik","Malik-Lauge","Malinnguaq","Malitsiaq","Mamarut",
+"Manasse","Manu","Manu-Aqqaluk","Manu-Lio","Manuel","Manunnguaq","Marc","Marchel","Marco","Marcus",
+"Mario","Marius","Mark","Markus","Marley","Marloq","Marti-Malik","Martin","Martinique","Marty",
+"Masaana","Massanti","Mateo","Mathias","Mathæus","Matteo","Matthew","Matty","Max","Max-Mickey",
+"Max-Peter","Maximillian","Maximus","Meck","Meino","Melik","Melvin","Menino","Meo-Mark","Meyer",
+"Mian","Mica","Mican","Micas","Michael","Michio","Mick","Mickey-Milo","Mico","Miika","Miilo",
+"Miilu","Mika","Mika-Pavia","Mikael","Mikah","Mike","Mikey","Miki","Miki-Inuik","Mikinnguaq",
+"Mikisok","Mikisoq","Mikisuluk","Mikkel","Mikki","Miké","Milan","Milas","Milaz","Milo","Milyan",
+"Minaat","Mingus","Minik","Mininnguaq","Mino","Mio","Mirza","Momen","Morten","Moses","Mouritz",
+"Muko","Mutti","Mílo","Mîlo","Múte","Naalu","NaimángitsoK'","Naimángitsok'","Naleraq","Nando",
+"Nanny","Nanok'","Nanoq","Nanu","Nanu-Ivik","Napaaq","Nathan","Nathan-Pele","Nathaniel",
+"Nattoralik","Naviaq","Neal","Nelas","Nello","Nemo","Neo","Neruana","Nguju","Nicas","Nicholas",
+"Nick","Nickie","Nicklas","Nicklas-Nanoq","Nicklas-Ole","Nickolas","Niclas","Niclaz","Nico",
+"Nicolai","Nicolas","Nicu","Niels","Niels-Aqqalu","Niels-Bo","Niels-Ejner","Niels-Lukas",
+"Niels-Ole","Niels-Otto","Niels-Pele","Niels-Peter","Niels-Ulrik","Niininnguaq","Niinu","Niisi-Ole",
+"Nike","Nikki","Nikki-Aqqalu","Nikki-Malik","Nikku","Niklas","Niko","Nikolai","Nikolaj","Nikolas",
+"Nino","Njord","Noa","Noah","Nohr","Nolan","Nord","Norsannguaq","Norsaq","Novah","Nuka","Nuka-Aiko",
+"Nuka-Aqqalu","Nuka-Aqqaluk","Nuka-Aron","Nuka-Leo","Nuka-Peter","Nuka-Uno","Nukaaraq","Nukaati",
+"Nukakkuluk","Nukannguaq","Nukano","Nukanu","Nukanuk","Nukanunnguaq","Nukappi","Nukappiaaluk",
+"Nukappiannguaq","Nukappiaq","Nukappiarannguaq","Nukappiaraq","Nukarleq","Nukarpa","Nukartaannguaq",
+"Nukartaq","Nukatsaaq","Nukatsiaq","Nukavaraq","Nukavik","Nukki","Nuko","Nuku","Nunni","Nuunu",
+"Nuunu-Lars","Nâlagât","Nîo","Nûno-Mîlo","Nûnuko","Olaf","Ole","Ole-Rasmus","Oliver","Oluf","Ooqi",
+"Ooquna","Oquna","Orla","Oscar","Oskar","Otto","Ottonnguaq","Ottooraq","Ove","Paalu","Paartoq",
+"Paaviannguaq","Palle","Palleq","Palo","Palu","Papik","Patrick","Paul-Minik","Paulus","Pavia",
+"Peder","Pedersen","Pele","Pele-Bjarno","Per","Peter","Peter-Joorsi","Peter-Looqqi","Philip",
+"Phillip","Piili-Paalu","Piilinnguaq","Piitannguaq","Pikinnguaq","Pikkuluk","Pilo","Pilu","Pilutaq",
+"Pingajuaq","Pingajuat","Pirlo","Pituaq","Pivik","Pivinnguaq","Pollas","Poul","Preben","Pâlo",
+"Qarsoq","Qasapi","Qasiaq","Qillaq","Qisunnguaq","Qivioq","Qooqa","Qooqqa","Qulutak","Qulutannguaq",
+"Qulutaq","Qunaaq","Rafael","Ragnar","Rasmus","Reginald","Reimart","Remee","Rene","Reno","René",
+"Reo","Rex","Richard","Rico","Rikka","Riko","Rink","Rio","Robert","Robin","Rone","Rooney","Rossi",
+"Ruben","Rudi","Rudolf","Rune","Rûne","Saamik","Saamik-Nukaaraq","Saamu","Sakkak","Sakæus","Salik",
+"Salik-Aaju","Sam","Sammy","Samson","Samuel","Sander","Sean","Sebastian","Sem","Sem-Jakob",
+"Sequssuna","Seth","Shawn","Shingelu","Sigurd","Siiva","Sikunnguaq","Silas","Silas-Nukappi",
+"Simeon","Simon","Simon-Gustav","Sisu","Sivert","Siverth","Sofus","Sonny","Sophos","Soralu",
+"Sorlannguaq","Steen","Stefano","Steffan","Steffen","Sten","Stephan","Stephen","Stevan","Steve",
+"Steve-Ove","Steven","Stian","Stig","Suersaq","Suiaq","Suikkaq","Suluk","Sulunnguaq","Suni",
+"Suuffu","Suuluaraq","Suulunnguaq","Suulut","Sven","Svend","Svend-","Svend-Erik","Sâmik","Søren",
+"Søren-Peter","Taatsi","Taatsiaq","Taatsiaq-Looqi","Tage","Taiz","Taqqik","Tarralik","Taseraq",
+"Tautsiannguaq","Teddy","Teo","Thele","Thele-Salomon","Theo","Therkild","Thile-Peter","Thomas",
+"Thomas-Kristian","Thor","Thorbjørn","Thorlak","Thorvald","Thue","Thæmutius","Till","Tino","Tittu",
+"Tittus","Tobias","Tom","Tommy","Tomteem","Tonny","Tony","Tore","Tristan","Tuilik","Tulliaq",
+"Tullitsiaq","Tulluartoq","Tuppi","Tuuda","Tuullik","Téo","Ujarak","Ujarneq","Ujo","Uju",
+"Ujuaansinnguaq","Ujuansi","Ujuunnguaq","Uka","Ukaaraq","Ukkiaq","Ukkujaaq","Ulaajuk","Ulannaq",
+"Ulloriannguaq","Ulloriaq","Ulrik","Uma-Angerlartoq","Unatsiaq","Ungaaq","Ungâk","Uno","Uppik",
+"Utertoq","Utertunnguaq","Utuuniaq","Uulareeraq","Uularik","Uusaqqak","Uvdloriak'","UvloriaK'",
+"Uvloriaq","Vagn","Valde","Vandi","Veerti","Vico","Victor","Viggo","Viisu","Viktor","Vilas",
+"Vilhelm","Villads","Vincent","Violan","Vito","Vittunnguujuk","Vittus","William","Willy","Xander",
+"Xavier","Yaayuk","Yannick","Zack-Mario","Zakarias","Zayn","Zeth","Zian","Zidane","Åge-Hans",
+"Ûssark'";
+VALUES("cohort")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[da]("fødselsår")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[kl]("ukioq inunngorfik")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL("cohort")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL[da]("fødselsår")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL[kl]("ukioq inunngorfik")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+CODES("first firstname")="Aage","Aajaku","Aaju","Aaksel","Aalik","Aalut","Aanguaq","Aannguaq",
+"Aantuut","Aaqqii","Aaqqioq","Aarnu","Aaron","Aatsi","Abel","Abia","Abia-Gail","Abraham","Adam",
+"Adam-Otto","Adam-Qavak","Ado","Ado-Neo","Adrian","Aggu","Aggunnguaq","Aidan","Aiden","Aigo","Aiko",
+"Ailo","Aino","Airvin","Aka","Aka-Nuka","Aka-Peter","Akamali","Akamalik","Akigssiak","Akisooq",
+"Akisooq-Loui","Akku","Akkui","Aksel","Aksel-Aqqalu","Akutaaneq","Akutaq","Alan","Albert","Alberto",
+"Albrecht","Aleksander","Alex","Alexander","Alexi","Alfred","Aligiaq","Allan","Allen","Alvin",
+"Amarok'","Ammunnguaq","Amos","Amund","Ananias","Anata","Anda","Andeas-Nukaaraq","Anders","Andreas",
+"Angajo","Angajutsiaq","Angelo","Angerla","Angerlannguaq","Angula","Angulluk","Angunnguaq","Angut",
+"Angut-Hans","Anguteeraq","Anguteeraq-Louis","Anguteq","Angutimmarik","Angutinnguaq","Angutitsiaq",
+"Angutivaraq","Angutivik","Anguvik","Ani-Mike","Aningaaq","Aninnguaq","Anker","Anoraannguaq",
+"Anori","Anorinnguaq","Anouik","Anthon","Anthonio","Anton","Anuik","Anuu","Apollôrak'",
+"Appalinnguaq","Apu","Apunnguaq","Aputsiak","Aputsiaq","Aqissiaq","Aqissiatsiaq","Aqqa",
+"Aqqa-Malik","Aqqalivartaa","Aqqalooraq","Aqqalu","Aqqalu-Nuka","Aqqalu-Willy","Aqqaluartaa",
+"Aqqaluk","Aqqaluk-Anders","Aqqaluk-Nuka","Aqqalunnguaq","Aqqalutsiaq","Ara","Arhur","Ari",
+"Ari-John","Aric","Arjen","Arkalo","Arne","Arne-Johan","Arne-Michael","Arnfinn","Aron","Arsugak'",
+"Arsugaq","Arthur","Asaf","Asarpannguaq","Asasaq","Asbjørn","Asger","Asker","Aslak","Assa","Asser",
+"Ataatsiaq","Atlas","Atsiannguaq","Atsiaq","Atterdag","Augo","Avalequt","Avatannguaq","Avataq",
+"Avigiaq","Aviu","Axel","Balder","Barsalaj","Barselaj","Bastian","Bendt","Benjamin","Benny","Bent",
+"Bertram","Bianco","Biiniaaraq","Billiam","Birk","Bjarne","Bodhi","Boye","Brian","Broa","Bror",
+"Bruno","Carl","Carlo","Carsten","Casper","Charles","Charlie","Christian","Christoffer",
+"Christopher","Claus","Cody","Constantin","Cristiano","Cuno","Daani","Daavi-Tuppi","Dani","Daniel",
+"Danny","David","David-Jonas","Dean","Dennis","Denny","Devin","Dexter","Dian","Diego","Dilan",
+"Dines","Dino","Dylan","Ean","Edvard","Edvard-Inuk","Edward","Eerinni","Efraim","Eigel","Eigil",
+"Eiko","Eino","Eipi","Ejgil","Ejvind","El","Eli","Elia","Elias","Elliot","Elo","Emanuel","Emil",
+"Emil-Peter","Emmanuel","Enok","Eri-Angutitsiaq","Erik","Erling","Erne-Inunnguaq","Erneeraq",
+"Erneq","Erni","Erni-Poul","Erninnguaq","Ernitsiaq","Ernst-Kartaat","Ernu-Adam","Erwin","Esaias",
+"Esikias-Anders","Esra","Ethan","Evald","Evan","Felix","Ferdinand","Filip","Finn","Flemming",
+"Flint","Francis","Frank","Franz","Frederik","Frej","Fritz","Gaaba","Gaba","Gabriel","Gedion",
+"Geerti","Georg","Gert","Gerth","Gerth-Mario","Gino","Gottlieb","Gudmund","Gunnar","Gustav","Hans",
+"Hans-Anda","Hans-Daniel","Hans-Frederik","Hans-Henrik","Hans-Inuk","Hans-Jakob","Hans-Jokum",
+"Hans-Jørgen","Hans-Kristian","Hans-Lars","Hans-Louis","Hans-Peter","Hans-Åge","Hanseeraq",
+"Hansi-Joorut","Hansinnguaq","Hanspeter","Harald","Hector","Heino","Heinrich","Helge","Hendrik",
+"Hendrik-Kristin","Henning","Henrik","Herman","Hermann","Holger","Hugo","Ian","Ib","Ignatius",
+"Iinnguaali","Ikke-navngivet","Ikuala","Ilannguaq","Ilasiaq","Ilatsiaq","Ilik","Immanuel","Inequ",
+"Inequnaaluk","Inequtsiaq","Ingkasi","Ingmar","Innaaq","Innisaq","Inooraq","Inuik","Inuik-Nanoq",
+"Inuk","Inuk-Kuluk","Inuk-Ulloriaq","Inukitsoq","Inukitsorujuk","Inukkuluk","Inumineq","Inunnguaq",
+"Inutsiaq","Inuujuk","Inuuteq","Inuuti","Inuvik","Isaac","Isaak","Isajas","Isak","Isak-Peter",
+"Isamu","Ittullak","Ivaaq","Ivan","Ivik","Ivo","Jaaku-Juulut","Jaakunnguaq","Jaappili","Jack",
+"Jacob","Jaffet","Jake","Jakob","Jakob-Marius","Jakob-Qajuuttaq","James","Jan","Jan-Malik",
+"Jannick","Janseeraq","Jaqqu","Jason","Jean","Jebbe","Jens","Jens-Daniel","Jens-Jakob",
+"Jens-Jørgen","Jens-Karl","Jens-Ole","Jens-Ove","Jens-Peter","Jenseeraq","Jeremias","Jerimias",
+"Jesper","Jim","Jimmy","Joas","Joenash","Joey","Johan","Johan-Karl","Johannes","Johansinnguaq",
+"John","John-Bastian","John-Frederik","Jon","Jonah","Jonas","Jonas-Marius","Jonathan","Jonni",
+"Joorsi","Joorut","Jose","Josef","Joseph","Joshua","Josva","Joël","Juaaka","Juaasinnguaq","Juaat",
+"Julian","Julius","Junior","Juno","Justus","Juuluaraq","Juulut","Juunaq","Jâkúnguak","Jógvan",
+"Jørgen","Kaaka","Kaakaaq","Kaali","Kaalivaraq","Kaassannguaq","Kaino","Kaj","Kaj-Vittus","Kaka",
+"Kamillo","Karale","Karl","Karl-Berthel","Karl-Kristian","Karl-Peter","Karlo","Karlu","Karolus",
+"Karsten","Karta-Boye","Kasper","Kassoq","Katagté","Katu","Kavi","Kean","Keanu","Kelvin","Kendrick",
+"Kenneth","Kenni","Kenny","Kent","Keven","Kevin","Kiaanu","Kian","Kigutikkaq","Kiiannguaq","Kikkik",
+"Killiaq","Kim","Kimi-Ivan","Kimik","King","Kissavik","Kjeld","Kjell","Klaus","Knud","Knud-Peter",
+"Konrad","Kore","Kornelius","Kragh-Pele","Kristian","Kristian-Andreas","Kristjan","Kristoffer",
+"Kuannia","Kuka","Kuka-","Kuka-Mark","Kuka-Ulrik","Kulu","Kuluk","Kunna","Kuno","Kunuk",
+"Kunuunnguaq","Kunuuti","Kurt","Kuunu","Kyle","Kàri","Kûitse","Laarseeraq","Laasi","Lado","Lars",
+"Lars-Erik","Lars-Franz","Lars-Henrik","Lars-Jakob","Lars-Nuka","Lars-Pavia","Lauge","Leam","Lean",
+"Leif-Konrad","Leo","Leon","Leonardo","Leonel","Leopold","Levi","Liam","Lian","Lino","Linus",
+"Lionel","Logan","Looqi","Lora","Loui","Louie","Louis","Louis-Johan","Luca","Lucas","Lucca","Lucio",
+"Luckas","Ludvig","Lui","Luis","Luka","Lukas","Luke","Lukka","Luui","Maanguaq","Maariooraq","Maaru",
+"Maaseeraq","Maasi","Maasinnguaq","Maassannguaq","Mack","Mads","Magnus","Maick","Mailo","Majaq",
+"Mala","Malakias","Maleraq","Maligiaq","Malik","Malik-Lauge","Malinnguaq","Malitsiaq","Mamarut",
+"Manasse","Manu","Manu-Aqqaluk","Manu-Lio","Manuel","Manunnguaq","Marc","Marchel","Marco","Marcus",
+"Mario","Marius","Mark","Markus","Marley","Marloq","Marti-Malik","Martin","Martinique","Marty",
+"Masaana","Massanti","Mateo","Mathias","Mathæus","Matteo","Matthew","Matty","Max","Max-Mickey",
+"Max-Peter","Maximillian","Maximus","Meck","Meino","Melik","Melvin","Menino","Meo-Mark","Meyer",
+"Mian","Mica","Mican","Micas","Michael","Michio","Mick","Mickey-Milo","Mico","Miika","Miilo",
+"Miilu","Mika","Mika-Pavia","Mikael","Mikah","Mike","Mikey","Miki","Miki-Inuik","Mikinnguaq",
+"Mikisok","Mikisoq","Mikisuluk","Mikkel","Mikki","Miké","Milan","Milas","Milaz","Milo","Milyan",
+"Minaat","Mingus","Minik","Mininnguaq","Mino","Mio","Mirza","Momen","Morten","Moses","Mouritz",
+"Muko","Mutti","Mílo","Mîlo","Múte","Naalu","NaimángitsoK'","Naimángitsok'","Naleraq","Nando",
+"Nanny","Nanok'","Nanoq","Nanu","Nanu-Ivik","Napaaq","Nathan","Nathan-Pele","Nathaniel",
+"Nattoralik","Naviaq","Neal","Nelas","Nello","Nemo","Neo","Neruana","Nguju","Nicas","Nicholas",
+"Nick","Nickie","Nicklas","Nicklas-Nanoq","Nicklas-Ole","Nickolas","Niclas","Niclaz","Nico",
+"Nicolai","Nicolas","Nicu","Niels","Niels-Aqqalu","Niels-Bo","Niels-Ejner","Niels-Lukas",
+"Niels-Ole","Niels-Otto","Niels-Pele","Niels-Peter","Niels-Ulrik","Niininnguaq","Niinu","Niisi-Ole",
+"Nike","Nikki","Nikki-Aqqalu","Nikki-Malik","Nikku","Niklas","Niko","Nikolai","Nikolaj","Nikolas",
+"Nino","Njord","Noa","Noah","Nohr","Nolan","Nord","Norsannguaq","Norsaq","Novah","Nuka","Nuka-Aiko",
+"Nuka-Aqqalu","Nuka-Aqqaluk","Nuka-Aron","Nuka-Leo","Nuka-Peter","Nuka-Uno","Nukaaraq","Nukaati",
+"Nukakkuluk","Nukannguaq","Nukano","Nukanu","Nukanuk","Nukanunnguaq","Nukappi","Nukappiaaluk",
+"Nukappiannguaq","Nukappiaq","Nukappiarannguaq","Nukappiaraq","Nukarleq","Nukarpa","Nukartaannguaq",
+"Nukartaq","Nukatsaaq","Nukatsiaq","Nukavaraq","Nukavik","Nukki","Nuko","Nuku","Nunni","Nuunu",
+"Nuunu-Lars","Nâlagât","Nîo","Nûno-Mîlo","Nûnuko","Olaf","Ole","Ole-Rasmus","Oliver","Oluf","Ooqi",
+"Ooquna","Oquna","Orla","Oscar","Oskar","Otto","Ottonnguaq","Ottooraq","Ove","Paalu","Paartoq",
+"Paaviannguaq","Palle","Palleq","Palo","Palu","Papik","Patrick","Paul-Minik","Paulus","Pavia",
+"Peder","Pedersen","Pele","Pele-Bjarno","Per","Peter","Peter-Joorsi","Peter-Looqqi","Philip",
+"Phillip","Piili-Paalu","Piilinnguaq","Piitannguaq","Pikinnguaq","Pikkuluk","Pilo","Pilu","Pilutaq",
+"Pingajuaq","Pingajuat","Pirlo","Pituaq","Pivik","Pivinnguaq","Pollas","Poul","Preben","Pâlo",
+"Qarsoq","Qasapi","Qasiaq","Qillaq","Qisunnguaq","Qivioq","Qooqa","Qooqqa","Qulutak","Qulutannguaq",
+"Qulutaq","Qunaaq","Rafael","Ragnar","Rasmus","Reginald","Reimart","Remee","Rene","Reno","René",
+"Reo","Rex","Richard","Rico","Rikka","Riko","Rink","Rio","Robert","Robin","Rone","Rooney","Rossi",
+"Ruben","Rudi","Rudolf","Rune","Rûne","Saamik","Saamik-Nukaaraq","Saamu","Sakkak","Sakæus","Salik",
+"Salik-Aaju","Sam","Sammy","Samson","Samuel","Sander","Sean","Sebastian","Sem","Sem-Jakob",
+"Sequssuna","Seth","Shawn","Shingelu","Sigurd","Siiva","Sikunnguaq","Silas","Silas-Nukappi",
+"Simeon","Simon","Simon-Gustav","Sisu","Sivert","Siverth","Sofus","Sonny","Sophos","Soralu",
+"Sorlannguaq","Steen","Stefano","Steffan","Steffen","Sten","Stephan","Stephen","Stevan","Steve",
+"Steve-Ove","Steven","Stian","Stig","Suersaq","Suiaq","Suikkaq","Suluk","Sulunnguaq","Suni",
+"Suuffu","Suuluaraq","Suulunnguaq","Suulut","Sven","Svend","Svend-","Svend-Erik","Sâmik","Søren",
+"Søren-Peter","Taatsi","Taatsiaq","Taatsiaq-Looqi","Tage","Taiz","Taqqik","Tarralik","Taseraq",
+"Tautsiannguaq","Teddy","Teo","Thele","Thele-Salomon","Theo","Therkild","Thile-Peter","Thomas",
+"Thomas-Kristian","Thor","Thorbjørn","Thorlak","Thorvald","Thue","Thæmutius","Till","Tino","Tittu",
+"Tittus","Tobias","Tom","Tommy","Tomteem","Tonny","Tony","Tore","Tristan","Tuilik","Tulliaq",
+"Tullitsiaq","Tulluartoq","Tuppi","Tuuda","Tuullik","Téo","Ujarak","Ujarneq","Ujo","Uju",
+"Ujuaansinnguaq","Ujuansi","Ujuunnguaq","Uka","Ukaaraq","Ukkiaq","Ukkujaaq","Ulaajuk","Ulannaq",
+"Ulloriannguaq","Ulloriaq","Ulrik","Uma-Angerlartoq","Unatsiaq","Ungaaq","Ungâk","Uno","Uppik",
+"Utertoq","Utertunnguaq","Utuuniaq","Uulareeraq","Uularik","Uusaqqak","Uvdloriak'","UvloriaK'",
+"Uvloriaq","Vagn","Valde","Vandi","Veerti","Vico","Victor","Viggo","Viisu","Viktor","Vilas",
+"Vilhelm","Villads","Vincent","Violan","Vito","Vittunnguujuk","Vittus","William","Willy","Xander",
+"Xavier","Yaayuk","Yannick","Zack-Mario","Zakarias","Zayn","Zeth","Zian","Zidane","Åge-Hans",
+"Ûssark'";
+CODES[da]("første fornavn")="Aage","Aajaku","Aaju","Aaksel","Aalik","Aalut","Aanguaq","Aannguaq",
+"Aantuut","Aaqqii","Aaqqioq","Aarnu","Aaron","Aatsi","Abel","Abia","Abia-Gail","Abraham","Adam",
+"Adam-Otto","Adam-Qavak","Ado","Ado-Neo","Adrian","Aggu","Aggunnguaq","Aidan","Aiden","Aigo","Aiko",
+"Ailo","Aino","Airvin","Aka","Aka-Nuka","Aka-Peter","Akamali","Akamalik","Akigssiak","Akisooq",
+"Akisooq-Loui","Akku","Akkui","Aksel","Aksel-Aqqalu","Akutaaneq","Akutaq","Alan","Albert","Alberto",
+"Albrecht","Aleksander","Alex","Alexander","Alexi","Alfred","Aligiaq","Allan","Allen","Alvin",
+"Amarok'","Ammunnguaq","Amos","Amund","Ananias","Anata","Anda","Andeas-Nukaaraq","Anders","Andreas",
+"Angajo","Angajutsiaq","Angelo","Angerla","Angerlannguaq","Angula","Angulluk","Angunnguaq","Angut",
+"Angut-Hans","Anguteeraq","Anguteeraq-Louis","Anguteq","Angutimmarik","Angutinnguaq","Angutitsiaq",
+"Angutivaraq","Angutivik","Anguvik","Ani-Mike","Aningaaq","Aninnguaq","Anker","Anoraannguaq",
+"Anori","Anorinnguaq","Anouik","Anthon","Anthonio","Anton","Anuik","Anuu","Apollôrak'",
+"Appalinnguaq","Apu","Apunnguaq","Aputsiak","Aputsiaq","Aqissiaq","Aqissiatsiaq","Aqqa",
+"Aqqa-Malik","Aqqalivartaa","Aqqalooraq","Aqqalu","Aqqalu-Nuka","Aqqalu-Willy","Aqqaluartaa",
+"Aqqaluk","Aqqaluk-Anders","Aqqaluk-Nuka","Aqqalunnguaq","Aqqalutsiaq","Ara","Arhur","Ari",
+"Ari-John","Aric","Arjen","Arkalo","Arne","Arne-Johan","Arne-Michael","Arnfinn","Aron","Arsugak'",
+"Arsugaq","Arthur","Asaf","Asarpannguaq","Asasaq","Asbjørn","Asger","Asker","Aslak","Assa","Asser",
+"Ataatsiaq","Atlas","Atsiannguaq","Atsiaq","Atterdag","Augo","Avalequt","Avatannguaq","Avataq",
+"Avigiaq","Aviu","Axel","Balder","Barsalaj","Barselaj","Bastian","Bendt","Benjamin","Benny","Bent",
+"Bertram","Bianco","Biiniaaraq","Billiam","Birk","Bjarne","Bodhi","Boye","Brian","Broa","Bror",
+"Bruno","Carl","Carlo","Carsten","Casper","Charles","Charlie","Christian","Christoffer",
+"Christopher","Claus","Cody","Constantin","Cristiano","Cuno","Daani","Daavi-Tuppi","Dani","Daniel",
+"Danny","David","David-Jonas","Dean","Dennis","Denny","Devin","Dexter","Dian","Diego","Dilan",
+"Dines","Dino","Dylan","Ean","Edvard","Edvard-Inuk","Edward","Eerinni","Efraim","Eigel","Eigil",
+"Eiko","Eino","Eipi","Ejgil","Ejvind","El","Eli","Elia","Elias","Elliot","Elo","Emanuel","Emil",
+"Emil-Peter","Emmanuel","Enok","Eri-Angutitsiaq","Erik","Erling","Erne-Inunnguaq","Erneeraq",
+"Erneq","Erni","Erni-Poul","Erninnguaq","Ernitsiaq","Ernst-Kartaat","Ernu-Adam","Erwin","Esaias",
+"Esikias-Anders","Esra","Ethan","Evald","Evan","Felix","Ferdinand","Filip","Finn","Flemming",
+"Flint","Francis","Frank","Franz","Frederik","Frej","Fritz","Gaaba","Gaba","Gabriel","Gedion",
+"Geerti","Georg","Gert","Gerth","Gerth-Mario","Gino","Gottlieb","Gudmund","Gunnar","Gustav","Hans",
+"Hans-Anda","Hans-Daniel","Hans-Frederik","Hans-Henrik","Hans-Inuk","Hans-Jakob","Hans-Jokum",
+"Hans-Jørgen","Hans-Kristian","Hans-Lars","Hans-Louis","Hans-Peter","Hans-Åge","Hanseeraq",
+"Hansi-Joorut","Hansinnguaq","Hanspeter","Harald","Hector","Heino","Heinrich","Helge","Hendrik",
+"Hendrik-Kristin","Henning","Henrik","Herman","Hermann","Holger","Hugo","Ian","Ib","Ignatius",
+"Iinnguaali","Ikke-navngivet","Ikuala","Ilannguaq","Ilasiaq","Ilatsiaq","Ilik","Immanuel","Inequ",
+"Inequnaaluk","Inequtsiaq","Ingkasi","Ingmar","Innaaq","Innisaq","Inooraq","Inuik","Inuik-Nanoq",
+"Inuk","Inuk-Kuluk","Inuk-Ulloriaq","Inukitsoq","Inukitsorujuk","Inukkuluk","Inumineq","Inunnguaq",
+"Inutsiaq","Inuujuk","Inuuteq","Inuuti","Inuvik","Isaac","Isaak","Isajas","Isak","Isak-Peter",
+"Isamu","Ittullak","Ivaaq","Ivan","Ivik","Ivo","Jaaku-Juulut","Jaakunnguaq","Jaappili","Jack",
+"Jacob","Jaffet","Jake","Jakob","Jakob-Marius","Jakob-Qajuuttaq","James","Jan","Jan-Malik",
+"Jannick","Janseeraq","Jaqqu","Jason","Jean","Jebbe","Jens","Jens-Daniel","Jens-Jakob",
+"Jens-Jørgen","Jens-Karl","Jens-Ole","Jens-Ove","Jens-Peter","Jenseeraq","Jeremias","Jerimias",
+"Jesper","Jim","Jimmy","Joas","Joenash","Joey","Johan","Johan-Karl","Johannes","Johansinnguaq",
+"John","John-Bastian","John-Frederik","Jon","Jonah","Jonas","Jonas-Marius","Jonathan","Jonni",
+"Joorsi","Joorut","Jose","Josef","Joseph","Joshua","Josva","Joël","Juaaka","Juaasinnguaq","Juaat",
+"Julian","Julius","Junior","Juno","Justus","Juuluaraq","Juulut","Juunaq","Jâkúnguak","Jógvan",
+"Jørgen","Kaaka","Kaakaaq","Kaali","Kaalivaraq","Kaassannguaq","Kaino","Kaj","Kaj-Vittus","Kaka",
+"Kamillo","Karale","Karl","Karl-Berthel","Karl-Kristian","Karl-Peter","Karlo","Karlu","Karolus",
+"Karsten","Karta-Boye","Kasper","Kassoq","Katagté","Katu","Kavi","Kean","Keanu","Kelvin","Kendrick",
+"Kenneth","Kenni","Kenny","Kent","Keven","Kevin","Kiaanu","Kian","Kigutikkaq","Kiiannguaq","Kikkik",
+"Killiaq","Kim","Kimi-Ivan","Kimik","King","Kissavik","Kjeld","Kjell","Klaus","Knud","Knud-Peter",
+"Konrad","Kore","Kornelius","Kragh-Pele","Kristian","Kristian-Andreas","Kristjan","Kristoffer",
+"Kuannia","Kuka","Kuka-","Kuka-Mark","Kuka-Ulrik","Kulu","Kuluk","Kunna","Kuno","Kunuk",
+"Kunuunnguaq","Kunuuti","Kurt","Kuunu","Kyle","Kàri","Kûitse","Laarseeraq","Laasi","Lado","Lars",
+"Lars-Erik","Lars-Franz","Lars-Henrik","Lars-Jakob","Lars-Nuka","Lars-Pavia","Lauge","Leam","Lean",
+"Leif-Konrad","Leo","Leon","Leonardo","Leonel","Leopold","Levi","Liam","Lian","Lino","Linus",
+"Lionel","Logan","Looqi","Lora","Loui","Louie","Louis","Louis-Johan","Luca","Lucas","Lucca","Lucio",
+"Luckas","Ludvig","Lui","Luis","Luka","Lukas","Luke","Lukka","Luui","Maanguaq","Maariooraq","Maaru",
+"Maaseeraq","Maasi","Maasinnguaq","Maassannguaq","Mack","Mads","Magnus","Maick","Mailo","Majaq",
+"Mala","Malakias","Maleraq","Maligiaq","Malik","Malik-Lauge","Malinnguaq","Malitsiaq","Mamarut",
+"Manasse","Manu","Manu-Aqqaluk","Manu-Lio","Manuel","Manunnguaq","Marc","Marchel","Marco","Marcus",
+"Mario","Marius","Mark","Markus","Marley","Marloq","Marti-Malik","Martin","Martinique","Marty",
+"Masaana","Massanti","Mateo","Mathias","Mathæus","Matteo","Matthew","Matty","Max","Max-Mickey",
+"Max-Peter","Maximillian","Maximus","Meck","Meino","Melik","Melvin","Menino","Meo-Mark","Meyer",
+"Mian","Mica","Mican","Micas","Michael","Michio","Mick","Mickey-Milo","Mico","Miika","Miilo",
+"Miilu","Mika","Mika-Pavia","Mikael","Mikah","Mike","Mikey","Miki","Miki-Inuik","Mikinnguaq",
+"Mikisok","Mikisoq","Mikisuluk","Mikkel","Mikki","Miké","Milan","Milas","Milaz","Milo","Milyan",
+"Minaat","Mingus","Minik","Mininnguaq","Mino","Mio","Mirza","Momen","Morten","Moses","Mouritz",
+"Muko","Mutti","Mílo","Mîlo","Múte","Naalu","NaimángitsoK'","Naimángitsok'","Naleraq","Nando",
+"Nanny","Nanok'","Nanoq","Nanu","Nanu-Ivik","Napaaq","Nathan","Nathan-Pele","Nathaniel",
+"Nattoralik","Naviaq","Neal","Nelas","Nello","Nemo","Neo","Neruana","Nguju","Nicas","Nicholas",
+"Nick","Nickie","Nicklas","Nicklas-Nanoq","Nicklas-Ole","Nickolas","Niclas","Niclaz","Nico",
+"Nicolai","Nicolas","Nicu","Niels","Niels-Aqqalu","Niels-Bo","Niels-Ejner","Niels-Lukas",
+"Niels-Ole","Niels-Otto","Niels-Pele","Niels-Peter","Niels-Ulrik","Niininnguaq","Niinu","Niisi-Ole",
+"Nike","Nikki","Nikki-Aqqalu","Nikki-Malik","Nikku","Niklas","Niko","Nikolai","Nikolaj","Nikolas",
+"Nino","Njord","Noa","Noah","Nohr","Nolan","Nord","Norsannguaq","Norsaq","Novah","Nuka","Nuka-Aiko",
+"Nuka-Aqqalu","Nuka-Aqqaluk","Nuka-Aron","Nuka-Leo","Nuka-Peter","Nuka-Uno","Nukaaraq","Nukaati",
+"Nukakkuluk","Nukannguaq","Nukano","Nukanu","Nukanuk","Nukanunnguaq","Nukappi","Nukappiaaluk",
+"Nukappiannguaq","Nukappiaq","Nukappiarannguaq","Nukappiaraq","Nukarleq","Nukarpa","Nukartaannguaq",
+"Nukartaq","Nukatsaaq","Nukatsiaq","Nukavaraq","Nukavik","Nukki","Nuko","Nuku","Nunni","Nuunu",
+"Nuunu-Lars","Nâlagât","Nîo","Nûno-Mîlo","Nûnuko","Olaf","Ole","Ole-Rasmus","Oliver","Oluf","Ooqi",
+"Ooquna","Oquna","Orla","Oscar","Oskar","Otto","Ottonnguaq","Ottooraq","Ove","Paalu","Paartoq",
+"Paaviannguaq","Palle","Palleq","Palo","Palu","Papik","Patrick","Paul-Minik","Paulus","Pavia",
+"Peder","Pedersen","Pele","Pele-Bjarno","Per","Peter","Peter-Joorsi","Peter-Looqqi","Philip",
+"Phillip","Piili-Paalu","Piilinnguaq","Piitannguaq","Pikinnguaq","Pikkuluk","Pilo","Pilu","Pilutaq",
+"Pingajuaq","Pingajuat","Pirlo","Pituaq","Pivik","Pivinnguaq","Pollas","Poul","Preben","Pâlo",
+"Qarsoq","Qasapi","Qasiaq","Qillaq","Qisunnguaq","Qivioq","Qooqa","Qooqqa","Qulutak","Qulutannguaq",
+"Qulutaq","Qunaaq","Rafael","Ragnar","Rasmus","Reginald","Reimart","Remee","Rene","Reno","René",
+"Reo","Rex","Richard","Rico","Rikka","Riko","Rink","Rio","Robert","Robin","Rone","Rooney","Rossi",
+"Ruben","Rudi","Rudolf","Rune","Rûne","Saamik","Saamik-Nukaaraq","Saamu","Sakkak","Sakæus","Salik",
+"Salik-Aaju","Sam","Sammy","Samson","Samuel","Sander","Sean","Sebastian","Sem","Sem-Jakob",
+"Sequssuna","Seth","Shawn","Shingelu","Sigurd","Siiva","Sikunnguaq","Silas","Silas-Nukappi",
+"Simeon","Simon","Simon-Gustav","Sisu","Sivert","Siverth","Sofus","Sonny","Sophos","Soralu",
+"Sorlannguaq","Steen","Stefano","Steffan","Steffen","Sten","Stephan","Stephen","Stevan","Steve",
+"Steve-Ove","Steven","Stian","Stig","Suersaq","Suiaq","Suikkaq","Suluk","Sulunnguaq","Suni",
+"Suuffu","Suuluaraq","Suulunnguaq","Suulut","Sven","Svend","Svend-","Svend-Erik","Sâmik","Søren",
+"Søren-Peter","Taatsi","Taatsiaq","Taatsiaq-Looqi","Tage","Taiz","Taqqik","Tarralik","Taseraq",
+"Tautsiannguaq","Teddy","Teo","Thele","Thele-Salomon","Theo","Therkild","Thile-Peter","Thomas",
+"Thomas-Kristian","Thor","Thorbjørn","Thorlak","Thorvald","Thue","Thæmutius","Till","Tino","Tittu",
+"Tittus","Tobias","Tom","Tommy","Tomteem","Tonny","Tony","Tore","Tristan","Tuilik","Tulliaq",
+"Tullitsiaq","Tulluartoq","Tuppi","Tuuda","Tuullik","Téo","Ujarak","Ujarneq","Ujo","Uju",
+"Ujuaansinnguaq","Ujuansi","Ujuunnguaq","Uka","Ukaaraq","Ukkiaq","Ukkujaaq","Ulaajuk","Ulannaq",
+"Ulloriannguaq","Ulloriaq","Ulrik","Uma-Angerlartoq","Unatsiaq","Ungaaq","Ungâk","Uno","Uppik",
+"Utertoq","Utertunnguaq","Utuuniaq","Uulareeraq","Uularik","Uusaqqak","Uvdloriak'","UvloriaK'",
+"Uvloriaq","Vagn","Valde","Vandi","Veerti","Vico","Victor","Viggo","Viisu","Viktor","Vilas",
+"Vilhelm","Villads","Vincent","Violan","Vito","Vittunnguujuk","Vittus","William","Willy","Xander",
+"Xavier","Yaayuk","Yannick","Zack-Mario","Zakarias","Zayn","Zeth","Zian","Zidane","Åge-Hans",
+"Ûssark'";
+CODES[kl]("inuup aqqa siulleq")="Aage","Aajaku","Aaju","Aaksel","Aalik","Aalut","Aanguaq",
+"Aannguaq","Aantuut","Aaqqii","Aaqqioq","Aarnu","Aaron","Aatsi","Abel","Abia","Abia-Gail","Abraham",
+"Adam","Adam-Otto","Adam-Qavak","Ado","Ado-Neo","Adrian","Aggu","Aggunnguaq","Aidan","Aiden","Aigo",
+"Aiko","Ailo","Aino","Airvin","Aka","Aka-Nuka","Aka-Peter","Akamali","Akamalik","Akigssiak",
+"Akisooq","Akisooq-Loui","Akku","Akkui","Aksel","Aksel-Aqqalu","Akutaaneq","Akutaq","Alan","Albert",
+"Alberto","Albrecht","Aleksander","Alex","Alexander","Alexi","Alfred","Aligiaq","Allan","Allen",
+"Alvin","Amarok'","Ammunnguaq","Amos","Amund","Ananias","Anata","Anda","Andeas-Nukaaraq","Anders",
+"Andreas","Angajo","Angajutsiaq","Angelo","Angerla","Angerlannguaq","Angula","Angulluk",
+"Angunnguaq","Angut","Angut-Hans","Anguteeraq","Anguteeraq-Louis","Anguteq","Angutimmarik",
+"Angutinnguaq","Angutitsiaq","Angutivaraq","Angutivik","Anguvik","Ani-Mike","Aningaaq","Aninnguaq",
+"Anker","Anoraannguaq","Anori","Anorinnguaq","Anouik","Anthon","Anthonio","Anton","Anuik","Anuu",
+"Apollôrak'","Appalinnguaq","Apu","Apunnguaq","Aputsiak","Aputsiaq","Aqissiaq","Aqissiatsiaq",
+"Aqqa","Aqqa-Malik","Aqqalivartaa","Aqqalooraq","Aqqalu","Aqqalu-Nuka","Aqqalu-Willy","Aqqaluartaa",
+"Aqqaluk","Aqqaluk-Anders","Aqqaluk-Nuka","Aqqalunnguaq","Aqqalutsiaq","Ara","Arhur","Ari",
+"Ari-John","Aric","Arjen","Arkalo","Arne","Arne-Johan","Arne-Michael","Arnfinn","Aron","Arsugak'",
+"Arsugaq","Arthur","Asaf","Asarpannguaq","Asasaq","Asbjørn","Asger","Asker","Aslak","Assa","Asser",
+"Ataatsiaq","Atlas","Atsiannguaq","Atsiaq","Atterdag","Augo","Avalequt","Avatannguaq","Avataq",
+"Avigiaq","Aviu","Axel","Balder","Barsalaj","Barselaj","Bastian","Bendt","Benjamin","Benny","Bent",
+"Bertram","Bianco","Biiniaaraq","Billiam","Birk","Bjarne","Bodhi","Boye","Brian","Broa","Bror",
+"Bruno","Carl","Carlo","Carsten","Casper","Charles","Charlie","Christian","Christoffer",
+"Christopher","Claus","Cody","Constantin","Cristiano","Cuno","Daani","Daavi-Tuppi","Dani","Daniel",
+"Danny","David","David-Jonas","Dean","Dennis","Denny","Devin","Dexter","Dian","Diego","Dilan",
+"Dines","Dino","Dylan","Ean","Edvard","Edvard-Inuk","Edward","Eerinni","Efraim","Eigel","Eigil",
+"Eiko","Eino","Eipi","Ejgil","Ejvind","El","Eli","Elia","Elias","Elliot","Elo","Emanuel","Emil",
+"Emil-Peter","Emmanuel","Enok","Eri-Angutitsiaq","Erik","Erling","Erne-Inunnguaq","Erneeraq",
+"Erneq","Erni","Erni-Poul","Erninnguaq","Ernitsiaq","Ernst-Kartaat","Ernu-Adam","Erwin","Esaias",
+"Esikias-Anders","Esra","Ethan","Evald","Evan","Felix","Ferdinand","Filip","Finn","Flemming",
+"Flint","Francis","Frank","Franz","Frederik","Frej","Fritz","Gaaba","Gaba","Gabriel","Gedion",
+"Geerti","Georg","Gert","Gerth","Gerth-Mario","Gino","Gottlieb","Gudmund","Gunnar","Gustav","Hans",
+"Hans-Anda","Hans-Daniel","Hans-Frederik","Hans-Henrik","Hans-Inuk","Hans-Jakob","Hans-Jokum",
+"Hans-Jørgen","Hans-Kristian","Hans-Lars","Hans-Louis","Hans-Peter","Hans-Åge","Hanseeraq",
+"Hansi-Joorut","Hansinnguaq","Hanspeter","Harald","Hector","Heino","Heinrich","Helge","Hendrik",
+"Hendrik-Kristin","Henning","Henrik","Herman","Hermann","Holger","Hugo","Ian","Ib","Ignatius",
+"Iinnguaali","Ikke-navngivet","Ikuala","Ilannguaq","Ilasiaq","Ilatsiaq","Ilik","Immanuel","Inequ",
+"Inequnaaluk","Inequtsiaq","Ingkasi","Ingmar","Innaaq","Innisaq","Inooraq","Inuik","Inuik-Nanoq",
+"Inuk","Inuk-Kuluk","Inuk-Ulloriaq","Inukitsoq","Inukitsorujuk","Inukkuluk","Inumineq","Inunnguaq",
+"Inutsiaq","Inuujuk","Inuuteq","Inuuti","Inuvik","Isaac","Isaak","Isajas","Isak","Isak-Peter",
+"Isamu","Ittullak","Ivaaq","Ivan","Ivik","Ivo","Jaaku-Juulut","Jaakunnguaq","Jaappili","Jack",
+"Jacob","Jaffet","Jake","Jakob","Jakob-Marius","Jakob-Qajuuttaq","James","Jan","Jan-Malik",
+"Jannick","Janseeraq","Jaqqu","Jason","Jean","Jebbe","Jens","Jens-Daniel","Jens-Jakob",
+"Jens-Jørgen","Jens-Karl","Jens-Ole","Jens-Ove","Jens-Peter","Jenseeraq","Jeremias","Jerimias",
+"Jesper","Jim","Jimmy","Joas","Joenash","Joey","Johan","Johan-Karl","Johannes","Johansinnguaq",
+"John","John-Bastian","John-Frederik","Jon","Jonah","Jonas","Jonas-Marius","Jonathan","Jonni",
+"Joorsi","Joorut","Jose","Josef","Joseph","Joshua","Josva","Joël","Juaaka","Juaasinnguaq","Juaat",
+"Julian","Julius","Junior","Juno","Justus","Juuluaraq","Juulut","Juunaq","Jâkúnguak","Jógvan",
+"Jørgen","Kaaka","Kaakaaq","Kaali","Kaalivaraq","Kaassannguaq","Kaino","Kaj","Kaj-Vittus","Kaka",
+"Kamillo","Karale","Karl","Karl-Berthel","Karl-Kristian","Karl-Peter","Karlo","Karlu","Karolus",
+"Karsten","Karta-Boye","Kasper","Kassoq","Katagté","Katu","Kavi","Kean","Keanu","Kelvin","Kendrick",
+"Kenneth","Kenni","Kenny","Kent","Keven","Kevin","Kiaanu","Kian","Kigutikkaq","Kiiannguaq","Kikkik",
+"Killiaq","Kim","Kimi-Ivan","Kimik","King","Kissavik","Kjeld","Kjell","Klaus","Knud","Knud-Peter",
+"Konrad","Kore","Kornelius","Kragh-Pele","Kristian","Kristian-Andreas","Kristjan","Kristoffer",
+"Kuannia","Kuka","Kuka-","Kuka-Mark","Kuka-Ulrik","Kulu","Kuluk","Kunna","Kuno","Kunuk",
+"Kunuunnguaq","Kunuuti","Kurt","Kuunu","Kyle","Kàri","Kûitse","Laarseeraq","Laasi","Lado","Lars",
+"Lars-Erik","Lars-Franz","Lars-Henrik","Lars-Jakob","Lars-Nuka","Lars-Pavia","Lauge","Leam","Lean",
+"Leif-Konrad","Leo","Leon","Leonardo","Leonel","Leopold","Levi","Liam","Lian","Lino","Linus",
+"Lionel","Logan","Looqi","Lora","Loui","Louie","Louis","Louis-Johan","Luca","Lucas","Lucca","Lucio",
+"Luckas","Ludvig","Lui","Luis","Luka","Lukas","Luke","Lukka","Luui","Maanguaq","Maariooraq","Maaru",
+"Maaseeraq","Maasi","Maasinnguaq","Maassannguaq","Mack","Mads","Magnus","Maick","Mailo","Majaq",
+"Mala","Malakias","Maleraq","Maligiaq","Malik","Malik-Lauge","Malinnguaq","Malitsiaq","Mamarut",
+"Manasse","Manu","Manu-Aqqaluk","Manu-Lio","Manuel","Manunnguaq","Marc","Marchel","Marco","Marcus",
+"Mario","Marius","Mark","Markus","Marley","Marloq","Marti-Malik","Martin","Martinique","Marty",
+"Masaana","Massanti","Mateo","Mathias","Mathæus","Matteo","Matthew","Matty","Max","Max-Mickey",
+"Max-Peter","Maximillian","Maximus","Meck","Meino","Melik","Melvin","Menino","Meo-Mark","Meyer",
+"Mian","Mica","Mican","Micas","Michael","Michio","Mick","Mickey-Milo","Mico","Miika","Miilo",
+"Miilu","Mika","Mika-Pavia","Mikael","Mikah","Mike","Mikey","Miki","Miki-Inuik","Mikinnguaq",
+"Mikisok","Mikisoq","Mikisuluk","Mikkel","Mikki","Miké","Milan","Milas","Milaz","Milo","Milyan",
+"Minaat","Mingus","Minik","Mininnguaq","Mino","Mio","Mirza","Momen","Morten","Moses","Mouritz",
+"Muko","Mutti","Mílo","Mîlo","Múte","Naalu","NaimángitsoK'","Naimángitsok'","Naleraq","Nando",
+"Nanny","Nanok'","Nanoq","Nanu","Nanu-Ivik","Napaaq","Nathan","Nathan-Pele","Nathaniel",
+"Nattoralik","Naviaq","Neal","Nelas","Nello","Nemo","Neo","Neruana","Nguju","Nicas","Nicholas",
+"Nick","Nickie","Nicklas","Nicklas-Nanoq","Nicklas-Ole","Nickolas","Niclas","Niclaz","Nico",
+"Nicolai","Nicolas","Nicu","Niels","Niels-Aqqalu","Niels-Bo","Niels-Ejner","Niels-Lukas",
+"Niels-Ole","Niels-Otto","Niels-Pele","Niels-Peter","Niels-Ulrik","Niininnguaq","Niinu","Niisi-Ole",
+"Nike","Nikki","Nikki-Aqqalu","Nikki-Malik","Nikku","Niklas","Niko","Nikolai","Nikolaj","Nikolas",
+"Nino","Njord","Noa","Noah","Nohr","Nolan","Nord","Norsannguaq","Norsaq","Novah","Nuka","Nuka-Aiko",
+"Nuka-Aqqalu","Nuka-Aqqaluk","Nuka-Aron","Nuka-Leo","Nuka-Peter","Nuka-Uno","Nukaaraq","Nukaati",
+"Nukakkuluk","Nukannguaq","Nukano","Nukanu","Nukanuk","Nukanunnguaq","Nukappi","Nukappiaaluk",
+"Nukappiannguaq","Nukappiaq","Nukappiarannguaq","Nukappiaraq","Nukarleq","Nukarpa","Nukartaannguaq",
+"Nukartaq","Nukatsaaq","Nukatsiaq","Nukavaraq","Nukavik","Nukki","Nuko","Nuku","Nunni","Nuunu",
+"Nuunu-Lars","Nâlagât","Nîo","Nûno-Mîlo","Nûnuko","Olaf","Ole","Ole-Rasmus","Oliver","Oluf","Ooqi",
+"Ooquna","Oquna","Orla","Oscar","Oskar","Otto","Ottonnguaq","Ottooraq","Ove","Paalu","Paartoq",
+"Paaviannguaq","Palle","Palleq","Palo","Palu","Papik","Patrick","Paul-Minik","Paulus","Pavia",
+"Peder","Pedersen","Pele","Pele-Bjarno","Per","Peter","Peter-Joorsi","Peter-Looqqi","Philip",
+"Phillip","Piili-Paalu","Piilinnguaq","Piitannguaq","Pikinnguaq","Pikkuluk","Pilo","Pilu","Pilutaq",
+"Pingajuaq","Pingajuat","Pirlo","Pituaq","Pivik","Pivinnguaq","Pollas","Poul","Preben","Pâlo",
+"Qarsoq","Qasapi","Qasiaq","Qillaq","Qisunnguaq","Qivioq","Qooqa","Qooqqa","Qulutak","Qulutannguaq",
+"Qulutaq","Qunaaq","Rafael","Ragnar","Rasmus","Reginald","Reimart","Remee","Rene","Reno","René",
+"Reo","Rex","Richard","Rico","Rikka","Riko","Rink","Rio","Robert","Robin","Rone","Rooney","Rossi",
+"Ruben","Rudi","Rudolf","Rune","Rûne","Saamik","Saamik-Nukaaraq","Saamu","Sakkak","Sakæus","Salik",
+"Salik-Aaju","Sam","Sammy","Samson","Samuel","Sander","Sean","Sebastian","Sem","Sem-Jakob",
+"Sequssuna","Seth","Shawn","Shingelu","Sigurd","Siiva","Sikunnguaq","Silas","Silas-Nukappi",
+"Simeon","Simon","Simon-Gustav","Sisu","Sivert","Siverth","Sofus","Sonny","Sophos","Soralu",
+"Sorlannguaq","Steen","Stefano","Steffan","Steffen","Sten","Stephan","Stephen","Stevan","Steve",
+"Steve-Ove","Steven","Stian","Stig","Suersaq","Suiaq","Suikkaq","Suluk","Sulunnguaq","Suni",
+"Suuffu","Suuluaraq","Suulunnguaq","Suulut","Sven","Svend","Svend-","Svend-Erik","Sâmik","Søren",
+"Søren-Peter","Taatsi","Taatsiaq","Taatsiaq-Looqi","Tage","Taiz","Taqqik","Tarralik","Taseraq",
+"Tautsiannguaq","Teddy","Teo","Thele","Thele-Salomon","Theo","Therkild","Thile-Peter","Thomas",
+"Thomas-Kristian","Thor","Thorbjørn","Thorlak","Thorvald","Thue","Thæmutius","Till","Tino","Tittu",
+"Tittus","Tobias","Tom","Tommy","Tomteem","Tonny","Tony","Tore","Tristan","Tuilik","Tulliaq",
+"Tullitsiaq","Tulluartoq","Tuppi","Tuuda","Tuullik","Téo","Ujarak","Ujarneq","Ujo","Uju",
+"Ujuaansinnguaq","Ujuansi","Ujuunnguaq","Uka","Ukaaraq","Ukkiaq","Ukkujaaq","Ulaajuk","Ulannaq",
+"Ulloriannguaq","Ulloriaq","Ulrik","Uma-Angerlartoq","Unatsiaq","Ungaaq","Ungâk","Uno","Uppik",
+"Utertoq","Utertunnguaq","Utuuniaq","Uulareeraq","Uularik","Uusaqqak","Uvdloriak'","UvloriaK'",
+"Uvloriaq","Vagn","Valde","Vandi","Veerti","Vico","Victor","Viggo","Viisu","Viktor","Vilas",
+"Vilhelm","Villads","Vincent","Violan","Vito","Vittunnguujuk","Vittus","William","Willy","Xander",
+"Xavier","Yaayuk","Yannick","Zack-Mario","Zakarias","Zayn","Zeth","Zian","Zidane","Åge-Hans",
+"Ûssark'";
+CODES("cohort")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[da]("fødselsår")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[kl]("ukioq inunngorfik")="2012","2013","2014","2015","2016","2017","2018","2019","2020";
+ELIMINATION("first firstname")=YES;
+ELIMINATION[da]("første fornavn")=YES;
+ELIMINATION[kl]("inuup aqqa siulleq")=YES;
+LAST-UPDATED="20160208 09:00";
+CONTACT="Lars Pedersen, larp@stat.gl";
+CONTACT[da]="Lars Pedersen, larp@stat.gl";
+CONTACT[kl]="Lars Pedersen, larp@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Statistics Greenlands population register contains information on names of all persons who have resided in Greenland as of 1 July since 2011. After the formation of the statistical register, information on names is kept separate from all information,"
+" so these can not be combined with any other statistics. The name information is used only for this.";
+NOTE[da]="Grønlands Statistiks befolkningsregister indeholder oplysninger om for og efternavne på alle personer der har haft bopæl i Grønland pr 1. juli siden 2011. Efter dannelse af statistikregister, holdes oplysninger om navne adskildt fra personnumre, "
+"så disse kan ikke sættes sammen med anden statistik. Oplysningerne bruges alene til denne navnestatistik.";
+NOTE[kl]="Naatsorsueqqissaatarfiup innuttaasunut nalunaarsuisarfia innuttaasut 1. juuli 2011-miilli Kalaallit Nunaanni najugaqarsimasut siuliaqutaannik naggataannillu paassissutissanik imaqarpoq. Kisitsisitigut paasissutissanut nalunaarsuivimmik "
+"pilersitsereernerup kingorna inuit aqqi inuup-normuilu immikkoortinneqarput, kisitsisinut allanut ilanngunneqarsinnaajunnaarlugit. Inuillu aqqi pillugit paasissutissat kisitsisini matumani kisimi atorneqarput.";
+DATA=
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 2 1 "-" "-" "-" "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 2 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 1 2 "-" "-" 1 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 2 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+2 1 3 1 2 4 3 3 3 
+2 1 "-" 3 3 3 3 2 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 1 "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 1 3 "-" "-" 1 2 "-" 
+1 2 1 1 "-" 1 2 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 1 "-" "-" 1 1 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 1 "-" 1 1 2 1 "-" "-" 
+1 1 "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 2 1 "-" 1 "-" 1 2 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 "-" 2 1 "-" 2 3 2 
+1 3 3 3 "-" 2 "-" 1 "-" 
+2 5 2 2 "-" 1 2 1 "-" 
+"-" "-" 1 "-" 1 "-" "-" "-" "-" 
+2 2 1 2 2 1 2 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 2 2 2 1 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" 1 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 2 "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 1 "-" 2 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 1 1 "-" "-" "-" 1 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+5 5 6 1 6 4 4 2 5 
+"-" 1 "-" 2 "-" 2 "-" 1 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" 1 "-" "-" 1 "-" 1 1 
+"-" 2 2 3 1 2 1 2 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 3 "-" 1 "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 2 "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 4 1 1 2 2 2 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+2 "-" 1 "-" 2 "-" 2 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 2 2 "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+2 1 2 "-" "-" 1 2 1 3 
+4 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 2 "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" 2 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 2 1 2 1 2 "-" 
+"-" "-" "-" "-" 2 "-" "-" "-" "-" 
+"-" 1 2 "-" 1 "-" 1 1 1 
+"-" 1 3 1 1 1 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 2 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" 1 1 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" 1 4 "-" "-" "-" "-" 
+2 "-" "-" 2 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 "-" 2 "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+2 2 2 1 4 3 3 1 "-" 
+"-" 1 "-" 3 3 1 "-" 1 1 
+4 2 "-" 2 1 1 1 "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" 1 1 1 1 1 
+2 "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 2 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 3 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 1 1 1 "-" "-" "-" 1 "-" 
+1 1 "-" "-" "-" 1 "-" "-" "-" 
+1 1 "-" "-" 2 "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 2 1 "-" "-" 2 "-" "-" "-" 
+"-" "-" 2 2 1 "-" 3 2 2 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 2 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 2 "-" "-" 2 "-" 1 1 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+2 3 4 1 4 "-" 3 "-" 3 
+"-" "-" "-" 1 "-" "-" "-" 2 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 3 "-" 1 1 1 3 2 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 2 1 "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" 2 1 1 1 4 3 1 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" 1 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+2 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" 1 1 "-" 2 
+1 1 1 "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 2 "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 1 1 "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 3 "-" "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+3 4 4 1 5 3 1 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 2 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 1 1 "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+2 1 "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 3 "-" 2 "-" "-" 2 1 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 3 2 11 19 151 
+1 "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" 1 "-" 1 "-" 1 "-" "-" 
+2 3 4 2 2 1 2 1 "-" 
+1 "-" "-" "-" 2 "-" 1 1 "-" 
+"-" "-" "-" "-" 1 1 1 "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 2 1 "-" 2 "-" 
+"-" "-" "-" 1 1 2 "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 2 "-" 1 "-" "-" 2 1 
+1 2 1 3 2 6 1 5 4 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+6 5 7 10 13 12 7 10 4 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 3 1 1 1 
+1 1 1 2 "-" 1 "-" 1 "-" 
+6 3 6 6 4 5 4 4 2 
+1 8 4 3 1 7 1 "-" 3 
+"-" 1 1 1 3 2 5 3 2 
+3 2 8 3 4 1 2 2 1 
+"-" "-" 1 "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" 1 "-" 
+1 1 1 2 "-" 2 4 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 2 "-" 4 1 1 2 1 "-" 
+"-" 1 "-" 1 "-" "-" 1 "-" "-" 
+4 8 5 4 1 7 1 3 3 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 1 "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 1 "-" "-" 
+1 1 1 2 "-" "-" 2 3 2 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 1 
+"-" "-" "-" 1 "-" 1 1 1 "-" 
+2 1 1 "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+4 2 1 1 3 "-" 1 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" 1 "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" 2 "-" 2 "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+2 "-" 2 1 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+2 "-" 1 "-" "-" "-" "-" 1 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+4 1 1 4 2 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 1 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" 2 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 2 1 1 "-" 1 1 "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" 1 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" 1 
+1 3 1 3 3 1 "-" 3 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 "-" "-" "-" 1 "-" "-" 
+1 "-" 1 "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" 1 1 
+1 "-" "-" 2 "-" 1 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" 1 1 "-" "-" 1 "-" 1 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 1 "-" 2 3 3 "-" 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 3 4 1 2 "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 1 "-" "-" "-" 1 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" 2 1 "-" 2 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 2 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+3 1 3 1 2 1 2 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 2 "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 4 1 1 2 2 2 4 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" 2 2 
+1 1 3 "-" 1 "-" 1 1 1 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+2 3 1 1 3 3 1 3 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 1 "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 1 2 3 6 1 4 8 1 
+"-" 1 1 "-" "-" "-" "-" "-" 1 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 2 3 3 9 6 8 6 3 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" 1 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 2 "-" "-" "-" 3 2 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" 1 1 1 1 "-" 
+5 1 2 1 "-" 2 1 7 1 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" 1 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" 1 "-" 1 1 
+"-" 1 "-" 1 "-" 5 1 2 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+1 1 1 "-" 2 1 "-" "-" "-" 
+1 1 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 2 1 "-" "-" 2 "-" "-" 2 
+"-" "-" 1 "-" "-" "-" "-" 1 "-" 
+1 "-" 1 "-" "-" 1 1 "-" 1 
+5 3 1 8 1 1 4 4 2 
+8 6 4 5 5 4 6 4 4 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 2 "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 2 "-" 2 "-" 2 2 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 2 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+1 1 1 "-" "-" 4 5 6 5 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 1 1 1 1 2 "-" "-" "-" 
+"-" 1 "-" 2 1 "-" "-" 1 1 
+"-" "-" "-" "-" 2 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 3 "-" 1 "-" 1 "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" 2 "-" "-" 2 2 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+3 3 2 3 5 3 1 2 "-" 
+"-" 1 2 "-" 1 "-" 1 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" 2 2 1 4 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" 2 1 1 2 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+3 4 5 6 6 2 4 3 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 2 "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 2 "-" "-" 1 "-" 
+2 1 1 2 1 "-" 1 1 4 
+"-" 1 "-" 3 1 1 1 2 "-" 
+"-" "-" "-" "-" 1 1 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 2 3 1 1 1 4 1 "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+2 2 2 2 1 6 1 2 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+4 7 5 4 7 7 6 1 "-" 
+2 "-" "-" 2 2 "-" "-" 1 "-" 
+2 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 1 "-" "-" 2 "-" "-" 
+"-" 1 "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 3 2 "-" 1 2 "-" "-" 
+"-" 1 1 1 "-" 2 "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 2 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" 1 "-" 2 "-" 1 "-" 
+2 1 1 3 2 2 1 1 2 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+3 2 "-" 2 2 2 5 5 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 2 "-" 1 1 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 2 1 "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+2 2 1 1 "-" 2 4 2 2 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 3 "-" 1 2 3 3 1 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 1 2 2 3 "-" 2 1 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 2 2 2 1 1 "-" 1 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+2 1 1 3 4 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 2 6 1 3 2 6 5 4 
+"-" "-" "-" "-" "-" "-" 1 "-" 2 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+2 4 3 8 4 8 4 4 2 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 4 3 3 6 1 3 6 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 2 "-" "-" 3 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 1 "-" 1 "-" 4 1 2 1 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" 2 1 1 "-" "-" "-" "-" "-" 
+1 "-" 2 "-" "-" 1 2 1 1 
+1 "-" "-" "-" 1 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+1 1 "-" 2 "-" "-" "-" 1 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 2 "-" 
+2 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 1 "-" "-" 1 
+"-" "-" "-" "-" 1 1 "-" 2 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" 1 1 1 "-" "-" 1 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" 1 "-" 1 "-" "-" 
+2 2 "-" 1 1 2 1 "-" 2 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 1 "-" 1 "-" 2 "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" 2 "-" "-" 
+"-" "-" "-" "-" "-" 2 "-" "-" "-" 
+1 2 1 2 "-" 4 "-" 2 2 
+"-" "-" "-" 1 1 "-" "-" "-" "-" 
+1 1 "-" "-" 2 "-" 1 3 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 2 "-" 1 "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 2 1 4 1 2 1 
+"-" 1 "-" "-" "-" 2 "-" "-" "-" 
+1 "-" 2 "-" 1 "-" "-" 1 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 1 "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" 1 "-" 1 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" 1 1 "-" 1 2 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" "-" 1 
+2 1 2 2 3 3 1 2 3 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 1 1 1 2 "-" "-" 2 
+"-" "-" 1 "-" "-" 1 "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 4 "-" 1 
+1 "-" "-" 1 "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+1 "-" 1 "-" 1 2 5 "-" 1 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 1 3 1 2 2 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+1 "-" 1 "-" 1 2 "-" 1 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" 1 2 "-" 1 1 
+"-" "-" "-" "-" "-" "-" "-" 2 "-" 
+1 "-" "-" 1 "-" "-" 1 1 "-" 
+3 8 1 2 8 2 2 2 1 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" 1 1 "-" 1 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 2 "-" "-" "-" 1 1 1 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 1 1 2 1 "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 3 1 1 1 2 2 1 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" 1 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" 1 1 1 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" 2 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+7 4 3 3 3 4 2 2 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" 1 1 1 "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 1 1 "-" 2 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" 2 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+3 "-" 1 1 "-" 1 2 "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 2 1 4 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 2 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" 1 "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" 1 1 "-" 2 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" 1 1 2 1 "-" "-" 2 
+"-" 1 "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 2 1 "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" 1 "-" 1 1 "-" 1 1 2 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" 1 "-" 1 
+"-" 1 "-" "-" 1 1 "-" "-" "-" 
+"-" 1 "-" "-" 1 "-" 2 "-" "-" 
+2 "-" 3 2 1 1 1 2 "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 1 1 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" 1 2 1 "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" 1 1 1 1 "-" 3 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" 2 2 "-" "-" 1 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" 1 "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 3 "-" 1 1 "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 1 "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+2 1 2 "-" 1 "-" 1 1 "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 1 1 "-" "-" "-" "-" 
+1 "-" 1 "-" "-" "-" 1 3 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+1 1 "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" 1 1 "-" "-" "-" "-" "-" 
+1 "-" 1 "-" "-" 1 1 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 1 "-" "-" 1 1 
+6 7 4 1 3 6 3 5 5 
+2 1 "-" "-" "-" 2 "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 2 "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+2 "-" "-" 1 3 3 1 1 1 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" "-" "-" 1 "-" 1 "-" "-" "-" 
+2 3 1 1 "-" "-" 1 1 "-" 
+"-" "-" "-" 1 "-" 1 3 3 1 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" 1 "-" "-" "-" "-" 1 "-" "-" 
+"-" 1 "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" 1 "-" "-" "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+2 "-" 1 "-" 1 "-" "-" "-" "-" 
+1 1 1 5 1 6 2 1 1 
+"-" "-" 1 "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" 2 "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+1 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" "-" 1 "-" "-" 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" 1 
+"-" "-" "-" "-" "-" 1 "-" "-" "-" 
+"-" 1 "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 
+1 "-" "-" "-" "-" "-" "-" "-" "-"; 

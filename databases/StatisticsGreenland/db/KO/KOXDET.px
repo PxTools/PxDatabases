@@ -1,0 +1,160 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150527 09:00";
+NEXT-UPDATE="20250515 09:00";
+UPDATE-FREQUENCY="Quarterly, kvartalsvis, kvartali";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="KOXDET";
+SUBJECT-CODE="KO";
+SUBJECT-AREA="Short term trends";
+SUBJECT-AREA[da]="Konjunktur";
+SUBJECT-AREA[kl]="Aningaasaqarnikkut pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Retail trade index (index 2010=100) (2009Q2-2024Q4) <em>[KOEDET]</em>";
+DESCRIPTION[da]="Detailhandlens omsætningsindeks (indeks 2010=100) (2009K2-2024K4) <em>[KODDET]</em>";
+DESCRIPTION[kl]="Atugassanik niuernikkut kaaviiaartitap naleqqersuutaa (naleqqersuut 2010=100) (2009K2-2024K4) <em>[KONDET]</em>";
+TITLE="Retail trade index (index 2010=100) by time and specification method";
+TITLE[da]="Detailhandlens omsætningsindeks (indeks 2010=100) efter tid og opgørelsesvariabel";
+TITLE[kl]="Atugassanik niuernikkut kaaviiaartitap naleqqersuutaa (naleqqersuut 2010=100) kingorna piffissaq aamma naatsorsuutip allanngorarnera";
+CONTENTS="Retail trade index (index 2010=100)";
+CONTENTS[da]="Detailhandlens omsætningsindeks (indeks 2010=100)";
+CONTENTS[kl]="Atugassanik niuernikkut kaaviiaartitap naleqqersuutaa (naleqqersuut 2010=100)";
+UNITS="Percent";
+UNITS[da]="procent";
+UNITS[kl]="procenti";
+STUB="time";
+STUB[da]="tid";
+STUB[kl]="piffissaq";
+HEADING="specification method";
+HEADING[da]="opgørelsesvariabel";
+HEADING[kl]="naatsorsuutip allanngorarnera";
+VALUES("time")="2009Q2","2009Q3","2009Q4","2010Q1","2010Q2","2010Q3","2010Q4","2011Q1","2011Q2",
+"2011Q3","2011Q4","2012Q1","2012Q2","2012Q3","2012Q4","2013Q1","2013Q2","2013Q3","2013Q4","2014Q1",
+"2014Q2","2014Q3","2014Q4","2015Q1","2015Q2","2015Q3","2015Q4","2016Q1","2016Q2","2016Q3","2016Q4",
+"2017Q1","2017Q2","2017Q3","2017Q4","2018Q1","2018Q2","2018Q3","2018Q4","2019Q1","2019Q2","2019Q3",
+"2019Q4","2020Q1","2020Q2","2020Q3","2020Q4","2021Q1","2021Q2","2021Q3","2021Q4","2022Q1","2022Q2",
+"2022Q3","2022Q4","2023Q1","2023Q2","2023Q3","2023Q4","2024Q1","2024Q2","2024Q3","2024Q4";
+VALUES[da]("tid")="2009K2","2009K3","2009K4","2010K1","2010K2","2010K3","2010K4","2011K1","2011K2",
+"2011K3","2011K4","2012K1","2012K2","2012K3","2012K4","2013K1","2013K2","2013K3","2013K4","2014K1",
+"2014K2","2014K3","2014K4","2015K1","2015K2","2015K3","2015K4","2016K1","2016K2","2016K3","2016K4",
+"2017K1","2017K2","2017K3","2017K4","2018K1","2018K2","2018K3","2018K4","2019K1","2019K2","2019K3",
+"2019K4","2020K1","2020K2","2020K3","2020K4","2021K1","2021K2","2021K3","2021K4","2022K1","2022K2",
+"2022K3","2022K4","2023K1","2023K2","2023K3","2023K4","2024K1","2024K2","2024K3","2024K4";
+VALUES[kl]("piffissaq")="2009K2","2009K3","2009K4","2010K1","2010K2","2010K3","2010K4","2011K1",
+"2011K2","2011K3","2011K4","2012K1","2012K2","2012K3","2012K4","2013K1","2013K2","2013K3","2013K4",
+"2014K1","2014K2","2014K3","2014K4","2015K1","2015K2","2015K3","2015K4","2016K1","2016K2","2016K3",
+"2016K4","2017K1","2017K2","2017K3","2017K4","2018K1","2018K2","2018K3","2018K4","2019K1","2019K2",
+"2019K3","2019K4","2020K1","2020K2","2020K3","2020K4","2021K1","2021K2","2021K3","2021K4","2022K1",
+"2022K2","2022K3","2022K4","2023K1","2023K2","2023K3","2023K4","2024K1","2024K2","2024K3","2024K4";
+VALUES("specification method")="Index","Index, seasonal adjusted","Yearly change (pct.)",
+"Quarterly change, seasonal adjusted (pct.)";
+VALUES[da]("opgørelsesvariabel")="Indeks","Indeks, sæsonkorrigeret","årlig ændring (pct.)",
+"Kvartalsvis ændring, sæsonkorrigeret (pct.)";
+VALUES[kl]("naatsorsuutip allanngorarnera")="Naleqqersuut",
+"Naleqqersuut, ukiup ingerlanerani naqqiissut","Ukiumut allanngorarnera (pct.)",
+"Kvartalimut allanngorarnera, ukiup ingerlanerani naqqiissut (pct.)";
+TIMEVAL("time")=TLIST(Q1),"20092","20093","20094","20101","20102","20103","20104","20111","20112",
+"20113","20114","20121","20122","20123","20124","20131","20132","20133","20134","20141","20142",
+"20143","20144","20151","20152","20153","20154","20161","20162","20163","20164","20171","20172",
+"20173","20174","20181","20182","20183","20184","20191","20192","20193","20194","20201","20202",
+"20203","20204","20211","20212","20213","20214","20221","20222","20223","20224","20231","20232",
+"20233","20234","20241","20242","20243","20244";
+TIMEVAL[da]("tid")=TLIST(Q1),"20092","20093","20094","20101","20102","20103","20104","20111",
+"20112","20113","20114","20121","20122","20123","20124","20131","20132","20133","20134","20141",
+"20142","20143","20144","20151","20152","20153","20154","20161","20162","20163","20164","20171",
+"20172","20173","20174","20181","20182","20183","20184","20191","20192","20193","20194","20201",
+"20202","20203","20204","20211","20212","20213","20214","20221","20222","20223","20224","20231",
+"20232","20233","20234","20241","20242","20243","20244";
+TIMEVAL[kl]("piffissaq")=TLIST(Q1),"20092","20093","20094","20101","20102","20103","20104","20111",
+"20112","20113","20114","20121","20122","20123","20124","20131","20132","20133","20134","20141",
+"20142","20143","20144","20151","20152","20153","20154","20161","20162","20163","20164","20171",
+"20172","20173","20174","20181","20182","20183","20184","20191","20192","20193","20194","20201",
+"20202","20203","20204","20211","20212","20213","20214","20221","20222","20223","20224","20231",
+"20232","20233","20234","20241","20242","20243","20244";
+LAST-UPDATED="20250218 09:00";
+CONTACT="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq F. Lund, aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="For method and definition of the variables reference is made to the publication about short-term statistics, which is available at www.stat.gl#Documentation regarding the seasonal adjustment is available at www.stat.gl#List of symbols:#... No "
+"information available#";
+NOTE[da]="For metode og definitioner henvises til publikation om konjunkturstatistikken, der kan hentes på www.stat.gl#Dokumentation vedrørende sæsonkorrektion kan hentes på www.stat.gl#Signaturforklaring:#... Oplysninger foreligger ikke#";
+NOTE[kl]="Periaatsit nassuiaatillu aningaasaqarnikkut pissutsit pillugit saqqummersitamut www.stat.gl iserfigalugu aaneqarsinnaapput.#Ukiup ingerlaneranut naqqiissummut uppernarsaat www.stat.gl-imut aaneqarsinnaavoq#Nalunaaqutsersuutip nassuiaataa:#... "
+"Paasissutissat pigineqanngillat#";
+VALUENOTE("time","2017Q1")="A change in the one of the retail chains accounting calendar, has a minor impact on the index.";
+VALUENOTE[da]("tid","2017K1")="En ændring i opgørelsesperioden for en af detailkæderne i indekset, medfører at der en mindre negativ påvirkning af indekset i dette kvartal og i det efterfølgende kvartal.#";
+VALUENOTE[kl]("piffissaq","2017K1")="Niuernikkut ingerlatsiviit ilaasa naatsorsuiffiup ingerlarngani naleqqersuummik allannguinerata kinguneraa, naleqqersuutip kvartalimi matumani kvartaalillu malittuini annikitsuinnaagaluartumik akuersunngitsoqalernera."
+"#";
+VALUENOTE("time","2017Q3")="The change in retail sales revenue may be affected by changes in market shares for the stores that are included in the index.";
+VALUENOTE[da]("tid","2017K3")="Ændringen i detailhandlens omsætningsindeks, kan være påvirket af ændring i markedsandele for de butikskæder, der er medtaget i indekset.#";
+VALUENOTE[kl]("piffissaq","2017K3")="Atortussanik niuernermi kaaviiaartitat, niuertarfeqarnikkut isertitat kaaviiaartitat naleqqersuutaannut allannguut, niuertarfiit kaaviiaartitaannut sunniuteqarsimasinnaavoq.#";
+DATA=
+96.4 98 "..." "..." 
+101.9 98.2 "..." 0.2 
+106.3 100.2 "..." 2 
+94.7 101.7 "..." 1.5 
+96 98.8 -0.4 -2.8 
+101.4 97.8 -0.4 -1 
+107.9 101.7 1.5 3.9 
+91.4 100.1 -3.4 -1.5 
+101.3 102.3 5.5 2.2 
+108.7 104.8 7.1 2.4 
+109.4 103 1.4 -1.7 
+96.6 104.8 5.7 1.7 
+103.5 106 2.2 1.1 
+110.1 106.1 1.3 0.1 
+112 105.1 2.3 -0.9 
+99.6 107.1 3 1.8 
+104.4 108.1 0.9 1 
+111.2 107.1 1 -1 
+115 107.7 2.8 0.6 
+99.2 109.6 -0.4 1.8 
+105.2 106.5 0.8 -2.9 
+111.9 107.7 0.7 1.1 
+116.4 108.6 1.2 0.8 
+99.6 108.5 0.4 -0.1 
+107.7 111.1 2.3 2.4 
+117.7 113 5.1 1.8 
+124.9 116.3 7.3 2.9 
+108.6 117.9 9.1 1.4 
+115.5 120.1 7.3 1.9 
+125.6 120.4 6.7 0.2 
+129.7 120.7 3.8 0.3 
+106.6 118.7 -1.9 -1.7 
+116.3 118.2 0.7 -0.4 
+125.9 120.4 0.3 1.9 
+129.9 121 0.1 0.5 
+112.8 122.8 5.9 1.4 
+118.4 123.3 1.8 0.4 
+129.3 123.4 2.6 0.1 
+130.9 122.1 0.8 -1.1 
+112.3 125.2 -0.5 2.5 
+124.8 126.8 5.4 1.3 
+135.5 129.3 4.8 1.9 
+141.5 132 8.1 2.1 
+120.4 133.5 7.3 1.1 
+136.2 139.2 9.1 4.3 
+143.5 136.9 5.9 -1.7 
+151.9 141.7 7.4 3.5 
+131.5 144.1 9.2 1.7 
+139.1 143.9 2.1 -0.1 
+147.7 140.8 2.9 -2.2 
+151.6 141.4 -0.2 0.5 
+125.8 140.6 -4.3 -0.6 
+140.6 142.7 1.1 1.5 
+153.3 146.1 3.8 2.4 
+156.3 145.8 3.1 -0.2 
+131.1 144.9 4.2 -0.6 
+141.7 145.5 0.8 0.4 
+155.4 147.9 1.3 1.6 
+155.2 144.9 -0.7 -2 
+136 148.4 3.7 2.4 
+141.4 147.1 -0.2 -0.8 
+154.3 146.7 -0.7 -0.3 
+156.6 146.3 0.9 -0.3; 

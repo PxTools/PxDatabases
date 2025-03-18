@@ -1,0 +1,196 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20100930 15:00";
+NEXT-UPDATE="20250911 16:00";
+UPDATE-FREQUENCY="Half year, Halvårligt, Ukiup affakkaarlugit";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="PRXPRISF";
+SUBJECT-CODE="PR";
+SUBJECT-AREA="Prices";
+SUBJECT-AREA[da]="Priser";
+SUBJECT-AREA[kl]="Akit";
+COPYRIGHT=YES;
+DESCRIPTION="Consumer price index series (1971H1-2025H1) <em>[PREPRISF]</em>";
+DESCRIPTION[da]="Forbrugerpristal, indeksserier (1971H1-2025H1) <em>[PRDPRISF]</em>";
+DESCRIPTION[kl]="Atuisartunut akit naleqqersuutit tulleriiaartut (1971H1-2025H1) <em>[PRNPRISF]</em>";
+TITLE="Consumer price index series";
+TITLE[da]="Forbrugerpristal, indeksserier";
+TITLE[kl]="Atuisartunut akit naleqqersuutit tulleriiaartut";
+CONTENTS="Consumer Price Index";
+CONTENTS[da]="Forbrugerpristal";
+CONTENTS[kl]="Atuisartunut akit";
+UNITS="per cent";
+UNITS[da]="procent";
+UNITS[kl]="procent";
+STUB="time";
+STUB[da]="tid";
+STUB[kl]="piffissaq";
+HEADING="index";
+HEADING[da]="indeks";
+HEADING[kl]="index";
+VALUES("time")="1971 January","1971 July","1972 January","1972 July","1973 January","1973 July","1974 January","1974 July","1975 January",
+"1975 July","1976 January","1976 July","1977 January","1977 July","1978 January","1978 July","1979 January","1979 July","1980 January",
+"1980 July","1981 January","1981 July","1982 January","1982 July","1983 January","1983 July","1984 January","1984 July","1985 January",
+"1985 July","1986 January","1986 July","1987 January","1987 July","1988 January","1988 July","1989 January","1989 July","1990 January",
+"1990 July","1991 January","1991 July","1992 January","1992 July","1993 January","1993 July","1994 January","1994 July","1995 January",
+"1995 July","1996 January","1996 July","1997 January","1997 July","1998 January","1998 July","1999 January","1999 July","2000 January",
+"2000 July","2001 January","2001 July","2002 January","2002 July","2003 January","2003 July","2004 January","2004 July","2005 January",
+"2005 July","2006 January","2006 July","2007 January","2007 July","2008 January","2008 July","2009 January","2009 July","2010 January",
+"2010 July","2011 January","2011 July","2012 January","2012 July","2013 January","2013 July","2014 January","2014 July","2015 January",
+"2015 July","2016 January","2016 July","2017 January","2017 July","2018 January","2018 July","2019 January","2019 July","2020 January",
+"2020 July","2021 January","2021 July","2022 January","2022 July","2023 January","2023 July","2024 January","2024 July","2025 January";
+VALUES[da]("tid")="1971 januar","1971 juli","1972 januar","1972 juli","1973 januar","1973 juli","1974 januar","1974 juli","1975 januar",
+"1975 juli","1976 januar","1976 juli","1977 januar","1977 juli","1978 januar","1978 juli","1979 januar","1979 juli","1980 januar",
+"1980 juli","1981 januar","1981 juli","1982 januar","1982 juli","1983 januar","1983 juli","1984 januar","1984 juli","1985 januar",
+"1985 juli","1986 januar","1986 juli","1987 januar","1987 juli","1988 januar","1988 juli","1989 januar","1989 juli","1990 januar",
+"1990 juli","1991 januar","1991 juli","1992 januar","1992 juli","1993 januar","1993 juli","1994 januar","1994 juli","1995 januar",
+"1995 juli","1996 januar","1996 juli","1997 januar","1997 juli","1998 januar","1998 juli","1999 januar","1999 juli","2000 januar",
+"2000 juli","2001 januar","2001 juli","2002 januar","2002 juli","2003 januar","2003 juli","2004 januar","2004 juli","2005 januar",
+"2005 juli","2006 januar","2006 juli","2007 januar","2007 juli","2008 januar","2008 juli","2009 januar","2009 juli","2010 januar",
+"2010 juli","2011 januar","2011 juli","2012 januar","2012 juli","2013 januar","2013 juli","2014 januar","2014 juli","2015 januar",
+"2015 juli","2016 januar","2016 juli","2017 januar","2017 juli","2018 januar","2018 juli","2019 januar","2019 juli","2020 januar",
+"2020 juli","2021 januar","2021 juli","2022 januar","2022 juli","2023 januar","2023 juli","2024 januar","2024 juli","2025 januar";
+VALUES[kl]("piffissaq")="1971 januaarimi","1971 juulimi","1972 januaarimi","1972 juulimi","1973 januaarimi","1973 juulimi","1974 januaarimi","1974 juulimi","1975 januaarimi",
+"1975 juulimi","1976 januaarimi","1976 juulimi","1977 januaarimi","1977 juulimi","1978 januaarimi","1978 juulimi","1979 januaarimi","1979 juulimi","1980 januaarimi",
+"1980 juulimi","1981 januaarimi","1981 juulimi","1982 januaarimi","1982 juulimi","1983 januaarimi","1983 juulimi","1984 januaarimi","1984 juulimi","1985 januaarimi",
+"1985 juulimi","1986 januaarimi","1986 juulimi","1987 januaarimi","1987 juulimi","1988 januaarimi","1988 juulimi","1989 januaarimi","1989 juulimi","1990 januaarimi",
+"1990 juulimi","1991 januaarimi","1991 juulimi","1992 januaarimi","1992 juulimi","1993 januaarimi","1993 juulimi","1994 januaarimi","1994 juulimi","1995 januaarimi",
+"1995 juulimi","1996 januaarimi","1996 juulimi","1997 januaarimi","1997 juulimi","1998 januaarimi","1998 juulimi","1999 januaarimi","1999 juulimi","2000 januaarimi",
+"2000 juulimi","2001 januaarimi","2001 juulimi","2002 januaarimi","2002 juulimi","2003 januaarimi","2003 juulimi","2004 januaarimi","2004 juulimi","2005 januaarimi",
+"2005 juulimi","2006 januaarimi","2006 juulimi","2007 januaarimi","2007 juulimi","2008 januaarimi","2008 juulimi","2009 januaarimi","2009 juulimi","2010 januaarimi",
+"2010 juulimi","2011 januaarimi","2011 juulimi","2012 januaarimi","2012 juulimi","2013 januaarimi","2013 juulimi","2014 januaarimi","2014 juulimi","2015 januaarimi",
+"2015 juulimi","2016 januaarimi","2016 juulimi","2017 januarimi","2017 juulimi","2018 januaarimi","2018 juulimi","2019 januaarimi","2019 juulimi","2020 januaarimi",
+"2020 juulimi","2021 januaarimi","2021 juulimi","2022 januaarimi","2022 juulimi","2023 januaarimi","2023 juulimi","2024 januaarimi","2024 juulimi","2025 januaarimi";
+VALUES("index")="Jan 1971=100","Jan 1975=100","Jan 1981=100","Juli 1995=100","Jan 2008=100";
+VALUES[da]("indeks")="Jan 1971=100","Jan 1975=100","Jan 1981=100","Juli 1995=100","Jan 2008=100";
+VALUES[kl]("index")="Jan 1971=100","Jan 1975=100","Jan 1981=100","Juli 1995=100","Jan 2008=100";
+TIMEVAL("time")=TLIST(H1,"19711"-"20251");
+TIMEVAL[kl]("piffissaq")=TLIST(H1,"19711"-"20251");
+TIMEVAL[da]("tid")=TLIST(H1,"19711"-"20251");
+LAST-UPDATED="20250304 16:00";
+CONTACT="Simon Westmann, siwe@stat.gl";
+CONTACT[da]="Simon Westmann, siwe@stat.gl";
+CONTACT[kl]="Simon Westmann, siwe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Method and definitions, reference can be made to the description of methods in the published version, which can be downloaded at www.stat.gl#The index series are rounded to one decimal place, therefore there can be small differences in the increase "
+"in prices between the index series.#List of symbols:#... No information available#";
+NOTE[da]="For metode og definitioner jævnfør metodebeskrivelsen i publikationen, der kan hentes på www.stat.gl#Indeksserier er angivet afrundet med et decimal, hvorfor der kan være en lille forskel mellem prisstigningerne i de forskellige indeksserier.#"
+"Signaturforklaring:#... Oplysninger foreligger ikke#";
+NOTE[kl]="Saqqummersitami periaatsip allaaserinerani periaaseq nassuiaasiinerillu, www.stat.gl iserfigalugu aaneqarsinnaapput#Naleqqersuutit decimalimik ataatsimik akunnaallisagaapput, taamaattumik akini qaffatani naleqqersuutini assigiinngitsuni "
+"annikitsumik assigiinngissuteqartoqarsinnaavoq.#Nalunaaqutsersuutip nassuiaataa:#... Paasissutissalerneqanngilaq#";
+DATA=
+100.0 "..." "..." "..." "..."
+103.0 "..." "..." "..." "..."
+105.7 "..." "..." "..." "..."
+109.5 "..." "..." "..." "..."
+113.8 "..." "..." "..." "..."
+122.4 "..." "..." "..." "..."
+131.5 "..." "..." "..." "..."
+142.7 "..." "..." "..." "..."
+153.1 100.0 "..." "..." "..."
+163.4 106.7 "..." "..." "..."
+173.3 113.2 "..." "..." "..."
+179.8 117.4 "..." "..." "..."
+185.4 121.1 "..." "..." "..."
+194.3 126.9 "..." "..." "..."
+202.6 132.3 "..." "..." "..."
+211.6 138.2 "..." "..." "..."
+217.8 142.3 "..." "..." "..."
+232.3 151.7 "..." "..." "..."
+245.0 160.0 "..." "..." "..."
+257.9 168.5 "..." "..." "..."
+277.5 181.3 100.0 "..." "..."
+299.9 196.0 108.1 "..." "..."
+318.3 208.0 114.7 "..." "..."
+336.5 219.8 121.3 "..." "..."
+356.9 233.2 128.6 "..." "..."
+370.0 241.8 133.4 "..." "..."
+385.7 252.0 139.0 "..." "..."
+405.6 265.0 146.2 "..." "..."
+421.8 275.6 152.0 "..." "..."
+428.8 280.2 154.5 "..." "..."
+444.5 290.5 160.2 "..." "..."
+451.4 294.9 162.7 "..." "..."
+457.4 298.8 164.8 "..." "..."
+465.1 305.4 167.6 "..." "..."
+492.1 321.6 177.4 "..." "..."
+501.0 327.3 180.5 "..." "..."
+513.8 335.7 185.2 "..." "..."
+530.4 346.5 191.1 "..." "..."
+543.6 355.2 195.9 "..." "..."
+551.9 360.5 198.9 "..." "..."
+568.3 371.3 204.8 "..." "..."
+573.6 374.8 206.7 "..." "..."
+577.6 377.3 208.1 "..." "..."
+583.4 381.1 210.2 "..." "..."
+584.0 381.7 210.5 "..." "..."
+590.4 385.9 212.9 "..." "..."
+589.8 385.5 212.6 "..." "..."
+589.8 385.5 212.6 "..." "..."
+596.2 389.7 215.0 "..." "..."
+601.7 392.2 217.0 100.0 "..."
+605.9 396.0 218.5 100.7 "..."
+608.4 397.6 219.4 101.1 "..."
+609.0 398.0 219.6 101.2 "..."
+612.0 400.0 220.7 101.7 "..."
+614.4 401.6 221.6 102.1 "..."
+618.6 404.4 223.1 102.8 "..."
+619.8 405.1 223.6 103.0 "..."
+622.8 407.1 224.6 103.5 "..."
+630.3 411.8 227.2 104.7 "..."
+634.0 414.2 228.5 105.3 "..."
+648.7 423.8 233.8 107.7 "..."
+654.3 427.5 235.9 108.7 "..."
+674.6 441.2 243.4 112.2 "..."
+678.6 443.8 244.8 112.9 "..."
+684.1 447.4 246.8 113.8 "..."
+691.6 452.3 249.6 115.0 "..."
+705.8 461.6 254.8 117.4 "..."
+707.5 462.7 255.4 117.7 "..."
+713.3 466.8 257.6 118.7 "..."
+717.2 469.3 259.0 119.3 "..."
+729.5 477.2 263.3 121.4 "..."
+737.9 482.6 266.3 122.7 "..."
+746.3 488.1 269.4 124.1 "..."
+749.9 490.9 270.9 124.8 "..."
+786.6 514.5 283.9 130.8 100.0
+820.3 536.5 296.0 136.4 103.0
+822.1 537.7 296.8 136.7 103.5
+825.1 539.6 297.9 137.2 103.9
+833.8 545.3 301.1 138.7 105.0
+844.1 552.1 304.8 140.4 106.3
+848.1 554.7 306.2 141.0 106.8
+862.5 564.1 311.4 143.4 108.6
+889.1 581.5 321.0 147.8 112.0
+899.9 588.5 324.9 149.6 113.3
+903.8 591.1 326.3 150.3 113.8
+907.6 593.6 327.7 150.9 114.3
+915.6 598.9 330.6 152.2 115.3
+920.5 602.1 332.4 153.0 115.9
+929.1 607.7 335.5 154.4 117.0
+933.7 610.7 337.2 155.2 117.6
+940.0 614.8 339.5 156.2 118.4
+942.3 616.3 340.3 156.6 118.7
+943.2 616.9 340.6 156.7 118.8
+954.9 624.5 344.8 158.6 120.3
+947.6 619.7 342.2 157.4 119.4
+950.5 621.6 343.3 157.9 119.7
+953.3 623.4 344.3 158.4 120.1
+963.2 629.9 347.9 160.0 121.3
+976.4 638.6 352.7 162.2 123.0
+979.7 640.8 353.9 162.8 123.4
+979.0 640.3 353.6 162.7 123.3
+978.1 639.7 353.3 162.5 123.2
+981.1 641.7 354.4 163.0 123.6
+999.2 653.6 361.0 166.0 125.9
+1008.0 659.4 364.2 167.5 127.0
+1024.2 670.0 370.1 170.2 129.0
+1030.4 674.1 372.3 171.2 129.8
+1053.0 688.9 380.5 175.0 132.7
+1067.1 698.1 385.6 177.3 134.4
+;

@@ -1,0 +1,142 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150807 09:00";
+NEXT-UPDATE="20250601 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXBT01";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Child benefits in December by time, municipality and number of children <em>[SOEBT01]</em>";
+DESCRIPTION[da]="Børnetilskud i december efter tid, kommune og antal børn <em>[SODBT01]</em>";
+DESCRIPTION[kl]="Meeqqanut tapit decembarimi, piffissaq, kommuni, meeqqat amerlassusii <em>[SONBT01]</em>";
+TITLE="Child benefits by no of children, municipality, unit and time";
+TITLE[da]="Børnetilskud efter antal børn, kommune, enhed og tid";
+TITLE[kl]="Meeqqanut tapit : meeqqat qassiuneri, kommuuni, ikiorsiissut , piffissaq";
+CONTENTS="Child benefits";
+CONTENTS[da]="Børnetilskud";
+CONTENTS[kl]="Meeqqanut tapit";
+UNITS="number/amount (1.000 DKK)";
+UNITS[da]="antal/beløb (1.000 DKK)";
+UNITS[kl]="Amerlassusii/Aningaasat amerlassusii (1.000 DKK)";
+STUB="no of children","municipality","unit";
+STUB[da]="antal børn","kommune","enhed";
+STUB[kl]="meeqqat qassiuneri","kommuuni","ikiorsiissut";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("no of children")="Total","1 child","2 children","3 children","4+ children";
+VALUES[da]("antal børn")="I alt","1 barn","2 børn","3 børn","4+ børn";
+VALUES[kl]("meeqqat qassiuneri")="Katillugit","Meeraq 1","Meeqqat 2","Meeqqat 3","Meeqqat 4+";
+VALUES("municipality")="Total","Kommune Kujalleq","Kommuneqarfik Sermersooq","Qeqqata Kommunia",
+"Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[da]("kommune")="Hele landet","Kommune Kujalleq","Kommuneqarfik Sermersooq",
+"Qeqqata Kommunia","Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[kl]("kommuuni")="Nuna tamakkerlugu","Kommune Kujalleq","Kommuneqarfik Sermersooq",
+"Qeqqata Kommunia","Kommune Qeqertalik","Avannaata Kommunia";
+VALUES("unit")="Beløb","Number";
+VALUES[da]("enhed")="Beløb","Antal";
+VALUES[kl]("ikiorsiissut")="Beløb","Amerlassusii";
+VALUES("time")="2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+CODES("no of children")="0","1","2","3","4";
+CODES[da]("antal børn")="0","1","2","3","4";
+CODES[kl]("meeqqat qassiuneri")="0","1","2","3","4";
+CODES("municipality")="000","955","956","957","959","960";
+CODES[da]("kommune")="000","955","956","957","959","960";
+CODES[kl]("kommuuni")="000","955","956","957","959","960";
+CODES("unit")="Beløb","Antal";
+CODES[da]("enhed")="Beløb","Antal";
+CODES[kl]("ikiorsiissut")="Beløb","Antal";
+CODES("time")="2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("tid")="2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("no of children")="Total";
+ELIMINATION[da]("antal børn")="I alt";
+ELIMINATION[kl]("meeqqat qassiuneri")="Katillugit";
+ELIMINATION("municipality")="Total";
+ELIMINATION[da]("kommune")="Hele landet";
+ELIMINATION[kl]("kommuuni")="Nuna tamakkerlugu";
+LAST-UPDATED="20240528 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+3121 3325 3157 3091 3018 3439 3417 3311 3508 3500 3345
+3952 3826 3601 3573 3487 3880 3678 3591 3653 3601 3423
+472 480 441 444 435 511 483 435 478 466 450
+578 543 486 510 490 542 504 460 463 465 431
+1011 1136 1031 1055 1038 1208 1170 1153 1251 1304 1196
+1327 1321 1204 1207 1165 1359 1275 1226 1279 1305 1182
+503 528 540 492 467 531 562 536 555 554 532
+626 597 585 556 549 618 583 577 589 570 566
+440 441 441 428 428 472 473 434 430 409 432
+544 533 518 514 504 536 519 499 476 453 446
+695 740 705 672 650 717 730 752 793 766 734
+877 832 808 786 779 825 797 829 846 808 798
+1074 1208 1105 1104 1090 1079 1088 1054 1073 1097 1082
+2154 2169 2001 2008 1982 2093 1967 1911 1896 1889 1835
+160 175 156 155 146 155 146 136 136 143 130
+314 310 272 282 264 292 270 248 237 242 215
+381 436 386 388 370 397 403 373 403 407 384
+761 783 702 700 665 757 718 664 687 687 635
+158 177 168 162 164 153 159 159 158 169 180
+329 325 312 302 308 323 287 289 291 290 313
+150 172 155 161 158 152 144 142 131 137 141
+295 311 283 288 284 284 262 261 245 240 238
+224 248 240 237 253 223 235 245 244 241 246
+455 440 432 436 461 437 430 449 436 430 434
+1026 1039 1027 988 979 1066 1081 1072 1146 1155 1111
+1117 1016 993 944 942 1093 1039 1038 1084 1070 993
+149 150 135 150 142 156 155 143 152 159 165
+159 143 126 141 133 149 135 127 134 140 138
+352 368 352 333 339 372 364 345 397 431 389
+386 355 343 318 321 374 357 340 372 392 340
+161 159 158 151 150 159 164 167 172 175 147
+175 161 151 145 146 175 165 170 170 168 141
+132 143 152 139 145 158 171 164 155 139 142
+142 140 146 139 146 161 166 165 153 139 131
+231 218 230 215 204 221 227 253 270 251 268
+255 217 227 201 196 234 216 236 255 231 243
+597 629 602 588 534 653 678 642 722 731 698
+453 423 402 411 367 430 426 425 455 440 418
+106 95 93 86 91 115 109 88 109 93 95
+76 63 60 62 65 66 70 58 63 57 55
+159 175 158 183 169 217 205 229 213 243 232
+120 111 99 117 111 142 123 143 132 143 135
+107 119 125 100 84 120 132 129 175 150 143
+81 74 78 71 62 80 83 86 105 87 85
+98 84 98 94 80 87 93 73 88 83 100
+75 61 70 70 53 60 62 50 56 52 58
+128 156 128 124 109 116 138 123 138 163 129
+101 114 95 91 76 82 88 88 99 101 85
+423 449 423 411 415 640 571 542 567 516 454
+228 218 205 210 196 264 246 217 218 202 177
+57 60 57 53 57 85 72 68 80 71 60
+29 27 28 25 28 35 29 27 29 26 23
+119 157 134 150 160 223 197 206 238 223 191
+60 72 60 72 68 86 77 79 88 83 72
+76 73 89 78 69 99 107 81 51 60 63
+41 37 44 38 33 40 48 32 23 25 27
+60 41 36 33 45 76 64 56 56 51 49
+32 21 19 17 21 31 29 23 22 22 19
+112 118 107 96 84 157 130 131 142 112 92
+66 61 54 58 46 72 63 56 56 46 36;
