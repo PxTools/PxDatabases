@@ -1,0 +1,244 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230207 09:00";
+NEXT-UPDATE="20260123 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXATI4";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Labour force status by education level <em>[SOEATI4]</em>";
+DESCRIPTION[da]="Arbejdsmarkedsstatus fordelt på uddannelsesniveau <em>[SODATI4]</em>";
+DESCRIPTION[kl]="Suliaqarfinni suliffeqarneq ilinniarsimasanut immikkoortillugit <em>[SONATI4]</em>";
+TITLE="Population by labour force status, uddannelsesniveau, calculation month and time";
+TITLE[da]="Befolkning efter arbejdsmarkedsstatus, uddannelsesniveau, opgørelsesmåned og tid";
+TITLE[kl]="Innuttaasut : suliaqarfinni suliffeqarneq, ilinniarfimassuseq, qaammat nalunaarsuiffik , piffissaq";
+CONTENTS="Population";
+CONTENTS[da]="Befolkning";
+CONTENTS[kl]="Innuttaasut";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit";
+STUB="labour force status","uddannelsesniveau","calculation month";
+STUB[da]="arbejdsmarkedsstatus","uddannelsesniveau","opgørelsesmåned";
+STUB[kl]="suliaqarfinni suliffeqarneq","ilinniarfimassuseq","qaammat nalunaarsuiffik";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("labour force status")="Total","00 Employed without further details",
+"01-02 Employed students","03-04 Employed pensioners",
+"05-12 Employed with income replacement benefits",
+"20-21 Unemployed with income replacement benefits",
+"23 Unemployed, without income replacement benefits","30-32 Students",
+"40-41 Temporary income replacement","50-60 Pensioners",
+"70 Children and young people up to and including 15 years of age","90 Others outside the workforce";
+VALUES[da]("arbejdsmarkedsstatus")="I alt","00 Beskæftigede uden nærmere angivelse",
+"01-02 Beskæftigede studerende","03-04 Beskæftigede pensionister",
+"05-12 Beskæftigede med midlertidigt indkomsterstattende ydelser",
+"20-21 Ledige, Indkomsterstattende","23 Ledige, uden indkomsterstattende ydelse","30-32 Studerende",
+"40-41 Midlertidigt indkomsterstattende","50-60 Pensionister","70 Børn og unge til og med 15 år",
+"90 Øvrige uden for arbejdsstyrken";
+VALUES[kl]("suliaqarfinni suliffeqarneq")="Katillugit",
+"00 Suliffillit annertunerusumik nalunaarsuuteqanngitsut","01-02 Ilinniartut suliffillit",
+"03-04 Soraarnerussutisiallit suliffillit",
+"05-12 Utaqqiisaagallarumik isertitanut taarsiissutaasunik ikiorsiissutinik pisartagallit, ernereernermi pisartagallit ilanngullugit, suliffillit",
+"20-21 Utaqqiisaagallarumik isertitanut taarsiissutaasunik ikiorsiissutinik pisartagallit, suliffissaaleqisut",
+"23 Suliffissaaleqisut, isertitanut taarsiissutaasunik ikiorsiissuteqanngitsut","30-32 Ilinniartut",
+"40-41 Utaqqiisaagallarumik isertitanut taarsiissutaasunik ikiorsiissutit",
+"50-60 Soraarnerussutisiallit","70 Meeqqat 15-inik ataallugilluunniit ukiullit",
+"90 Sulisinnaasunut ilaanngitsut allat";
+VALUES("uddannelsesniveau")="Total","Children and young people up to and including 15 years of age",
+"Primary","Upper secondary - General","Upper secondary education - Vocational",
+"Post-secondary education";
+VALUES[da]("uddannelsesniveau")="I alt","Børn og unge til og med 15 år","Folkeskolen","Gymnasium",
+"Erhversuddannelse","Videregående uddanelse";
+VALUES[kl]("ilinniarfimassuseq")="Katillugit","Meeqqat 15-inik ataallugilluunniit ukiullit",
+"Meeqqat atuarfiat","Ilinniarnertuunngorniarfiit","Inuussutissarsiornermik ilinniarfiit",
+"Ingerlariaqqiffiusumik ilinniarfiit";
+VALUES("calculation month")="November","December";
+VALUES[da]("opgørelsesmåned")="November","December";
+VALUES[kl]("qaammat nalunaarsuiffik")="Novembari","Decembari";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("labour force status")="X","A","B","C","E","F","G","H","I","J","K","L";
+CODES[da]("arbejdsmarkedsstatus")="X","A","B","C","E","F","G","H","I","J","K","L";
+CODES[kl]("suliaqarfinni suliffeqarneq")="X","A","B","C","E","F","G","H","I","J","K","L";
+CODES("uddannelsesniveau")="99","-1","0","1","2","3";
+CODES[da]("uddannelsesniveau")="99","-1","0","1","2","3";
+CODES[kl]("ilinniarfimassuseq")="99","-1","0","1","2","3";
+CODES("calculation month")="1","2";
+CODES[da]("opgørelsesmåned")="1","2";
+CODES[kl]("qaammat nalunaarsuiffik")="1","2";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("uddannelsesniveau")="Total";
+ELIMINATION[da]("uddannelsesniveau")="I alt";
+ELIMINATION[kl]("ilinniarfimassuseq")="Katillugit";
+ELIMINATION("calculation month")="November";
+ELIMINATION[da]("opgørelsesmåned")="November";
+ELIMINATION[kl]("qaammat nalunaarsuiffik")="Novembari";
+LAST-UPDATED="20250123 09:00";
+CONTACT="Anders Blaabjerg, abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg, abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg, abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+55860 55877 55992 56081 56421 56562 56609 56699
+55860 55877 55992 56081 56421 56562 56609 56699
+12568 12538 12465 12460 12514 12400 12371 12276
+12568 12538 12465 12460 12514 12400 12371 12276
+27037 26617 26472 26165 25984 25831 25800 25698
+27037 26617 26472 26165 25984 25831 25800 25698
+3386 3533 3551 3626 3708 3762 3738 3830
+3386 3533 3551 3626 3708 3762 3738 3830
+7961 8113 8286 8382 8558 8735 8843 8956
+7961 8113 8286 8382 8558 8735 8843 8956
+4908 5076 5218 5448 5657 5834 5857 5939
+4908 5076 5218 5448 5657 5834 5857 5939
+25213 25499 26259 26479 26508 27076 27466 27630
+24704 25417 25679 25997 26252 26955 27108 27547
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+12456 12488 12863 12783 12478 12626 12876 12876
+12296 12648 12663 12678 12498 12765 12886 13023
+2150 2193 2268 2322 2352 2406 2400 2472
+2153 2224 2265 2297 2376 2442 2379 2504
+6232 6336 6563 6615 6746 6959 7065 7115
+6029 6188 6349 6441 6613 6817 6870 6966
+4375 4482 4565 4759 4932 5085 5125 5167
+4226 4357 4402 4581 4765 4931 4973 5054
+1476 1436 1649 1609 1606 1580 1640 1532
+1595 1572 1701 1674 1704 1620 1612 1605
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+837 791 892 866 869 828 864 826
+897 858 894 917 932 870 881 843
+356 365 411 421 411 450 474 451
+392 422 461 427 431 453 445 469
+194 167 214 185 182 161 167 126
+213 176 210 197 189 157 144 148
+89 113 132 137 144 141 135 129
+93 116 136 133 152 140 142 145
+495 480 433 493 509 503 585 590
+562 547 525 569 590 577 622 707
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+417 395 353 399 401 394 439 443
+481 470 432 462 464 457 470 513
+9 5 3 5 4 7 15 10
+5 3 2 3 5 7 14 13
+49 58 50 58 69 65 90 92
+49 53 57 72 78 72 92 123
+20 22 27 31 35 37 41 45
+27 21 34 32 43 41 46 58
+1514 1531 1363 1278 1056 977 897 701
+2282 2129 1614 1479 1328 1103 1168 939
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1198 1186 1054 964 772 702 665 525
+1824 1669 1266 1139 1008 816 869 714
+69 89 79 80 88 71 77 60
+96 104 79 83 91 70 93 68
+224 228 206 203 169 175 139 101
+335 325 244 221 199 179 178 138
+23 28 24 31 27 29 16 15
+27 31 25 36 30 38 28 19
+1333 1161 918 834 886 769 615 656
+1216 1039 966 926 902 761 620 675
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1147 977 775 711 754 642 518 532
+1042 882 821 783 751 650 522 561
+39 34 23 27 23 26 13 28
+32 30 22 33 24 16 12 26
+129 139 110 85 98 91 72 80
+129 116 111 99 113 82 73 79
+18 11 10 11 11 10 12 16
+13 11 12 11 14 13 13 9
+453 388 333 291 317 233 180 223
+263 202 203 175 206 177 170 143
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+382 329 279 259 261 190 145 192
+225 172 174 146 179 142 137 125
+16 11 25 6 8 8 11 7
+9 11 11 4 8 11 10 1
+53 44 26 23 43 32 19 24
+25 16 17 22 18 20 21 14
+2 4 3 3 5 3 5 0
+4 3 1 3 1 4 2 3
+2465 2408 2226 2045 2320 2194 1993 2020
+2067 1986 1927 1750 1857 1799 1700 1619
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1827 1714 1603 1420 1644 1565 1452 1428
+1567 1451 1455 1279 1369 1306 1247 1210
+419 451 414 410 446 415 345 353
+342 342 300 304 327 317 283 245
+167 191 159 170 173 151 138 181
+113 151 130 125 115 119 131 126
+52 52 50 45 57 63 58 58
+45 42 42 42 46 57 39 38
+621 695 554 544 499 446 424 420
+642 665 582 551 461 442 402 398
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+503 579 470 451 392 373 333 336
+526 554 489 451 375 363 316 317
+24 30 15 16 26 12 16 21
+25 29 15 18 18 13 21 20
+84 81 62 70 69 55 70 61
+85 73 69 73 60 61 60 58
+10 5 7 7 12 6 5 2
+6 9 9 9 8 5 5 3
+5671 5561 5690 5634 5745 5778 5686 5806
+5664 5523 5649 5635 5754 5751 5705 5758
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5149 5026 5071 4983 5011 4982 4871 4891
+5138 4970 5035 4974 5019 4955 4886 4871
+45 48 64 65 77 80 80 98
+48 53 66 68 79 81 83 95
+364 366 420 436 479 518 535 591
+367 378 419 441 480 520 539 571
+113 121 135 150 178 198 200 226
+111 122 129 152 176 195 197 221
+12568 12538 12465 12460 12514 12400 12371 12276
+12568 12538 12465 12460 12514 12400 12371 12276
+12568 12538 12465 12460 12514 12400 12371 12276
+12568 12538 12465 12460 12514 12400 12371 12276
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+4051 4180 4102 4414 4461 4606 4752 4845
+4297 4259 4681 4865 4853 4977 5131 5032
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+3121 3132 3112 3329 3402 3529 3637 3649
+3041 2943 3243 3336 3389 3507 3586 3521
+259 307 249 274 273 287 307 330
+284 315 330 389 349 352 398 389
+465 503 476 537 530 528 548 585
+616 637 680 691 693 708 735 733
+206 238 265 274 256 262 260 281
+356 364 428 449 422 410 412 389;

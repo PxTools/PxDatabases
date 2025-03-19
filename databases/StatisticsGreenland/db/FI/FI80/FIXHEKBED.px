@@ -1,0 +1,87 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20180101 09:00";
+NEXT-UPDATE="20231117 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=2;
+SHOWDECIMALS=1;
+MATRIX="FIXHEKBED";
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries, Catch and agriculture";
+SUBJECT-AREA[da]="Fiskeri, fangst og landbrug";
+SUBJECT-AREA[kl]="Aalisarneq,piniarneq nunalerinerlu";
+COPYRIGHT=YES;
+DESCRIPTION="Agricultural area, number of farms and cheep by districts <em>[FIEHEKBED]</em>";
+DESCRIPTION[da]="Landbrugsareal, antal af bedrifter og får efter distrikter <em>[FIDHEKBED]</em>";
+DESCRIPTION[kl]="Narsaatit annertussusaat, uummasuutillit savallu amerlassusaat, immikkoortunut agguarlugit <em>[FINHEKBED]</em>";
+TITLE="Agricultural area, number of farms and cheep by districts by distrikt, arealant and year";
+TITLE[da]="Landbrugsareal og antal af bedrifter efter distrikter efter distrikt, antareal og aar";
+TITLE[kl]="Narsaatit annertussusaat, uummasuutillit savallu amerlassusaat, ukiukkaatunut immikkoortukkaartunullu kingorna immikkoortoq, angissuseq aamma ukioq";
+CONTENTS="Agricultural area, number of farms and cheep by districts";
+CONTENTS[da]="Landbrugsareal og antal af bedrifter efter distrikter";
+CONTENTS[kl]="Narsaatit annertussusaat, uummasuutillit savallu amerlassusaat, ukiukkaatunut immikkoortukkaartunullu";
+UNITS="number";
+UNITS[da]="antal";
+UNITS[kl]="qassiuneri";
+STUB="distrikt","arealant";
+STUB[da]="distrikt","antareal";
+STUB[kl]="immikkoortoq","angissuseq";
+HEADING="year";
+HEADING[da]="aar";
+HEADING[kl]="ukioq";
+VARIABLECODE("distrikt")="distrikt";
+VARIABLECODE[da]("distrikt")="distrikt";
+VARIABLECODE[kl]("immikkoortoq")="distrikt";
+VARIABLECODE("arealant")="arealant";
+VARIABLECODE[da]("antareal")="arealant";
+VARIABLECODE[kl]("angissuseq")="arealant";
+VARIABLECODE("year")="year";
+VARIABLECODE[da]("aar")="year";
+VARIABLECODE[kl]("ukioq")="year";
+VALUES("distrikt")="Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk";
+VALUES[da]("distrikt")="Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk";
+VALUES[kl]("immikkoortoq")="Nanortalik","Qaqortoq","Narsaq","Paamiut","Nuuk";
+VALUES("arealant")="Hectares","Farms","Sheep";
+VALUES[da]("antareal")="Hektar","Bedrifter","faar";
+VALUES[kl]("angissuseq")="Haktari","Uummasuutillit","savat";
+VALUES("year")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016",
+"2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("aar")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015",
+"2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("ukioq")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015",
+"2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("distrikt")=YES;
+ELIMINATION[da]("distrikt")=YES;
+ELIMINATION[kl]("immikkoortoq")=YES;
+ELIMINATION("arealant")=YES;
+ELIMINATION[da]("antareal")=YES;
+ELIMINATION[kl]("angissuseq")=YES;
+LAST-UPDATED="20240711 09:00";
+CONTACT="Bolatta Vahl, bova@stat.gl";
+CONTACT[da]="Bolatta Vahl, bova@stat.gl";
+CONTACT[kl]="Bolatta Vahl, bova@stat.gl";
+SOURCE="Agricultural Consulting Services";
+SOURCE[da]="Konsulenttjenesten for Landbrug";
+SOURCE[kl]="Nunalerinermik Siunnersorteqarfik";
+NOTE="1 hectare = 10,000 square meters";
+NOTE[da]="1 hektar svarer til 100 X 100 meter";
+NOTE[kl]="Haktari ataastsip assigaa kipparissoq 100 X 100 meteritut angissusilik";
+DATA=
+127.5 137.2 143.7 147.6 164.1 173.9 175 178 180.5 180 184.8 187.62 192 194 195 196 198 198 203 
+6 6 8 8 7 7 6 6 6 5 5 5 5 5 5 5 5 5 5 
+2471 2471 2497 2592 2457 2486 2379 2255 2144 1832 1634 1623 1665 1848 1686 1626 1563 1700 1585 
+134.8 136.4 138.9 144.4 149 150.2 152 153 153.5 154.4 154.1 154.85 155 157 160 161 164 164 165 
+14 13 12 11 12 12 11 10 9 8 8 8 8 8 8 8 8 7 7 
+4266 4266 4517 3880 4036 4187 4056 3828 3903 3769 3687 3924 3848 3812 3786 3776 3856 3558 3381 
+643.5 671.5 684.7 696.7 715 725 733 739 745.3 753.5 766.9 776.36 780 792 797 799 800 801 805 
+30 30 29 28 28 28 29 29 28 27 26 26 24 24 24 24 24 24 24 
+14060 13706 14189 13769 13738 13968 13721 13953 14947 13137 12180 12643 12272 12147 11918 12295 12354 11895 11920 
+0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 
+2 2 2 2 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 
+291 291 262 255 203 83 71 71 0 0 0 0 0 0 0 0 0 0 0 
+21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 21.1 
+2 2 2 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 
+229 229 239 3 5 5 5 0 0 0 0 0 0 405 395 408 409 361 382; 

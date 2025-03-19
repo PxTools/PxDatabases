@@ -1,0 +1,574 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230106 09:00";
+NEXT-UPDATE="20251205 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="ARXBFB08";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Main employment for permanent residents by time, industry and education <em>[AREBFB08]</em>";
+DESCRIPTION[da]="Hovedbeskæftigelse blandt fastboende fordelt på tid, branche og uddannels <em>[ARDBFB08]</em>";
+DESCRIPTION[kl]="Najugaqavissut akornanni pingaarnertut suliffillit, piffissaq, suliaqarfik ilinniagarlu malillugit <em>[ARNBFB08]</em>";
+TITLE="Main employment for permanent residents by industry, education and time";
+TITLE[da]="Hovedbeskæftigelse blandt fastboende efter branche, uddannelse og tid";
+TITLE[kl]="Najugaqavissut akornanni pingaarnertut suliffillit : inuussutissarsiornermi suliaqarfik, ilinniagaq , piffissaq";
+CONTENTS="Main employment for permanent residents";
+CONTENTS[da]="Hovedbeskæftigelse blandt fastboende";
+CONTENTS[kl]="Najugaqavissut akornanni pingaarnertut suliffillit";
+STUB="industry","education";
+STUB[da]="branche","uddannelse";
+STUB[kl]="inuussutissarsiornermi suliaqarfik","ilinniagaq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("industry")="All industries","Agriculture, forestry and related industries","Fishing and other related industries","Mining and quarrying","Manufacturing","Energy and watersupply","Construction","Wholesale and retail trade","Transportation and storage",
+"Accommodation and food service activities","Information and communication","Financial and insurance activities","Real estate activities","Professional, scientific and technical activities","Administrative and support service activities",
+"Public administration and service","General public services (COFOG 1)","Defence (COFOG 2)","Public order and safety (COFOG 3)","Economic affairs (COFOG 4)","Environmental protection (COFOG 5)","Housing and community amenities (COFOG 6)",
+"Health (COFOG 7)","Recreation, culture and religion (COFOG 8)","Education (COFOG 9)","Education other (COFOG 9.x)","Primary education (COFOG 9.10)","Youth-level education (COFOG 9.20)","Social protection (COFOG 10)","Social protection (COFOG 10.x)",
+"Old age (COFOG 10.20)","Family and children (COFOG 10.40)","Other (COFOG x)","Other service industries","Unknown";
+VALUES("education")="Total","Primary","Upper secondary education - General","Upper secondary education - Vocational: Total","Upper secondary education - Vocational: Arts and humanities","Upper secondary education - Vocational: Business, administration and law",
+"Upper secondary education - Vocational: Engineering, manufacturing and construction","Upper secondary education - Vocational: Agriculture, forestry, fisheries and veterinary","Upper secondary education - Vocational: Health and welfare",
+"Upper secondary education - Vocational: Services","Upper secondary education - Vocational: Other","Post-secondary non-tertiary education","Bachelors, Masters, Doctoral or equivalent level";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("branche")="Alle brancher","Landbrug, skovbrug og landbrugsrelateret industri og handel","Fiskeri og fiskerirelateret industri og handel","Råstofindvinding","Fremstillingsvirksomhed","Energi- og vandforsyning","Bygge- og anlægsvirksomhed",
+"Engroshandel og detailhandel","Transport og godshåndtering","Overnatningsfaciliteter og restaurationsvirksomhed","Information og kommunikation","Pengeinstitut og finansvirksomhed","Fast ejendom","Liberale, videnskabelige og tekniske tjenesteydelser",
+"Administrative tjenesteydelser og hjælpetjenester","Offentlig forvaltning og service","Generelle offentlige tjenester (COFOG 1)","Forsvar (COFOG 2)","Offentlig orden og sikkerhed (COFOG3)","Økonomiske anliggender (COFOG 4)","Miljøbeskyttelse (COFOG 5)",
+"Boliger og offentlige faciliteter (COFOG 6)","Sundhedsvæsen (COFOG 7)","Fritid, kultur og religion (COFOG 8)","Undervisning (COFOG 9)","Undervisning andet (COFOG 9.x)","Folkeskolen og lign. (COFOG 9.10)","Ungdomsuddannelsesniveau (COFOG 9.20)",
+"Social beskyttelse (COFOG 10)","Social beskyttelse (COFOG 10.x)","Alderdom (COFOG 10.20)","Familie og børne (COFOG 10.40)","Andet (COFOG x)","Øvrige serviceerhverv","Uoplyst";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("uddannelse")="Alle","Folkeskole","Gymnasieuddannelse","Erhvervsuddannelse: Samlet","Erhvervsuddannelse: Kunst og humaniora","Erhvervsuddannelse: Erhverv, administration og jura","Erhvervsuddannelse: Ingeniørvidenskab, produktion og konstruktion",
+"Erhvervsuddannelse: Landbrug, skovbrug, fiskeri og veterinær","Erhvervsuddannelse: Sundhed og velfærd","Erhvervsuddannelse: Servicesektor","Erhvervsuddannelse: Øvrige","Suppleringskursus","Videregående uddannelse";
+VALUES[kl]("ilinniagaq")="Katillugit","Meeqqat atuarfiat","Ilinniarnertuunngorniarneq","Inuussutissarsiornermik ilinniarneq: Katillugit","Inuuss. Ilinniarneq: Eqqumiitsuliorneq aamma humaniora","Inuuss. Ilinniarneq: Inuussutissarsiorneq, allaffissorneq inatsisilerinerlu",
+"Inuuss. Ilinniarneq: Ingeniørinngorniarneq, tunisassiorneq sanaartornerlu","Inuuss. Ilinniarneq: Nunalerineq, orpippassualerineq, aalisarneq uumasullu","Inuuss. Ilinniarneq: Peqqinneq atungarissaarnerlu",
+"Inuuss. Ilinniarneq: Kiffartuussinermi suliaqarfik","Inuuss. Ilinniarneq: Allat","Angusanik qaffassaaneq","Ingerlariaqqiffiusumik ilinniarneq";
+VALUES[kl]("inuussutissarsiornermi suliaqarfik")="Suliaqarfiit katillugit","Nunalerineq, orpippassualerineq nunalerinermilu tunisassiorneq niuernerlu","Aalisarneq aalisakkanillu tunisassiornermi niuerneq","Aatsitassarsiorneq","Nioqqutissiorneq","Nukissiuutinik imermillu pilersuineq",
+"Sanaartorneq sanaartortitsinerlu","Niuertunik pilersuineq atungassanillu nioqquteqarneq","Assartuineq assartugassalerinerlu","Akunnittarfiit neriniartarfiillu","Paasissutissalerineq attaveqaatilerinerlu","Aningaaseriviit aningaasaliisarfiillu",
+"Inissiaateqarneq","Namminersortunit, ilisimatusarnikkut teknikkikkullu suliaqartunit kiffartuussinerit","Allaffissornikkut kiffartuussinerit","Pisortat allaffissornerat kiffartuussinerallu","Pisortat nalinginnaasumik kiffartuussinerat (COFOG 1)",
+"Illersornissaq (COFOG 2)","Inuiaqatigiinni toqqissisimaneq isumannaassuserlu (COFOG 3)","Aningaasaqarnermut tunngasut (COFOG 4)","Avatangiisit innarlitsaaliorneqarnerat (COFOG 5)","Inissiat tamanillu orninneqarsinnaasut (COFOG 6)",
+"Peqqinnissaqarfik (COFOG 7)","Sunngiffik, kulturi upperisarlu (COFOG 8)","Ilinniartitsineq (COFOG 9)","Ilinniartitsineq allat (COFOG 9.x)","Meeqqat atuarfiat sanilliunneqarsinnaasullu (COFOG 9.10)",
+"Inuusuttut ilinniartitaanerata qaffasissusia (COFOG 9.20)","Inuiaqatigiit illersugaanerat (COFOG 10)","Inuiaqatigiit illersugaanerat (COFOG 10.x)","Utoqqalineq (COFOG 10.20)","Ilaqutariit meeqqallu (COFOG 10.40)","Allat (COFOG x)",
+"Kiffartuussilluni inuussutissarsiorfiit allat","Nalunaarsuuteqanngitsut";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("industry")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES("education")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("branche")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("uddannelse")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES[kl]("ilinniagaq")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES[kl]("inuussutissarsiornermi suliaqarfik")="AA","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","16","17";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+DOMAIN("industry")="VPBRCHE";
+DOMAIN[da]("branche")="VPBRCHD";
+DOMAIN[kl]("inuussutissarsiornermi suliaqarfik")="VPBRCHK";
+VARIABLECODE("industry")="branche";
+VARIABLECODE("education")="udd_grp";
+VARIABLECODE("time")="aar";
+VARIABLECODE("antal")="antal";
+VARIABLECODE[da]("antal")="antal";
+VARIABLECODE[da]("branche")="branche";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[da]("uddannelse")="udd_grp";
+VARIABLECODE[kl]("antal")="antal";
+VARIABLECODE[kl]("ilinniagaq")="udd_grp";
+VARIABLECODE[kl]("inuussutissarsiornermi suliaqarfik")="branche";
+VARIABLECODE[kl]("piffissaq")="aar";
+ELIMINATION("industry")="All industries";
+ELIMINATION("education")="Total";
+ELIMINATION[da]("branche")="Alle brancher";
+ELIMINATION[da]("uddannelse")="Alle";
+ELIMINATION[kl]("ilinniagaq")="Katillugit";
+ELIMINATION[kl]("inuussutissarsiornermi suliaqarfik")="Suliaqarfiit katillugit";
+LAST-UPDATED="20241206 09:00";
+LAST-UPDATED[da]="20241206 09:00";
+LAST-UPDATED[kl]="20241206 09:00";
+CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE("industry")="Note that the aggregate levels do not add up to the overall level.##COFOG at the start of a industry is a division of 'Public administration and service' into the 10 main COFOG groups and into a group 'Other'. For the Self-Government and the municipalit"
+"ies, the COFOG main groups are imputed from the payroll system based on the account string. Those for whom a main group could not be found are included in the group 'Other'. Industries with DB07 code 84.22.00 are placed in the main group 'Defence' and D"
+"B07 codes 84.23.00 and 84.24.00 are placed in the main group 'Public order and safety '. The rest who are in the industry 'Public administration and service' are included in the group 'Other'.";
+NOTE="The permanent resident population is defined as all citizens residing in the country at the beginning and end of the year, and who have turned 15 at the beginning of the month";
+NOTE[da]="Den fastboende befolkning defineres som alle borgere bosiddende i landet primo og ultimo året, og som primo måneden er fyldt 15 år";
+NOTE[da]("branche")="Bemærk at de aggregerede niveauer ikke summer til det overordnede niveau.##COFOG i starten af en branche er en opdeling af 'Offentlig forvaltning og service' i de 10 COFOG hovedgrupper og i en gruppe 'Andet'. For Selvstyret og kommunerne er COFOG hovedg"
+"rupperne imputeret fra lønsystemet på baggrunde af kontostrengen. Dem som der ikke kunne findes en hovedgruppe for, er er med i gruppen 'Andet'. Brancher med DB07 kode 84.22.00 placeres i hovedgruppen 'Forsvar' og DB07 koderne 84.23.00 og 84.24.00 place"
+"res i hovedgruppen 'Offentlig orden og sikkerhed'.  Resten som er i branchen 'Offentlig forvaltning og service' er med i gruppen 'Andet'.";
+NOTE[kl]="Innuttaasut najugaqavissut tassaapput Kalaallit Nunaanni ukiup aallartinnerani naaneranilu najugallit, qaammatillu aallartinnerani 15-inik ukioqalereersimasut";
+NOTE[kl]("inuussutissarsiornermi suliaqarfik")="Malugiuk qaffasissutsit ataatsimoortitat qaffasissutsimi annerpaami ataatsimut inernerinngimmata.##COFOG i starten af en branche er en opdeling af 'Offentlig forvaltning og service' i de 10 COFOG hovedgrupper og i en gruppe 'Andet'. For Selvstyret og ko"
+"mmunerne er COFOG hovedgrupperne imputeret fra lønsystemet på baggrunde af kontostrengen. Dem som der ikke kunne findes en hovedgruppe for, er er med i gruppen 'Andet'. Brancher med DB07 kode 84.22.00 placeres i hovedgruppen 'Forsvar' og DB07 koderne 84"
+".23.00 og 84.24.00 placeres i hovedgruppen 'Offentlig orden og sikkerhed'.  Resten som er i branchen 'Offentlig forvaltning og service' er med i gruppen 'Andet'.";
+DATA=
+27506 27856 28204 28492 28469 28900 29131 29339
+14634 14537 14573 14570 14240 14179 14216 14268
+1314 1406 1434 1517 1524 1570 1593 1628
+6462 6613 6763 6849 6914 7156 7223 7266
+174 179 173 182 184 193 193 194
+849 865 905 924 933 965 968 992
+2313 2333 2354 2372 2383 2452 2461 2448
+258 262 267 265 263 262 275 288
+1552 1602 1631 1650 1657 1696 1711 1729
+1235 1279 1331 1356 1393 1482 1498 1493
+83 94 102 100 100 107 116 121
+1082 1117 1137 1147 1167 1221 1227 1223
+4014 4183 4297 4408 4623 4774 4872 4954
+93 88 99 100 103 110 98 83
+53 55 64 64 62 69 63 49
+3 2 2 2 4 3 3 3
+33 27 28 29 32 33 28 27
+0 0 0 0 0 0 0 0
+3 1 1 1 2 2 2 1
+7 6 6 8 7 6 7 5
+19 16 15 15 16 16 14 15
+1 1 1 1 1 2 1 0
+4 4 4 5 7 7 5 6
+0 0 0 0 0 0 0 0
+2 2 2 1 1 0 1 0
+2 2 3 3 4 5 3 4
+4694 4594 4688 4725 4602 4362 4343 4517
+3774 3613 3619 3622 3475 3251 3234 3343
+70 88 100 104 109 100 94 108
+666 698 754 768 784 776 774 817
+8 8 10 10 10 8 7 7
+36 32 37 41 45 43 44 49
+206 220 237 243 244 233 239 253
+112 115 123 123 117 119 116 131
+24 25 26 25 30 31 30 32
+277 297 317 323 336 339 331 335
+2 1 3 3 3 3 8 10
+47 47 58 64 70 63 73 74
+138 148 158 168 164 172 167 175
+78 82 96 91 90 118 106 85
+29 32 40 36 35 42 38 25
+4 6 8 4 3 7 8 7
+17 14 18 22 26 39 35 24
+0 0 0 0 1 1 1 1
+1 0 1 1 1 2 2 0
+13 9 10 13 17 23 20 13
+1 0 0 0 0 0 0 0
+0 0 0 1 1 2 2 2
+3 4 7 7 7 10 10 8
+0 0 0 0 0 1 0 0
+3 5 4 3 3 6 3 3
+25 24 26 26 22 24 23 26
+224 224 201 207 213 224 229 231
+128 139 124 119 115 124 122 121
+9 7 6 6 8 14 18 16
+67 58 55 62 69 66 68 72
+5 5 4 5 5 5 6 5
+8 8 6 9 10 8 8 10
+40 34 34 37 41 40 39 43
+3 3 2 3 1 2 3 3
+2 1 1 1 3 2 2 3
+10 6 7 8 8 10 10 8
+0 0 0 0 0 0 0 0
+8 8 7 7 9 8 8 9
+11 12 10 13 13 12 12 14
+406 412 423 437 436 437 417 424
+192 193 196 196 200 188 173 173
+4 7 13 12 8 12 11 11
+120 120 122 132 129 127 129 135
+1 0 0 1 1 1 1 1
+5 6 5 7 6 7 6 5
+103 103 102 106 105 102 106 110
+3 3 4 5 3 3 2 2
+1 1 0 0 0 1 2 3
+6 6 9 11 13 11 10 11
+2 1 1 2 1 2 3 3
+16 18 16 14 16 18 19 15
+73 74 76 83 85 92 85 90
+1850 1873 1949 1949 2029 2296 2306 2239
+828 833 869 861 869 980 1005 993
+52 55 58 64 64 86 85 84
+844 853 875 881 930 1034 1012 973
+1 2 3 1 1 1 1 2
+22 27 24 28 29 35 31 30
+766 768 779 778 816 895 883 854
+14 16 19 20 22 20 20 18
+5 8 10 11 11 15 12 11
+34 31 37 40 50 67 61 50
+2 2 2 2 2 2 5 7
+30 37 41 38 47 49 47 39
+97 96 105 105 119 148 156 150
+2774 2815 2868 2912 2912 3021 3072 3055
+1705 1727 1754 1771 1739 1783 1818 1834
+215 220 220 235 249 258 245 232
+604 616 633 644 651 681 684 682
+13 9 8 12 12 11 11 10
+228 221 230 227 221 233 234 238
+227 238 237 237 248 249 249 248
+14 15 17 18 16 18 20 22
+38 41 47 46 44 52 53 54
+80 87 89 99 106 113 113 104
+5 6 6 4 5 5 6 5
+165 157 160 157 157 169 180 170
+84 94 101 106 116 130 144 137
+1815 1873 1941 2013 1979 1955 2041 2087
+836 846 871 894 869 854 862 849
+144 161 166 183 178 165 183 206
+560 581 616 631 615 617 661 682
+6 5 5 7 7 8 10 10
+49 50 65 65 57 56 61 60
+218 221 228 234 224 210 214 222
+21 22 22 19 18 16 22 24
+19 25 31 29 26 24 23 32
+238 247 252 263 269 287 314 313
+10 11 13 14 14 16 18 22
+97 102 101 105 106 103 108 108
+177 185 186 201 211 216 228 242
+668 712 747 718 661 778 833 903
+429 455 468 459 425 503 543 596
+70 88 98 78 70 81 90 92
+135 133 136 129 116 138 146 154
+3 5 5 3 3 5 4 5
+18 19 18 15 13 16 16 15
+32 32 30 35 27 30 32 30
+5 3 3 3 1 1 1 3
+7 8 8 10 8 10 15 20
+70 64 70 63 64 77 76 79
+0 2 2 1 0 2 2 2
+15 15 19 22 16 20 19 20
+19 20 25 30 34 36 37 40
+717 700 656 628 615 608 563 555
+218 204 184 174 165 148 136 132
+65 67 63 58 52 55 49 49
+229 222 202 191 193 198 180 165
+29 29 25 26 28 28 25 21
+48 51 43 35 36 40 33 34
+90 81 75 73 77 80 76 70
+2 2 1 1 1 1 1 1
+4 4 4 5 3 4 3 4
+17 17 12 11 11 8 9 6
+40 39 42 40 38 37 33 29
+35 39 41 41 38 38 34 34
+169 168 166 164 168 170 165 176
+170 172 168 185 202 199 201 208
+30 28 24 27 30 27 21 21
+7 6 5 9 13 12 9 8
+54 53 53 52 56 54 55 52
+0 0 0 0 0 0 0 0
+43 41 43 43 45 43 45 44
+7 7 6 6 6 8 6 5
+0 1 0 0 1 0 0 0
+2 2 2 2 2 2 1 1
+2 3 2 1 2 1 2 2
+0 0 0 0 0 0 0 0
+28 31 34 32 29 30 32 38
+52 53 53 65 74 78 84 88
+320 317 234 262 275 270 297 325
+108 116 90 100 109 104 116 129
+18 19 10 14 12 11 12 15
+107 105 69 79 78 77 81 89
+0 0 0 0 0 0 0 0
+26 23 24 20 21 19 19 17
+55 56 36 46 46 45 48 53
+4 5 2 2 2 2 2 2
+2 2 0 2 2 2 1 3
+17 17 5 6 5 6 8 10
+2 3 3 3 3 3 3 3
+30 25 18 23 23 25 29 29
+57 52 47 45 53 54 60 64
+241 265 261 262 267 290 299 298
+41 57 55 49 44 53 61 59
+11 13 14 15 15 14 14 17
+30 28 29 32 30 33 37 37
+2 5 6 5 2 2 2 1
+16 14 16 17 18 20 23 23
+5 6 4 6 6 7 7 6
+0 0 0 0 0 0 1 0
+2 2 2 0 0 1 1 2
+4 2 2 3 3 3 3 4
+0 0 0 0 0 0 0 0
+9 11 14 14 16 13 10 9
+149 156 150 153 162 177 177 177
+488 495 525 484 461 402 403 449
+331 309 297 263 263 222 218 247
+31 37 35 29 25 23 34 38
+92 103 127 125 115 105 96 100
+4 4 6 4 3 3 3 3
+15 19 20 18 19 15 12 11
+36 44 57 54 48 45 42 42
+2 3 2 3 6 4 1 2
+6 7 9 9 8 10 7 9
+26 25 32 36 29 27 30 32
+1 1 1 2 2 1 1 1
+12 17 24 22 19 18 14 17
+23 30 42 44 38 34 41 46
+11942 12206 12322 12531 12748 12903 12861 12730
+5482 5498 5498 5551 5499 5492 5390 5239
+540 562 563 619 644 657 646 644
+2640 2723 2760 2804 2860 2929 2960 2963
+80 84 83 90 92 98 95 98
+299 327 343 372 390 408 410 428
+385 375 376 367 370 358 361 356
+53 54 49 46 55 58 66 58
+1427 1463 1472 1491 1503 1521 1541 1531
+380 395 412 410 421 451 451 457
+17 24 26 28 29 34 36 36
+548 562 562 565 581 617 611 617
+2731 2860 2939 2993 3165 3208 3253 3267
+1321 1401 1386 1405 1278 1303 1299 1270
+471 479 460 458 419 419 405 375
+53 64 53 59 52 48 44 43
+253 270 270 287 262 271 276 277
+29 26 23 23 19 24 21 16
+128 143 138 152 149 150 150 159
+28 29 35 34 25 21 21 20
+3 3 2 2 4 4 5 1
+39 45 42 44 37 40 44 49
+18 14 20 19 17 19 21 17
+9 11 10 12 9 13 14 15
+194 204 195 201 182 195 196 193
+350 384 407 400 363 371 378 383
+43 40 41 42 51 51 55 48
+15 14 11 9 7 7 8 6
+2 2 2 2 4 5 5 5
+14 13 15 12 14 16 15 11
+0 0 0 0 0 0 0 1
+4 3 2 2 2 2 3 2
+6 6 8 7 8 8 8 6
+0 0 0 0 0 0 0 0
+0 0 0 0 1 1 0 0
+4 4 5 3 4 5 5 2
+0 0 0 0 0 0 0 0
+0 0 0 0 1 2 1 1
+12 11 14 19 25 22 25 26
+475 469 459 483 514 529 506 521
+188 175 165 165 170 178 153 144
+57 54 44 51 52 51 47 47
+124 125 126 131 135 143 147 153
+5 5 5 6 5 7 6 7
+25 29 27 27 26 31 38 41
+38 39 37 38 38 37 37 40
+3 3 3 3 4 5 5 4
+16 13 15 17 16 15 12 13
+35 36 38 39 43 45 46 47
+1 1 0 2 3 3 3 3
+40 38 32 37 41 41 37 36
+66 76 92 99 117 117 122 141
+581 559 548 549 625 615 592 619
+341 318 310 317 345 347 327 327
+13 9 10 14 20 17 16 18
+79 83 81 78 93 99 101 113
+2 4 3 2 6 6 6 4
+12 10 10 8 12 15 9 11
+24 28 32 32 32 31 36 41
+4 4 3 2 4 5 6 5
+8 8 5 5 10 6 7 7
+28 29 28 29 29 34 36 42
+1 0 1 0 1 2 2 4
+23 23 20 16 19 18 15 18
+125 126 127 125 148 134 133 144
+199 212 216 221 250 266 272 264
+152 160 164 166 174 177 179 167
+1 3 3 3 2 4 4 9
+24 21 23 22 33 43 40 33
+0 0 0 1 1 2 2 2
+1 1 1 1 1 2 1 2
+13 10 10 10 16 18 16 15
+4 4 2 1 3 4 5 5
+0 1 3 3 3 4 4 2
+4 4 6 6 8 10 7 6
+1 1 1 0 1 2 3 2
+5 5 4 2 5 3 5 7
+18 22 21 27 37 40 44 48
+31 30 12 18 25 21 25 29
+3 5 3 2 3 2 2 2
+0 0 0 0 1 1 1 2
+3 6 0 2 2 0 1 1
+1 1 0 0 0 0 0 0
+0 0 0 2 2 0 1 1
+2 3 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+3 2 1 1 1 1 1 1
+22 17 8 13 17 17 21 23
+1271 1289 1286 1282 1299 1304 1295 1302
+409 395 387 385 355 358 336 342
+48 41 46 49 59 56 58 52
+416 434 434 426 437 446 454 471
+10 11 10 10 9 9 9 7
+26 28 28 27 27 28 29 37
+32 29 27 23 24 27 33 31
+3 5 3 4 4 3 5 4
+311 315 318 314 323 327 323 336
+34 45 47 46 48 49 54 55
+1 2 3 3 3 2 2 2
+58 55 54 56 54 55 63 61
+341 364 364 366 395 390 383 375
+313 333 336 342 351 361 358 359
+189 203 192 186 183 187 185 192
+22 24 24 27 24 28 28 26
+28 32 30 33 35 36 38 34
+3 5 6 7 3 4 4 4
+3 5 4 5 5 6 7 8
+11 9 9 12 13 12 11 7
+2 2 1 1 2 3 5 5
+5 6 4 3 6 3 5 5
+5 4 4 6 7 8 7 6
+0 1 1 0 0 0 0 0
+11 12 15 13 14 15 17 15
+63 62 76 82 95 95 90 92
+2524 2556 2556 2571 2599 2585 2585 2479
+847 820 810 815 799 764 754 715
+148 143 150 140 135 134 131 122
+333 328 342 353 371 380 382 370
+11 11 8 8 11 13 13 13
+47 50 56 64 70 77 78 82
+91 83 82 84 89 81 79 68
+9 9 8 10 9 9 7 8
+97 90 105 104 106 110 119 120
+74 79 75 72 75 82 76 71
+3 7 7 9 10 9 9 7
+93 99 113 111 104 113 112 115
+1104 1166 1142 1152 1190 1194 1206 1159
+341 331 376 379 307 311 295 291
+99 95 96 103 75 78 65 60
+23 20 25 24 21 15 13 12
+72 66 75 64 47 46 45 42
+1 2 2 2 3 3 2 2
+9 12 15 9 8 9 9 9
+12 10 9 10 9 9 10 10
+1 1 1 2 1 1 1 1
+26 20 28 22 11 12 11 9
+21 19 19 18 12 9 9 9
+1 2 3 2 3 3 3 3
+17 15 22 24 19 23 21 20
+131 136 158 165 145 150 151 157
+1549 1555 1524 1516 1566 1578 1611 1559
+557 534 526 519 525 499 504 488
+101 95 95 86 85 90 89 86
+119 117 122 127 148 158 162 161
+3 3 2 2 3 3 3 3
+11 8 10 14 16 19 19 19
+25 24 21 17 22 20 18 18
+4 4 5 6 6 5 4 4
+52 49 58 63 72 76 87 89
+23 26 24 19 25 32 28 27
+2 3 3 5 4 3 3 2
+33 34 31 29 24 29 31 34
+739 776 751 755 784 802 824 790
+633 669 656 676 726 697 680 629
+191 191 188 193 198 187 186 167
+23 29 30 31 29 29 29 23
+142 145 145 162 176 177 175 166
+7 6 5 5 6 7 8 9
+27 30 32 42 46 49 50 54
+53 49 51 57 58 53 51 41
+4 3 2 2 2 3 2 3
+19 21 20 20 23 22 22 22
+31 34 33 35 38 40 39 36
+1 2 2 2 3 3 4 2
+44 51 61 58 61 62 59 61
+234 254 232 232 261 243 231 212
+4483 4673 4739 4930 5079 5204 5199 5089
+2533 2639 2651 2772 2783 2810 2805 2720
+151 174 182 206 232 250 240 249
+1241 1282 1288 1319 1342 1359 1360 1337
+14 18 17 23 25 23 25 31
+37 41 55 61 76 78 76 68
+111 114 105 100 101 96 93 95
+21 22 22 20 23 23 27 25
+908 938 930 948 953 971 976 947
+149 146 156 165 162 166 161 169
+1 3 3 2 1 3 2 3
+91 102 104 105 137 145 135 133
+467 475 513 528 586 639 660 651
+1042 1088 1124 1200 1284 1342 1349 1317
+597 626 641 692 662 697 695 670
+28 32 33 39 46 47 56 57
+258 268 278 293 321 325 327 315
+5 7 7 9 11 10 11 12
+8 10 15 14 34 36 37 30
+38 39 34 34 32 28 25 24
+7 5 8 7 6 7 7 8
+174 174 182 195 205 211 213 205
+27 31 30 32 32 31 34 36
+0 2 2 2 1 1 0 0
+27 30 27 28 49 50 52 48
+132 132 145 149 206 224 220 228
+1249 1290 1257 1281 1306 1296 1298 1253
+814 840 807 844 862 832 832 804
+26 32 30 30 23 28 27 24
+362 367 370 362 372 384 381 370
+5 4 4 5 5 5 5 5
+7 9 11 12 15 14 13 11
+27 30 28 24 27 28 26 30
+8 7 4 6 8 7 9 8
+264 270 269 263 266 275 278 263
+51 47 54 52 51 55 49 52
+0 0 1 0 0 1 1 2
+25 26 24 21 31 33 28 31
+23 25 26 24 18 19 30 24
+2192 2294 2357 2449 2490 2566 2552 2519
+1122 1173 1202 1237 1259 1282 1279 1246
+97 110 119 137 163 175 156 168
+621 647 641 664 649 651 651 652
+5 7 7 9 9 8 9 15
+22 21 29 35 27 27 25 26
+46 46 42 41 43 41 42 41
+6 10 10 8 10 9 11 10
+471 494 480 490 482 486 485 479
+71 69 72 81 79 80 78 81
+0 1 1 0 0 1 1 1
+39 47 53 56 57 62 55 55
+312 318 343 355 362 396 410 399
+701 646 743 689 678 663 674 750
+335 290 345 277 262 245 235 249
+46 48 48 67 63 63 72 73
+127 130 151 142 137 137 146 164
+5 4 10 10 12 11 9 13
+17 17 23 23 19 20 19 19
+30 27 33 28 24 26 26 33
+4 3 3 2 3 2 2 2
+43 47 50 54 48 44 52 53
+29 32 33 25 29 34 39 43
+0 0 0 0 1 1 0 1
+29 22 24 23 25 29 30 38
+165 157 175 182 192 189 191 227
+308 320 320 336 305 306 317 330
+130 130 129 133 113 109 115 130
+34 35 35 39 34 34 43 39
+64 69 71 73 68 64 65 64
+12 13 9 10 10 9 13 11
+6 6 9 9 7 5 6 7
+15 16 19 21 19 19 18 19
+1 1 1 2 1 1 2 1
+3 4 4 5 5 4 3 4
+27 30 28 26 27 26 24 22
+0 0 1 0 0 0 0 0
+15 17 17 20 18 19 13 13
+65 69 68 71 71 80 81 84
+721 709 709 653 569 623 747 822
+319 302 294 251 229 232 302 329
+37 33 40 45 36 41 50 59
+200 211 215 198 162 185 211 229
+10 11 9 9 10 12 14 18
+25 21 21 17 15 14 17 18
+108 117 117 110 83 103 115 119
+3 4 7 4 2 1 5 5
+10 9 14 12 11 13 17 21
+42 45 45 45 37 40 41 45
+2 4 2 1 3 2 3 3
+22 22 18 21 18 26 27 30
+143 141 142 138 123 139 158 176
+;

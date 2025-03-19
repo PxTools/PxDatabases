@@ -1,0 +1,417 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20181005 09:00";
+NEXT-UPDATE="20250624 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="OFXOA5";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="OF";
+SUBJECT-AREA="Public finances";
+SUBJECT-AREA[da]="Offenlig finanser";
+SUBJECT-AREA[kl]="Pisortat aningaasaataat";
+COPYRIGHT=YES;
+DESCRIPTION="Public employees by sector, collective agreement groups (2015-2023) <em>[OFEOA5]</em>";
+DESCRIPTION[da]="Offentligt ansatte efter sektor, overenskomstgrupperinger (2015-2023) <em>[OFDOA5]</em>";
+DESCRIPTION[kl]="Pisortani atorfillit ingerlataqarfik, gruppit isumaqatigiissuteqarfiusut (2015-2023) <em>[OFNOA5]</em>";
+TITLE="Public employees by sector, collective agreement groups, time and inventory variable";
+TITLE[da]="Offentligt ansatte efter sektor, overenskomstgrupperinger, tid og opgørelsesvariabel";
+TITLE[kl]="Pisortani atorfillit : ingerlataqarfik, gruppit isumaqatigiissuteqarfiusut, piffissaq , naatsorsuinermi allanngorarneq";
+CONTENTS="Public employees";
+CONTENTS[da]="Offentligt ansatte";
+CONTENTS[kl]="Pisortani atorfillit";
+UNITS="Number";
+UNITS[da]="Antal";
+UNITS[kl]="Amerlassusaat";
+STUB="sector","collective agreement groups";
+STUB[da]="sektor","overenskomstgrupperinger";
+STUB[kl]="ingerlataqarfik","gruppit isumaqatigiissuteqarfiusut";
+HEADING="time","inventory variable";
+HEADING[da]="tid","opgørelsesvariabel";
+HEADING[kl]="piffissaq","naatsorsuinermi allanngorarneq";
+VALUES("sector")="Total","Self-Goverment","Municipalities","Kommune Kujalleq",
+"Kommuneqarfik Sermersooq","Qeqqata Kommunia","Qaasuitsup Kommunia","Kommune Qeqertalik",
+"Avannaata Kommunia";
+VALUES[da]("sektor")="I alt","Selvstyret","Kommuner","Kommune Kujalleq","Kommuneqarfik Sermersooq",
+"Qeqqata Kommunia","Qaasuitsup Kommunia","Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[kl]("ingerlataqarfik")="Tamakkerlugit","Namminersorlutik Oqartussat","Kommunit",
+"Kommune Kujalleq","Kommuneqarfik Sermersooq","Qeqqata Kommunia","Qaasuitsup Kommunia",
+"Kommune Qeqertalik","Avannaata Kommunia";
+VALUES("collective agreement groups")="Total","0 Individuel salary etc.",
+"10 Public servant status or similar status","20 ASG/AK Liberians and subject teachers etc.",
+"21 PPK/ASG Matrons etc.","22 AK Prevention consultants and social workers",
+"23 PPK/AK Healthcare areas and municipal public servant status",
+"24 ASG Subject teachers and similar to public servant status","31 SIK HK Hourly workers",
+"32 SIK Catechists, childcarers, nursery assistants, hourly workers, etc.",
+"33 SIK Healthcare assistants etc.","34 SIK Child-minders, janitors, etc.",
+"35 SIK Foodstuffs helper, nursing mothers, etc.","36 SIK Healthcare areas",
+"42 Upper secondary school teachers",
+"44 Adm. managers, architects, librarians, engineers, lawyers and economists MA, M.Sc.",
+"45 Doctors/physicians and psychologists","46 Dentists","50 IMAK/NPK Teachers and nursery teachers",
+"51 Foremen, operating engineers etc.","52 AK Clerk and journalists",
+"54 HK/PPK Clerks, healthcare areas","55 Marine engineers",
+"56 Building Professionals, technicians",
+"58 Laboratory technicians, occupational therapists, physiotherapists, midwives, assistant matrons",
+"59 Healthcare assistents and nurses",
+"71 Medical secretary-interns, merit-healthcare assistants and other interns etc.",
+"72 Typographical","78 Fire brigade and volunteers","80 Individual salary NPK AK ASG IMAK PPK etc.";
+VALUES[da]("overenskomstgrupperinger")="Alle","0 Individuel løn mv.",
+"10 Tjenestemænd og tjenestemands lign.","20 ASG/AK Bibliotekarer og faglærer etc.",
+"21 PPK/ASG Oldfruer mv.","22 AK Forebyggelseskonsulenter og socialrådgiver",
+"23 PPK/AK Sundhedsområde og kommunalt tjenestemandslign.","24 ASG Faglærere og tjenestemandslign.",
+"31 SIK HK timelønnede mv.","32 SIK Kateketer, barnehjælpere, pædagogmedhjælper, timelønnede mv.",
+"33 SIK Sundhedshjælpere mv.","34 SIK Dagplejere, varmemestre mv.",
+"35 SIK Levnedsmiddel, plejemødre, mv.","36 SIK Sundhedsområde mv.","42 Gymnasielærer",
+"44 Adm. chefer, arkitekter, bibliotekarer, ingeniører, DJØFér og magistre",
+"45 Læger og psykologer","46 Tandlæger","50 IMAK/NPK Lærer og pædagoger",
+"51 Arbejdsledere, driftsteknikere mv.","52 AK Funktionærer, journalister mv.",
+"54 HK/PPK Funktionærer, sundhedsområde","55 Maskinmestre","56 Bygningskonstruktører, teknikere",
+"58 Bioanalytikere, ergoterap., fysioterap., jordmødre, økonomaass.",
+"59 Sundhedsassistent, sygeplejersker",
+"71 Lægesekretærelever, merit-sundhedsass., andre elever mv.","72 Typografisk",
+"78 Brandkorps og volontører","80 Individuel løn NPK AK ASG IMAK PPK SIK mv.";
+VALUES[kl]("gruppit isumaqatigiissuteqarfiusut")="Tamakkerlugit",
+"0 Inuit ataasiakkaat isumaqatigiissutaat malillugu akissarsiallit il.il.",
+"10 Tjenestemandit aamma tjenestemandslignende",
+"20 ASG/AK Atuakkanik atorniartitsisut faglærerillu il.il.","21 PPK/ASG Oldfruit allallu",
+"22 AK Pitsaaliuinermi siunnersortit isumaginninnermilu siunnersorti",
+"23 PPK/AK Peqqinnissaqarfimmi kommuninilu tjenestemandit aamma tjenestemandslignende",
+"24 ASG Faglærerit aamma tjenestemandslignende","31 SIK HK Akunnermusiallit il.il.",
+"32 SIK Ajoqit, meeqqanut ikiortit, pædagoginut ikiortit, akunnermusilallit il.il.",
+"33 SIK Peqqinnissamut ikiortit il.il.",
+"34 SIK Ullukkut paaqqinnittartut, kiassaateqarfinni pisortat il.il.",
+"35 SIK Inuussutissalerineq, anaanarsiat, il.il.","36 SIK Peqqinnissaqarfik il.il.",
+"42 Ilinniarnertuunngorniarfinnii ilinniartitsisut",
+"44 Allaffinni pisortat,illussanik titartaasartut, atuakkanik atorniartitsisut, ingeniørit, DJØF-it magisterillu",
+"45 Nakorsat tarnillu pissusaanik ilisimasallit","46 Kigutilerisut",
+"50 IMAK/NPK Ilinniartitsisut pædagogillu",
+"51 Sulisut ingerlatsisui, ingerlatsinermi teknikerit il.il.",
+"52 AK Atorfillit, tusagassiortut il.il.","54 HK/PPK Atorfillit, peqqinnissaqarfimmi",
+"55 Maskinmesterit","56 Bygningskonstruktørerit, teknikerit",
+"58 Bioanalytikerit, pillorissaasut, fysioterapiutit., ernisussiortut, økonomap ikiortai",
+"59 Sundhedsassistentit, peqqissaasut",
+"71 Nakorsap allattuisut ilinniartut, merit-sundhedsass-tit., ilinniartut allat il.il.",
+"72 Naqitigassanik ilioqqaanermik suliaqartut",
+"78 Qatserisartut sungiusaatigalugulu sulisut",
+"80 Inuit ataasiakkat isumaqatigiissutaat malillugu akissarsiallit NPK AK ASG IMAK PPK SIK il.il.";
+VALUES("time")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("inventory variable")="Full-time employees","Employees";
+VALUES[da]("opgørelsesvariabel")="Fuldtidsbeskæftigede","Ansatte";
+VALUES[kl]("naatsorsuinermi allanngorarneq")="Piffissaq tamakkerlugu sulisut","Atorfillit";
+TIMEVAL("time")=TLIST(A1),"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("sector")="A","S","K","1","2","3","4","5","6";
+CODES[da]("sektor")="A","S","K","1","2","3","4","5","6";
+CODES[kl]("ingerlataqarfik")="A","S","K","1","2","3","4","5","6";
+CODES("collective agreement groups")="AA","00","10","20","21","22","23","24","31","32","33","34",
+"35","36","42","44","45","46","50","51","52","54","55","56","58","59","71","72","78","80";
+CODES[da]("overenskomstgrupperinger")="AA","00","10","20","21","22","23","24","31","32","33","34",
+"35","36","42","44","45","46","50","51","52","54","55","56","58","59","71","72","78","80";
+CODES[kl]("gruppit isumaqatigiissuteqarfiusut")="AA","00","10","20","21","22","23","24","31","32",
+"33","34","35","36","42","44","45","46","50","51","52","54","55","56","58","59","71","72","78","80";
+CODES("time")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("tid")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("inventory variable")="F","A";
+CODES[da]("opgørelsesvariabel")="F","A";
+CODES[kl]("naatsorsuinermi allanngorarneq")="F","A";
+ELIMINATION("sector")="Total";
+ELIMINATION[da]("sektor")="I alt";
+ELIMINATION[kl]("ingerlataqarfik")="Tamakkerlugit";
+ELIMINATION("collective agreement groups")="Total";
+ELIMINATION[da]("overenskomstgrupperinger")="Alle";
+ELIMINATION[kl]("gruppit isumaqatigiissuteqarfiusut")="Tamakkerlugit";
+ELIMINATION("inventory variable")="Full-time employees";
+ELIMINATION[da]("opgørelsesvariabel")="Fuldtidsbeskæftigede";
+ELIMINATION[kl]("naatsorsuinermi allanngorarneq")="Piffissaq tamakkerlugu sulisut";
+LAST-UPDATED="20240624 09:00";
+CONTACT="Gorm N. Pedersen gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE("inventory variable")="The variable full-time employees are an equivalent calculation. The sum of the lower levels does not necessarily add up to the upper levels due to rounding.The variable employees are a count of single individual persons. The "
+"variable does not necessarily add up to the higher levels,as one person with employment in two areas only counts as one unique person at the aggregated level.";
+NOTE[da]("opgørelsesvariabel")="Variablen fuldtidsansatte er en ækvivaleret beregning, summen for de nedre niveauer stemmer ikke nødvendigvis med det øverste niveau pga. afrunding.Variablen ansatte er en optælling af enkelte personer, variablen kan ikke "
+"aggregeres til de højere niveauer,fordi en person kun bliver talt med en gang på de aggregerede niveauer.";
+NOTE[kl]("naatsorsuinermi allanngorarneq")="Piffissaq tamakkerlugu sulisut allanngorarnerat naleqqatigiissitatut naatsorsugaavoq, appasinnerusut inaarnerat akunnaalliliineq peqqutigalugu imaanngilaq qaffasinnerusumik inissisimasut assigissagaat.Atorfillit "
+"allanngorarnerat inunnut ataasiakkaanut naatsorsugaavoq, allanngorarnera naatsorsukkanut qaffasinerusunut naatsorsorneqarsinnaanngilaq,tassani peqqutaavoq inuk ataaseq ataasiaannarluni qaffasinnerusunut naatsorsugaasarmat";
+DATA=
+10171 18161 10254 18251 10536 18428 10699 18517 10872 18976 11066 18691 11279 18909 11224 18990 11212 19023
+51 106 42 87 42 93 49 104 42 92 51 91 49 93 48 85 51 110
+612 633 559 572 509 525 461 483 407 432 367 387 332 354 298 316 258 279
+40 44 35 42 33 40 31 35 22 25 15 16 10 14 8 9 6 8
+10 12 9 11 9 13 9 9 12 15 14 17 15 23 20 23 18 27
+132 166 146 189 164 192 191 227 218 272 236 300 253 300 271 323 271 324
+3 3 3 3 2 2 2 2 2 2 1 1 1 1 0 0 0 0
+10 14 10 14 13 17 12 14 11 12 10 11 9 11 9 11 9 13
+804 1029 796 1059 781 1025 764 1021 742 1045 710 964 680 929 638 890 637 876
+3639 10657 3658 10528 3787 10662 3814 10521 3841 10927 3871 10557 3956 10538 3901 10650 3907 10605
+164 264 172 267 194 290 225 319 230 352 227 336 244 379 269 414 293 431
+169 293 154 303 160 287 166 313 178 364 181 380 174 368 160 307 142 260
+213 311 215 300 223 290 225 311 223 316 220 302 222 310 226 314 227 329
+578 789 570 802 564 767 540 765 598 819 634 876 667 915 677 935 671 987
+108 144 117 151 122 146 123 154 123 172 123 146 118 151 111 135 98 125
+617 751 655 783 688 833 729 879 746 948 797 975 812 995 827 1021 839 1009
+144 325 156 374 166 383 168 396 168 430 172 404 191 472 197 489 206 554
+34 50 34 55 33 57 32 61 30 56 31 57 31 56 30 54 30 59
+1356 1657 1383 1673 1411 1693 1441 1778 1469 1801 1516 1775 1562 1850 1596 1858 1585 1835
+95 207 98 214 102 209 96 229 102 265 110 262 107 253 105 273 102 289
+568 689 598 729 676 814 744 939 820 1061 857 1069 895 1137 921 1154 955 1173
+11 12 8 9 6 6 5 5 5 5 1 3 1 1 1 1 1 1
+3 3 4 5 4 5 5 6 6 7 7 8 5 6 2 3 1 3
+55 68 50 61 48 54 40 53 38 45 41 47 36 47 31 36 33 45
+104 170 113 181 119 191 126 199 131 198 135 203 141 202 135 225 136 251
+573 900 585 939 597 910 610 937 616 1001 646 1046 679 1104 661 1135 652 1178
+15 25 21 36 17 26 23 36 31 50 27 44 29 44 28 47 28 51
+3 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1
+11 61 14 101 21 126 28 176 22 160 23 147 20 150 19 156 21 140
+48 58 48 59 43 55 39 49 38 52 40 54 38 54 34 44 35 45
+3835 7089 3920 7288 3974 7260 4018 7368 4065 7537 4130 7444 4176 7576 4126 7706 4175 7949
+22 40 17 31 15 29 14 26 10 18 10 15 13 20 19 24 32 72
+200 211 189 191 165 177 145 157 132 140 124 129 113 121 99 105 83 94
+7 8 6 7 5 6 5 6 5 5 0 0 0 0 0 0 0 0
+10 12 9 11 9 13 9 9 12 15 14 17 15 23 20 23 18 27
+19 30 20 32 19 31 23 34 25 35 30 45 31 43 33 47 30 43
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+10 13 10 14 13 17 12 14 11 12 10 11 9 11 9 11 9 13
+301 400 305 436 297 415 306 428 292 438 281 398 278 398 253 384 243 375
+836 3062 838 3052 834 3009 820 2942 826 3012 816 2950 827 2892 815 2960 853 3049
+43 85 47 87 53 94 55 96 58 111 55 98 53 117 59 135 63 138
+28 33 26 31 26 37 28 58 31 70 32 60 31 60 30 61 30 52
+70 109 69 100 73 110 73 109 75 107 75 108 77 124 80 134 80 129
+297 461 295 466 295 454 280 440 301 447 312 466 312 466 315 487 318 516
+108 144 117 151 122 146 123 154 123 172 123 146 118 151 111 135 98 125
+485 585 512 612 535 653 553 656 553 707 584 712 583 714 592 724 593 714
+137 317 148 365 155 371 158 384 161 421 166 395 183 463 187 478 198 543
+34 50 34 55 33 57 32 61 30 56 31 57 31 56 30 54 30 59
+198 249 203 246 204 231 207 257 208 255 207 247 208 239 200 233 205 245
+40 96 41 84 40 80 37 89 38 107 39 110 36 90 35 95 36 106
+325 382 350 429 387 463 424 521 456 585 464 564 473 593 485 618 499 612
+9 10 7 8 5 5 4 4 4 4 1 2 0 0 0 0 0 0
+2 2 3 3 3 3 3 4 3 4 4 5 3 5 2 2 1 3
+13 19 12 17 12 12 11 13 11 13 13 14 10 15 9 11 11 14
+91 152 101 163 104 170 112 182 114 178 118 178 124 182 119 204 121 232
+482 811 489 840 499 812 511 850 513 899 543 945 570 1004 553 1034 551 1084
+12 21 18 32 16 25 17 28 24 40 23 35 25 39 25 41 24 41
+3 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1
+8 49 11 88 18 118 22 148 13 119 16 107 14 116 14 128 15 112
+43 53 43 53 37 49 34 43 34 47 36 48 35 49 32 42 33 43
+6335 12750 6334 12631 6562 12866 6681 12960 6806 13254 6937 13005 7103 13123 7098 13147 7036 13051
+29 66 25 56 27 64 35 78 33 74 41 76 36 73 29 61 19 38
+411 427 370 384 344 351 316 337 275 295 243 261 219 235 198 211 175 187
+33 36 29 35 28 34 26 29 17 20 15 16 10 14 8 9 6 8
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+114 138 126 160 146 164 168 197 193 239 207 266 222 262 238 285 241 288
+2 2 2 2 2 2 2 2 2 2 1 1 1 1 0 0 0 0
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+503 650 490 649 484 632 458 625 450 635 429 587 402 565 385 545 394 545
+2803 8761 2820 8569 2953 8806 2994 8765 3015 9126 3055 8799 3129 8828 3087 8926 3054 8877
+120 199 125 207 142 230 169 255 172 268 172 259 190 300 210 321 230 334
+141 261 129 273 134 251 139 255 147 294 148 322 143 310 130 246 112 209
+143 213 145 220 149 208 152 221 148 224 145 215 145 217 146 217 147 231
+280 334 275 345 269 316 261 329 296 375 321 417 355 459 362 461 353 476
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+132 176 143 178 153 189 176 231 193 252 213 272 229 294 235 311 245 301
+7 9 8 9 11 13 10 13 7 11 6 11 7 13 9 12 9 11
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1158 1441 1181 1458 1207 1490 1234 1569 1261 1579 1309 1555 1354 1641 1396 1646 1380 1624
+55 122 57 141 62 141 59 151 64 171 71 174 72 183 70 197 67 205
+243 313 248 308 290 360 321 427 364 490 393 515 422 558 436 554 456 573
+2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 2 1 2 2 2 3 3 3 3 1 2 1 1 0 0
+42 49 39 46 36 42 29 40 27 32 29 33 26 32 22 26 22 31
+13 19 13 19 15 22 13 17 16 20 17 26 16 22 16 21 15 20
+92 118 96 132 98 135 99 137 103 155 103 138 109 155 108 148 101 141
+3 4 2 4 1 1 6 8 6 10 4 9 4 5 4 6 4 10
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+3 13 3 14 3 11 6 31 10 44 8 44 7 40 5 30 5 28
+5 5 5 6 6 6 5 6 4 5 4 6 3 5 2 2 2 2
+831 1792 809 1798 867 1859 880 1862 883 1757 886 1751 889 1757 885 1783 926 1907
+8 28 3 15 5 17 5 7 5 10 5 13 4 10 2 13 2 15
+51 56 46 50 47 47 46 51 40 46 36 43 30 32 27 27 24 27
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12 18 17 29 25 33 29 37 30 39 27 37 31 37 30 36 31 38
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+80 109 70 98 68 92 66 97 65 90 66 89 65 90 65 97 69 98
+387 1254 370 1245 404 1301 397 1292 388 1181 381 1172 363 1178 371 1224 410 1362
+14 26 15 30 21 35 23 36 23 35 19 29 23 36 23 35 22 37
+8 8 6 8 6 8 6 11 9 13 9 13 10 13 9 10 10 16
+26 41 28 39 29 41 29 44 29 39 28 39 29 40 26 37 25 39
+29 34 29 41 28 37 42 65 51 73 50 70 57 76 57 66 48 67
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+17 21 20 22 22 26 25 31 25 32 25 29 24 35 26 36 28 34
+1 1 1 1 2 5 2 4 2 3 2 4 2 3 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+139 207 141 207 138 191 134 200 138 209 154 212 162 227 163 215 166 226
+4 10 4 10 4 9 3 7 4 12 6 13 7 16 5 19 5 16
+28 43 30 38 44 53 45 58 49 60 54 67 60 74 59 74 64 79
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0
+6 7 6 6 7 8 7 7 6 7 5 6 6 7 4 5 4 7
+4 5 5 5 5 6 3 4 5 5 6 8 5 6 4 4 4 5
+15 20 17 22 13 17 15 16 13 18 11 14 12 17 13 19 15 20
+0 1 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2203 4331 2242 4386 2289 4329 2307 4392 2376 4561 2360 4297 2416 4333 2433 4413 2472 4475
+16 24 18 27 19 30 24 50 24 46 31 47 28 45 22 36 16 19
+156 166 134 142 121 128 109 120 95 103 82 88 76 81 72 74 66 71
+17 20 14 20 14 20 15 18 7 10 5 6 4 5 3 4 1 3
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+47 63 59 78 68 76 69 84 76 97 81 112 88 108 90 115 91 111
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+164 226 162 221 153 221 137 193 135 195 118 174 105 161 103 156 109 163
+911 2838 934 2833 942 2747 935 2745 938 2896 896 2598 918 2581 933 2709 965 2777
+47 92 52 95 63 104 81 126 81 125 82 130 86 138 87 137 95 143
+36 40 34 42 34 40 33 40 30 37 29 37 25 36 26 32 23 29
+50 76 51 84 48 77 49 76 49 82 52 89 48 84 50 87 57 92
+97 117 95 118 93 118 85 112 96 124 109 138 121 157 119 154 125 172
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+58 82 65 86 71 94 75 106 81 105 90 114 94 123 98 132 100 128
+2 2 3 4 5 5 5 6 3 4 2 4 3 5 5 6 5 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+408 496 427 534 441 561 447 580 472 586 477 579 501 610 519 624 515 610
+25 65 27 72 30 73 29 77 28 73 35 80 36 82 33 80 31 100
+94 124 94 115 109 143 134 182 166 227 180 241 189 257 186 247 194 247
+2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0
+13 15 8 10 7 9 6 7 7 12 10 11 9 11 7 8 8 10
+8 11 8 13 10 14 10 13 11 15 11 17 11 14 11 16 10 12
+49 67 53 83 57 88 52 84 59 97 59 84 62 93 58 81 53 76
+0 0 0 0 0 0 6 8 5 8 3 7 4 5 4 6 2 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 12 3 11 3 9 5 27 9 35 7 35 6 35 5 29 5 25
+1 1 1 2 1 1 1 1 1 1 1 1 1 3 0 0 0 0
+1094 2092 1079 2117 1116 2157 1141 2241 1153 2261 1188 2242 1228 2197 1192 2276 1165 2231
+2 8 2 9 2 12 2 13 2 8 2 7 2 11 2 7 1 2
+70 74 64 67 61 63 56 59 52 56 48 49 45 50 41 47 37 40
+5 5 4 4 3 4 3 3 3 3 3 3 3 3 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+26 29 26 34 26 30 33 38 33 47 38 50 37 44 39 42 44 51
+2 2 2 2 2 2 2 2 2 2 1 1 1 1 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+77 90 78 99 76 96 72 97 73 98 67 90 66 82 63 84 61 84
+494 1414 499 1448 525 1500 541 1539 541 1551 561 1523 592 1483 543 1553 522 1516
+20 38 18 32 19 33 20 33 20 40 26 35 35 52 48 66 58 78
+15 17 14 22 17 19 18 22 21 27 22 24 19 23 17 21 14 19
+17 28 16 23 19 24 19 32 17 31 16 28 13 25 12 21 14 27
+67 75 64 76 60 66 57 64 58 67 59 68 59 67 56 62 49 60
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+31 39 32 41 33 38 32 37 35 47 37 50 40 48 39 50 38 44
+1 2 1 1 0 0 0 0 0 0 0 0 1 2 3 3 3 3
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+202 244 196 228 199 233 208 252 212 250 220 263 221 268 228 268 219 258
+14 19 12 20 11 18 11 26 15 32 13 23 14 32 14 29 13 29
+32 44 33 53 44 66 48 78 50 82 53 69 55 75 58 80 65 88
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+5 5 5 6 5 5 4 6 4 4 4 5 4 5 5 5 6 6
+1 1 0 0 0 1 0 0 0 0 0 1 1 2 1 1 1 3
+8 10 9 10 10 13 10 12 12 22 14 21 18 25 20 29 17 23
+1 1 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 2 0 2 1 2 0 1 0 2 0 3 0 1 0 3
+3 3 3 3 3 3 3 3 2 3 2 3 2 2 2 2 2 2
+2207 4892 2204 4709 2290 4908 "." "." "." "." "." "." "." "." "." "." "." "."
+3 6 2 5 1 5 "." "." "." "." "." "." "." "." "." "." "." "."
+134 141 126 130 116 116 "." "." "." "." "." "." "." "." "." "." "." "."
+10 10 9 10 9 9 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+29 31 24 25 27 28 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+182 228 181 238 188 224 "." "." "." "." "." "." "." "." "." "." "." "."
+1011 3467 1018 3272 1082 3494 "." "." "." "." "." "." "." "." "." "." "." "."
+40 60 39 61 39 69 "." "." "." "." "." "." "." "." "." "." "." "."
+82 196 75 201 77 184 "." "." "." "." "." "." "." "." "." "." "." "."
+50 72 50 75 54 71 "." "." "." "." "." "." "." "." "." "." "." "."
+88 109 88 113 87 96 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+26 37 27 30 28 32 "." "." "." "." "." "." "." "." "." "." "." "."
+3 4 3 3 3 3 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+409 528 417 535 429 561 "." "." "." "." "." "." "." "." "." "." "." "."
+12 28 14 39 17 42 "." "." "." "." "." "." "." "." "." "." "." "."
+89 106 90 103 93 101 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+18 22 20 24 18 20 "." "." "." "." "." "." "." "." "." "." "." "."
+1 2 1 1 0 1 "." "." "." "." "." "." "." "." "." "." "." "."
+19 25 17 20 19 22 "." "." "." "." "." "." "." "." "." "." "." "."
+1 2 1 2 1 1 "." "." "." "." "." "." "." "." "." "." "." "."
+0 0 0 0 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+0 1 0 1 0 0 "." "." "." "." "." "." "." "." "." "." "." "."
+1 1 1 1 2 2 "." "." "." "." "." "." "." "." "." "." "." "."
+"." "." "." "." "." "." 951 1921 997 2104 1032 2063 1055 2070 1049 2058 959 1898
+"." "." "." "." "." "." 2 3 1 7 2 6 0 2 0 0 0 1
+"." "." "." "." "." "." 46 52 35 38 32 36 30 34 26 30 22 23
+"." "." "." "." "." "." 2 2 2 2 2 2 1 2 1 1 1 1
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 20 24 22 28 21 26 30 37 35 41 31 40
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 74 101 77 111 76 105 69 96 65 84 61 83
+"." "." "." "." "." "." 473 1358 490 1527 523 1484 524 1505 512 1489 449 1353
+"." "." "." "." "." "." 14 24 15 29 15 29 19 35 22 47 27 45
+"." "." "." "." "." "." 36 64 41 100 42 106 40 83 34 67 30 57
+"." "." "." "." "." "." 26 32 26 37 21 27 21 30 22 28 19 32
+"." "." "." "." "." "." 39 44 53 62 56 66 63 75 67 76 59 73
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 19 28 25 33 27 38 31 41 32 47 38 49
+"." "." "." "." "." "." 0 0 0 1 1 1 0 0 0 0 0 1
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 149 202 153 212 154 211 162 206 164 215 157 198
+"." "." "." "." "." "." 4 14 5 13 5 17 5 18 6 28 6 16
+"." "." "." "." "." "." 30 43 36 45 42 60 50 66 54 64 50 64
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 5 5 4 4 4 4 2 3 2 2 2 2
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 11 14 9 13 9 12 6 9 7 10 6 10
+"." "." "." "." "." "." 0 0 1 1 0 1 0 0 0 0 0 1
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 0 1 1 7 0 6 0 2 0 0 0 0
+"." "." "." "." "." "." 1 1 1 1 1 2 0 0 0 0 0 0
+"." "." "." "." "." "." 1402 3052 1398 3178 1470 3208 1515 3277 1538 3178 1514 3071
+"." "." "." "." "." "." 2 5 1 3 1 3 2 5 2 6 0 1
+"." "." "." "." "." "." 59 61 52 55 46 50 38 43 32 35 27 30
+"." "." "." "." "." "." 5 5 5 5 5 5 3 4 2 2 2 2
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 17 19 31 41 39 52 35 45 44 61 45 57
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 109 140 99 145 101 136 97 142 90 129 93 123
+"." "." "." "." "." "." 647 2161 659 2362 695 2382 733 2413 728 2329 708 2232
+"." "." "." "." "." "." 30 50 33 50 30 45 27 54 30 56 26 53
+"." "." "." "." "." "." 46 118 46 118 47 142 50 155 44 116 35 88
+"." "." "." "." "." "." 30 42 27 40 28 39 33 44 35 47 32 45
+"." "." "." "." "." "." 38 45 39 50 47 76 54 86 64 103 72 105
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 25 32 27 37 33 45 40 52 40 53 41 49
+"." "." "." "." "." "." 3 3 2 3 1 2 2 3 1 2 1 1
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 297 400 286 396 303 356 308 375 322 382 322 376
+"." "." "." "." "." "." 11 30 12 44 11 47 10 40 12 48 11 49
+"." "." "." "." "." "." 62 69 63 80 65 82 68 91 78 93 84 100
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 8 16 6 7 6 8 5 6 3 6 3 7
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 11 13 9 12 11 13 11 16 10 13 10 15
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 1 2
+"." "." "." "." "." "." 0 0 0 0 0 0 0 0 0 0 0 0
+"." "." "." "." "." "." 0 0 0 0 0 1 0 0 0 0 0 0
+"." "." "." "." "." "." 0 1 0 0 0 0 0 0 0 0 0 0;

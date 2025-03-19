@@ -1,0 +1,152 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210128 09:00";
+NEXT-UPDATE="20260130 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="UDXUMG6";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="UD";
+SUBJECT-AREA="Education";
+SUBJECT-AREA[da]="Uddannelse";
+SUBJECT-AREA[kl]="Ilinniartitaaneq";
+COPYRIGHT=YES;
+DESCRIPTION="Share of NEET registered in qualification programs at Majoriaq, 2016-2023 <em>[UDEUMG6]</em>";
+DESCRIPTION[da]="Ungemålgruppe efter registrering af uddannelsessøtte i Majoriaq, 2016-2023 <em>[UDDUMG6]</em>";
+DESCRIPTION[kl]="Inuusuttut sullinniakkat Majoriami ilinniagaqarnersiutilittut nalunaarsorsimanerat malillugu, 2016-2023 <em>[UDNUMG6]</em>";
+TITLE="NEET group by study grant registration in Majoriaq by age, gender, status and time";
+TITLE[da]="Ungemålgruppe efter SU registrering i Majoriaq efter alder, køn, status og tid";
+TITLE[kl]="Inuusuttut sullinniakkat Majoriami ilinniagaqarnersiutilittut nalunaarsorsimanerat malillugu : ukiut, suiaassuseq, killiffik , piffissaq";
+CONTENTS="NEET group by study grant registration in Majoriaq";
+CONTENTS[da]="Ungemålgruppe efter SU registrering i Majoriaq";
+CONTENTS[kl]="Inuusuttut sullinniakkat Majoriami ilinniagaqarnersiutilittut nalunaarsorsimanerat malillugu";
+STUB="age","gender","status";
+STUB[da]="alder","køn","status";
+STUB[kl]="ukiut","suiaassuseq","killiffik";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("age")="16 years","17 years","18 years","19 years","20 years","21 years","22 years","23 years","24 years","25 years";
+VALUES("gender")="Men","Women";
+VALUES("status")="Registered in Majoriaq","Not registered";
+VALUES[da]("status")="Registreret i Majoriaq","Ikke registreret";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("alder")="16 år","17 år","18 år","19 år","20 år","21 år","22 år","23 år","24 år","25 år";
+VALUES[da]("køn")="Mænd","Kvinder";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("killiffik")="Majoriami ingerlatsisut","Majoriami ingerlatsinngitsut";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("suiaassuseq")="Angutit","Arnat";
+VALUES[kl]("ukiut")="16-inik ukiullit","17-inik ukiullit","18-inik ukiullit","19-inik ukiullit","20-nik ukiullit","21-nik ukiullit","22-nik ukiullit","23-nik ukiullit","24-nik ukiullit","25-nik ukiullit";
+UNITS="Persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("age")="16","17","18","19","20","21","22","23","24","25";
+CODES("gender")="1","2";
+CODES("status")="7","6";
+CODES[da]("status")="7","6";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("alder")="16","17","18","19","20","21","22","23","24","25";
+CODES[da]("køn")="1","2";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("killiffik")="7","6";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("suiaassuseq")="1","2";
+CODES[kl]("ukiut")="16","17","18","19","20","21","22","23","24","25";
+VARIABLECODE("age")="alder";
+VARIABLECODE("gender")="kon";
+VARIABLECODE("status")="status";
+VARIABLECODE[da]("status")="status";
+VARIABLECODE("time")="aar";
+VARIABLECODE("antal")="antal";
+VARIABLECODE[da]("alder")="alder";
+VARIABLECODE[da]("antal")="antal";
+VARIABLECODE[da]("køn")="kon";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[kl]("antal")="antal";
+VARIABLECODE[kl]("killiffik")="status";
+VARIABLECODE[kl]("piffissaq")="aar";
+VARIABLECODE[kl]("suiaassuseq")="kon";
+VARIABLECODE[kl]("ukiut")="alder";
+ELIMINATION("age")=YES;
+ELIMINATION("gender")=YES;
+ELIMINATION("status")=YES;
+ELIMINATION[da]("status")=YES;
+ELIMINATION[da]("alder")=YES;
+ELIMINATION[da]("køn")=YES;
+ELIMINATION[kl]("killiffik")=YES;
+ELIMINATION[kl]("suiaassuseq")=YES;
+ELIMINATION[kl]("ukiut")=YES;
+LAST-UPDATED="20250130 09:00";
+LAST-UPDATED[da]="20250130 09:00";
+LAST-UPDATED[kl]="20250130 09:00";
+CONTACT="Samo Nielsen - snie@stat.gl";
+CONTACT[da]="Samo Nielsen - snie@stat.gl";
+CONTACT[kl]="Samo Nielsen - snie@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="https://www.stat.gl/udd202501/o1";
+LINK[da]="https://www.stat.gl/udd202501/o1";
+LINK[kl]="https://www.stat.gl/udn202501/o1";
+NOTE[da]("status")="en";
+NOTE="All figures are at the end of the year. For further information please visit: www.stat.gl";
+NOTE[da]="Alle tal er opgjort ved udgangen af tællingsåret. For metodebeskrivelse m.m.: www.stat.gl under Uddannelse. #Personer i Grønland dækker over fastboende og hjemvendte, der enten tidligere har været uddannelsesaktive i tællingsåret eller er uddannelsesakt"
+"ive ved udgangen af året.";
+NOTE[da]("alder")="en";
+NOTE[da]("køn")="en";
+NOTE[da]("tid")="en";
+NOTE[kl]="Kisitsisit tamarmik ukiup kisitsiviusup naanerani naatsorsorneqarput. Periaatsimut il.il.: www.stat.gl-imi Ilinniartitaanermut tunngasut takukkit.";
+NOTE[kl]("killiffik")="da";
+NOTE[kl]("piffissaq")="da";
+NOTE[kl]("suiaassuseq")="da";
+NOTE[kl]("ukiut")="da";
+DATA=
+31 24 27 25 21 30 25 33
+118 126 120 144 149 145 143 144
+26 17 31 29 27 25 15 24
+123 131 120 120 101 132 109 109
+46 36 46 41 51 32 38 56
+138 131 125 134 121 133 141 105
+50 46 52 64 41 45 37 36
+129 109 98 122 108 89 111 99
+48 51 36 34 40 21 26 36
+118 113 94 109 117 112 125 111
+55 58 37 40 51 34 37 38
+107 107 76 88 97 82 71 80
+37 35 31 22 29 20 28 19
+113 117 109 95 107 107 107 95
+47 35 41 27 35 35 20 22
+121 94 89 61 92 82 64 70
+39 24 23 16 23 17 16 19
+95 129 106 95 104 110 100 107
+31 30 40 28 19 21 28 19
+101 110 85 84 83 83 79 76
+19 30 15 15 14 13 15 19
+114 97 109 98 94 98 105 93
+26 23 30 26 25 12 16 22
+84 100 78 87 84 70 76 82
+22 13 18 14 15 8 14 11
+106 103 91 114 99 95 93 100
+24 32 30 29 21 17 15 10
+85 92 75 80 71 74 56 85
+18 10 13 15 21 17 9 9
+103 96 94 90 106 101 106 92
+14 17 21 11 28 15 19 16
+87 87 73 73 69 80 62 58
+14 10 13 6 8 5 11 6
+83 91 93 91 100 101 107 89
+24 21 17 17 17 26 26 22
+80 69 77 69 80 68 59 67
+9 8 13 12 4 13 8 7
+86 86 84 85 106 95 108 87
+15 23 13 24 13 15 19 17
+77 80 61 58 68 76 64 55
+;

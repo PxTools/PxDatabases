@@ -1,0 +1,99 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20121210 09:00";
+NEXT-UPDATE="20260226 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="TUXKRP";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="TU";
+SUBJECT-AREA="Tourism";
+SUBJECT-AREA[da]="Turisme";
+SUBJECT-AREA[kl]="Takornariaqarneq";
+COPYRIGHT=YES;
+DESCRIPTION="Number of cruise passengers by month <em>[TUEKRP]</em>";
+DESCRIPTION[da]="Antal krydstogtspassagerer fordelt på måned <em>[TUDKRP]</em>";
+DESCRIPTION[kl]="Umiarsuarnik takornariartaatinik ilaasartut qaammatikkaarlugit amerlassusaat <em>[TUNKRP]</em>";
+TITLE="Number of cruise passengers by month and time";
+TITLE[da]="Antal krydstogtspassagerer efter måned og tid";
+TITLE[kl]="Umiarsuarnik takornariartaatinik ilaasartut amerlassusaat : qaammat , piffissaq";
+CONTENTS="Number of cruise passengers";
+CONTENTS[da]="Antal krydstogtspassagerer";
+CONTENTS[kl]="Umiarsuarnik takornariartaatinik ilaasartut amerlassusaat";
+UNITS="persons";
+UNITS[da]="personer";
+UNITS[kl]="inuit";
+STUB="month";
+STUB[da]="måned";
+STUB[kl]="qaammat";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("month")="Total","January","February","March","April","May","June","July","August",
+"September","October","November","December";
+VALUES[da]("måned")="Total","Januar","Februar","Marts","April","Maj","Juni","Juli","August",
+"September","Oktober","November","December";
+VALUES[kl]("qaammat")="Total","Januari","Februari","Martsi","Aprili","Maaji","Juuni","Juuli",
+"Augusti","Septemberi","Oktoberi","Novemberi","Decemberi";
+VALUES("time")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014",
+"2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES[da]("tid")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES[kl]("piffissaq")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+TIMEVAL("time")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+TIMEVAL[da]("tid")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+CODES("month")="Total","01","02","03","04","05","06","07","08","09","10","11","12";
+CODES[da]("måned")="Total","01","02","03","04","05","06","07","08","09","10","11","12";
+CODES[kl]("qaammat")="Total","01","02","03","04","05","06","07","08","09","10","11","12";
+CODES("time")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014",
+"2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+CODES[da]("tid")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+CODES[kl]("piffissaq")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+ELIMINATION("month")="Total";
+ELIMINATION[da]("måned")="Total";
+ELIMINATION[kl]("qaammat")="Total";
+LAST-UPDATED="20250227 09:00";
+CONTACT="Ane Louise Brandt, alob@stat.gl";
+CONTACT[da]="Ane Louise Brandt, alob@stat.gl";
+CONTACT[kl]="Ane Louise Brandt, alob@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTEX="The cruises statistics for 2015 and 2016 are under revision due to late arrival of the harbour tax payment reports.";
+NOTEX[da]="Krydstogtstatistikken for 2015 og 2016 er under revision på grund af forsinket ankomst af havnafgifter indberetninger.";
+NOTEX[kl]="2015-imi 2016-imilu umiarsuit takornariartaatit kisitsisitigut paasissutissaat aaqqissuunneqarput, umiarsuialivinnit akitsuutinut nalunaarutit kingusinaartumik tunniunneqarnikuunerat peqqutigalugu.";
+NOTE="The base for the cruises statistics are the tax payment reports to the Tax Agency of Greenland.# On the 1st of June 2015 charging passenger taxes was discontinued, however cruise ships continue to report number of passengers to the Tax Agency of "
+"Greenland.";
+NOTE[da]="Grundlaget for krydstogtstatistikken er havnemyndighedernes indberetning af afgiftsbetalinger til Skattestyrelsen.# Den 1. juni 2015 blev passagerafgifter indstillet, men krydstogtskibe fortsætter med at angive antal passagerer til "
+"Skattestyrelsen.";
+NOTE[kl]="Umiarsiuit takornariartaatit kisitsisitigut paasissutissaat umiarsualiviit Akileraartarnermut Aqutsisoqarfimmut akitsuutinut nalunaarutaannik tunngaveqarput.##2015-imi juunip aallaqqaataat aallarnerfigalungu ilaasunut akitsuutit unitsinneqarput, "
+"umiarsuilli takornariartaatit ilaasut amerlassusaannik Akileraartarnermut Aqutsisoqarfimmut nalunaaruteqartarnertik ingerlatiinnarpaat.";
+NOTE("time")="The number of unregistered passengers is estimated based on (i) harbour dues for nearest port calls for the same ship or; (ii) as 80% of vessel maximum number of passengers.";
+NOTE[da]("tid")="Antal uregistrerede passagerer er estimeret på baggrund af (i) havneafgift for nærmeste havnekald for samme skibe;(ii) eller som 80% skibes maximum antal passagerer.";
+NOTE[kl]("piffissaq")="Ilaasut nalunaarsorneqarsimanngitsut amerlassusaat #(i) umiarsuarsuup pineqartup tulaffigisimasaani kingullermi umiarsualivimmut akitsuut tunngavigalungu;#(ii) imaluunniit umiarsuarmi ilaasut annerpaamik 80 pct.-iattut "
+"naatsorsorneqarput.";
+DATA=
+9993 15654 16446 22051 23506 28891 26976 30271 29826 23399 21496 20214 25049 24244 38182 45739 46633 "-" "-" 43999 76477 95185 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" 45 "-" "-" "-" "-" "-" "-" 62 126 53 58 "-" "-" "-" "-" "-" 9 19 152 
+"-" "-" 226 223 97 259 220 73 2 74 144 167 110 504 185 156 89 "-" "-" 252 557 420 
+771 64 286 1059 1612 1378 1052 2465 1190 1393 1426 925 1556 976 463 1768 76 "-" "-" 1403 4066 3160 
+3214 4900 4933 5258 6262 12626 7880 8596 6007 6109 2927 5977 4253 6649 7708 9620 7497 "-" "-" 12496 21627 23043 
+5428 6527 7541 8306 8906 7731 8439 12124 11445 5755 5211 6692 9982 9464 14820 17269 26236 "-" "-" 22012 38469 52606 
+580 4163 3460 4619 6629 6897 6374 6757 11182 10068 11726 6183 6436 6561 14958 15990 12671 "-" "-" 7827 11739 15427 
+"-" "-" "-" 2541 "-" "-" 3011 256 "-" "-" "-" 144 2659 32 48 936 64 "-" "-" "-" "-" 377 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" 
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-"; 

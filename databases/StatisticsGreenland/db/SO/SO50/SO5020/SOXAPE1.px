@@ -1,0 +1,100 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150626 09:00";
+NEXT-UPDATE="20250425 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXAPE1";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Age pensioners in December by time, age and gender <em>[SOEAPE1]</em>";
+DESCRIPTION[da]="Alderspensionister i december fordelt på tid, aldergruppe og køn <em>[SODAPE1]</em>";
+DESCRIPTION[kl]="Utoqqalinermi soraarnerussutisiallit decembarimi piffissamut, utoqqaassuseqatigiinnut suiaassutimullu immikkoortillugit <em>[SONAPE1]</em>";
+TITLE="Age pensioners in December by age group, gender and time";
+TITLE[da]="Alderspensionister i december efter aldersgruppe, køn og tid";
+TITLE[kl]="Utoqqalinermi soraarnerussutisiallit decembarimi : ukiut immikkoortiterneri, suiaassuseq , piffissaq";
+CONTENTS="Age pensioners in December";
+CONTENTS[da]="Alderspensionister i december";
+CONTENTS[kl]="Utoqqalinermi soraarnerussutisiallit decembarimi";
+UNITS="Persons and % of age group";
+UNITS[da]="Personer og % af aldersgruppe";
+UNITS[kl]="Inuit amerlassusii aammalu ukiut immikkoortiterneri %-nngorlugu";
+STUB="age group","gender";
+STUB[da]="aldersgruppe","køn";
+STUB[kl]="ukiut immikkoortiterneri","suiaassuseq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("age group")="Total","Younger than 70 years","70-74 years","75-79 years","80-89 years",
+"90+ years";
+VALUES[da]("aldersgruppe")="I alt","Yngre end 70 år","70-74 år","75-79 år","80-89 år","90+ år";
+VALUES[kl]("ukiut immikkoortiterneri")="Katillugit","70-it inorlugit ukiullit","70-74-nik ukiullit",
+"75-79-nik ukiullit","80-89-nik ukiullit","90-nik ukiullit qummullu";
+VALUES("gender")="Total","Man","Woman";
+VALUES[da]("køn")="I alt","Mand","Kvinde";
+VALUES[kl]("suiaassuseq")="Katillugit","Angutit","Arnat";
+VALUES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+VALUES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES("age group")="00. I alt","11. y_70","07. 70-74","08. 75-79","09. 80-89","10. 90+";
+CODES[da]("aldersgruppe")="00. I alt","11. y_70","07. 70-74","08. 75-79","09. 80-89","10. 90+";
+CODES[kl]("ukiut immikkoortiterneri")="00. I alt","11. y_70","07. 70-74","08. 75-79","09. 80-89",
+"10. 90+";
+CODES("gender")="1. I alt","2. M","3. K";
+CODES[da]("køn")="1. I alt","2. M","3. K";
+CODES[kl]("suiaassuseq")="1. I alt","2. M","3. K";
+CODES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+CODES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+CODES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+ELIMINATION("age group")="Total";
+ELIMINATION[da]("aldersgruppe")="I alt";
+ELIMINATION[kl]("ukiut immikkoortiterneri")="Katillugit";
+ELIMINATION("gender")="Total";
+ELIMINATION[da]("køn")="I alt";
+ELIMINATION[kl]("suiaassuseq")="Katillugit";
+LAST-UPDATED="20240425 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+3585 3623 3669 3671 3758 3990 3783 3767 3806 3937 3797 3859 4011
+1728 1744 1800 1822 1872 2008 1912 1924 1931 1996 1940 1994 2051
+1857 1879 1869 1849 1886 1982 1871 1843 1875 1941 1857 1865 1960
+1462 1419 1381 1289 1323 1455 1215 1165 1244 1224 1039 1066 1131
+764 745 759 700 714 781 657 611 636 624 542 562 589
+698 674 622 589 609 674 558 554 608 600 497 504 542
+1039 1081 1143 1238 1240 1270 1226 1218 1147 1246 1278 1303 1382
+533 541 560 631 643 670 654 685 642 685 682 704 718
+506 540 583 607 597 600 572 533 505 561 596 599 664
+632 658 646 625 678 735 788 820 865 874 881 873 852
+281 297 303 288 314 360 378 394 428 436 457 457 469
+351 361 343 337 364 375 410 426 437 438 424 416 383
+432 445 478 493 488 495 519 525 508 541 551 569 597
+147 157 171 192 192 186 212 217 206 233 243 255 257
+285 288 307 301 296 309 307 308 302 308 308 314 340
+20 20 21 26 29 35 35 39 42 52 48 48 49
+3 4 7 11 9 11 11 17 19 18 16 16 18
+17 16 14 15 20 24 24 22 23 34 32 32 31;

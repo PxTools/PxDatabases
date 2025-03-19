@@ -1,0 +1,105 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20090123 13:30";
+NEXT-UPDATE="20210201 11:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="ENX1SUM";
+SUBJECT-CODE="EN";
+SUBJECT-AREA="Energy";
+SUBJECT-AREA[da]="Energi";
+SUBJECT-AREA[kl]="Nukissiuuteqarneq";
+COPYRIGHT=YES;
+DESCRIPTION="Degree days by weather station <em>[ENE1SUM]</em>";
+DESCRIPTION[da]="Summerede graddageværdier <em>[END1SUM]</em>";
+DESCRIPTION[kl]="Ulluni annertussusiliiffinni uuttuinerit katinneri <em>[ENN1SUM]</em>";
+TITLE="Degree days by weather station and time";
+TITLE[da]="Summerede graddageværdier efter vejrstation og tid";
+TITLE[kl]="Ulluni annertussusiliiffinni uuttuinerit katinneri : silasiorfik , piffissaq";
+CONTENTS="Degree days";
+CONTENTS[da]="Summerede graddageværdier";
+CONTENTS[kl]="Ulluni annertussusiliiffinni uuttuinerit katinneri";
+UNITS="Degree days";
+UNITS[da]="Summerede graddage";
+UNITS[kl]="Ulluni annertussusiliiffinni uuttuinerit katinneri";
+STUB="weather station";
+STUB[da]="vejrstation";
+STUB[kl]="silasiorfik";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("weather station")="Nanortalik","Qaqortoq","Narsarsuaq","Narsaq","Paamiut","Nuuk",
+"Kapisillit","Maniitsoq","Kangerlussuaq","Sisimiut","Qasigiannguit","Kangaatsiaq","Aasiaat",
+"Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES[da]("vejrstation")="Nanortalik","Qaqortoq","Narsarsuaq","Narsaq","Paamiut","Nuuk",
+"Kapisillit","Maniitsoq","Kangerlussuaq","Sisimiut","Qasigiannguit","Kangaatsiaq","Aasiaat",
+"Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES[kl]("silasiorfik")="Nanortalik","Qaqortoq","Narsarsuaq","Narsaq","Paamiut","Nuuk",
+"Kapisillit","Maniitsoq","Kangerlussuaq","Sisimiut","Qasigiannguit","Kangaatsiaq","Aasiaat",
+"Ilulissat","Qeqertarsuaq","Uummannaq","Upernavik","Qaanaaq","Tasiilaq","Ittoqqortoormiit";
+VALUES("time")="1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006",
+"2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+VALUES[da]("tid")="1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005",
+"2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="1995","1996","1997","1998","1999","2000","2001","2002","2003","2004",
+"2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"1995","1996","1997","1998","1999","2000","2001","2002","2003","2004",
+"2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"1995","1996","1997","1998","1999","2000","2001","2002","2003","2004",
+"2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"1995","1996","1997","1998","1999","2000","2001","2002","2003",
+"2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+ELIMINATION("time")="2021";
+ELIMINATION[da]("tid")="2021";
+ELIMINATION[kl]("piffissaq")="2021";
+LAST-UPDATED="20220223 11:00";
+CONTACT="Bolatta Vahl, bova@stat.gl";
+CONTACT[da]="Bolatta Vahl, bova@stat.gl";
+CONTACT[kl]="Bolatta Vahl, bova@stat.gl";
+SOURCE="ASIAQ Greenland Survey";
+SOURCE[da]="ASIAQ Grønlands Forundersøgelser";
+SOURCE[kl]="ASIAQ Misissueqqaarnerit";
+NOTE="A degree day is a measure of heating or cooling. The number of degree days is calculated as the sum of days with an average outside-temperature below 19°C multiplied with the difference between 19°C and the middletemperature of the day. #";
+NOTE[da]="Antallet af graddage opgøres som summen af de dage, hvor gennemsnittet af udendørstemperaturen er under 19°C ganget med forskellen mellem de 19°C og døgnets middeltemperatur. #";
+NOTE[kl]="Kiassartariaqassutsimut uuttuut paasissutissaavoq illup iluani ulloq unnuarlu agguaqatigiissillugu kiassutsip 1°C-ip, Kalaallit Nunaanni 19°C-imut aalajangerneqarsimasup, silallu ulloq unnuarlu agguaqatigiissillugu kiassusiata akornanni "
+"assigiinngissutsimut. #";
+CELLNOTE("Narsaq","2021")="Not enough measurements to be able to calculate annual degree day value.";
+CELLNOTE[da]("Narsaq","2021")="Ikke nok målinger til at kunne udregne årlig graddagsværdi.";
+CELLNOTE[kl]("Narsaq","2021")="Ikke nok målinger til at kunne udregne årlig graddagsværdi.";
+VARIABLECODE("weather station")="weather station";
+VARIABLECODE("time")="time";
+VARIABLECODE[da]("vejrstation")="weather station";
+VARIABLECODE[da]("tid")="time";
+VARIABLECODE[kl]("silasiorfik")="weather station";
+VARIABLECODE[kl]("piffissaq")="time";
+DATA=
+6503 6164 4495 6188 6680 6944 6408 6619 5483 5328 5051 5874 6070 6393 6306 5490 6573 5998 6283 6344 6793 6033 5620 5867 4993 6310 6127 6465 ".." 
+6844 6355 6457 6533 6609 6562 6294 6416 5968 6175 6004 "..." 6377 6790 6205 5226 5582 6127 6393 5826 7200 6227 6315 5752 "..." 6548 5277 5931 6120 
+6670 6346 6391 6364 6534 6427 6262 6181 5866 6166 5887 6303 "..." 6523 6086 4956 6293 5612 6134 5584 7018 5995 6031 6484 5425 6429 5745 ".." 5966 
+6862 4055 6464 6400 6578 6695 6066 5882 5894 6003 5710 6204 5582 6543 6154 5156 6910 6096 6328 6443 7154 5918 6283 6612 5821 6469 "..." 6481 6010 
+7318 6815 7219 6820 6838 6979 6721 6892 6332 6457 "..." 6664 6730 7174 7408 5678 6992 6725 6949 6955 7603 6591 6820 7086 6308 6891 6674 6970 6649 
+7437 7042 7187 7240 7376 7161 7008 7198 6544 6962 6717 6914 6904 7380 6967 6044 7597 7012 7062 7158 7936 6871 7130 7514 6683 7202 6843 7275 6845 
+"..." "..." 7103 6386 5724 6336 7004 7198 6518 7111 6586 6689 6892 7280 7289 5669 7736 7044 6946 7158 8187 6869 7173 7746 "..." 7377 7014 7336 7070 
+7450 7007 7133 6910 7287 7080 7127 7804 "..." "..." "..." 6988 6821 7318 7012 5882 7499 6948 7059 7180 7933 6468 6373 7588 6516 7131 6824 7364 7057 
+9149 8089 8417 8269 8788 8195 8513 8942 7873 8759 7866 8523 8005 8591 8487 7146 8474 8489 8292 7484 9485 7922 8554 9021 8069 8526 8247 7410 8296 
+8149 7739 7932 7910 8354 8148 7980 8179 7522 8021 7250 7854 7626 7971 7895 6606 7887 7465 7537 7584 8526 7405 7612 8062 7213 7559 7265 7605 7664 
+8614 8015 7972 7759 8356 8002 8333 8407 7750 8255 7615 8038 7681 8130 8210 6856 7484 7991 8069 7961 8828 7435 8136 7677 7433 8038 7736 7843 8166 
+"..." "..." 8407 8165 8669 8498 8313 8374 7848 8233 "..." 8180 8001 8432 8298 7222 8381 8197 "..." "..." "..." "..." "..." "..." "..." ".." ".." ".." ".." 
+"..." 8488 8154 7932 8271 7924 7616 7702 6958 7658 "..." 7874 7908 8376 7613 6765 8037 7858 7974 7908 8851 7582 8294 8494 7562 7893 7681 7641 8139 
+8391 8106 8056 7825 8478 7886 8294 8290 7526 8081 7517 7886 7572 8388 8222 6927 8261 7895 7955 7860 8870 7482 8100 8439 7402 8042 7554 7689 7295 
+"..." 7777 6987 7703 8063 7616 7832 7778 7182 8029 7657 7791 7370 7908 7759 6973 8138 7863 7839 7622 8560 7367 8353 8311 7292 7797 7292 7700 8016 
+8696 7829 8341 7994 8988 8200 8270 8368 7682 8579 7784 "..." 7729 8183 8080 6773 7946 7908 "..." "..." "..." "..." "..." "..." "..." ".." "..." ".." ".." 
+"..." 9969 9861 8878 9308 8626 8813 8816 8165 8975 8501 8778 8829 9260 9072 8230 8952 8804 9044 8748 9683 8548 9095 9715 8602 9002 8540 8888 9220 
+10038 10009 10161 9570 10351 9937 9996 9844 9360 10121 9538 9882 9469 9837 9967 9243 9982 9945 10104 10015 10392 9673 7816 10566 9483 10377 9671 10285 10208 
+7485 7073 7323 7237 7178 7147 7122 6823 6478 6893 "..." "..." 6818 7084 6694 5960 6761 6873 6372 5453 6903 6323 6951 6896 6819 7104 6847 ".." 7171 
+9031 8442 8951 9189 8919 9230 9069 8182 8691 8367 "..." 8718 8910 8614 8529 8384 8129 8641 9155 8622 8655 8404 9050 8719 9035 8961 7416 ".." 9069; 

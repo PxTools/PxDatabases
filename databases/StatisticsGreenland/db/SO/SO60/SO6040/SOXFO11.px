@@ -1,0 +1,178 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20201204 09:00";
+NEXT-UPDATE="20991224 09:00";
+MATRIX="SOXFO11";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Diagnoses, by category and municipality <em>[SOEFO11]</em>";
+DESCRIPTION[da]="Diagnoser efter kategori og kommune <em>[SODFO11]</em>";
+DESCRIPTION[kl]="Innarluutit suussusaat aamma kommunit <em>[SONFO11]</em>";
+TITLE="Diagnoses";
+TITLE[da]="Diagnoser";
+TITLE[kl]="Nappaat";
+CONTENTS="Diagnoses";
+CONTENTS[da]="Diagnoser";
+CONTENTS[kl]="Nappaat";
+UNITS="Number";
+UNITS[da]="Antal";
+UNITS[kl]="Amerlassusaat";
+CONTACT="Sune Steenskjold,  sust@stat.gl";
+CONTACT[da]="Sune Steenskjold,  sust@stat.gl";
+CONTACT[kl]="Sune Steenskjold,  sust@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="When the number of people is 5 or less in the rows, they appear as .. (2 "
+"dots) for reasons of confidentiality.This inventory counts individuals and "
+"diagnoses, derived from data material collected from the municipalities by the "
+"Ministry of Social Affairs, Family and Justice in late 2018 and early 2019 to "
+"produce the report 'Personer med vidtgående handicap 2020'. The inventory "
+"counts persons who, pursuant to Greenland´s disability legislation, have been "
+"granted help during the timespan represented by the data. This timespan is not "
+"known exactly. Hence, a certain margin of error exists in the result "
+"(estimated to max 15 pct). The quality of reported diagnoses varies, ranging "
+"from actual ICD10 codes to very general labels like physical and psychic "
+"disability. The diagnoses were arranged in 14 groups for physical disability, "
+"8 for psychic disability and 1 group for other diagnoses. Observe that persons "
+"as well as doagnoses are counted. Thus, a total of 1394 diagnoses exist, "
+"distributed among 1131 persons.";
+NOTE[da]="Når antallet af personer er 5 eller mindre i rækkerne, vises de som .."
+" (2 prikker) af diskretionshensyn. Nærværende opgørelse tæller personer og "
+"diagnoser, der indgår i materiale indsamlet fra kommunerne af Departementet "
+"for Sociale Anliggender, Familie- og Justitsområdet ultimo 2018 -primo 2019 i "
+"forbindelse med udarbejdelse af rapporten 'Personer med vidtgående handicap "
+"2020'. Opgørelsen medregner de personer, der har fået bevilget hjælp efter "
+"handicaplovgivningen i den periode hvori data er opsamlet. Længden af denne "
+"opsamlingsperiode kendes ikke eksakt, og der er derfor en vis fejlmargen i det "
+"færdige resultat (anslået til max 15 pct.). Kvaliteten af de angivne diagnoser "
+"varierer stærkt, fra egentlige ICD10 -koder til helt generelle betegnelser som "
+"fysisk og psykisk handicap. Diagnoserne inddelt i 14 grupper for fysisk "
+"handicap og 8 for psykisk handicap, samt én gruppe for andre diagnosekoder.  "
+"Bemærk at der både tælles personer og diagnoser. Således er der tale om i alt "
+"1394 diagnoser fordelt på 1131 personer.";
+NOTE[kl]="Ukiut immikkoortiterneri malillugit inuit amerlassussaat "
+"tallimaappata tallimaniilluunniit ikinneruppata naqitani tulleriiani "
+"’Katillugit’ aammalu ’Ilisimaneqanngilaq’-mik allaqqasuni toornernik marlunnik "
+"(..) takutinneqassapput, tatiginartunik isumannaarsaaneq tunngavingalugu. "
+"Kommuninit aamma Isumaginninnermut, Ilaqutariinnut Inatsisinillu "
+"Atuutsitsinermut Naalakkersuisoqarfimmit paasissutissat tunniunneqarsimasut "
+"tunngavigalugit inuit innarluutillu suunerinut naatsorsuutinut "
+"ilanngunneqarput, paasissutissat 2018-ip naaneranit aamma 2019-ip "
+"aallartinneranik imaqartut 'Inuit annertuumik innarluutillit 2020'-mi "
+"allaaserineqarput. Inuit innarluutillit pillugit inatsisit tunngavigalugit "
+"piffissap ingerlanerani inuit ikiorsiissutinik pissarsiaqarsimasut "
+"naatsorsuutinut ilanngunneqarput. Piffissaq katersiviusoq iluamik "
+"ilisimaneqanngimmat kukkusumik inerneqarsimanissaat ilimagineqarpoq "
+"(annerpaamik 15 pct.-imik).   Innarluutit suunerinik nalunaarutit "
+"assigiinngiiaartorujussuupput, ICD10 –kodit atorlugit nalunaarutiginninnernit "
+"nassuiaatinut, ass. timikkut tarnikkullu innarluutit. Timikkut innarluutit "
+"suussusersineri katillugit 14-iupput, tarnikkut innarluutit arfineq "
+"pingasuullutik taakku saniatigut innarluut ataasiuvoq. Malugiuk "
+"naatsorsuinerni inuit innarluutillu suuneri pineqarmata. 1394-it innarluutit "
+"suussusersineqarsimapput inuit 1131-t akornanni.";
+STUB="diagnosis Category","municipality";
+STUB[da]="diagnosekategori","kommune";
+STUB[kl]="nappaatip suussusaa","kommuuni";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("diagnosis Category")="Total","F00: Unspecified physical disability","F01: Vision impairment",
+"F02: Hearing impairment","F03: Epilepsy","F04: Metabolic disease","F05: Other progressive ailment",
+"F06: Arthritis","F07: Genetic & innate","F08: Internal organs","F09: Skin disorder, Scarring",
+"F10: Respiratory system","F11: Circulatory system","F12: Musculoskeletal system",
+"F13: Brain damage","F14: Immune system","F15: Other disability","F16: Speech impairment",
+"P00: Unspecified psychic disability","P01: Mental retardation","P02: Neurocognitive disorder",
+"P03: Abuse of substances","P04: Developmental disorder","P05: Personality disorder",
+"P06: Psychotic ailments","P07: Other psychic ailment";
+VALUES[da]("diagnosekategori")="I alt","F00: Uspecificeret fysisk handicap","F01: Synstab",
+"F02: Høretab","F03: Epilepsi","F04: Stofskifte","F05: Anden progressiv lidelse",
+"F06: Gigt","F07: Genetiske & medfødte","F08: Indre organer","F09: Hudlidelse,vansiring",
+"F10: Åndedræt","F11: Kredsløb","F12: Bevægeapparat","F13: Hjerneskade","F14: Immunforsvar",
+"F15: Andet handicap","F16: Talehandicap","P00: Uspecificeret psykisk handicap","P01: Mental retardering",
+"P02: Organisk psykisk lidelse","P03: Misbrug","P04: Udviklingsforstyrrelse","P05: Personlighedsforstyrrelse",
+"P06: Psykotiske lidelser","P07: Anden psykisk lidelse";
+VALUES[kl]("nappaatip suussusaa")="Katillugit","F00: Timikkut innarluuteqarneq immikkut nalunaarsugaanngitsoq",
+"F01: Tappiitsuuneq","F02: Tusilarneq","F03: Noqartarneq","F04: Timip inuussutissanik suliarinninnerani ajoquteqarneq",
+"F05: Ataavartumik nappaat alla","F06: Avallunneq","F07: Sananeqaatsimi kingornussat inunnguuseralugillu innarluutit",
+"F08: Timip atortuini ajoquteqarneq","F09: Amilunneq, takujuminaatsunngortitsisartoq",
+"F10: Anersaartuutini nappaat","F11: Aap kaaviaarnerani ajoquteqarneq","F12: Aalasinnaanermi ajoquteqarneq",
+"F13: Qaratsami ajoquteqarneq","F14: Timip nappaatinut akiuussutissaani ajoquteqarneq",
+"F15: Innarluut alla","F16: Oqalunniarnikkut innarluuteqarneq","P00: Tarnikkut innarluuteqarneq immikkut nalunaarsugaanngitsoq",
+"P01: Sianissutsikkut inortuuneq","P02: Tarnikkut nappaat timip qanorinneranit peqqutilik",
+"P03: Atornerluisuuneq","P04: Ineriartornikkut akornuteqarneq","P05: Tarnikkut nappaat inuup kinaassusaanik allanngortitsisartoq",
+"P06: Tarnikkut nappaatit","P07: Tarnikkut napparsimaneq alla";
+VALUES("municipality")="Total","Kommune Kujalleq","Kommuneqarfik Sermersooq","Qeqqata Kommunia",
+"Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[da]("kommune")="I alt","Kommune Kujalleq","Kommuneqarfik Sermersooq","Qeqqata Kommunia",
+"Kommune Qeqertalik","Avannaata Kommunia";
+VALUES[kl]("kommuuni")="Katillugit","Kommune Kujalleq","Kommuneqarfik Sermersooq",
+"Qeqqata Kommunia","Kommune Qeqertalik","Avannaata Kommunia";
+VALUES("time")="2018";
+VALUES[da]("tid")="2018";
+VALUES[kl]("piffissaq")="2018";
+TIMEVAL("time")=TLIST(A1,"2018"-"2018");
+TIMEVAL[da]("tid")=TLIST(A1,"2018"-"2018");
+TIMEVAL[kl]("piffissaq")=TLIST(A1,"2018"-"2018");
+CODES("diagnosis Category")="I alt","F00: Uspec. fysisk handicap","F01: Synstab",
+"F02: Høretab","F03: Epilepsi","F04: Stofskifte","F05: Andre progressive lidelser",
+"F06: Gigt","F07: Genetiske & medfødte","F08: Indre organer","F09: Hudlidelse,vansiring",
+"F10: Åndedræt","F11: Kredsløb","F12: Bevægeapparat","F13: Hjerneskade","F14: Immunforsvar",
+"F15: Andre handicaps","F16: Talehandicap","P00: Uspec. psykisk handicap","P01: Mental retardering",
+"P02: Organiske psykiske lidelser","P03: Misbrug","P04: Udviklingsforstyrrelse","P05: Personlighedsforstyrrelse",
+"P06: Psykotiske lidelser","P07: Andre psykiske lidelser";
+CODES[da]("diagnosekategori")="I alt","F00: Uspec. fysisk handicap","F01: Synstab",
+"F02: Høretab","F03: Epilepsi","F04: Stofskifte","F05: Andre progressive lidelser",
+"F06: Gigt","F07: Genetiske & medfødte","F08: Indre organer","F09: Hudlidelse,vansiring",
+"F10: Åndedræt","F11: Kredsløb","F12: Bevægeapparat","F13: Hjerneskade","F14: Immunforsvar",
+"F15: Andre handicaps","F16: Talehandicap","P00: Uspec. psykisk handicap","P01: Mental retardering",
+"P02: Organiske psykiske lidelser","P03: Misbrug","P04: Udviklingsforstyrrelse","P05: Personlighedsforstyrrelse",
+"P06: Psykotiske lidelser","P07: Andre psykiske lidelser";
+CODES[kl]("nappaatip suussusaa")="I alt","F00: Uspec. fysisk handicap","F01: Synstab",
+"F02: Høretab","F03: Epilepsi","F04: Stofskifte","F05: Andre progressive lidelser",
+"F06: Gigt","F07: Genetiske & medfødte","F08: Indre organer","F09: Hudlidelse,vansiring",
+"F10: Åndedræt","F11: Kredsløb","F12: Bevægeapparat","F13: Hjerneskade","F14: Immunforsvar",
+"F15: Andre handicaps","F16: Talehandicap","P00: Uspec. psykisk handicap","P01: Mental retardering",
+"P02: Organiske psykiske lidelser","P03: Misbrug","P04: Udviklingsforstyrrelse","P05: Personlighedsforstyrrelse",
+"P06: Psykotiske lidelser","P07: Andre psykiske lidelser";
+CODES("municipality")="000","955","956","957","959","960";
+CODES[da]("kommune")="000","955","956","957","959","960";
+CODES[kl]("kommuuni")="000","955","956","957","959","960";
+CODES("time")="2018";
+CODES[da]("tid")="2018";
+CODES[kl]("piffissaq")="2018";
+DECIMALS=0;
+SHOWDECIMALS=0;
+LAST-UPDATED="20201204 09:00";
+ELIMINATION("diagnosis Category")="Total";
+ELIMINATION[da]("diagnosekategori")="I alt";
+ELIMINATION[kl]("nappaatip suussusaa")="Katillugit";
+ELIMINATION("municipality")="Total";
+ELIMINATION[da]("kommune")="I alt";
+ELIMINATION[kl]("kommuuni")="Katillugit";
+DATA=
+1394 181 548 300 81 284 15 "-"
+10 .. "-" .. 30 5 13 8 "-"
+.. 35 .. 16 6 "-" 10 63 9
+19 19 .. 14 7 .. .. .. "-"
+"-" 5 .. .. "-" "-" .. 45 5
+20 9 .. 9 58 9 17 12 ..
+17 9 "-" 7 "-" .. .. .. "-"
+.. "-" .. "-" 5 "-" .. .. "-"
+.. .. .. .. "-" "-" .. 143 19
+49 39 8 28 110 19 31 29 7
+24 10 "-" 5 .. .. .. 14 "-"
+5 .. .. 6 12 .. 7 .. "-"
+"-" 28 .. 20 .. .. .. 258 33
+86 72 11 56 9 .. .. .. "-"
+.. 12 .. 5 "-" "-" .. 196 18
+81 38 13 46 14 .. 8 "-" ..
+.. 286 42 127 43 27 47 22 ..
+8 5 .. 5;

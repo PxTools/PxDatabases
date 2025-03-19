@@ -1,0 +1,103 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20190430 09:00";
+NEXT-UPDATE="20240630 09:00";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="ESX2A";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ES";
+SUBJECT-AREA="Businesses";
+SUBJECT-AREA[da]="Erhverv";
+SUBJECT-AREA[kl]="Inuussutissarsiorneq";
+COPYRIGHT=YES;
+DESCRIPTION="Number of businesses by operating mode, calculation variable and time <em>[ESE2A]</em>";
+DESCRIPTION[da]="Antal virksomheder efter driftform, opgørelsesvariabel og tid <em>[ESD2A]</em>";
+DESCRIPTION[kl]="Suliffeqarfiit amerlassusaat ingerlatseriaaseq naatsorsuusiussaq aamma piffissaq naatsorsuusiussaq aamma piffissaq <em>[ESN2A]</em>";
+TITLE="Number of businesses by operating mode, unit and time";
+TITLE[da]="Antal virksomheder efter driftform, enhed og tid";
+TITLE[kl]="Suliffeqarfiit amerlassusaat : ingerlatseriaaseq, end , piffissaq";
+CONTENTS="Number of businesses";
+CONTENTS[da]="Antal virksomheder";
+CONTENTS[kl]="Suliffeqarfiit amerlassusaat";
+UNITS="Number of businesses, Aggregate salaries and shares, in million DKK, Average salaries and shares, in million DKK";
+UNITS[da]="Antal virksomheder, Lønsum i mio. kr., Gennemsnitlig lønsum i mio. kr.";
+UNITS[kl]="Suliffeqarfiit amerlassusaat, Akissarsialiussat katillugit, mio. kr, Agguaqatigiissillugu akissarsialiussat, mio. kr";
+STUB="operating mode","unit";
+STUB[da]="driftform","enhed";
+STUB[kl]="ingerlatseriaaseq","end";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("operating mode")="Proprietorship","Limited companies","Private limited companies",
+"Other types of companies","Funds etc.","Foreign branches","No information given","Total";
+VALUES[da]("driftform")="Enkeltmandsvirksomheder","Aktieselskaber","Anpartsselskaber",
+"Øvrige selskabstyper","Fonde m.v.","Udenlandske filialer","Uoplyst","Total";
+VALUES[kl]("ingerlatseriaaseq")="Kisimiilluni ingerlatsiviit","Piginneqatigiilluni ingerlatsiviit",
+"Nammineq pigisat ingerlatsiviit","Ingerlatseriaatsit allat","Aningaasaateqarfiit il.il.",
+"Nunanit allamiunit pigineqartut","Paasissutissartaqanngitsut","katillugit";
+VALUES("unit")="Number of businesses","Aggregate salaries and shares, in million DKK",
+"Average salaries and shares, in million DKK";
+VALUES[da]("enhed")="Antal virksomheder","Lønsum i mio. kr.","Gennemsnitlig lønsum i mio. kr.";
+VALUES[kl]("end")="Suliffeqarfiit amerlassusaat","Akissarsialiussat katillugit, mio. kr",
+"Agguaqatigiissillugu akissarsialiussat, mio. kr";
+VALUES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021";
+VALUES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021";
+VALUES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021";
+TIMEVAL("time")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021";
+TIMEVAL[da]("tid")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021";
+CODES("operating mode")="1","2","3","4","5","6","7","9";
+CODES[da]("driftform")="1","2","3","4","5","6","7","9";
+CODES[kl]("ingerlatseriaaseq")="1","2","3","4","5","6","7","9";
+CODES("unit")="N","S","M";
+CODES[da]("enhed")="N","S","M";
+CODES[kl]("end")="N","S","M";
+CODES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021";
+CODES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021";
+CODES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021";
+LAST-UPDATED="20240219 09:00";
+CONTACT="Aqqaluaq Lund aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq Lund aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq Lund aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+2496 2697 2748 2889 2939 2872 2778 2970 2886 2974 3006 2760 3016 
+593.76 625.19 722.37 789.46 832.49 835.41 881.05 1052.52 893.38 955.71 1016.21 971.34 922.83 
+0.24 0.23 0.26 0.27 0.28 0.29 0.32 0.35 0.31 0.32 0.34 0.35 0.31 
+161 158 156 162 160 151 138 137 134 136 137 135 132 
+2832.81 2868.09 2979.52 3181.49 3229.24 2765.57 2991.96 3156.86 3244.66 3573.16 3582.22 3629.99 3678.69 
+17.6 18.15 19.1 19.64 20.18 18.32 21.68 23.04 24.21 26.27 26.15 26.89 27.87 
+351 352 348 364 353 348 348 355 362 351 365 365 405 
+802.95 833.22 870.87 888.37 852.67 777 876.51 1047.49 1073.81 1073.78 1119.77 1104.15 1290.67 
+2.29 2.37 2.5 2.44 2.42 2.23 2.52 2.95 2.97 3.06 3.07 3.03 3.19 
+116 130 141 174 165 167 189 207 205 152 156 138 168 
+366.97 398.13 412.77 435.85 444.67 457.2 498.04 450.11 433.26 258.53 279.14 352.47 340.28 
+3.16 3.06 2.93 2.5 2.69 2.74 2.64 2.17 2.11 1.7 1.79 2.55 2.03 
+157 155 162 168 172 177 176 173 172 163 178 166 165 
+489.01 498.86 517.28 530.96 539.69 558.11 571.21 593.65 649.49 655.33 688.05 674.02 690.73 
+3.11 3.22 3.19 3.16 3.14 3.15 3.25 3.43 3.78 4.02 3.87 4.06 4.19 
+17 65 86 55 48 31 25 31 83 57 53 61 64 
+78.85 225.33 427.63 212.05 100.94 44.7 36.57 45.57 155.34 155.83 121.16 210.26 291.58 
+4.64 3.47 4.97 3.86 2.1 1.44 1.46 1.47 1.87 2.73 2.29 3.45 4.56 
+81 87 85 76 69 61 136 87 152 129 92 79 113 
+105.9 100.43 97.46 95.47 84.76 91.68 109.86 121.49 95.69 44.94 39.97 39.85 36.5 
+1.31 1.15 1.15 1.26 1.23 1.5 0.81 1.4 0.63 0.35 0.43 0.5 0.32 
+3379 3644 3726 3888 3906 3807 3790 3960 3994 3962 3987 3704 4063 
+5270.25 5549.25 6027.9 6133.65 6084.45 5529.68 5965.21 6467.7 6545.64 6717.28 6846.52 6982.09 7251.27 
+1.56 1.52 1.62 1.58 1.56 1.45 1.57 1.63 1.64 1.7 1.72 1.89 1.78; 

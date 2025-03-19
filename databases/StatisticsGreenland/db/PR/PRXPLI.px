@@ -1,0 +1,196 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150126 09:00";
+NEXT-UPDATE="20190201 09:00";
+UPDATE-FREQUENCY="Periodically";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="PRXPLI";
+SUBJECT-CODE="PR";
+SUBJECT-AREA="Prices";
+SUBJECT-AREA[da]="Priser";
+SUBJECT-AREA[kl]="Akit";
+COPYRIGHT=YES;
+DESCRIPTION="Price level index (index DK=100) by commodity group (2014-2016)";
+DESCRIPTION[da]="Prisniveauindeks (indeks DK=100) efter varegrupper (2014-2016)";
+DESCRIPTION[kl]="Akigititat inissisimaffiinik naleqqersuut (indeks DK=100) pisiassat eqimattanut (2014-2016)";
+TITLE="Price level index (index DK=100) by commodity group (2014-2016)";
+TITLE[da]="Prisniveauindeks (indeks DK=100) efter varegrupper (2014-2016)";
+TITLE[kl]="Akigititat inissisimaffiinik naleqqersuut (indeks DK=100) pisiassat eqimattanut (2014-2016)";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="Price level index (PLI) a bilateral comparison with Denmark";
+CONTENTS[da]="Prisniveauindeks (PLI) en bilateral prisssammenligning med Danmark";
+CONTENTS[kl]="Akigititat inissisimaffiinik naleqqersuut (PLI) Kalaallit Nunaanni Danmarkimilu akit imminnut sanilliunneqarnerat";
+UNITS="percent";
+UNITS[da]="procent";
+UNITS[kl]="procent";
+STUB="commodity group";
+STUB[da]="varegrupper";
+STUB[kl]="pisiassat eqimattat";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("commodity group")="00. All items","01. Food and non-alcoholic beverages","01.1 Food",
+"01.1.1 Bread and cereals","01.1.2 Meat","01.1.3 Fish","01.1.4 Milk, cheese and eggs",
+"01.1.5 Oils and fats","01.1.6 Fruit","01.1.7 Vegetables",
+"01.1.8 Sugar, jam,honey, chocolate and confectionary","01.1.9 Food products n.e.c.",
+"01.2 Non-alcoholic beverages","01.2.1 Coffee, tea and cocoa",
+"01.2.2 Mineral waters, soft drinks, fruit and vegetable juices","02. Alcoholic beverages, tobacco",
+"02.1 Alcoholic beverages","02.2 Tobacco","03. Clothing and footwear","03.1 Clothing",
+"03.2 Footwear","04. Housing, water, electricity, gas and other fuels","04.1 Rents",
+"04.4 Water supply and miscellaneous services relating to the dwelling",
+"04.5 Electricity, gas and other fuels",
+"05. Furnishings, household equipment and routine maintenance of the house",
+"05.1 Furniture and furnishings, carpets and other floor coverings","05.2 Household textiles",
+"05.3 Household appliances","05.4 Glassware, tableware and household utensils",
+"05.5 Tools and equipment for house and garden",
+"05.6 Goods and services for routine household maintenance","06. Health",
+"06.1 Medical products, appliances and equipment","06.2 Out-patient services","07. Transport",
+"07.1 Purchase of vehicles","07.2 Drift af personlige transportmidler","07.3 Transport services",
+"08. Communication","08.1 Postal services","08.2 Telephone equipment","08.3 Telephone services",
+"09. Recreation and culture","09.1 Audio-visual, photographic and information processing equipment",
+"09.2 Othermajor durables for recreation and culture",
+"09.3 Other recreational items and equipment, gardens and pets",
+"09.4 Recreational and cultural services","09.5 Newspapers, books and stationery",
+"09.6 Package holidays","10. Education","10.1 Education","11. Restaurants and hotels",
+"11.1 Catering services","11.2 Accommodation services","12. Miscellaneous goods and services",
+"12.1 Personal care","12.3 Personal effects n.e.c.","12.4 Social protection","12.5 Insurance",
+"12.6-7 Financial services n.e.c. and Other services n.e.c.";
+VALUES[da]("varegrupper")="00. Samtlige varer og tjenester",
+"01. Fødevarer og ikke alkoholiske drikkevarer","01.1 Fødevarer","01.1.1 Brød og kornprodukter",
+"01.1.2 Kød","01.1.3 Fisk","01.1.4 Mælk, ost og æg","01.1.5 Smør, spiseolie og margarine",
+"01.1.6 Frugter","01.1.7 Grønsager","01.1.8 Sukkervarer, marmelade, chokolade mv.",
+"01.1.9 Andre fødevarer","01.2 Ikke alkoholiske drikkevarer","01.2.1 Kaffe, the og kakao",
+"01.2.2 Mineralvand, sodavand, frugt- og grønsagsjuice","02. Alkoholiske drikkevarer og tobak",
+"02.1 Alkoholiske drikkevarer","02.2 Tobak","03. Beklædning og fodtøj",
+"03.1 Beklædning, andre artikler til beklædning","03.2 Fodtøj",
+"04. Bolig, vand, elektricitet, gas og andet brændsel","04.1 Husleje","04.4 Vand",
+"04.5 Brændsel, el, gas og varme","05. Boligudstyr og husholdningstjenester",
+"05.1 Møbler og boligudstyr, tæpper mv.","05.2 Boligtekstiler",
+"05.3 Husholdningsapparater og reparation heraf","05.4 Glas, service og husholdningsredskaber",
+"05.5 Værktøj og udstyr til hus og have","05.6 Varer og tjenestertil almindelig husførelse",
+"06. Sundhed","06.1 Medicinske produkter","06.2 Ambulant behandling","07. Transport",
+"07.1 Anskaffelse af køretøjer","07.2 Drift af personlige transportmidler",
+"07.3 Transporttjenester","08. Kommunikation","08.1 Porto","08.2 Teleudstyr","08.3 Teletjenester",
+"09. Fritid og kultur","09.1 Audiovisuelt og fotografisk udstyr og databehandlingsudstyr",
+"09.2 Andre større forbrugsgoder ifm. fritid og kultur",
+"09.3 Andet tilbehør til fritid, haver og kæledyr","09.4 Tjenester ifm. fritid og sport",
+"09.5 Aviser, bøger og papirvarer","09.6 Charterrejser","10. Uddannelse","10.1 Uddannelse",
+"11. Restauranter og hoteller","11.1 Restauranter, cafeer, kantiner mv.",
+"11.2 Overnatning, hoteller","12. Andre varer og tjenester","12.1 Personlig pleje",
+"12.3 Andre personlige effekter","12.4 Daginstitutioner og social forsorg","12.5 Forsikringer",
+"12.6-7 Andre tjenester inkl. finansielle tjenester";
+VALUES[kl]("pisiassat eqimattat")="00. Inuussutissat kiffartuussinerillu ataatsimut",
+"01. Nerisassat imigassallu aalakoornartunik akoqanngitsut","01.1 Inuussutissat il.il.",
+"01.1.1 Iffiukkat karrinillu nioqqutissiat","01.1.2 Neqit, neqinik nioqqutissiat",
+"01.1.3 Aalisakkat","01.1.4 Immuk, immuup qalippernera, immussuaq, manniit",
+"01.1.5 Punneq, margariina il.il.","01.1.6 Paarnat","01.1.7 Naatitat",
+"01.1.8 Sukkut mamakujuttullu il.il.","01.1.9 Inuussutissat allat",
+"01.2 Imigassallu aalakoornartunik akoqanngitsut","01.2.1 Kaffi, te il.il.",
+"01.2.2 Sodavandi aamma paarnap issera","02. Imigassat aalakoorartut tupallu",
+"02.1 Imigassaq aalakoornartoq","02.2 Tupa","03. Atisat isikkatigullu atukkat",
+"03.1 Atisat, nioqqutissallu allat atisanut atorneqartartut","03.2 Isikkatigut atukkat",
+"04. Ineqarneq, imeq, inaallagiak, gassi,ikummatissallu allat","04.1 Ineqarnermut akiliutit",
+"04.4 Imeq","04.5 Ikummatissaq, innaallagiak, gassi kiassarnerlu",
+"05. Inigisami atortut pissarsiat","05.1 Pisattat ineqarnermilu atortut, natersuit il.il.",
+"05.2 Annoraamerngit inigisani atorneqartartut","05.3 Inoqutigiinni atortut taakkualu iluarsarneri",
+"05.4 Immiartorfiit, nerinermut atortut, inoqutigiinnilu sakkut",
+"05.5 Illumut naatsiivimmullu sakkut atortussallu",
+"05.6 Nalinginnaasumik illumi atuinernut nioqqutissat kiffartuussinerillu","06. Peqqissuseq",
+"06.1 Nakorsaatit","06.2 Ornigunnerinnakkut suliaritinneq","07. Assartuineq",
+"07.1 Qamutinik pisineq","07.2 Inunnik assartuissutinik ingerlatsineq",
+"07.3 Assartuinermi kiffartuussinerit","08. Attaveqaqatigiinneq","08.1 Porto",
+"08.2 Attaveqaqatigiinnermi atortut","08.3 Attaveqaqatigiinnermi kiffartuussinerit",
+"09. Sunngiffik aamma piorsarsimassuseq",
+"09.1 Tusarnaagassat isiginnaagassallu aamma assiliinermi atortut qarasaassiaqarnermilu atortut",
+"09.2 Sunngiffimmut kulturimullu atatillugu atuinermi iluaqutissat allat annertunerusut",
+"09.3 Sunngiffimmi, naatsiiveqarnermi uumasuuteqarnermilu atortut allat",
+"09.4 Sunngiffimmut timersornermullu atatillugu kiffartuussinerit",
+"09.5 Aviisit, atuakkat allallu pappiaqqanik sanaat","09.6 Charterimik angalanerit",
+"10. Ilinniartitsineq","10.1 Ilinniartitsineq","11. Neriniartarfiit akunnittarfiillu",
+"11.1 Neriniartarfiit, cafeet, kantiinat il.il.","11.2 Unnuinerit, hotelit",
+"12. Nioqqutissat allat, sullisinerillu allat","12.1 Imminut isumagineq",
+"12.3 Inuit pigisaat allat","12.4 Ullukkut paaqqinnittarfiit inunnillu isumaginninneq",
+"12.5 Sillimmasiinerit",
+"12.6-7 Kiffartuussinerit allat aningaasaqarnikkut sullissinerit ilanngullugit";
+VALUES("time")="2014","2016";
+VALUES[da]("tid")="2014","2016";
+VALUES[kl]("piffissaq")="2014","2016";
+ELIMINATION("commodity group")="00. All items";
+ELIMINATION[da]("varegrupper")="00. Samtlige varer og tjenester";
+ELIMINATION[kl]("pisiassat eqimattat")="00. Inuussutissat kiffartuussinerillu ataatsimut";
+LAST-UPDATED="20170201 09:00";
+CONTACT="Daniel Schütt, dasc@stat.gl";
+CONTACT[da]="Daniel Schütt, dasc@stat.gl";
+CONTACT[kl]="Daniel Schütt, dasc@stat.gl";
+SOURCE="Grønlands Statistik";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Method and definitions are explained in the publications regarding the PLI, which can be acquired at www.stat.gl#";
+NOTE[da]="For metode og definitioner jævnfør metodebeskrivelsen i publikationen, der kan hentes på www.stat.gl#";
+NOTE[kl]="Saqqummersitami periaatsip allaaserinerani periaaseq nassuiaasiinerillu, www.stat.gl iserfigalugu aaneqarsinnaapput#";
+DATA=
+102.4 106.3 
+119.5 136.4 
+116.3 134 
+124.6 148 
+121.1 142.9 
+82.3 82.8 
+122.5 141 
+126.7 134.9 
+132.3 145.9 
+148.2 160.1 
+116.6 160.3 
+129 132.7 
+138.8 154.5 
+121.8 124.2 
+143.8 166.6 
+168.4 196.7 
+224.2 243.7 
+126.2 162.3 
+98.3 99.6 
+98.2 99.1 
+98.6 102 
+84.1 87.9 
+90.4 88.9 
+56.4 64.8 
+77.4 93.1 
+121.4 119.6 
+131.6 122.9 
+118.9 118.4 
+130.7 122.1 
+93.4 103 
+107.2 128.3 
+120.3 120.4 
+112.5 117.5 
+107.3 114.2 
+115.7 122 
+102 99.3 
+97.1 107.2 
+82.6 77.4 
+126.8 115 
+180.7 159.9 
+99.4 117.6 
+114.5 115.2 
+198.8 170.3 
+121.3 109.6 
+115.3 109.1 
+91.2 80.8 
+110.1 110.4 
+111 98.7 
+114.9 116.7 
+110.8 103.3 
+40.1 41.3 
+40.1 41.3 
+108.4 101.3 
+105.5 98.2 
+124.7 115.4 
+74.3 79.2 
+117.9 118.6 
+99.2 105 
+40.8 51.4 
+84 92.9 
+70.8 68.6; 

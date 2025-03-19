@@ -1,0 +1,70 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20210512 09:00";
+NEXT-UPDATE="20250405 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXPV005";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social Service";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Forster parents by number af forster children <em>[SOEPV005]</em>";
+DESCRIPTION[da]="Plejeforældre efter antal plejebørn <em>[SODPV005]</em>";
+DESCRIPTION[kl]="Angajoqqaarsiat meeqqat paarsat amerlassusiinut immikkoortillugit <em>[SONPV005]</em>";
+TITLE="Foster parents by antalplejebørn and year";
+TITLE[da]="Plejeforældre efter antal plejebørn og aar";
+TITLE[kl]="Angajoqqaarsiat : meeqqat paarsat amerlassusaat , ukioq";
+CONTENTS="Foster parents";
+CONTENTS[da]="Plejeforældre";
+CONTENTS[kl]="Angajoqqaarsiat";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit";
+STUB="antalplejebørn";
+STUB[da]="antal plejebørn";
+STUB[kl]="meeqqat paarsat amerlassusaat";
+HEADING="year";
+HEADING[da]="aar";
+HEADING[kl]="ukioq";
+VALUES("antalplejebørn")="Total","1","2","3","4+";
+VALUES[da]("antal plejebørn")="I alt","1","2","3","4+";
+VALUES[kl]("meeqqat paarsat amerlassusaat")="Katillugit","1","2","3","4+";
+VALUES("year")="2018","2019","2020","2021","2022","2023";
+VALUES[da]("aar")="2018","2019","2020","2021","2022","2023";
+VALUES[kl]("ukioq")="2018","2019","2020","2021","2022","2023";
+TIMEVAL("year")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("aar")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("ukioq")=TLIST(A1),"2018","2019","2020","2021","2022","2023";
+CODES("antalplejebørn")="99","1","2","3","4";
+CODES[da]("antal plejebørn")="99","1","2","3","4";
+CODES[kl]("meeqqat paarsat amerlassusaat")="99","1","2","3","4";
+CODES("year")="2018","2019","2020","2021","2022","2023";
+CODES[da]("aar")="2018","2019","2020","2021","2022","2023";
+CODES[kl]("ukioq")="2018","2019","2020","2021","2022","2023";
+LAST-UPDATED="20240405 09:00";
+CONTACT="Anders Blaabjerg abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="www.stat.gl/sod202202/m1";
+LINK[da]="www.stat.gl/sod202202/m1";
+LINK[kl]="www.stat.gl/son202202/m1";
+NOTE="The statistics includes regular family care but not emergency care. Professional family care and network care are not included.";
+NOTE[da]="Opgørelsen omfatter almindelig familiepleje dog ikke akut pleje. Professionel familiepleje og netværkspleje er ikke inkluderet.";
+NOTE[kl]="Ilaqutariit paarsisartut pillugit naatsorsorneqarput, pinasuartumilli ilaqutariit paarsisartut ilanngunneqanngillat. Inuussutissarsiutigalugu ilaqutariit paarsisartut aamma ilaquttanik/kammalaatinik paarsisartut ilanngunneqanngillat. "
+"Paasisaqarnerorusukkuit";
+DATA=
+227 233 254 257 263 256
+151 145 164 158 170 158
+46 59 58 70 62 64
+23 21 22 19 22 23
+7 8 10 10 9 11;

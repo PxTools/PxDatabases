@@ -1,0 +1,329 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20140505 11:00";
+NEXT-UPDATE="20250506 11:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+MATRIX="ENEMO3BR";
+SUBJECT-CODE="EN";
+SUBJECT-AREA="Energy";
+SUBJECT-AREA[da]="Energi";
+SUBJECT-AREA[kl]="Nukissiuuteqarneq";
+COPYRIGHT=YES;
+DESCRIPTION="Registered motor vehicles by industry <em>[ENEMO3BR]</em>";
+DESCRIPTION[da]="Registrerede motorkøretøjer fordelt efter brancher <em>[ENDMO3BR]</em>";
+DESCRIPTION[kl]="Qamutit motoorillit nalunaarsukkat by inuussutissarsiornermut atatillugu biili <em>[ENNMO3BR]</em>";
+TITLE="Registered motor vehicles by category, industry and time";
+TITLE[da]="Registrerede motorkøretøjer efter kategori, branche og tid";
+TITLE[kl]="Qamutit motoorillit nalunaarsukkat by immikkoortunut atatitaq, Inuussutissarsiornermut atatillugu biili and piffissaq";
+CONTENTS="Registered motor vehicles";
+CONTENTS[da]="Registrerede motorkøretøjer";
+CONTENTS[kl]="Qamutit motoorillit nalunaarsukkat";
+UNITS="Number of motor vehicles";
+UNITS[da]="Antal køretøjer";
+UNITS[kl]="Qamutit amerlassusaat";
+STUB="category","industry";
+STUB[da]="kategori","branche";
+STUB[kl]="immikkoortunut atatitaq","inuussutissarsiornermut atatillugu biili";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("category")="Motor vehicles total","ATV and 4-wheeler","Buses","Construction machineries","Taxis","Trucks",
+"Motorcycles","Cars","Trailers","Snowmobiles","Emergency vehicles","Vans","Other motor vehicles";
+VALUES[da]("kategori")="Motorkøretøjer i alt","ATV og 4-hjuler","Busser","Entreprenørmaskiner","Hyrevogne",
+"Lastbiler","Motorcykler","Personbiler","Påhængsvogne","Snescootere","Udrykningskøretøjer",
+"Varebiler","Øvrige køretøjer";
+VALUES[kl]("immikkoortunut atatitaq")="Qamutit motorillit katillugit","ATV","Bussit",
+"Sanaartugassanut maskiinat","Biilit attartortakkat","Lastbiilit","Motorcyklit",
+"Inunnut ilaasartaatit","Qamutit kalusiuttakkat","Snescooterit","Ikiuiartornermi qamutit",
+"Varebiilit","Qamutit motorillit allat";
+VALUES("industry")="Total","Private households","Agriculture, forestry and related industries","Fishing and other related industries",
+"Mining and quarrying","Manufacturing","Energy and watersupply","Construction","Wholesale and retail trade",
+"Transportation and storage","Accommodation and food service activities","Information and communication",
+"Financial and insurance activities","Real estate activities","Professional, scientific and technical activities",
+"Administrative and support service activities","Public administration and service","Other service industries","Unknown";
+VALUES[da]("branche")="Total","Private husholdninger","Landbrug, skovbrug og landbrugsrelateret industri og handel","Fiskeri og fiskerirelateret industri og handel","Råstofindvinding",
+"Fremstillingsvirksomhed","Energi- og vandforsyning","Bygge- og anlægsvirksomhed","Engroshandel og detailhandel",
+"Transport og godshåndtering","Overnatningsfaciliteter og restaurationsvirksomhed","Information og kommunikation",
+"Pengeinstitut og finansvirksomhed","Fast ejendom","Liberale, videnskabelige og tekniske tjenesteydelser",
+"Administrative tjenesteydelser og hjælpetjenester","Offentlig forvaltning og service","Øvrige serviceerhverv","Uoplyst";
+VALUES[kl]("inuussutissarsiornermut atatillugu biili")="Inuussutissarsiutit assigiinngitsut","Illumi atukkat",
+"Nunalerineq orpipassualerineq nunanerilermullu tunngasunik suliaqarneq aamma niuerneq","Aalisarneq, aalisakkanik tunisassiorneq niuernerlu","Aatsitassiorneq",
+"Atortussiorneq","Innaallagiamik imermillu pilersuineq","Sanaartorneq","Niuertunik pilersuineq atugassanillu nioqquteqarneq",
+"Assartuineq assartugassalerinerlu","Akunnittarfiit neriniartarfiillu","Paasissutissalerineq attaveqaatilerinerlu",
+"Aningaaseriviit, aningaasaliisarfiit sillimmasiisarfiillu","Inissianik attartortitsinerit sullissinerillu allat",
+"Namminersortunit, ilisimatusarnikkut teknikkikkullu suliaqartunit kiffartuussinerit",
+"Allaffissornikkut kiffartuussinerit","Pisortat allaffissornerat","Kiffartuussinerit allat","Paasissutissaqanngitsut";
+VALUES("time")="2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES[da]("tid")="2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES[kl]("piffissaq")="2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+ELIMINATION("category")="Motor vehicles total";
+ELIMINATION[da]("kategori")="Motorkøretøjer i alt";
+ELIMINATION[kl]("immikkoortunut atatitaq")="Qamutit motorillit katillugit";
+ELIMINATION("industry")="Total";
+ELIMINATION[da]("branche")="Total";
+ELIMINATION[kl]("inuussutissarsiornermut atatillugu biili")="Inuussutissarsiutit assigiinngitsut";
+ELIMINATION("time")="2024";
+ELIMINATION[da]("tid")="2024";
+ELIMINATION[kl]("piffissaq")="2024";
+TIMEVAL("time")=TLIST(A1,"2007"-"2024");
+TIMEVAL[da]("tid")=TLIST(A1,"2007"-"2024");
+TIMEVAL[kl]("piffissaq")=TLIST(A1,"2007"-"2024");
+LAST-UPDATED="20240508 11:00";
+CONTACT="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[da]="Lene Baunbæk, LEBA@stat.gl";
+CONTACT[kl]="Lene Baunbæk, LEBA@stat.gl";
+NOTE="Registered motor vehicles per 1. January. From 2014 construction machineries, trailers and snowmobiles are also registret.";
+NOTE[da]="Registrerede motorkøretøjer pr. 1. januar. Fra 2014 registreres også entreprenørmaskiner, påhængsvogne og snescootere.";
+NOTE[kl]="Jannuaarip aallaqqaataani qamutit motoorillit nalunaarsukkat. 2014-miit sanaartugassanut maskiinat, qamutit kalusiuttakkat snescooterillu nalunaarsorneqartalerputtaaq.";
+DATA=
+5188	5477	4994	5838	5384	5923	5849	6674	7528	8074	8831	9465	11145	11962	12814	13843	14511	15065
+2062	2167	1877	2233	2092	2294	2336	2746	3296	3641	4127	4515	5716	6242	6737	7381	7748	8052
+0	0	0	0	0	0	0	0	0	6	5	10	11	17	18	22	24	29
+94	95	90	103	91	98	107	118	142	156	181	194	228	244	261	273	286	287
+16	19	15	19	16	21	20	27	28	39	33	33	41	39	42	41	35	37
+50	49	42	47	40	45	40	54	51	54	52	54	57	67	73	75	82	95
+141	138	138	158	151	156	152	171	191	188	185	192	218	224	225	239	242	259
+821	873	811	927	840	913	885	1039	1108	1168	1261	1301	1449	1522	1718	1925	2044	2128
+409	431	372	426	380	403	389	417	440	465	517	508	540	571	607	707	718	764
+537	576	541	655	552	683	666	713	742	763	769	815	872	928	967	1002	1061	1093
+78	76	74	81	79	77	81	85	88	103	112	120	117	119	130	152	165	182
+160	154	149	176	171	180	179	179	173	171	173	167	172	185	191	185	182	179
+19	25	14	15	14	13	13	17	15	17	21	29	23	28	30	32	36	25
+182	211	204	246	220	236	213	215	223	220	221	221	215	193	196	133	143	158
+61	59	57	64	61	77	73	70	68	74	79	81	83	74	80	78	85	95
+88	100	88	119	128	144	125	160	194	198	216	268	329	391	404	407	437	431
+435	468	488	534	516	541	537	611	710	753	815	887	991	1026	1044	1097	1132	1157
+31	32	31	32	31	40	31	50	57	56	63	69	81	86	85	85	82	84
+4	4	3	3	2	2	2	2	2	2	1	1	2	6	6	9	9	10
+65	77	75	97	115	127	124	149	193	217	255	322	376	428	502	646	738	903
+28	35	33	47	59	72	57	77	87	88	104	136	163	198	240	310	384	476
+0	0	0	0	0	0	0	0	0	2	2	5	6	9	10	14	15	22
+4	3	3	4	4	2	3	4	5	5	6	5	8	8	10	14	17	17
+0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	5	7	8
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	4
+10	10	13	18	19	17	18	18	19	23	20	21	19	19	21	23	26	32
+2	3	3	3	3	3	3	3	7	12	18	23	29	37	49	64	62	85
+4	4	4	6	8	6	6	6	10	14	18	21	21	27	32	37	43	49
+0	0	0	0	0	1	1	1	1	1	0	0	2	4	4	7	9	22
+0	2	1	1	1	1	2	1	2	2	3	7	7	2	2	7	10	11
+1	1	1	1	2	3	3	3	3	2	2	2	2	2	2	2	2	4
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	1	0	0	0	0	0	1	1	0	0	0	2	2	2	2	1	5
+1	1	1	1	1	1	0	0	0	0	1	1	2	1	0	1	1	3
+0	0	0	0	0	0	0	1	7	7	9	13	14	16	19	27	31	32
+14	17	16	16	18	21	31	33	49	60	70	86	95	96	103	127	124	129
+0	0	0	0	0	0	0	1	2	1	2	2	1	2	2	4	4	4
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+63	65	70	84	83	91	85	80	77	77	84	85	96	97	101	106	108	106
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	2
+0	0	0	0	0	0	0	0	0	1	1	2	2	2	2	2	1	1
+0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	5	4	5	11	17	15	10	8	7	10	7	10	14	19	16	18	20
+2	1	1	1	1	1	1	0	0	0	0	0	1	1	1	3	2	3
+16	18	27	31	24	31	32	27	29	28	27	27	27	27	27	26	29	29
+4	4	5	5	5	5	5	7	7	7	7	8	10	11	13	18	14	12
+2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	3	3	3	3	2	2	2	0
+1	1	0	0	0	0	0	1	1	2	2	2	3	3	2	0	0	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	13	9	15	17	12	9	9	8	10	10	11	16	13	6	5	8	8
+20	20	23	26	25	25	23	26	24	22	24	24	22	21	26	30	32	29
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	2	1	1	1	1	2	281	465	538	590	723	882	947	1028	1119	1188	1211
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9
+0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0
+0	0	0	0	0	0	0	9	26	36	40	48	65	71	78	83	88	88
+0	0	0	0	0	0	0	3	5	13	11	10	14	14	15	15	15	14
+0	0	0	0	0	0	0	7	7	8	8	9	8	10	11	11	13	15
+0	0	0	0	0	0	0	9	16	16	18	20	24	24	26	29	30	31
+0	0	0	0	0	0	0	154	194	220	237	282	339	351	410	494	519	516
+0	0	0	0	0	0	0	13	31	42	51	64	76	79	85	87	94	105
+0	0	0	0	0	0	0	39	89	95	103	133	167	182	186	197	202	208
+0	0	0	0	0	0	0	0	0	0	0	1	2	2	3	3	5	5
+0	0	0	0	0	0	0	0	1	1	1	1	1	2	2	2	4	5
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	6	12	13	15	20	20	23	27	17	22	24
+0	0	0	0	0	0	0	0	0	1	2	4	4	4	4	5	5	5
+1	1	0	0	0	0	0	7	10	10	13	13	18	31	29	19	19	10
+0	1	1	1	1	1	2	26	62	72	82	108	131	141	138	139	153	163
+0	0	0	0	0	0	0	7	10	9	9	9	11	11	11	12	12	13
+0	0	0	0	0	0	0	1	2	2	0	0	1	1	2	5	6	0
+134	158	146	220	182	250	232	228	220	229	242	221	215	225	211	197	177	149
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+134	158	146	220	182	250	232	228	220	229	242	221	215	224	211	197	177	149
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+375	368	338	379	324	368	351	339	334	342	347	360	374	395	397	424	446	453
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	11	11	12	8	12	10	11	8	5	5	5	6	7	8	9	9	12
+3	3	2	2	2	2	2	4	3	3	2	2	2	2	2	2	1	1
+5	8	6	8	9	10	9	9	7	9	7	7	8	12	11	11	13	11
+32	31	31	34	29	35	31	28	27	27	25	28	29	29	25	27	27	27
+94	91	74	91	75	80	74	73	74	83	93	99	99	93	101	114	122	125
+59	56	52	60	50	57	55	54	62	64	64	58	61	63	62	62	65	70
+111	109	105	111	93	112	115	110	106	106	103	112	122	130	132	143	154	154
+4	4	4	4	5	5	6	4	4	4	4	3	1	1	1	5	5	5
+2	2	2	2	1	2	2	2	2	2	2	2	2	3	3	1	1	1
+0	0	0	0	0	0	0	0	0	1	1	1	1	1	4	4	4	2
+16	16	10	12	12	12	10	9	8	6	9	7	4	4	5	4	3	5
+0	0	1	1	1	2	0	0	0	1	1	1	1	1	2	2	1	1
+5	6	12	12	12	11	11	11	11	9	7	8	9	17	14	13	11	9
+27	28	27	29	27	27	25	24	22	22	24	27	28	28	23	23	27	26
+2	2	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+1	1	0	0	0	0	1	0	0	0	0	0	1	4	4	4	3	3
+1	1	1	2	1	1	3	2	2	2	1	2	2	3	2	3	4	5
+1	1	1	2	1	1	3	2	2	2	1	2	2	3	2	3	4	4
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3201	3385	3040	3611	3371	3684	3669	3713	3805	3961	4309	4588	5029	5385	5836	6239	6547	6799
+1839	1927	1682	2008	1871	2058	2125	2175	2273	2402	2671	2916	3251	3525	3839	4133	4299	4432
+0	0	0	0	0	0	0	0	0	3	2	3	2	3	2	2	3	2
+47	51	52	59	54	60	69	69	70	73	87	93	95	96	97	93	98	93
+7	8	6	9	6	11	11	14	14	12	10	11	10	10	12	10	5	7
+23	17	14	17	14	16	16	16	16	17	19	18	18	22	26	26	28	40
+48	47	45	53	56	58	60	59	55	54	56	57	56	61	64	68	74	76
+289	318	294	354	330	364	355	341	337	338	357	343	379	406	456	502	554	573
+162	177	147	175	161	170	174	178	173	172	199	181	188	199	212	296	286	308
+159	176	158	181	163	181	177	180	169	170	157	172	173	187	211	225	277	311
+45	44	43	49	50	49	47	49	44	50	54	59	51	53	58	61	68	84
+86	83	77	95	95	96	94	93	87	91	93	88	98	105	108	105	101	100
+14	19	13	14	13	12	11	14	13	15	16	17	17	21	21	21	24	21
+112	127	132	157	126	137	105	92	101	104	107	105	109	98	100	52	61	63
+49	48	46	53	55	65	64	61	58	60	61	62	65	59	65	59	64	71
+58	62	53	79	88	104	79	84	101	101	112	147	182	202	231	242	259	262
+243	260	260	289	271	278	261	266	271	275	284	289	306	305	300	314	317	322
+17	18	15	16	16	23	20	21	23	24	23	26	29	33	34	30	29	30
+3	3	3	3	2	2	1	1	0	0	1	1	0	0	0	0	0	4
+0	0	0	0	0	0	0	93	157	179	203	246	299	343	396	429	464	483
+0	0	0	0	0	0	0	11	27	33	42	57	68	82	97	113	122	130
+0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3
+0	0	0	0	0	0	0	2	4	4	4	4	4	5	7	7	8	8
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	8	7	7	7	7	9	8	9	9	9	8
+0	0	0	0	0	0	0	2	5	5	5	6	11	11	11	11	11	11
+0	0	0	0	0	0	0	30	44	50	54	62	66	71	85	94	101	103
+0	0	0	0	0	0	0	7	10	11	15	16	22	27	34	34	35	38
+0	0	0	0	0	0	0	15	23	26	25	37	43	48	55	60	64	68
+0	0	0	0	0	0	0	1	5	5	7	7	8	8	10	10	11	13
+0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	4	5	5
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	4	7	7	9	8	12	13	13	12	15	15
+0	0	0	0	0	0	0	0	0	1	1	2	2	2	2	2	2	2
+0	0	0	0	0	0	0	4	5	5	7	7	12	15	18	20	23	23
+0	0	0	0	0	0	0	7	18	23	24	30	38	43	45	46	51	52
+0	0	0	0	0	0	0	2	2	2	3	3	3	4	4	4	4	4
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	1	1	5	416	922	1177	1411	1543	2478	2719	2869	3156	3307	3389
+0	0	0	0	1	1	2	337	773	996	1191	1296	2129	2333	2459	2721	2848	2902
+0	0	0	0	0	0	0	0	0	1	1	1	2	1	1	1	1	1
+0	0	0	0	0	0	0	0	8	8	9	10	19	24	29	33	35	38
+0	0	0	0	0	0	0	0	0	2	2	2	2	2	2	2	2	2
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	3	3
+0	0	0	0	0	0	0	9	23	24	22	23	40	44	45	47	44	48
+0	0	0	0	0	0	1	7	11	8	12	16	27	31	35	41	47	47
+0	0	0	0	0	0	1	6	12	21	27	28	29	29	36	39	42	41
+0	0	0	0	0	0	0	1	1	2	3	5	11	11	16	19	15	20
+0	0	0	0	0	0	0	2	3	5	7	8	12	17	17	20	21	24
+0	0	0	0	0	0	0	2	4	4	5	6	7	9	9	10	11	10
+0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	4	4	4	4	5	4	3	3	4	3
+0	0	0	0	0	0	0	0	2	2	2	2	5	2	3	3	3	5
+0	0	0	0	0	0	0	11	15	19	22	33	39	44	41	33	40	47
+0	0	0	0	0	0	1	35	57	72	87	92	130	146	151	160	163	166
+0	0	0	0	0	0	0	5	8	9	17	17	21	22	21	22	28	29
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+74	79	93	100	110	119	129	135	142	144	161	169	176	184	199	204	216	226
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	16	15	17	17	18	19	20	20	21	22	22	25	26	31	33	37	39
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+57	63	78	83	93	101	110	115	122	123	139	147	151	158	168	171	179	184
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1274	1342	1230	1344	1196	1281	1249	1213	1174	1168	1186	1159	1167	1177	1209	1256	1251	1273
+194	204	161	176	160	162	149	144	134	120	118	108	103	100	99	99	90	95
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1
+27	29	23	27	25	24	25	23	21	25	30	29	30	32	31	33	30	28
+6	8	7	8	8	8	7	6	6	7	6	5	5	3	3	4	3	3
+22	24	22	22	17	19	15	14	14	13	11	12	13	14	13	13	13	13
+51	50	49	53	47	46	43	44	43	36	35	32	33	30	27	28	24	27
+432	456	436	474	421	449	437	405	415	432	461	447	477	493	534	571	591	628
+182	193	168	184	160	169	152	153	142	140	142	139	141	144	144	148	150	148
+100	99	90	95	73	90	90	86	76	77	79	78	79	80	82	83	85	80
+25	22	21	22	18	17	21	21	22	28	28	25	24	23	24	26	29	26
+69	66	69	78	73	79	80	79	76	71	70	68	61	61	64	61	58	54
+5	6	1	1	1	1	2	2	1	1	1	8	2	3	3	5	6	2
+52	66	62	77	82	87	98	101	88	83	74	74	58	43	41	40	34	39
+11	10	9	9	4	9	9	9	8	9	11	9	4	5	4	6	9	8
+12	18	14	13	11	17	26	33	37	37	36	36	39	53	46	48	46	40
+74	79	83	90	81	88	84	79	79	78	75	77	82	79	81	78	77	77
+12	12	15	15	15	16	11	14	12	11	9	12	16	14	12	12	5	4
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	25	37	40	42	47	51	59	64	64	65	68
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	2	3	3	4	5	6	6	6	6	6	7
+0	0	0	0	0	0	0	16	18	18	19	22	23	26	29	29	30	30
+0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1
+0	0	0	0	0	0	0	6	8	8	8	8	8	9	12	12	12	13
+0	0	0	0	0	0	0	0	1	2	2	2	2	2	2	2	2	2
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	1	1	1	1	1	2	3	3	3	3	3
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	6	6	6	7	8	9	9	9	9	9
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+; 

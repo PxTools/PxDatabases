@@ -1,0 +1,115 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150626 09:00";
+NEXT-UPDATE="20250425 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXFPE2";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Early retirement pensioners in December by time, gender and amount by groups <em>[SOEFPE2]</em>";
+DESCRIPTION[da]="Førtidspensionister i december fordelt på tid, beløbsgruppe og køn <em>[SODFPE2]</em>";
+DESCRIPTION[kl]="Siusinaartumik soraarnerussutisiallit decembarimi piffissamut, aningaasanut annertoqatigiinnut suiaassutimullu immikkoortillugit <em>[SONFPE2]</em>";
+TITLE="Early retirement pensioners in December by amount by groups, gender and time";
+TITLE[da]="Førtidspensionister i december efter beløbsgruppe, køn og tid";
+TITLE[kl]="Siusinaartumik soraarnerussutisiallit decembarimi : aningaasat tunniunneqartut eqimattakkaarlugit, suiaassuseq , piffissaq";
+CONTENTS="Early retirement pensioners in December";
+CONTENTS[da]="Førtidspensionister i december";
+CONTENTS[kl]="Siusinaartumik soraarnerussutisiallit decembarimi";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit amerlassusii";
+STUB="amount by groups","gender";
+STUB[da]="beløbsgruppe","køn";
+STUB[kl]="aningaasat tunniunneqartut eqimattakkaarlugit","suiaassuseq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("amount by groups")="Total","0-1.999 DKK","2.000-2.999 DKK","3.000-3.999 DKK",
+"4.000-4.999 DKK","5.000-5.999 DKK","6.000-6.999 DKK","7.000-7.999 DKK","8.000-8.999 DKK",
+"9.000+ kr.";
+VALUES[da]("beløbsgruppe")="I alt","0-1.999 kr.","2.000-2.999 kr.","3.000-3.999 kr.",
+"4.000-4.999 kr.","5.000-5.999 kr.","6.000-6.999 kr.","7.000-7.999 kr.","8.000-8.999 kr.",
+"9.000+ kr.";
+VALUES[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="Katillugit","0-1.999 kr.",
+"2.000-2.999 kr.","3.000-3.999 kr.","4.000-4.999 kr.","5.000-5.999 kr.","6.000-6.999 kr.",
+"7.000-7.999 kr.","8.000-8.999 kr.","9.000+ kr.";
+VALUES("gender")="Total","Man","Woman";
+VALUES[da]("køn")="I alt","Mand","Kvinde";
+VALUES[kl]("suiaassuseq")="Katillugit","Angutit","Arnat";
+VALUES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+VALUES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES("amount by groups")="0","2","3","4","5","6","7","8","9","10";
+CODES[da]("beløbsgruppe")="0","2","3","4","5","6","7","8","9","10";
+CODES[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="0","2","3","4","5","6","7","8","9","10";
+CODES("gender")="1. I alt","2. M","3. K";
+CODES[da]("køn")="1. I alt","2. M","3. K";
+CODES[kl]("suiaassuseq")="1. I alt","2. M","3. K";
+CODES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+CODES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+CODES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+ELIMINATION("amount by groups")="Total";
+ELIMINATION[da]("beløbsgruppe")="I alt";
+ELIMINATION[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="Katillugit";
+ELIMINATION("gender")="Total";
+ELIMINATION[da]("køn")="I alt";
+ELIMINATION[kl]("suiaassuseq")="Katillugit";
+LAST-UPDATED="20240425 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+2728 2691 2619 2565 2457 2243 2286 2392 2396 2406 2526 2463 2457
+1423 1405 1350 1303 1246 1151 1169 1200 1239 1260 1318 1284 1272
+1305 1286 1269 1262 1211 1092 1117 1192 1157 1146 1208 1179 1185
+335 312 318 324 332 225 237 218 195 188 157 11 7
+161 146 161 154 154 121 124 121 107 97 88 6 2
+174 166 157 170 178 104 113 97 88 91 69 5 5
+65 44 40 37 43 29 37 25 21 13 6 150 140
+26 18 16 14 20 17 22 15 9 9 2 87 80
+39 26 24 23 23 12 15 10 12 4 4 63 60
+67 72 64 56 41 37 34 26 21 15 12 10 11
+29 37 34 32 19 17 13 9 13 6 4 6 5
+38 35 30 24 22 20 21 17 8 9 8 4 6
+75 55 52 54 58 35 40 179 200 229 275 14 11
+41 27 24 25 33 15 22 75 81 88 113 7 7
+34 28 28 29 25 20 18 104 119 141 162 7 4
+180 187 190 162 164 75 66 67 54 29 27 267 276
+55 57 42 37 35 17 22 22 20 11 14 110 111
+125 130 148 125 129 58 44 45 34 18 13 157 165
+265 266 231 230 196 130 108 86 66 56 29 29 20
+138 128 113 110 92 54 40 35 24 22 13 19 5
+127 138 118 120 104 76 68 51 42 34 16 10 15
+79 67 54 54 52 56 41 41 34 22 28 19 26
+41 45 29 30 18 26 20 19 16 8 16 7 14
+38 22 25 24 34 30 21 22 18 14 12 12 12
+1662 1688 1670 1648 49 40 55 59 47 38 41 23 19
+932 947 931 901 29 26 32 31 29 24 18 12 8
+730 741 739 747 20 14 23 28 18 14 23 11 11
+1 1 1 1 1522 1616 1668 1691 1758 1816 1951 1940 1947
+1 1 1 1 846 858 874 873 940 995 1050 1030 1040
+1 1 1 1 676 758 794 818 818 821 901 910 907;

@@ -1,0 +1,119 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150626 09:00";
+NEXT-UPDATE="20250425 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXAPE2";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social benefits";
+SUBJECT-AREA[da]="Sociale ydelser";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Age pensioners in December by time, gender and amount by groups <em>[SOEAPE2]</em>";
+DESCRIPTION[da]="Alderspensionister i december fordelt på tid, køn og beløbsgruppe <em>[SODAPE2]</em>";
+DESCRIPTION[kl]="Soraarnerussutisiallit decembarimi piffissaq, suiaassuseq aningaasat annertoqatigiit <em>[SONAPE2]</em>";
+TITLE="Age pensioners in December by amount by groups, gender and time";
+TITLE[da]="Alderspensionister i december fordelt på tid, køn og beløbsgruppe efter beløbsgruppe, køn og tid";
+TITLE[kl]="Utoqqalinermi soraarnerussutisiallit decembarimi : aningaasat tunniunneqartut eqimattakkaarlugit, suiaassuseq , piffissaq";
+CONTENTS="Age pensioners in December";
+CONTENTS[da]="Alderspensionister i december fordelt på tid, køn og beløbsgruppe";
+CONTENTS[kl]="Utoqqalinermi soraarnerussutisiallit decembarimi";
+UNITS="Persons and % of age group";
+UNITS[da]="Personer og % af aldersgruppe";
+UNITS[kl]="Inuit amerlassusii aammalu ukiut immikkoortiterneri %-nngorlugu";
+STUB="amount by groups","gender";
+STUB[da]="beløbsgruppe","køn";
+STUB[kl]="aningaasat tunniunneqartut eqimattakkaarlugit","suiaassuseq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("amount by groups")="Total","0-1.999 DKK.","2.000-2.999 DKK.","3.000-3.999 DKK.",
+"4.000-4.999 DKK.","5.000-5.999 DKK.","6.000-6.999 DKK.","7.000-7.999 DKK.","8.000-8.999 DKK.",
+"9.000-9.999 DKK.","10.000+ DKK.";
+VALUES[da]("beløbsgruppe")="I alt","0-1.999 kr.","2.000-2.999 kr.","3.000-3.999 kr.",
+"4.000-4.999 kr.","5.000-5.999 kr.","6.000-6.999 kr.","7.000-7.999 kr.","8.000-8.999 kr.",
+"9.000-9.999 kr.","Over 10.000 kr.";
+VALUES[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="Katillugit","0-1.999 kr.",
+"2.000-2.999 kr.","3.000-3.999 kr.","4.000-4.999 kr.","5.000-5.999 kr.","6.000-6.999 kr.",
+"7.000-7.999 kr.","8.000-8.999 kr.","9.000-9.999 kr.","10.000 kr. qaangerlugit";
+VALUES("gender")="Total","Man","Woman";
+VALUES[da]("køn")="I alt","Mand","Kvinde";
+VALUES[kl]("suiaassuseq")="Katillugit","Angutit","Arnat";
+VALUES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+VALUES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES("amount by groups")="0","2","3","4","5","6","7","8","9","10","11";
+CODES[da]("beløbsgruppe")="0","2","3","4","5","6","7","8","9","10","11";
+CODES[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="0","2","3","4","5","6","7","8","9","10",
+"11";
+CODES("gender")="1. I alt","2. M","3. K";
+CODES[da]("køn")="1. I alt","2. M","3. K";
+CODES[kl]("suiaassuseq")="1. I alt","2. M","3. K";
+CODES("time")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+CODES[da]("tid")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+CODES[kl]("piffissaq")="2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+ELIMINATION("amount by groups")="Total";
+ELIMINATION[da]("beløbsgruppe")="I alt";
+ELIMINATION[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="Katillugit";
+ELIMINATION("gender")="Total";
+ELIMINATION[da]("køn")="I alt";
+ELIMINATION[kl]("suiaassuseq")="Katillugit";
+LAST-UPDATED="20240425 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+3585 3623 3669 3671 3758 3990 3783 3767 3806 3937 3797 3859 4011
+1728 1744 1800 1822 1872 2008 1912 1924 1931 1996 1940 1994 2051
+1857 1879 1869 1849 1886 1982 1871 1843 1875 1941 1857 1865 1960
+27 23 16 17 17 22 18 25 24 7 6 8 9
+19 16 12 12 10 18 14 20 17 6 5 6 8
+8 7 4 5 7 4 4 5 7 1 1 2 1
+360 350 375 384 396 391 393 393 388 408 383 390 395
+140 141 160 170 180 165 167 167 175 184 181 184 180
+220 209 215 214 216 226 226 226 213 224 202 206 215
+34 25 19 25 28 13 16 23 13 5 8 13 11
+21 11 13 15 17 9 12 20 12 3 4 10 7
+13 14 6 10 11 4 4 3 1 2 4 3 4
+51 40 36 39 42 282 19 22 28 12 17 12 12
+35 31 27 29 28 166 15 16 21 12 12 10 10
+16 9 9 10 14 116 4 6 7 0 5 2 2
+160 163 177 193 203 66 350 334 353 246 245 17 11
+85 83 101 105 117 43 214 214 224 157 156 12 8
+75 80 76 88 86 23 136 120 129 89 89 5 3
+95 103 92 91 86 104 77 112 73 83 65 246 295
+58 64 53 54 54 65 49 65 38 56 49 164 196
+37 39 39 37 32 39 28 47 35 27 16 82 99
+1064 1115 1105 1075 1072 119 118 99 112 70 61 73 90
+579 600 604 596 589 65 71 54 70 39 39 51 59
+485 515 501 479 483 54 47 45 42 31 22 22 31
+37 38 47 33 41 1059 960 975 998 1035 88 74 53
+23 25 29 16 28 576 512 525 521 552 47 41 29
+14 13 18 17 13 483 448 450 477 483 41 33 24
+39 40 34 43 41 56 41 47 45 54 991 1027 112
+24 22 24 33 30 31 31 27 26 39 549 558 62
+15 18 10 10 11 25 10 20 19 15 442 469 50
+1718 1726 1768 1771 1832 1878 1791 1737 1772 2017 1933 1999 3023
+744 751 777 792 819 870 827 816 827 948 898 958 1492
+974 975 991 979 1013 1008 964 921 945 1069 1035 1041 1531;

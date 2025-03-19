@@ -1,0 +1,335 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20110307 09:00";
+NEXT-UPDATE="20260210 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=15;
+SHOWDECIMALS=0;
+MATRIX="BEXSAT1";
+SUBJECT-CODE="BE";
+SUBJECT-AREA="Population";
+SUBJECT-AREA[da]="Befolkning";
+SUBJECT-AREA[kl]="Innuttaasut";
+COPYRIGHT=YES;
+DESCRIPTION="Population and population growth 1901-2024 <em>[BEESAT1]</em>";
+DESCRIPTION[da]="Befolkning og befolkningstilvækst 1901-2024 <em>[BEDSAT1]</em>";
+DESCRIPTION[kl]="Inuit amerliartornerilu 1901-2024 <em>[BENSAT1]</em>";
+TITLE="Population and population growth by time, type and place of birth";
+TITLE[da]="Befolkning og befolkningstilvækst efter tid, art og fødested";
+TITLE[kl]="Inuit amerliartornerilu : piffissaq, art , inunngorfik";
+CONTENTS="Population and population growth";
+CONTENTS[da]="Befolkning og befolkningstilvækst";
+CONTENTS[kl]="Inuit amerliartornerilu";
+UNITS="personer og percent";
+UNITS[da]="Antal personer og procent";
+UNITS[kl]="Inuit amerlassusaat og procent";
+STUB="time";
+STUB[da]="tid";
+STUB[kl]="piffissaq";
+HEADING="type","place of birth";
+HEADING[da]="art","fødested";
+HEADING[kl]="art","inunngorfik";
+VALUES("time")="1901","1911","1921","1930","1946","1951","1956","1961","1962","1963","1964","1965",
+"1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977","1978","1979",
+"1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993",
+"1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007",
+"2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023","2024";
+VALUES[da]("tid")="1901","1911","1921","1930","1946","1951","1956","1961","1962","1963","1964",
+"1965","1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977","1978",
+"1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992",
+"1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006",
+"2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023","2024";
+VALUES[kl]("piffissaq")="1901","1911","1921","1930","1946","1951","1956","1961","1962","1963",
+"1964","1965","1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977",
+"1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991",
+"1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005",
+"2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023","2024";
+VALUES("type")="Number","Growth","Growth in percent";
+VALUES[da]("art")="Antal","Tilvækst","Tilvækst i procent";
+VALUES[kl]("art")="Antal","Vækst","Procenti";
+VALUES("place of birth")="Total","Greenland","Outside Greenland";
+VALUES[da]("fødested")="I alt","Grønland","Udenfor Grønland";
+VALUES[kl]("inunngorfik")="Paasineqanngitsoq","Kalaallit Nunaat","Kalaallit Nunaat avataani";
+PRECISION("type","Growth in percent")=1;
+PRECISION[da]("art","Tilvækst i procent")=1;
+PRECISION[kl]("art","Procenti")=1;
+LAST-UPDATED="20250211 09:00";
+CONTACT="Lars Pedersen. LARP@stat.gl";
+CONTACT[da]="Lars Pedersen. LARP@stat.gl";
+CONTACT[kl]="Lars Pedersen. LARP@stat.gl";
+SOURCE="Statsministeriets Grønlandsafdeling, Statistics Denmark og Statistics Greenland";
+SOURCE[da]="Statsministeriets Grønlandsafdeling, Danmarks Statistik og Grønlands Statistik";
+SOURCE[kl]="Statsministeriets Grønlandsafdeling, Danmarks Statistik og Naatsorsueqqissaartarfik";
+NOTE="1) 1901-30: Natives. 1945-51: Persons under greenlandic jurisdiction. 2) Northgreenland, in 1930 this was 271 persons, alle born in Greenland. 3) the large fluctuations in the population growth is caused by technical factors at registration. 4) From "
+"1966 and on the civil part of the population in Kangerlussuaq (Sdr. Strømfjord). Hereby 579 persons was counted as part of the, greenlandic population, all but 5 born outside Greenland.";
+NOTE[da]="1) 1901-30: Indfødte. 1945-51: Personer under grønlandsk ret. 2) Nordgrønland, der i 1930 omfattede 271 personer, alle født i Grønland. 3) De store udsving i befolkningstilvæksten skyldes tekniske forhold ved registreringen. 4) Fra og med 1966 "
+"indgår den civile del af befolkingen i Kangerlussuaq (Sdr. Strømfjord). Herved kom der en tilgang på 579 personer, alle på nær fem født uden for Grønland.";
+NOTE[kl]="1) 1901-30: Nunap Inuii. 1945:Inuit Kalaallit inatsisaannut atasut. 2) Avannaa 1930-mi pineqarput inuit 271 tamarmik Kal. Nun. inunngorsimasut. 3) Inuit amerlassusaanni nikeriarnerujussuit nalunaarsuinermi periaatsinik tunngaveqarput. 4) 1966-"
+"imit Kangerlussuarmi sulisut sakkutuujunngitsut ilaalerput, taamalu immikkut ittumik amerleriaateqassaaq inunnik 579-nik, ilaat 5 Kal.Nun. inunngorsimasut.";
+VALUENOTE("time","1901")="1. october";
+VALUENOTE[da]("tid","1901")="1. oktober";
+VALUENOTE[kl]("piffissaq","1901")="1. oktober";
+VALUENOTE("time","1911")="1. october";
+VALUENOTE[da]("tid","1911")="1. oktober";
+VALUENOTE[kl]("piffissaq","1911")="1. oktober";
+VALUENOTE("time","1921")="1. october";
+VALUENOTE[da]("tid","1921")="1. oktober";
+VALUENOTE[kl]("piffissaq","1921")="1. oktober";
+VALUENOTE("time","1930")="1. october";
+VALUENOTE[da]("tid","1930")="1. oktober";
+VALUENOTE[kl]("piffissaq","1930")="1. oktober";
+VALUENOTE("time","1946")="31. december";
+VALUENOTE[da]("tid","1946")="31. december";
+VALUENOTE[kl]("piffissaq","1946")="31. december";
+VALUENOTE("time","1951")="31. december";
+VALUENOTE[da]("tid","1951")="31. december";
+VALUENOTE[kl]("piffissaq","1951")="31. december";
+VALUENOTE("time","1956")="31. december";
+VALUENOTE[da]("tid","1956")="31. december";
+VALUENOTE[kl]("piffissaq","1956")="31. december";
+VALUENOTE("time","1961")="31. december";
+VALUENOTE[da]("tid","1961")="31. december";
+VALUENOTE[kl]("piffissaq","1961")="31. december";
+VALUENOTE("time","1962")="31. december";
+VALUENOTE[da]("tid","1962")="31. december";
+VALUENOTE[kl]("piffissaq","1962")="31. december";
+VALUENOTE("time","1963")="31. december";
+VALUENOTE[da]("tid","1963")="31. december";
+VALUENOTE[kl]("piffissaq","1963")="31. december";
+VALUENOTE("time","1964")="31. december";
+VALUENOTE[da]("tid","1964")="31. december";
+VALUENOTE[kl]("piffissaq","1964")="31. december";
+VALUENOTE("time","1965")="31. december";
+VALUENOTE[da]("tid","1965")="31. december";
+VALUENOTE[kl]("piffissaq","1965")="31. december";
+VALUENOTE("time","1966")="31. december";
+VALUENOTE[da]("tid","1966")="31. december";
+VALUENOTE[kl]("piffissaq","1966")="31. december";
+VALUENOTE("time","1967")="31. december";
+VALUENOTE[da]("tid","1967")="31. december";
+VALUENOTE[kl]("piffissaq","1967")="31. december";
+VALUENOTE("time","1968")="31. december";
+VALUENOTE[da]("tid","1968")="31. december";
+VALUENOTE[kl]("piffissaq","1968")="31. december";
+VALUENOTE("time","1969")="31. december";
+VALUENOTE[da]("tid","1969")="31. december";
+VALUENOTE[kl]("piffissaq","1969")="31. december";
+VALUENOTE("time","1970")="31. december";
+VALUENOTE[da]("tid","1970")="31. december";
+VALUENOTE[kl]("piffissaq","1970")="31. december";
+VALUENOTE("time","1971")="31. december";
+VALUENOTE[da]("tid","1971")="31. december";
+VALUENOTE[kl]("piffissaq","1971")="31. december";
+VALUENOTE("time","1972")="31. december";
+VALUENOTE[da]("tid","1972")="31. december";
+VALUENOTE[kl]("piffissaq","1972")="31. december";
+VALUENOTE("time","1973")="31. december";
+VALUENOTE[da]("tid","1973")="31. december";
+VALUENOTE[kl]("piffissaq","1973")="31. december";
+VALUENOTE("time","1974")="1. january";
+VALUENOTE[da]("tid","1974")="1. januar";
+VALUENOTE[kl]("piffissaq","1974")="1. januar";
+VALUENOTE("time","1975")="1. january";
+VALUENOTE[da]("tid","1975")="1. januar";
+VALUENOTE[kl]("piffissaq","1975")="1. januar";
+VALUENOTE("time","1976")="1. january";
+VALUENOTE[da]("tid","1976")="1. januar";
+VALUENOTE[kl]("piffissaq","1976")="1. januar";
+VALUENOTE("time","1977")="1. january";
+VALUENOTE[da]("tid","1977")="1. januar";
+VALUENOTE[kl]("piffissaq","1977")="1. januar";
+VALUENOTE("time","1978")="1. january";
+VALUENOTE[da]("tid","1978")="1. januar";
+VALUENOTE[kl]("piffissaq","1978")="1. januar";
+VALUENOTE("time","1979")="1. january";
+VALUENOTE[da]("tid","1979")="1. januar";
+VALUENOTE[kl]("piffissaq","1979")="1. januar";
+VALUENOTE("time","1980")="1. january";
+VALUENOTE[da]("tid","1980")="1. januar";
+VALUENOTE[kl]("piffissaq","1980")="1. januar";
+VALUENOTE("time","1981")="1. january";
+VALUENOTE[da]("tid","1981")="1. januar";
+VALUENOTE[kl]("piffissaq","1981")="1. januar";
+VALUENOTE("time","1982")="1. january";
+VALUENOTE[da]("tid","1982")="1. januar";
+VALUENOTE[kl]("piffissaq","1982")="1. januar";
+VALUENOTE("time","1983")="1. january";
+VALUENOTE[da]("tid","1983")="1. januar";
+VALUENOTE[kl]("piffissaq","1983")="1. januar";
+VALUENOTE("time","1984")="1. january";
+VALUENOTE[da]("tid","1984")="1. januar";
+VALUENOTE[kl]("piffissaq","1984")="1. januar";
+VALUENOTE("time","1985")="1. january";
+VALUENOTE[da]("tid","1985")="1. januar";
+VALUENOTE[kl]("piffissaq","1985")="1. januar";
+VALUENOTE("time","1986")="1. january";
+VALUENOTE[da]("tid","1986")="1. januar";
+VALUENOTE[kl]("piffissaq","1986")="1. januar";
+VALUENOTE("time","1987")="1. january";
+VALUENOTE[da]("tid","1987")="1. januar";
+VALUENOTE[kl]("piffissaq","1987")="1. januar";
+VALUENOTE("time","1988")="1. january";
+VALUENOTE[da]("tid","1988")="1. januar";
+VALUENOTE[kl]("piffissaq","1988")="1. januar";
+VALUENOTE("time","1989")="1. january";
+VALUENOTE[da]("tid","1989")="1. januar";
+VALUENOTE[kl]("piffissaq","1989")="1. januar";
+VALUENOTE("time","1990")="1. january";
+VALUENOTE[da]("tid","1990")="1. januar";
+VALUENOTE[kl]("piffissaq","1990")="1. januar";
+VALUENOTE("time","1991")="1. january";
+VALUENOTE[da]("tid","1991")="1. januar";
+VALUENOTE[kl]("piffissaq","1991")="1. januar";
+VALUENOTE("time","1992")="1. january";
+VALUENOTE[da]("tid","1992")="1. januar";
+VALUENOTE[kl]("piffissaq","1992")="1. januar";
+VALUENOTE("time","1993")="1. january";
+VALUENOTE[da]("tid","1993")="1. januar";
+VALUENOTE[kl]("piffissaq","1993")="1. januar";
+VALUENOTE("time","1994")="1. january";
+VALUENOTE[da]("tid","1994")="1. januar";
+VALUENOTE[kl]("piffissaq","1994")="1. januar";
+VALUENOTE("time","1995")="1. january";
+VALUENOTE[da]("tid","1995")="1. januar";
+VALUENOTE[kl]("piffissaq","1995")="1. januar";
+VALUENOTE("time","1996")="1. january";
+VALUENOTE[da]("tid","1996")="1. januar";
+VALUENOTE[kl]("piffissaq","1996")="1. januar";
+VALUENOTE("time","1997")="1. january";
+VALUENOTE[da]("tid","1997")="1. januar";
+VALUENOTE[kl]("piffissaq","1997")="1. januar";
+VALUENOTE("time","1998")="1. january";
+VALUENOTE[da]("tid","1998")="1. januar";
+VALUENOTE[kl]("piffissaq","1998")="1. januar";
+VALUENOTE("time","1999")="1. january";
+VALUENOTE[da]("tid","1999")="1. januar";
+VALUENOTE[kl]("piffissaq","1999")="1. januar";
+VALUENOTE("time","2000")="1. january";
+VALUENOTE[da]("tid","2000")="1. januar";
+VALUENOTE[kl]("piffissaq","2000")="1. januar";
+VALUENOTE("time","2001")="1. january";
+VALUENOTE[da]("tid","2001")="1. januar";
+VALUENOTE[kl]("piffissaq","2001")="1. januar";
+VALUENOTE("time","2002")="1. january";
+VALUENOTE[da]("tid","2002")="1. januar";
+VALUENOTE[kl]("piffissaq","2002")="1. januar";
+VALUENOTE("time","2003")="1. january";
+VALUENOTE[da]("tid","2003")="1. januar";
+VALUENOTE[kl]("piffissaq","2003")="1. januar";
+VALUENOTE("time","2004")="1. january";
+VALUENOTE[da]("tid","2004")="1. januar";
+VALUENOTE[kl]("piffissaq","2004")="1. januar";
+VALUENOTE("time","2005")="1. january";
+VALUENOTE[da]("tid","2005")="1. januar";
+VALUENOTE[kl]("piffissaq","2005")="1. januar";
+VALUENOTE("time","2006")="1. january";
+VALUENOTE[da]("tid","2006")="1. januar";
+VALUENOTE[kl]("piffissaq","2006")="1. januar";
+VALUENOTE("time","2007")="1. january";
+VALUENOTE[da]("tid","2007")="1. januar";
+VALUENOTE[kl]("piffissaq","2007")="1. januar";
+VALUENOTE("time","2008")="1. january";
+VALUENOTE[da]("tid","2008")="1. januar";
+VALUENOTE[kl]("piffissaq","2008")="1. januar";
+VALUENOTE("time","2009")="1. january";
+VALUENOTE[da]("tid","2009")="1. januar";
+VALUENOTE[kl]("piffissaq","2009")="1. januar";
+VALUENOTE("time","2010")="1. january";
+VALUENOTE[da]("tid","2010")="1. januar";
+VALUENOTE[kl]("piffissaq","2010")="1. januar";
+VALUENOTE("time","2011")="1. january";
+VALUENOTE[da]("tid","2011")="1. januar";
+VALUENOTE[kl]("piffissaq","2011")="1. januar";
+VALUENOTE("time","2012")="1. january";
+VALUENOTE[da]("tid","2012")="1. januar";
+VALUENOTE[kl]("piffissaq","2012")="1. januar";
+VALUENOTE("time","2013")="1. january";
+VALUENOTE[da]("tid","2013")="1. januar";
+VALUENOTE[kl]("piffissaq","2013")="1. januar";
+VALUENOTE("time","2014")="1. january";
+VALUENOTE[da]("tid","2014")="1. januar";
+VALUENOTE[kl]("piffissaq","2014")="1. januar";
+VALUENOTE("time","2015")="1. january";
+VALUENOTE[da]("tid","2015")="1. januar";
+VALUENOTE[kl]("piffissaq","2015")="1. januar";
+VALUENOTE("time","2016")="1. january";
+VALUENOTE[da]("tid","2016")="1. januar";
+VALUENOTE[kl]("piffissaq","2016")="1. januar";
+DATA=
+11893 11621 272 0 0 0 0 0 0 
+13459 13075 384 157 145 112 1.2 1.2 3.5 
+14355 14081 274 90 101 -110 0.6 0.7 -3.3 
+16901 16488 413 283 267 139 1.8 1.8 4.7 
+21412 20939 473 296 292 60 1.6 1.6 0.9 
+23642 22581 1061 446 328 588 2 1.5 17.5 
+27101 25234 1867 692 531 806 2.8 2.4 12 
+33140 30378 2762 1208 1029 895 4.2 4.1 8.2 
+34312 31304 3008 1172 926 246 3.5 3 8 
+35499 32288 3211 1187 984 203 3.5 3.1 6.7 
+36967 33406 3561 1468 1118 350 4.1 3.5 10.9 
+38815 34711 4104 1848 1305 543 5 3.9 15.2 
+39615 35132 4483 800 421 379 2.1 1.2 9.2 
+42102 36380 5722 2487 1248 1239 6.3 3.6 27.6 
+43792 37372 6420 1690 992 698 4 2.7 12.2 
+45639 38378 7261 1847 1006 841 4.2 2.7 13.1 
+46331 38914 7417 692 536 156 1.5 1.3 2.1 
+46532 38912 7620 201 2 203 0.4 0 2.7 
+47935 39752 8183 1403 840 563 3 2.2 2.2 
+48581 40089 8492 646 337 309 1.3 0.8 3.8 
+49468 40091 9377 887 2 885 1.8 0 10.4 
+49502 39979 9523 34 -112 146 0.1 -0.3 1.6 
+49666 40390 9276 164 411 -247 0.3 1 -2.6 
+49717 40576 9141 51 186 -135 0.102580606231269 0.45839905362776 -1.476862487692813 
+49148 40588 8560 -569 12 -581 -1.157727679661431 0.029565388784863 -6.787383177570093 
+49338 40739 8599 190 151 39 0.385098706879079 0.370652200594025 0.453541109431329 
+49773 40914 8859 435 175 260 0.873967813874993 0.427726450603705 2.934868495315498 
+50643 41426 9217 870 512 358 1.717907706889402 1.235938782407184 3.884127156341543 
+51435 42120 9315 792 694 98 1.539807524059492 1.647673314339981 1.052066559312936 
+51903 42632 9271 468 512 -44 0.901681983700364 1.200975792831676 -0.474598209470392 
+52347 43093 9254 444 461 -17 0.848186142472348 1.069779314505836 -0.18370434406743 
+52940 43552 9388 593 459 134 1.120136003022289 1.053912564290962 1.427354069024287 
+53406 44019 9387 466 467 -1 0.872561135452945 1.060905518071742 -0.010653030787259 
+53733 44396 9337 327 377 -50 0.608564569259115 0.849175601405532 -0.535503909178537 
+54524 44918 9606 791 522 269 1.450737290000734 1.162117636582217 2.800333125130127 
+55171 45596 9575 647 678 -31 1.172717550887241 1.486972541451004 -0.323759791122715 
+55558 46111 9447 387 515 -128 0.696569350948558 1.116870161132918 -1.354927490208532 
+55620 46748 8872 62 637 -575 0.111470693994966 1.362625139043382 -6.481064021641118 
+55385 47388 7997 -235 640 -875 -0.42430260900966 1.350552882586309 -10.94160310116294 
+55117 47763 7354 -268 375 -643 -0.486238365658508 0.785126562401859 -8.743540930106064 
+55419 48228 7191 302 465 -163 0.544939461195619 0.964170191589948 -2.266722291753581 
+55732 48609 7123 313 381 -68 0.561616306610206 0.783805468123187 -0.954653937947494 
+55863 48871 6992 131 262 -131 0.234502264468432 0.5361052566962 -1.873569794050343 
+55971 49067 6904 108 196 -88 0.192957067052581 0.399453808058369 -1.274623406720742 
+56076 49292 6784 105 225 -120 0.187245880590627 0.456463523492656 -1.768867924528302 
+56087 49284 6803 11 -8 19 0.019612387897374 -0.016232448664881 0.279288549169484 
+56124 49376 6748 37 92 -55 0.065925450787542 0.186325340246273 -0.815056312981624 
+56245 49633 6612 121 257 -136 0.21513023379856 0.517800656821067 -2.05686630369026 
+56513 49921 6592 268 288 -20 0.474227168969972 0.576911520201919 -0.303398058252427 
+56676 50091 6585 163 170 -7 0.287599689462912 0.339382324170011 -0.106302201974184 
+56826 50218 6608 150 127 23 0.263963678597825 0.252897367477797 0.348062953995157 
+56969 50426 6543 143 208 -65 0.251013709210272 0.412485622496331 -0.993428091089714 
+56901 50549 6352 -68 123 -191 -0.119505808333773 0.243328255751845 -3.006926952141058 
+56648 50520 6128 -253 -29 -224 -0.446617709363084 -0.057403008709422 -3.655352480417755 
+56462 50421 6041 -186 -99 -87 -0.329425100067302 -0.196346760278455 -1.440158914087072 
+56194 50178 6016 -268 -243 -25 -0.476919244047407 -0.484275977520029 -0.415558510638298 
+56452 50369 6083 258 191 67 0.457025437539857 0.379201492981794 1.101430215354266 
+56615 50470 6145 163 101 62 0.28790956460302 0.200118882504458 1.008950366151343 
+56749 50491 6258 134 21 113 0.236127508854782 0.04159157077499 1.805688718440396 
+56370 50232 6138 -379 -259 -120 -0.672343445094909 -0.515607580824972 -1.955034213098729 
+56282 50291 5991 -88 59 -147 -0.156355495540315 0.117317213815593 -2.453680520781172 
+55983 50190 5793 -299 -101 -198 -0.534090706107211 -0.201235305837816 -3.417918177110305 
+55847 50085 5762 -136 -105 -31 -0.243522481064337 -0.209643605870021 -0.538007636237418 
+55860 50097 5763 13 12 1 0.023272466881489 0.023953530151506 0.017352073572792 
+55877 50172 5705 17 75 -58 0.030423966927358 0.149485768954796 -1.016652059596845 
+55992 50252 5740 115 80 35 0.205386483783398 0.159197643874871 0.609756097560976 
+56081 50190 5891 89 -62 151 0.158699024625096 -0.12353058378163 2.563232048888135 
+56421 50365 6056 340 175 165 0.602612502437036 0.347463516330785 2.724570673712021 
+56562 50388 6174 141 23 118 0.2 0 1.9 
+56609 50160 6449 47 -228 275 0.1 -0.5 4.3 
+56699 49957 6742 90 -203 293 0.2 -0.4 4.3; 

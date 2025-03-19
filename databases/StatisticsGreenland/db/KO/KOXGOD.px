@@ -1,0 +1,168 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150527 09:00";
+NEXT-UPDATE="20250515 09:00";
+UPDATE-FREQUENCY="Quarterly, kvartalsvis, kvartalit";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="KOXGOD";
+SUBJECT-CODE="KO";
+SUBJECT-AREA="Short term trends";
+SUBJECT-AREA[da]="Konjunktur";
+SUBJECT-AREA[kl]="Aningaasaqarnikkut pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Volume of goods by shipping way (2008Q1-2024Q4) <em>[KOEGOD]</em>";
+DESCRIPTION[da]="Godsmængder efter fragtvej (2008K1-2024K4) <em>[KODGOD]</em>";
+DESCRIPTION[kl]="Nassiussat annertussusaat, tunngavigalu nassiussap sumunnarnera (2008K1-2024K4) <em>[KONGOD]</em>";
+TITLE="Volume of goods to and from Greenland by time, shipping way and specification method";
+TITLE[da]="Godsmængder til og fra Grønland efter tid, fragtvej og opgørelsesvariabel";
+TITLE[kl]="Kalaallit Nunaannut aamma Kalaallit Nunaannit nassiussat annertussusaat kingorna piffissaq, nassiussap sumunnarnera aamma naatsorsuutip allanngorarnera";
+CONTENTS="Volume of goods to and from Greenland";
+CONTENTS[da]="Godsmængder til og fra Grønland";
+CONTENTS[kl]="Kalaallit Nunaannut aamma Kalaallit Nunaannit nassiussat annertussusaat";
+UNITS="1,000 Cubic metre";
+UNITS[da]="1.000 Kubikmeter";
+UNITS[kl]="1.000 Kubikmeteri";
+STUB="time";
+STUB[da]="tid";
+STUB[kl]="piffissaq";
+HEADING="shipping way","specification method";
+HEADING[da]="fragtvej","opgørelsesvariabel";
+HEADING[kl]="nassiussap sumunnarnera","naatsorsuutip allanngorarnera";
+VALUES("time")="2008Q1","2008Q2","2008Q3","2008Q4","2009Q1","2009Q2","2009Q3","2009Q4","2010Q1",
+"2010Q2","2010Q3","2010Q4","2011Q1","2011Q2","2011Q3","2011Q4","2012Q1","2012Q2","2012Q3","2012Q4",
+"2013Q1","2013Q2","2013Q3","2013Q4","2014Q1","2014Q2","2014Q3","2014Q4","2015Q1","2015Q2","2015Q3",
+"2015Q4","2016Q1","2016Q2","2016Q3","2016Q4","2017Q1","2017Q2","2017Q3","2017Q4","2018Q1","2018Q2",
+"2018Q3","2018Q4","2019Q1","2019Q2","2019Q3","2019Q4","2020Q1","2020Q2","2020Q3","2020Q4","2021Q1",
+"2021Q2","2021Q3","2021Q4","2022Q1","2022Q2","2022Q3","2022Q4","2023Q1","2023Q2","2023Q3","2023Q4",
+"2024Q1","2024Q2","2024Q3","2024Q4";
+VALUES[da]("tid")="2008K1","2008K2","2008K3","2008K4","2009K1","2009K2","2009K3","2009K4","2010K1",
+"2010K2","2010K3","2010K4","2011K1","2011K2","2011K3","2011K4","2012K1","2012K2","2012K3","2012K4",
+"2013K1","2013K2","2013K3","2013K4","2014K1","2014K2","2014K3","2014K4","2015K1","2015K2","2015K3",
+"2015K4","2016K1","2016K2","2016K3","2016K4","2017K1","2017K2","2017K3","2017K4","2018K1","2018K2",
+"2018K3","2018K4","2019K1","2019K2","2019K3","2019K4","2020K1","2020K2","2020K3","2020K4","2021K1",
+"2021K2","2021K3","2021K4","2022K1","2022K2","2022K3","2022K4","2023K1","2023K2","2023K3","2023K4",
+"2024K1","2024K2","2024K3","2024K4";
+VALUES[kl]("piffissaq")="2008K1","2008K2","2008K3","2008K4","2009K1","2009K2","2009K3","2009K4",
+"2010K1","2010K2","2010K3","2010K4","2011K1","2011K2","2011K3","2011K4","2012K1","2012K2","2012K3",
+"2012K4","2013K1","2013K2","2013K3","2013K4","2014K1","2014K2","2014K3","2014K4","2015K1","2015K2",
+"2015K3","2015K4","2016K1","2016K2","2016K3","2016K4","2017K1","2017K2","2017K3","2017K4","2018K1",
+"2018K2","2018K3","2018K4","2019K1","2019K2","2019K3","2019K4","2020K1","2020K2","2020K3","2020K4",
+"2021K1","2021K2","2021K3","2021K4","2022K1","2022K2","2022K3","2022K4","2023K1","2023K2","2023K3",
+"2023K4","2024K1","2024K2","2024K3","2024K4";
+VALUES("shipping way")="To Greenland","From Greenland";
+VALUES[da]("fragtvej")="Til Grønland","Fra Grønland";
+VALUES[kl]("nassiussap sumunnarnera")="Kalaallit Nunaannut","Kalaallit Nunaannit";
+VALUES("specification method")="Cargo goods","Yearly moving average",
+"Yearly change in cargo goods (pct.)","Change in moving average (pct.)";
+VALUES[da]("opgørelsesvariabel")="Godsmængde","årligt glidende gennemsnit",
+"årlig ændring i godsmængde (pct.)","ændring i glidende gennemsnit (pct.)";
+VALUES[kl]("naatsorsuutip allanngorarnera")="Nassiussap annertussusaa",
+"Ukiumut malittumik agguaqatigiissitsineq",
+"Nassiussap annertussusaata ukiumut allanngorarnera (pct.)",
+"Malittumik agguaqatigiissitsinermi allannguut (pct.)";
+TIMEVAL("time")=TLIST(Q1),"20081","20082","20083","20084","20091","20092","20093","20094","20101",
+"20102","20103","20104","20111","20112","20113","20114","20121","20122","20123","20124","20131",
+"20132","20133","20134","20141","20142","20143","20144","20151","20152","20153","20154","20161",
+"20162","20163","20164","20171","20172","20173","20174","20181","20182","20183","20184","20191",
+"20192","20193","20194","20201","20202","20203","20204","20211","20212","20213","20214","20221",
+"20222","20223","20224","20231","20232","20233","20234","20241","20242","20243","20244";
+TIMEVAL[da]("tid")=TLIST(Q1),"20081","20082","20083","20084","20091","20092","20093","20094",
+"20101","20102","20103","20104","20111","20112","20113","20114","20121","20122","20123","20124",
+"20131","20132","20133","20134","20141","20142","20143","20144","20151","20152","20153","20154",
+"20161","20162","20163","20164","20171","20172","20173","20174","20181","20182","20183","20184",
+"20191","20192","20193","20194","20201","20202","20203","20204","20211","20212","20213","20214",
+"20221","20222","20223","20224","20231","20232","20233","20234","20241","20242","20243","20244";
+TIMEVAL[kl]("piffissaq")=TLIST(Q1),"20081","20082","20083","20084","20091","20092","20093","20094",
+"20101","20102","20103","20104","20111","20112","20113","20114","20121","20122","20123","20124",
+"20131","20132","20133","20134","20141","20142","20143","20144","20151","20152","20153","20154",
+"20161","20162","20163","20164","20171","20172","20173","20174","20181","20182","20183","20184",
+"20191","20192","20193","20194","20201","20202","20203","20204","20211","20212","20213","20214",
+"20221","20222","20223","20224","20231","20232","20233","20234","20241","20242","20243","20244";
+LAST-UPDATED="20250218 09:00";
+CONTACT="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq F. Lund, aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="For method and definition of the variables reference is made to the publication about short-term statistics, which is available at www.stat.gl#Documentation regarding the seasonal adjustment is available at www.stat.gl#List of symbols:#... No "
+"information available#";
+NOTE[da]="For metode og definitioner henvises til publikation om konjunkturstatistikken, der kan hentes på www.stat.gl#Dokumentation vedrørende sæsonkorrektion kan hentes på www.stat.gl#Signaturforklaring:#... Oplysninger foreligger ikke#";
+NOTE[kl]="Periaatsit nassuiaatillu aningaasaqarnikkut pissutsit pillugit saqqummersitamut www.stat.gl iserfigalugu aaneqarsinnaapput.#Ukiup ingerlaneranut naqqiissummut uppernarsaat www.stat.gl-imut aaneqarsinnaavoq#Nalunaaqutsersuutip nassuiaataa:#... "
+"Paasissutissat pigineqanngillat#";
+VALUENOTE("time","2017Q3")="Since there has been a change in RALs freigt handlingsystem, there may be a shift from the figures in the transition from 2016 to 2017.";
+VALUENOTE[da]("tid","2017K3")="Da der har været ændring af RALs system til fragtgodshåndtering, kan der være forskydning med tallene i overgangen fra 2016 til 2017.";
+VALUENOTE[kl]("piffissaq","2017K3")="RAL-ip nassiussanik angallassinermi periaasiata allanngornera pissutaalluni, nikeriarnermi 2016-miik 2017-mut kisitsisinik illuartoqarsinnaavoq.";
+DATA=
+68.7 "..." "..." "..." 44.2 "..." "..." "..." 
+114.6 "..." "..." "..." 77.2 "..." "..." "..." 
+127.3 "..." "..." "..." 104.2 "..." "..." "..." 
+118.6 107.3 "..." "..." 82.8 77.1 "..." "..." 
+59.8 105.1 -12.9 -2.1 43.8 77 -1 -0.1 
+102.3 102 -10.8 -2.9 70.8 75.4 -8.3 -2.1 
+121.9 100.7 -4.3 -1.3 96.9 73.6 -7 -2.4 
+107.7 97.9 -9.2 -2.7 79.8 72.8 -3.6 -1 
+56.6 97.1 -5.5 -0.8 41.4 72.2 -5.5 -0.8 
+111.5 99.4 9.1 2.4 75.3 73.3 6.4 1.6 
+107.9 95.9 -11.5 -3.5 104.6 75.3 8 2.6 
+109.6 96.4 1.8 0.5 87.5 77.2 9.7 2.6 
+81.3 102.6 43.8 6.4 56.8 81.1 37.2 5 
+118.7 104.4 6.4 1.7 64.7 78.4 -14.1 -3.3 
+114.6 106 6.2 1.6 96.1 76.3 -8.2 -2.7 
+108.6 105.8 -1 -0.2 82.2 74.9 -6.1 -1.7 
+64.3 101.5 -21 -4 43 71.5 -24.2 -4.6 
+103.9 97.8 -12.5 -3.6 67.5 72.2 4.4 1 
+115.3 98 0.6 0.2 97.6 72.6 1.6 0.5 
+105.5 97.2 -2.8 -0.8 87.1 73.8 5.9 1.7 
+61.7 96.6 -3.9 -0.7 46.6 74.7 8.3 1.2 
+94.9 94.4 -8.7 -2.3 68.7 75 1.7 0.4 
+100.9 90.8 -12.5 -3.8 83.5 71.5 -14.5 -4.7 
+95.1 88.1 -9.9 -2.9 70 67.2 -19.6 -6 
+58.9 87.4 -4.7 -0.8 50.2 68.1 7.8 1.4 
+80.6 83.8 -15 -4.1 60.5 66.1 -12 -3 
+107.7 85.6 6.8 2 85.6 66.6 2.5 0.8 
+92.6 84.9 -2.6 -0.7 69.9 66.6 -0.2 0 
+57.7 84.7 -1.9 -0.3 39.5 63.9 -21.4 -4 
+96.3 88.6 19.4 4.6 54.1 62.3 -10.5 -2.5 
+109.3 89 1.5 0.5 88.8 63.1 3.8 1.3 
+108.1 92.8 16.8 4.4 70.5 63.2 0.8 0.2 
+77.6 97.8 34.4 5.3 51.6 66.2 30.6 4.8 
+113 102 17.4 4.3 62.3 68.3 15.1 3.1 
+116.4 103.8 6.5 1.7 86 67.6 -3.2 -1 
+112 104.7 3.6 0.9 88.7 72.1 25.8 6.7 
+77.3 104.7 -0.4 -0.1 40.5 69.4 -21.4 -3.8 
+107.1 103.2 -5.2 -1.4 55.3 67.6 -11.2 -2.5 
+121.9 104.6 4.7 1.3 108.1 73.1 25.6 8.1 
+128.7 108.8 15 4 120.3 81 35.7 10.8 
+80.1 109.5 3.6 0.6 57.6 85.3 42.2 5.3 
+120.6 112.8 12.6 3.1 67.7 88.4 22.4 3.6 
+132.1 115.4 8.4 2.3 103.6 87.3 -4.2 -1.3 
+140 118.2 8.7 2.4 104.2 83.3 -13.4 -4.6 
+67.1 114.9 -16.3 -2.8 60.4 84 4.9 0.9 
+122.7 115.5 1.8 0.5 81.8 87.5 20.9 4.2 
+146.9 119.2 11.3 3.2 99.4 86.5 -4 -1.2 
+145.4 120.5 3.9 1.1 98.3 85 -5.7 -1.7 
+84.9 125 26.6 3.7 58.7 84.6 -2.8 -0.5 
+142 129.8 15.7 3.9 83.6 85 2.2 0.5 
+157.1 132.3 6.9 2 108.7 87.3 9.4 2.7 
+162.6 136.6 11.8 3.2 101.2 88.1 2.9 0.8 
+95.1 139.2 12 1.9 59.1 88.1 0.6 0.1 
+133.4 137 -6 -1.5 67.1 84 -19.8 -4.7 
+143.9 133.7 -8.4 -2.4 103.1 82.6 -5.2 -1.7 
+149.4 130.5 -8.1 -2.5 100.3 82.4 -0.9 -0.3 
+82 127.2 -13.8 -2.5 60.7 82.8 2.8 0.5 
+153.4 132.2 15 3.9 71.6 83.9 6.7 1.4 
+162.3 136.8 12.8 3.5 116 87.1 12.5 3.8 
+156.2 138.5 4.6 1.2 103.9 88 3.6 1 
+99.4 142.8 21.2 3.1 49.3 85.2 -18.8 -3.2 
+135.4 138.3 -11.7 -3.1 80.9 87.5 13 2.7 
+157.7 137.2 -2.8 -0.8 115.7 87.5 -0.2 -0.1 
+163.8 139.1 4.8 1.4 108.6 88.7 4.6 1.4 
+108.6 141.4 9.3 1.7 49.1 88.6 -0.5 -0.1 
+133 140.8 -1.8 -0.4 73.6 86.8 -9 -2.1 
+165.9 142.8 5.2 1.4 111.2 85.6 -3.9 -1.3 
+145.5 138.3 -11.2 -3.2 122.4 89.1 12.7 4; 

@@ -1,0 +1,83 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20200831 09:00";
+NEXT-UPDATE="20220831 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXBV01";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Sheltered workshop remuneration recipients, by amount and age group <em>[SOEBV01]</em>";
+DESCRIPTION[da]="Modtagere af beskæftigelsesvederlag, efter beløb og aldersgruppe. <em>[SODBV01]</em>";
+DESCRIPTION[kl]="Sammisaqartitsilluni aningaasarsitinneqartartut, aningaasarsiat annertussusaannut aamma sammisaqartut ukiuinut immikkoortillugit <em>[SONBV01]</em>";
+TITLE="Sheltered Workshop remuneration by alder, unit and time";
+TITLE[da]="Beskæftigelsesvederlag efter alder, enhed og tid";
+TITLE[kl]="Suliaqarnermi akissarsiat : alder, enhed , piffissaq";
+CONTENTS="Sheltered Workshop remuneration";
+CONTENTS[da]="Beskæftigelsesvederlag";
+CONTENTS[kl]="Suliaqarnermi akissarsiat";
+UNITS="Number/Amount (1000 DKK)";
+UNITS[da]="Antal/Beløb";
+UNITS[kl]="Amerlassusaat/Aningaasat amerlassusaat";
+STUB="alder","unit";
+STUB[da]="alder","enhed";
+STUB[kl]="alder","enhed";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("alder")="<30 years","30+ years","Total";
+VALUES[da]("alder")="<30 år","30+ år","I alt";
+VALUES[kl]("alder")="<30 ukiut","30+ ukiut","Katillugit";
+VALUES("unit")="amount (1000 DKK)","number";
+VALUES[da]("enhed")="beløb (1000 DKK)","antal";
+VALUES[kl]("enhed")="Aningaasat amerlassusii (1000 DKK)","amerlassusii";
+VALUES("time")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+VALUES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+TIMEVAL("time")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[da]("tid")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020";
+CODES("alder")="<30 aar","30+ aar","Total";
+CODES[da]("alder")="<30 aar","30+ aar","Total";
+CODES[kl]("alder")="<30 aar","30+ aar","Total";
+CODES("unit")="BEL","ANT";
+CODES[da]("enhed")="BEL","ANT";
+CODES[kl]("enhed")="BEL","ANT";
+CODES("time")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[da]("tid")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+CODES[kl]("piffissaq")="2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020";
+ELIMINATION("alder")="Total";
+ELIMINATION[da]("alder")="I alt";
+ELIMINATION[kl]("alder")="Katillugit";
+LAST-UPDATED="20210831 09:00";
+CONTACT="Sune Steenskjold,  sust@stat.gl";
+CONTACT[da]="Sune Steenskjold,  sust@stat.gl";
+CONTACT[kl]="Sune Steenskjold,  sust@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Disabled citizens, who work in sheltered workshops etc, receive a 15 DKK/hr remuneration in addition to early retirement pension. As of jan 1st 2020, the remuneration equals 25% of the SIK minimum hourly wage. When the number of people is 5 or less "
+"in the rows, they appear as .. (2 dots) for reasons of confidentiality.";
+NOTE[da]="Personer med handicap, der er i særlig beskæftigelse på beskyttede arbejdspladser o.l., modtager ud over førtidspension et beskæftigelsesvederlag på 15 kr. pr.time.  Fra 1.jan 2020 fastsættes beskæftigelsesvederlaget til 25% af SIKs mindsteløn "
+"for timelønnede. Når antallet af personer er 5 eller mindre i rækkerne, vises de som .. (2 prikker) af diskretionshensyn.";
+NOTE[kl]="Inuit innarluutillit, suliffeqarfinni illersugaasuni assigisaanilu immikkut ittumik sulisut, siusinaartumik pensionisiat saniatigutakunnermut 15 kr.-inik aningaasaqartinneqartarput. 1. januaari 2020-mit atuutilersumik nalunaaquttap akunneranut "
+"aningaasarsiaritinneqartoq SIK-p isumaqatigiissutai malillugit akunnermut akissarsiap minnerpaaffiata 25 pct.-ianut aalangerneqarpoq. Ukiut immikkoortiterneri malillugit inuit amerlassussaat tallimaappata tallimaniilluunniit ikinneruppata naqitani "
+"tulleriiani ’Katillugit’ aammalu ’Ilisimaneqanngilaq’-mik allaqqasuni toornernik marlunnik (..) takutinneqassapput, tatiginartunik isumannaarsaaneq tunngavingalugu.";
+DATA=
+283 364 409 364 494 602 530 566 493 512 512
+24 40 54 48 63 73 71 62 66 69 64
+637 1057 1251 1205 1690 1890 2050 2346 2188 2276 2904
+78 124 136 150 198 193 245 232 225 203 222
+920 1421 1660 1569 2184 2492 2580 2912 2681 2788 3416
+102 164 190 198 261 266 316 294 291 272 286;

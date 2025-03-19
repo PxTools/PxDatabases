@@ -1,0 +1,163 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150708 09:00";
+NEXT-UPDATE="20230528 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXBS01";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Rent subsidy to households in December by time, size of household and amount by groups <em>[SOEBS01]</em>";
+DESCRIPTION[da]="Boligsikring til hustande i december efter hustandsstørrelse og beløbsgruppe <em>[SODBS01]</em>";
+DESCRIPTION[kl]="Inoqutigiinnut ineqarnermut tapiissutit decembarimi, piffissaq, inoqutigiit amerlassusaat aammalu aningaasat tunniunneqartut eqimattakkaarlugit <em>[SONBS01]</em>";
+TITLE="Rent subsidy by size of household, amount interval, unit and time";
+TITLE[da]="Boligsikring efter husstandsstørrelse, beløbsgruppe, enhed og tid";
+TITLE[kl]="Ineqarnermut tapiissutit : inoqutigiit amerlassusaat, aningaasat tunniunneqartut eqimattakkaarlugit, uuttuut , piffissaq";
+CONTENTS="Rent subsidy";
+CONTENTS[da]="Boligsikring";
+CONTENTS[kl]="Ineqarnermut tapiissutit";
+UNITS="Number/Amount (1000 DKK)";
+UNITS[da]="Antal/Beløb";
+UNITS[kl]="Amerlassusaat/Aningaasat amerlassusaat";
+STUB="size of household","amount interval","unit";
+STUB[da]="husstandsstørrelse","beløbsgruppe","enhed";
+STUB[kl]="inoqutigiit amerlassusaat","aningaasat tunniunneqartut eqimattakkaarlugit","uuttuut";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("size of household")="Total","1 person","2 persons","3 persons","4+ persons";
+VALUES[da]("husstandsstørrelse")="I alt","1 person","2 personer","3 personer","4+ personer";
+VALUES[kl]("inoqutigiit amerlassusaat")="Katillugit","Inuk ataaseq","Inuit 2","Inuit 3",
+"Inuit 4 qummullu";
+VALUES("amount interval")="Total","0 -999 DKK","1.000 -1.999 DKK","2.000 -2.999 DKK",
+"3.000 -3.999 DKK","4.000 -4.999 DKK","5.000+ DKK";
+VALUES[da]("beløbsgruppe")="I alt","0 -999 kr.","1.000 -1.999 kr.","2.000 -2.999 kr.",
+"3.000 -3.999 kr.","4.000 -4.999 kr.","5.000+ kr.";
+VALUES[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="Katillugit","0 -999 kr.",
+"1.000 -1.999 kr.","2.000 -2.999 kr.","3.000 -3.999 kr.","4.000 -4.999 kr.","5.000+ kr.";
+VALUES("unit")="Beløb","Number";
+VALUES[da]("enhed")="Beløb","Antal";
+VALUES[kl]("uuttuut")="Beløb","Amerlassusaat";
+VALUES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+VALUES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+CODES("size of household")="0","1","2","3","4";
+CODES[da]("husstandsstørrelse")="0","1","2","3","4";
+CODES[kl]("inoqutigiit amerlassusaat")="0","1","2","3","4";
+CODES("amount interval")="0","1","2","3","4","5","6";
+CODES[da]("beløbsgruppe")="0","1","2","3","4","5","6";
+CODES[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="0","1","2","3","4","5","6";
+CODES("unit")="Beløb","Antal";
+CODES[da]("enhed")="Beløb","Antal";
+CODES[kl]("uuttuut")="Beløb","Antal";
+CODES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+CODES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+ELIMINATION("size of household")="Total";
+ELIMINATION[da]("husstandsstørrelse")="I alt";
+ELIMINATION[kl]("inoqutigiit amerlassusaat")="Katillugit";
+ELIMINATION("amount interval")="Total";
+ELIMINATION[da]("beløbsgruppe")="I alt";
+ELIMINATION[kl]("aningaasat tunniunneqartut eqimattakkaarlugit")="Katillugit";
+LAST-UPDATED="20230528 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="When the number of people is 5 or less in the rows, they appear as .. (2 dots) for reasons of confidentiality.";
+NOTE[da]="Når antallet af personer er 5 eller mindre i rækkerne, vises de som .. (2 prikker) af diskretionshensyn.";
+NOTE[kl]="Ukiut immikkoortiterneri malillugit inuit amerlassussaat tallimaappata tallimaniilluunniit ikinneruppata naqitani tulleriiani ’Katillugit’ aammalu ’Ilisimaneqanngilaq’-mik allaqqasuni toornernik marlunnik (..) takutinneqassapput, tatiginartunik "
+"isumannaarsaaneq tunngavingalugu.";
+DATA=
+10066 9821 9316 9502 9382 9489 8986 8231 7614 7630 7544 7330 7210 7109 6653
+5922 5817 5545 5501 5353 5195 4850 4421 4115 3941 3822 3729 3653 3527 3326
+852 847 838 829 782 709 645 590 508 408 370 368 342 337 341
+1367 1389 1330 1302 1250 1128 995 930 846 696 647 614 577 564 545
+3916 3959 3800 3592 3448 3326 3062 2843 2632 2499 2428 2410 2362 2157 2116
+2624 2656 2560 2415 2313 2202 2063 1887 1753 1657 1582 1587 1553 1414 1413
+3591 3168 2862 2980 2851 2828 2692 2304 2260 2359 2320 2267 2274 2271 1961
+1495 1317 1183 1223 1176 1172 1113 954 935 975 958 933 946 941 804
+1053 989 1029 1330 1489 1583 1510 1483 1357 1365 1468 1352 1275 1385 1139
+314 293 305 393 438 466 446 431 396 396 428 395 369 400 327
+313 336 342 480 522 629 643 620 521 660 593 522 607 580 676
+72 76 78 110 118 144 146 141 118 149 134 118 138 132 153
+341 521 445 290 290 415 435 390 335 340 365 410 350 380 420
+50 86 89 58 58 83 87 78 67 68 73 82 70 76 84
+4287 4219 4268 4338 4231 4309 4053 3913 3866 3661 3538 3605 3655 3586 3359
+2396 2407 2407 2378 2321 2286 2161 2118 2052 2015 1926 1918 1939 1866 1843
+182 190 187 181 168 163 160 167 134 159 140 136 142 141 189
+311 316 307 299 283 259 239 248 206 245 228 204 205 201 273
+1874 2027 2076 1949 1904 1837 1705 1735 1693 1643 1580 1567 1568 1434 1464
+1190 1311 1343 1259 1233 1174 1116 1128 1095 1083 1025 1025 1029 941 979
+1876 1594 1534 1559 1501 1537 1474 1330 1334 1247 1214 1202 1209 1252 984
+798 676 640 652 629 648 621 560 560 525 507 503 509 525 407
+236 204 201 341 408 472 395 455 484 392 445 454 473 477 410
+71 62 61 103 123 141 118 134 144 115 132 134 139 138 117
+70 69 81 128 115 126 149 82 80 110 74 126 148 143 172
+16 15 18 29 26 29 33 19 19 25 17 28 34 33 39
+50 135 190 180 135 175 170 145 140 110 85 120 115 140 140
+10 27 38 36 27 35 34 29 28 22 17 24 23 28 28
+2049 1953 1840 1778 1793 1883 1765 1583 1339 1487 1554 1496 1353 1419 1332
+1204 1148 1107 1059 1085 1051 956 890 778 760 764 742 670 685 588
+197 203 220 225 261 227 198 198 161 103 99 93 73 77 49
+322 344 356 353 412 353 309 325 293 194 184 178 146 153 89
+727 644 572 496 464 456 397 349 277 357 350 336 310 294 263
+493 440 397 351 320 315 274 234 190 233 226 221 207 191 173
+697 603 540 527 497 484 459 406 423 459 463 471 444 452 442
+284 247 221 212 200 195 186 164 169 186 189 190 183 185 180
+259 233 303 380 382 426 400 418 298 337 363 321 286 375 294
+77 70 90 110 112 126 119 121 87 97 105 94 82 108 85
+43 87 65 106 120 155 186 136 110 147 159 150 155 141 179
+10 20 15 24 27 35 43 31 25 33 36 34 35 32 40
+126 182 140 45 70 135 125 75 70 85 120 125 85 80 105
+18 27 28 9 14 27 25 15 14 17 24 25 17 16 21
+1332 1418 1204 1253 1256 1242 1176 1012 959 1077 1078 963 979 915 933
+828 875 760 771 727 710 641 550 521 506 492 448 451 419 403
+187 207 183 191 161 155 146 118 112 61 57 51 47 43 42
+318 349 305 305 260 260 232 192 187 104 98 84 85 78 67
+370 372 304 303 280 272 222 206 194 236 213 212 214 200 181
+256 256 217 215 201 191 156 146 140 161 142 144 142 131 120
+402 425 337 362 352 304 291 222 161 278 286 265 276 244 249
+161 171 137 144 140 124 115 91 66 111 117 107 112 100 102
+208 223 231 269 344 300 329 282 285 271 299 258 223 235 205
+62 66 68 79 100 88 96 81 83 79 86 75 64 68 59
+83 76 109 83 94 161 144 124 142 181 159 103 139 103 135
+19 17 25 19 21 37 33 28 32 41 36 23 32 24 31
+81 114 40 45 25 50 45 60 65 50 65 75 80 90 120
+12 16 8 9 5 10 9 12 13 10 13 15 16 18 24
+2398 2231 2004 2132 2102 2054 1992 1722 1449 1405 1374 1266 1224 1189 1030
+1494 1387 1271 1293 1220 1148 1092 863 764 660 640 621 593 557 492
+286 247 249 232 192 164 142 107 101 85 75 89 80 76 61
+416 380 362 345 295 256 215 165 160 153 137 148 141 132 116
+945 916 848 844 799 761 738 553 468 263 285 296 270 230 208
+685 649 603 590 559 522 517 379 328 180 189 197 175 151 141
+616 546 451 532 501 502 468 346 342 375 358 329 345 323 286
+252 223 185 215 207 205 191 139 140 153 145 133 142 131 115
+350 328 294 341 355 385 386 328 290 365 361 318 294 298 229
+104 95 86 101 103 111 113 95 82 105 105 92 84 86 66
+117 105 87 163 193 187 164 279 188 222 200 144 165 192 190
+27 24 20 38 44 43 37 63 42 50 45 33 37 43 43
+84 90 75 20 60 55 95 110 60 95 95 90 70 70 55
+10 16 15 4 12 11 19 22 12 19 19 18 14 14 11;

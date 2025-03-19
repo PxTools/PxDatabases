@@ -1,0 +1,144 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230331 09:00";
+NEXT-UPDATE="20251130 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="OFXOA7";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="OF";
+SUBJECT-AREA="Public finances";
+SUBJECT-AREA[da]="Offenlig finanser";
+SUBJECT-AREA[kl]="Pisortat aningaasaataat";
+COPYRIGHT=YES;
+DESCRIPTION="Public employees by gender, function, inventory variable (2015-2023) <em>[OFEOA7]</em>";
+DESCRIPTION[da]="Offentligt ansatte efter køn, funktion, opgørelsesvariabel (2015-2023) <em>[OFDOA7]</em>";
+DESCRIPTION[kl]="Pisortani atorfillit, suiaassuseq, suliaqarfik naatsorsuinermilu uuttuut malillugu (2015-2023) <em>[OFNOA7]</em>";
+TITLE="Public employees by gender, function, time and inventory variable";
+TITLE[da]="Offentligt ansatte efter køn, funktion, tid og opgørelsesvariabel";
+TITLE[kl]="Pisortani atorfillit : suiaassuseq, suliaqarfik, piffissaq , naatsorsuinermi allanngorarneq";
+CONTENTS="Public employees";
+CONTENTS[da]="Offentligt ansatte";
+CONTENTS[kl]="Pisortani atorfillit";
+STUB="gender","function";
+STUB[da]="køn","funktion";
+STUB[kl]="suiaassuseq","suliaqarfik";
+HEADING="time","inventory variable";
+HEADING[da]="tid","opgørelsesvariabel";
+HEADING[kl]="piffissaq","naatsorsuinermi allanngorarneq";
+VALUES("gender")="Total","Men","Woman";
+VALUES("function")="Total","1. General public services","2. Defence","3. Public order and safety","4. Economic affairs","5. Environmental protection","6. Housing and community amenities","7. Health","8. Recreation, culture and religion","9. Education","10. Social protection";
+VALUES("time")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("inventory variable")="Full-time employees","Employees";
+VALUES[da]("funktion")="Alle","1. Generelle offentlige tjenester","2. Forsvar","3. Offentlig orden og sikkerhed","4. Økonomiske anliggender","5. Miljøbeskyttelse","6. Boliger og offentlige faciliteter","7. Sundhedsvæsen","8. Fritid, kultur og religion","9. Undervisning",
+"10. Social beskyttelse";
+VALUES[da]("køn")="Alle","Mænd","Kvinder";
+VALUES[da]("opgørelsesvariabel")="Fuldtidsbeskæftigede","Ansatte";
+VALUES[da]("tid")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("naatsorsuinermi allanngorarneq")="Piffissaq tamakkerlugu sulisut","Atorfillit";
+VALUES[kl]("piffissaq")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("suiaassuseq")="Tamakkerlugit","Angutit","Arnat";
+VALUES[kl]("suliaqarfik")="Tamakkerlugit","1. Pisortat nalinginnaasumik kiffartuussinerat","2. Illersornissaq","3. Inuiaqatigiinni toqqissisimaneq isumannaassuserlu","4. Aningaasaqarnermut tunngasut","5. Avatangiisit innarlitsaaliorneqarnerat",
+"6. Inissiat tamanillu orninneqarsinnaasut","7. Peqqinnissaqarfik","8. Sunngiffik, kulturi upperisarlu","9. Ilinniartitsineq","10. Inuiaqatigiit illersugaanerat";
+UNITS="Number";
+UNITS[da]="Antal";
+UNITS[kl]="Amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("gender")="A","1","2";
+CODES("function")="AA","01","02","03","04","05","06","07","08","09","10";
+CODES("time")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("inventory variable")="F","A";
+CODES[da]("funktion")="AA","01","02","03","04","05","06","07","08","09","10";
+CODES[da]("køn")="A","1","2";
+CODES[da]("opgørelsesvariabel")="F","A";
+CODES[da]("tid")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("naatsorsuinermi allanngorarneq")="F","A";
+CODES[kl]("piffissaq")="2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("suiaassuseq")="A","1","2";
+CODES[kl]("suliaqarfik")="AA","01","02","03","04","05","06","07","08","09","10";
+VARIABLECODE("gender")="kon";
+VARIABLECODE("function")="cofog_hoved";
+VARIABLECODE("time")="taar";
+VARIABLECODE("inventory variable")="opg_var";
+VARIABLECODE("figures_")="antal";
+VARIABLECODE[da]("figures_")="antal";
+VARIABLECODE[da]("funktion")="cofog_hoved";
+VARIABLECODE[da]("køn")="kon";
+VARIABLECODE[da]("opgørelsesvariabel")="opg_var";
+VARIABLECODE[da]("tid")="taar";
+VARIABLECODE[kl]("figures_")="antal";
+VARIABLECODE[kl]("naatsorsuinermi allanngorarneq")="opg_var";
+VARIABLECODE[kl]("piffissaq")="taar";
+VARIABLECODE[kl]("suiaassuseq")="kon";
+VARIABLECODE[kl]("suliaqarfik")="cofog_hoved";
+ELIMINATION("gender")="Total";
+ELIMINATION("function")="Total";
+ELIMINATION("inventory variable")="Full-time employees";
+ELIMINATION[da]("funktion")="Alle";
+ELIMINATION[da]("køn")="Alle";
+ELIMINATION[da]("opgørelsesvariabel")="Fuldtidsbeskæftigede";
+ELIMINATION[kl]("naatsorsuinermi allanngorarneq")="Piffissaq tamakkerlugu sulisut";
+ELIMINATION[kl]("suiaassuseq")="Tamakkerlugit";
+ELIMINATION[kl]("suliaqarfik")="Tamakkerlugit";
+LAST-UPDATED="20241120 09:00";
+LAST-UPDATED[da]="20241120 09:00";
+LAST-UPDATED[kl]="20241120 09:00";
+CONTACT="Gorm N. Pedersen gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE("function")="The variable is based on the COFOG classification.#COFOG for 2020 and onwards has been allocated on the basis of accounts from the new accounting system where there is a greater level of detail than before. Therefore, there may be minor differences comp"
+"ared to before.";
+NOTE("inventory variable")="The variable full-time employees are an equivalent calculation. The sum of the lower levels does not necessarily add up to the upper levels due to rounding.The variable employees are a count of single individual persons. The variable does not necessaril"
+"y add up to the higher levels,as one person with employment in two areas only counts as one unique person at the aggregated level.";
+NOTE[da]("funktion")="Variablen funktion er en inddeling af de ansatte efter COFOG klassifikationen.#COFOG for 2020 og frem er tildelt på baggrund af regnskaber fra det nye regnskab system hvor der er en større detaljegrad end tidligere. Derfor kan der være mindre forskelle "
+"i forhold til tidligere.";
+NOTE[da]("opgørelsesvariabel")="Variablen fuldtidsansatte er en ækvivaleret beregning, summen for de nedre niveauer stemmer ikke nødvendigvis med det øverste niveau pga. afrunding.Variablen ansatte er en optælling af enkelte personer, variablen kan ikke aggregeres til de højere niveau"
+"er,fordi en person kun bliver talt med en gang på de aggregerede niveauer.";
+NOTE[kl]("naatsorsuinermi allanngorarneq")="Piffissaq tamakkerlugu sulisut allanngorarnerat naleqqatigiissitatut naatsorsugaavoq, appasinnerusut inaarnerat akunnaalliliineq peqqutigalugu imaanngilaq qaffasinnerusumik inissisimasut assigissagaat.Atorfillit allanngorarnerat inunnut ataasiakkaanut n"
+"aatsorsugaavoq, allanngorarnera naatsorsukkanut qaffasinerusunut naatsorsorneqarsinnaanngilaq,tassani peqqutaavoq inuk ataaseq ataasiaannarluni qaffasinnerusunut naatsorsugaasarmat";
+NOTE[kl]("suliaqarfik")="Ingerlanerata allanngorarnera COFOG-p atorfillinnik immikkoortulersueriaasia malillugu suliaavoq.#COFOG for 2020 og frem er tildelt på baggrund af regnskaber fra det nye regnskab system hvor der er en større detaljegrad end tidligere. Derfor kan der vær"
+"e mindre forskelle i forhold til tidligere.";
+DATA=
+10171 18161 10254 18251 10536 18428 10699 18517 10872 18976 11066 18691 11279 18909 11224 18990 11212 19023
+1332 2232 1348 2301 1426 2548 1419 2493 1435 2506 1292 2106 1305 2198 1287 2191 1291 2091
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+23 75 20 79 25 78 25 48 26 69 29 74 31 65 31 71 35 114
+552 2110 534 1766 513 1622 532 1528 537 1620 593 1706 579 1619 577 1576 602 1572
+190 617 188 554 191 616 203 592 209 572 246 679 257 646 265 669 263 660
+30 44 31 51 30 63 12 31 20 58 29 56 27 36 29 42 28 37
+1515 3132 1552 3274 1565 3177 1589 3337 1589 3336 1607 3350 1654 3561 1650 3574 1668 3787
+308 1158 303 1147 309 1174 320 1183 324 1179 333 1024 341 1015 337 1030 339 1003
+2363 4406 2360 4334 2377 4389 2393 4361 2412 4438 2420 4235 2426 4229 2422 4109 2362 4025
+3856 8794 3917 9008 4100 9193 4207 9260 4318 9582 4518 9582 4660 9630 4627 9756 4625 9748
+3141 6364 3115 6224 3163 6346 3186 6216 3226 6336 3289 6237 3351 6268 3296 6208 3226 6141
+464 800 475 818 489 917 485 862 476 828 431 747 436 777 415 772 397 683
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+23 73 20 75 24 76 24 44 26 67 29 72 30 63 30 67 34 110
+380 1274 370 1087 361 1026 374 949 369 1007 386 1002 392 974 396 999 408 980
+167 533 165 481 167 539 182 524 187 503 217 591 222 560 226 582 224 565
+15 21 12 27 10 20 5 16 8 37 12 27 8 12 13 17 12 16
+347 816 356 859 354 843 346 876 346 827 349 810 347 893 359 884 371 937
+170 658 168 631 169 668 169 637 175 651 175 566 187 589 184 575 189 562
+832 1633 802 1525 780 1512 768 1469 778 1521 779 1482 765 1414 753 1364 703 1277
+742 2272 746 2277 808 2431 832 2346 862 2393 909 2459 963 2500 920 2420 887 2415
+7030 11797 7139 12027 7373 12082 7513 12301 7645 12640 7778 12454 7928 12641 7927 12782 7986 12882
+869 1432 873 1483 937 1631 934 1631 959 1678 861 1359 868 1421 872 1419 894 1408
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 2 0 4 0 2 0 4 0 2 0 2 0 2 1 4 1 4
+173 836 164 679 152 596 158 579 169 613 206 704 186 645 181 577 194 592
+23 84 24 73 23 77 21 68 22 69 29 88 35 86 39 87 39 95
+15 23 19 24 20 43 8 15 11 21 17 29 19 24 16 25 16 21
+1168 2316 1196 2415 1211 2334 1243 2461 1243 2509 1258 2540 1307 2668 1291 2690 1296 2850
+138 500 134 516 141 506 150 546 150 528 158 458 154 426 153 455 150 441
+1531 2773 1558 2809 1597 2877 1625 2892 1634 2917 1640 2753 1660 2815 1669 2745 1658 2748
+3114 6522 3171 6731 3292 6762 3374 6914 3456 7189 3609 7123 3698 7130 3707 7336 3738 7333
+;

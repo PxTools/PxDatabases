@@ -1,0 +1,225 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230830 14:01";
+NEXT-UPDATE="20240920 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="UDXBD1";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="UD";
+SUBJECT-AREA="Education";
+SUBJECT-AREA[da]="Uddannelse";
+SUBJECT-AREA[kl]="Ilinniartitaaneq";
+COPYRIGHT=YES;
+DESCRIPTION="Country of residence after graduation, 2003-2022 <em>[UDEBD1]</em>";
+DESCRIPTION[da]="Bopælsland efter fuldført uddannelse, 2003-2022 <em>[UDDBD1]</em>";
+DESCRIPTION[kl]="Nuna najugaq ilinniakkap naammassereernerata kingorna, 2003-2022 <em>[UDNBD1]</em>";
+TITLE="Country of residence after graduation by number of years after completed education, country of residence, country of education, education level and year of final examinations";
+TITLE[da]="Bopælsland efter fuldført uddannelse efter antal år efter endt uddannelse, bopælsland, uddannelsesland, uddannelsesniveau og afgangsår";
+TITLE[kl]="Nuna najugaq ilinniakkap naammassereernerata kingorna : ilinniareernermi ukiut qaangiuttut amerlassusaat, nuna najugaq, nuna ilinniarfik, ilinniakkap qaffasissusaa , ukioq soraarummeerfik";
+CONTENTS="Country of residence after graduation";
+CONTENTS[da]="Bopælsland efter fuldført uddannelse";
+CONTENTS[kl]="Nuna najugaq ilinniakkap naammassereernerata kingorna";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Amerlassusaat";
+STUB="number of years after completed education","country of residence","country of education","education level";
+STUB[da]="antal år efter endt uddannelse","bopælsland","uddannelsesland","uddannelsesniveau";
+STUB[kl]="ilinniareernermi ukiut qaangiuttut amerlassusaat","nuna najugaq","nuna ilinniarfik","ilinniakkap qaffasissusaa";
+HEADING="year of final examinations";
+HEADING[da]="afgangsår";
+HEADING[kl]="ukioq soraarummeerfik";
+VALUES("number of years after completed education")="1 year","2 years","3 years","4 years",
+"5 years","6 years","7 years","8 years","9 years","10 years";
+VALUES[da]("antal år efter endt uddannelse")="1 år","2 år","3 år","4 år","5 år","6 år","7 år",
+"8 år","9 år","10 år";
+VALUES[kl]("ilinniareernermi ukiut qaangiuttut amerlassusaat")="Ukioq siulleq","Ukiut marluk",
+"Ukiut pingasut","Ukiut sisamat","Ukiut tallimat","Ukiut arfinillit","Ukiut arfineq-marluk",
+"Ukiut arfineq-pingasut","Ukiut qulingiluat","Ukiut qulit";
+VALUES("country of residence")="Greenland","Abroad","Abroad - continued in education";
+VALUES[da]("bopælsland")="Grønland","Udland","Udland - fortsat i uddannelse";
+VALUES[kl]("nuna najugaq")="Kalaallit Nunaat","Nunami allami",
+"Nunami allami - ilinniakkamik ingerlatseqqinneq";
+VALUES("country of education")="Greenland","Abroad";
+VALUES[da]("uddannelsesland")="Grønland","Udland";
+VALUES[kl]("nuna ilinniarfik")="Kalaallit Nunaat","Nunami allami";
+VALUES("education level")="Vocational education and training","Higher education";
+VALUES[da]("uddannelsesniveau")="Erhvervsuddannelse","Videregående uddannelse";
+VALUES[kl]("ilinniakkap qaffasissusaa")="Inuussutissarsiornermik ilinniarneq",
+"Ingerlariaqqiffiusumik ilinniarneq";
+VALUES("year of final examinations")="2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+VALUES[da]("afgangsår")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+VALUES[kl]("ukioq soraarummeerfik")="2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+TIMEVAL("year of final examinations")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+TIMEVAL[da]("afgangsår")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+TIMEVAL[kl]("ukioq soraarummeerfik")=TLIST(A1),"2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+CODES("number of years after completed education")="1","2","3","4","5","6","7","8","9","10";
+CODES[da]("antal år efter endt uddannelse")="1","2","3","4","5","6","7","8","9","10";
+CODES[kl]("ilinniareernermi ukiut qaangiuttut amerlassusaat")="1","2","3","4","5","6","7","8","9",
+"10";
+CODES("country of residence")="1","2","2a";
+CODES[da]("bopælsland")="1","2","2a";
+CODES[kl]("nuna najugaq")="1","2","2a";
+CODES("country of education")="1","2";
+CODES[da]("uddannelsesland")="1","2";
+CODES[kl]("nuna ilinniarfik")="1","2";
+CODES("education level")="EUD","VUD";
+CODES[da]("uddannelsesniveau")="EUD","VUD";
+CODES[kl]("ilinniakkap qaffasissusaa")="EUD","VUD";
+CODES("year of final examinations")="2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+CODES[da]("afgangsår")="2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022";
+CODES[kl]("ukioq soraarummeerfik")="2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+ELIMINATION("education level")=YES;
+ELIMINATION[da]("uddannelsesniveau")=YES;
+ELIMINATION[kl]("ilinniakkap qaffasissusaa")=YES;
+LAST-UPDATED="20230921 09:00";
+CONTACT="Samo Nielsen - snie@stat.gl";
+CONTACT[da]="Samo Nielsen - snie@stat.gl";
+CONTACT[kl]="Samo Nielsen - snie@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="www.stat.gl/udd202308";
+LINK[da]="www.stat.gl/udd202308";
+LINK[kl]="www.stat.gl/udn202308";
+NOTE="Students in practical training after graduation are not counted as active students. This applies e.g. for medicin studens in their clinical studies or specialisation, and maritime students who are out sailing.";
+NOTE[da]="Studerende, som er i praktik efter endt uddannelse, opgøres ikke som værende aktiv i uddannelse. Det gælder fx studerende i turnus på klinisk basisuddannelse eller speciallægeuddannelse, samt maritim studerende, som er i gang med deres sejltid.";
+NOTE[kl]="Ilinniakkap naammassereernerani suli ilinniartutut suliffimmiittut ilinniakkamik ingerlatsisutut nalunaarsorneqanngillat. Assersuutigineqarsinnaapput nakorsanngorniat nakorsiartarfimmi basissimik ilinniartut imaluunniit immikkut "
+"paasisimasalittut nakorsanngorniat taamatullu imarsiornermi ilinniartut umiartorlutik aallartereersimasut.";
+NOTE("country of residence")="Calculated 1st of january.";
+NOTE[da]("bopælsland")="Opgøres pr. 1/1.";
+NOTE[kl]("nuna najugaq")="1.januaarimit naatsorsuutit.";
+DATA=
+362 293 246 266 295 305 336 307 368 393 380 391 436 425 398 390 373 376 421 358
+105 86 73 67 83 85 82 103 126 131 112 116 177 167 129 166 164 166 184 170
+8 6 6 3 2 6 5 7 9 2 8 9 6 7 7 10 6 12 5 5
+19 27 20 20 26 25 18 31 23 28 36 32 24 39 39 44 31 40 30 26
+7 5 10 12 11 7 8 4 5 4 6 7 6 5 9 7 3 4 6 1
+4 2 2 1 4 6 4 2 2 1 4 5 "-" 3 2 3 7 5 4 3
+6 7 2 2 5 4 11 5 10 7 7 8 8 12 13 17 12 12 12 8
+24 30 27 23 27 23 45 37 17 34 27 28 30 33 47 49 39 36 39 27
+5 3 1 "-" "-" "-" "-" "-" 1 4 2 5 1 3 "-" "-" 2 "-" 2 2
+4 3 "-" 2 3 1 2 2 2 1 3 3 5 6 2 "-" 5 1 3 4
+2 "-" 4 1 "-" 3 2 2 3 1 6 "-" 6 2 3 3 3 5 "-" "-"
+10 11 13 13 15 11 21 18 18 20 24 20 21 18 31 18 26 16 16 21
+354 282 245 262 288 293 334 300 364 387 367 383 424 424 391 388 367 378 421 "-"
+104 87 73 66 83 86 83 104 125 129 108 119 174 164 127 167 166 162 177 "-"
+11 8 9 4 2 9 8 10 10 4 11 9 7 7 7 8 10 14 6 "-"
+23 33 23 27 31 24 25 39 26 30 40 31 32 46 49 51 37 42 36 "-"
+15 13 11 14 17 19 8 9 9 10 14 15 10 5 12 9 6 1 6 "-"
+6 1 2 1 4 4 2 1 2 2 8 2 4 6 3 2 7 7 9 "-"
+3 5 1 2 5 3 6 3 9 5 4 7 7 8 11 19 8 11 11 "-"
+17 25 22 13 18 19 35 28 15 33 24 21 22 23 38 41 32 31 29 "-"
+5 6 1 2 1 "-" 2 2 1 4 7 5 9 4 4 "-" 5 1 2 "-"
+3 3 "-" 3 3 2 3 2 3 2 3 3 4 6 3 "-" 3 3 5 "-"
+2 "-" 2 "-" "-" 1 4 1 3 1 6 1 6 6 5 3 3 4 "-" "-"
+13 10 15 16 19 16 24 19 17 19 23 28 21 21 30 19 27 19 20 "-"
+354 281 242 258 285 290 335 296 356 377 357 377 422 420 381 376 361 371 "-" "-"
+106 84 63 65 81 87 82 103 119 126 108 115 173 162 127 163 161 158 "-" "-"
+11 10 10 4 2 9 8 8 12 5 11 8 8 9 5 10 10 16 "-" "-"
+26 31 24 27 26 30 29 41 30 35 39 40 34 47 54 56 47 47 "-" "-"
+16 15 14 16 20 19 7 11 13 19 20 21 13 8 22 18 12 4 "-" "-"
+4 5 6 4 7 4 1 3 7 5 7 5 3 6 3 5 12 8 "-" "-"
+5 3 2 2 5 3 6 4 8 3 4 7 8 8 12 18 10 9 "-" "-"
+19 28 23 17 23 17 36 34 19 34 31 21 30 32 46 43 36 34 "-" "-"
+4 5 1 4 1 3 2 4 5 5 11 5 8 5 4 3 5 5 "-" "-"
+3 2 6 1 2 1 5 1 4 2 4 4 6 8 3 1 3 6 "-" "-"
+"-" "-" "-" "-" "-" 1 4 2 2 2 6 2 4 4 6 2 1 4 "-" "-"
+8 9 13 12 19 12 19 11 9 13 17 19 11 11 17 12 13 11 "-" "-"
+344 277 242 254 285 290 328 288 353 370 361 367 421 421 383 375 354 "-" "-" "-"
+104 88 66 67 78 85 83 100 120 125 111 116 170 162 125 162 153 "-" "-" "-"
+11 10 10 4 4 8 9 10 13 4 9 9 9 11 8 10 10 "-" "-" "-"
+31 35 27 28 30 32 31 48 35 37 48 42 41 54 59 59 51 "-" "-" "-"
+26 18 14 20 18 17 12 13 17 23 15 30 18 7 18 21 16 "-" "-" "-"
+3 1 5 3 11 5 2 5 7 6 5 5 9 9 4 6 16 "-" "-" "-"
+5 3 2 2 3 4 6 2 7 5 5 6 8 9 9 19 10 "-" "-" "-"
+18 26 25 24 29 20 36 31 20 40 33 30 32 32 50 45 41 "-" "-" "-"
+4 6 1 4 3 5 4 10 4 8 12 6 4 5 6 1 8 "-" "-" "-"
+6 2 4 "-" 1 2 3 2 3 2 3 3 3 5 4 1 7 "-" "-" "-"
+"-" "-" "-" "-" "-" 1 3 2 2 1 7 2 3 1 6 1 1 "-" "-" "-"
+4 7 8 4 9 7 17 7 3 5 6 8 2 4 8 7 4 "-" "-" "-"
+337 273 239 253 282 290 328 287 346 365 355 368 416 419 385 370 "-" "-" "-" "-"
+99 86 66 65 78 85 84 96 122 124 111 115 167 163 125 163 "-" "-" "-" "-"
+10 11 10 4 4 8 9 7 11 4 10 9 9 10 9 11 "-" "-" "-" "-"
+32 36 27 28 34 32 38 48 34 39 47 43 38 58 65 63 "-" "-" "-" "-"
+35 24 18 22 19 18 13 18 22 32 16 34 23 10 17 23 "-" "-" "-" "-"
+8 4 6 5 11 6 2 8 5 7 6 8 10 11 5 6 "-" "-" "-" "-"
+5 2 2 2 3 5 8 5 8 5 5 6 9 9 11 18 "-" "-" "-" "-"
+20 26 28 25 27 24 39 31 21 39 38 30 36 30 47 45 "-" "-" "-" "-"
+2 4 "-" 3 5 4 3 6 6 4 17 1 4 4 5 4 "-" "-" "-" "-"
+6 1 3 "-" 1 1 2 3 3 2 2 1 5 2 3 "-" "-" "-" "-" "-"
+1 "-" "-" "-" "-" "-" 1 2 3 1 6 2 2 2 3 1 "-" "-" "-" "-"
+1 6 5 3 7 3 7 7 3 4 2 7 1 2 5 3 "-" "-" "-" "-"
+335 277 236 250 278 282 324 281 343 360 359 364 417 418 377 "-" "-" "-" "-" "-"
+101 82 67 65 77 85 83 93 121 122 110 113 168 161 123 "-" "-" "-" "-" "-"
+9 9 10 5 4 8 10 8 10 4 10 8 9 11 9 "-" "-" "-" "-" "-"
+30 36 29 29 36 33 39 47 37 42 46 42 41 58 62 "-" "-" "-" "-" "-"
+38 22 21 23 24 23 13 26 25 37 20 38 25 10 23 "-" "-" "-" "-" "-"
+9 7 6 4 13 7 4 11 8 8 8 9 11 14 7 "-" "-" "-" "-" "-"
+6 4 2 1 3 4 8 3 9 5 6 7 9 8 12 "-" "-" "-" "-" "-"
+20 28 28 24 31 23 41 33 20 39 40 36 33 31 53 "-" "-" "-" "-" "-"
+1 2 "-" 5 4 7 7 4 6 4 9 1 1 5 7 "-" "-" "-" "-" "-"
+3 2 2 1 "-" "-" 1 3 1 3 1 2 3 1 3 "-" "-" "-" "-" "-"
+1 "-" "-" "-" "-" 1 "-" 3 3 1 5 2 2 2 2 "-" "-" "-" "-" "-"
+3 4 3 3 1 3 4 6 1 1 1 2 1 1 2 "-" "-" "-" "-" "-"
+325 273 235 244 278 273 320 283 347 365 351 364 413 413 "-" "-" "-" "-" "-" "-"
+100 81 68 65 81 83 83 92 122 120 102 116 170 160 "-" "-" "-" "-" "-" "-"
+8 9 11 6 4 9 10 9 10 4 11 9 10 9 "-" "-" "-" "-" "-" "-"
+30 37 31 27 35 32 37 47 35 38 46 43 43 56 "-" "-" "-" "-" "-" "-"
+47 26 21 31 23 31 16 25 23 30 29 39 30 16 "-" "-" "-" "-" "-" "-"
+11 9 7 3 9 9 4 11 8 10 14 7 9 14 "-" "-" "-" "-" "-" "-"
+7 4 1 "-" 3 3 8 3 10 6 6 7 8 10 "-" "-" "-" "-" "-" "-"
+22 28 28 27 32 26 43 34 20 42 40 35 31 33 "-" "-" "-" "-" "-" "-"
+2 2 1 3 5 8 8 3 4 6 8 "-" "-" 4 "-" "-" "-" "-" "-" "-"
+2 1 "-" 2 "-" "-" 1 4 "-" 3 3 1 3 2 "-" "-" "-" "-" "-" "-"
+1 "-" "-" "-" "-" 1 "-" 2 2 "-" 4 1 2 2 "-" "-" "-" "-" "-" "-"
+1 3 1 2 1 1 4 5 3 2 1 2 1 1 "-" "-" "-" "-" "-" "-"
+322 274 233 242 277 270 321 286 345 357 349 364 411 "-" "-" "-" "-" "-" "-" "-"
+97 84 67 63 79 80 83 98 125 120 105 115 172 "-" "-" "-" "-" "-" "-" "-"
+9 11 10 6 3 8 11 11 13 4 12 9 10 "-" "-" "-" "-" "-" "-" "-"
+30 38 32 28 34 32 41 49 37 42 48 44 44 "-" "-" "-" "-" "-" "-" "-"
+47 25 24 35 26 37 18 23 27 39 32 38 29 "-" "-" "-" "-" "-" "-" "-"
+10 7 8 5 10 12 5 8 5 10 12 7 8 "-" "-" "-" "-" "-" "-" "-"
+7 2 2 "-" 3 5 7 3 9 6 5 7 10 "-" "-" "-" "-" "-" "-" "-"
+23 27 28 26 33 26 40 35 20 39 38 35 30 "-" "-" "-" "-" "-" "-" "-"
+5 2 "-" 1 3 5 5 2 2 5 7 1 3 "-" "-" "-" "-" "-" "-" "-"
+6 "-" "-" 2 1 "-" "-" 1 "-" 3 2 2 2 "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 "-" "-" "-" "-" "-" 4 1 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 3 "-" 2 1 1 3 2 1 1 1 1 1 "-" "-" "-" "-" "-" "-" "-"
+320 271 228 242 277 272 315 287 344 352 346 361 "-" "-" "-" "-" "-" "-" "-" "-"
+97 85 68 61 78 84 84 98 124 125 104 113 "-" "-" "-" "-" "-" "-" "-" "-"
+10 9 10 6 2 9 11 10 14 4 14 10 "-" "-" "-" "-" "-" "-" "-" "-"
+30 38 30 26 36 33 38 47 36 45 50 42 "-" "-" "-" "-" "-" "-" "-" "-"
+48 28 26 33 26 36 25 23 28 46 37 40 "-" "-" "-" "-" "-" "-" "-" "-"
+14 6 7 6 11 8 3 9 6 8 13 8 "-" "-" "-" "-" "-" "-" "-" "-"
+6 4 2 "-" 4 4 6 4 8 6 4 6 "-" "-" "-" "-" "-" "-" "-" "-"
+23 28 29 28 32 25 45 38 21 36 37 37 "-" "-" "-" "-" "-" "-" "-" "-"
+6 2 3 3 3 4 4 1 2 3 5 2 "-" "-" "-" "-" "-" "-" "-" "-"
+2 "-" "-" 3 1 "-" 1 "-" "-" "-" 2 3 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 "-" 1 "-" "-" "-" 3 1 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 2 1 2 "-" 1 1 1 1 1 "-" 1 "-" "-" "-" "-" "-" "-" "-" "-"
+317 270 234 241 268 272 315 281 342 344 346 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+97 83 64 61 77 84 83 97 124 125 104 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+9 9 10 6 2 7 11 9 14 4 14 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+30 38 30 27 35 31 39 52 38 45 44 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+53 29 20 36 30 38 29 26 31 55 39 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+13 8 11 4 13 8 4 10 6 8 14 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+7 3 2 "-" 4 5 7 5 7 6 5 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+22 29 30 29 33 27 44 34 20 37 43 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+4 2 3 1 8 2 "-" 4 1 2 3 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+3 "-" "-" 5 "-" "-" 1 "-" "-" "-" 1 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 1 "-" "-" 1 1 "-" "-" 1 "-" 2 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 1 "-" "-" "-" 1 1 "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-" "-";

@@ -1,0 +1,88 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150626 09:00";
+NEXT-UPDATE="20250425 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXAPE3";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="In- and outflux of age pensioners by time and age <em>[SOEAPE3]</em>";
+DESCRIPTION[da]="Til- og afgang af alderspensionister fordelt på tid og aldergruppe <em>[SODAPE3]</em>";
+DESCRIPTION[kl]="Soraarnerussutisiallit amerleriarnerisa ikileriarnerisalu agguaanneri, piffissamut utoqqaassuseqatigiinnullu immikkoortillugit <em>[SONAPE3]</em>";
+TITLE="In- and outflux of age pensioners by age group, movement and time";
+TITLE[da]="Til- og afgang af alderspensionister efter aldersgruppe, bevægelse og tid";
+TITLE[kl]="Soraarnerussutisiallit amerleriarnerisa ikileriarnerisalu : ukiut immikkoortiterneri, ingerlaarneq , piffissaq";
+CONTENTS="In- and outflux of age pensioners";
+CONTENTS[da]="Til- og afgang af alderspensionister";
+CONTENTS[kl]="Soraarnerussutisiallit amerleriarnerisa ikileriarnerisalu";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit amerlassusii";
+STUB="age group","movement";
+STUB[da]="aldersgruppe","bevægelse";
+STUB[kl]="ukiut immikkoortiterneri","ingerlaarneq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("age group")="Total","Younger than 70 years","70-74 years","75-79 years","80-89 years",
+"90+ years";
+VALUES[da]("aldersgruppe")="I alt","Yngre end 70 år","70-74 år","75-79 år","80-89 år","90+ år";
+VALUES[kl]("ukiut immikkoortiterneri")="Katillugit","70-it inorlugit ukiullit","70-74-nik ukiullit",
+"75-79-nik ukiullit","80-89-nik ukiullit","90-nik ukiullit qummullu";
+VALUES("movement")="Influx","Outflux";
+VALUES[da]("bevægelse")="Tilgang","Afgang";
+VALUES[kl]("ingerlaarneq")="Amerleriarnerat","Ikileriarnerat";
+VALUES("time")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+VALUES[kl]("piffissaq")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+TIMEVAL("time")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021",
+"2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+CODES("age group")="00. I alt","11. y_70","07. 70-74","08. 75-79","09. 80-89","10. 90+";
+CODES[da]("aldersgruppe")="00. I alt","11. y_70","07. 70-74","08. 75-79","09. 80-89","10. 90+";
+CODES[kl]("ukiut immikkoortiterneri")="00. I alt","11. y_70","07. 70-74","08. 75-79","09. 80-89",
+"10. 90+";
+CODES("movement")="3. T","2. A";
+CODES[da]("bevægelse")="3. T","2. A";
+CODES[kl]("ingerlaarneq")="3. T","2. A";
+CODES("time")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("tid")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022",
+"2023";
+ELIMINATION("age group")="Total";
+ELIMINATION[da]("aldersgruppe")="I alt";
+ELIMINATION[kl]("ukiut immikkoortiterneri")="Katillugit";
+LAST-UPDATED="20240425 09:00";
+CONTACT="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[da]="Anders Blaabjerg,  abla@stat.gl";
+CONTACT[kl]="Anders Blaabjerg,  abla@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+322 308 289 396 526 129 300 394 449 189 399 482
+284 262 287 309 294 336 316 355 318 329 337 330
+308 291 259 373 448 98 268 360 389 150 363 437
+66 71 78 78 61 89 76 72 71 60 52 58
+7 15 20 17 52 22 20 25 37 32 30 34
+87 63 68 85 80 93 69 89 77 74 90 79
+4 0 7 3 16 6 9 9 17 5 5 4
+59 67 60 56 73 71 82 87 92 84 81 88
+3 2 3 3 9 3 3 0 6 2 1 7
+66 55 77 81 76 75 79 95 68 96 101 91
+0 0 0 0 1 0 0 0 0 0 0 0
+6 6 4 9 4 8 10 12 10 15 13 14;

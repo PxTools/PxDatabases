@@ -1,0 +1,106 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230106 09:00";
+NEXT-UPDATE="20251205 09:00";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="ARXLED6";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Unemployment among permanent residents by education <em>[ARELED6]</em>";
+DESCRIPTION[da]="Antal ledige i gennemsnit pr. måned blandt fastboende fordelt på uddannelse <em>[ARDLED6]</em>";
+DESCRIPTION[kl]="Najugaqavissut akornanni agguaqatigiissillugu qaammammut suliffissaaleqisut amerlassusaat, ilinniagaq malillugu <em>[ARNLED6]</em>";
+TITLE="Unemployment among permanent residents by education, time and inventory variable";
+TITLE[da]="Antal ledige i gennemsnit pr. måned blandt fastboende efter uddannelse, tid og opgørelsesvariabel";
+TITLE[kl]="Najugaqavissut akornanni agguaqatigiissillugu qaammammut suliffissaaleqisut amerlassusaat : ilinniagaq, piffissaq , naatsorsuinermi uuttuut";
+CONTENTS="Unemployment among permanent residents";
+CONTENTS[da]="Antal ledige i gennemsnit pr. måned blandt fastboende";
+CONTENTS[kl]="Najugaqavissut akornanni agguaqatigiissillugu qaammammut suliffissaaleqisut amerlassusaat";
+STUB="education";
+STUB[da]="uddannelse";
+STUB[kl]="ilinniagaq";
+HEADING="time","inventory variable";
+HEADING[da]="tid","opgørelsesvariabel";
+HEADING[kl]="piffissaq","naatsorsuinermi uuttuut";
+VALUES("education")="Total","Primary","Upper secondary education - General","Upper secondary education - Vocational: Total","Upper secondary education - Vocational: Arts and humanities","Upper secondary education - Vocational: Business, administration and law",
+"Upper secondary education - Vocational: Engineering, manufacturing and construction","Upper secondary education - Vocational: Agriculture, forestry, fisheries and veterinary","Upper secondary education - Vocational: Health and welfare",
+"Upper secondary education - Vocational: Services","Upper secondary education - Vocational: Other","Post-secondary non-tertiary education","Bachelors, Masters, Doctoral or equivalent level";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("inventory variable")="Unemployment in average per month","Unemployment rate (pct.)";
+VALUES[da]("opgørelsesvariabel")="Antal ledige i gennemsnit pr. måned","Ledighedsprocent i gennemsnit pr. måned";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("uddannelse")="Alle","Folkeskole","Gymnasieuddannelse","Erhvervsuddannelse: Samlet","Erhvervsuddannelse: Kunst og humaniora","Erhvervsuddannelse: Erhverv, administration og jura","Erhvervsuddannelse: Ingeniørvidenskab, produktion og konstruktion",
+"Erhvervsuddannelse: Landbrug, skovbrug, fiskeri og veterinær","Erhvervsuddannelse: Sundhed og velfærd","Erhvervsuddannelse: Servicesektor","Erhvervsuddannelse: Øvrige","Suppleringskursus","Videregående uddannelse";
+VALUES[kl]("ilinniagaq")="Katillugit","Meeqqat atuarfiat","Ilinniarnertuunngorniarneq","Inuussutissarsiornermik ilinniarneq: Katillugit","Inuuss. Ilinniarneq: Eqqumiitsuliorneq aamma humaniora","Inuuss. Ilinniarneq: Inuussutissarsiorneq, allaffissorneq inatsisilerinerlu",
+"Inuuss. Ilinniarneq: Ingeniørinngorniarneq, tunisassiorneq sanaartornerlu","Inuuss. Ilinniarneq: Nunalerineq, orpippassualerineq, aalisarneq uumasullu","Inuuss. Ilinniarneq: Peqqinneq atungarissaarnerlu",
+"Inuuss. Ilinniarneq: Kiffartuussinermi suliaqarfik","Inuuss. Ilinniarneq: Allat","Angusanik qaffassaaneq","Ingerlariaqqiffiusumik ilinniarneq";
+VALUES[kl]("naatsorsuinermi uuttuut")="Agguaqatigiissillugu qaammammut suliffissaaleqisut amerlassusaat","Agguaqatigiissillugu qaammammut suliffissaaleqineq pct.-inngorlugu";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+UNITS="Number of persons og percent";
+UNITS[da]="Antal personer og procent";
+UNITS[kl]="Inuit amerlassusaat aamma pct.-inngorlugit";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("education")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("inventory variable")="L","P";
+CODES[da]("opgørelsesvariabel")="L","P";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("uddannelse")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES[kl]("ilinniagaq")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES[kl]("naatsorsuinermi uuttuut")="L","P";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+VARIABLECODE("education")="udd_grp";
+VARIABLECODE("time")="aar";
+VARIABLECODE("inventory variable")="opg_var";
+VARIABLECODE("figures_")="antal";
+VARIABLECODE[da]("figures_")="antal";
+VARIABLECODE[da]("opgørelsesvariabel")="opg_var";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[da]("uddannelse")="udd_grp";
+VARIABLECODE[kl]("figures_")="antal";
+VARIABLECODE[kl]("ilinniagaq")="udd_grp";
+VARIABLECODE[kl]("naatsorsuinermi uuttuut")="opg_var";
+VARIABLECODE[kl]("piffissaq")="aar";
+ELIMINATION("education")="Total";
+ELIMINATION[da]("uddannelse")="Alle";
+ELIMINATION[kl]("ilinniagaq")="Katillugit";
+PRECISION("inventory variable","Unemployment rate (pct.)")=1;
+PRECISION[da]("opgørelsesvariabel","Ledighedsprocent i gennemsnit pr. måned")=1;
+PRECISION[kl]("naatsorsuinermi uuttuut","Agguaqatigiissillugu qaammammut suliffissaaleqineq pct.-inngorlugu")=1;
+LAST-UPDATED="20241206 09:00";
+LAST-UPDATED[da]="20241206 09:00";
+LAST-UPDATED[kl]="20241206 09:00";
+CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="The permanent resident population is defined as all citizens residing in the country at the beginning and end of the year, and who have turned 15 at the beginning of the month#18 years-retirement age";
+NOTE[da]="Den fastboende befolkning defineres som alle borgere bosiddende i landet primo og ultimo året, og som primo måneden er fyldt 15 år.#18-pensionalderen";
+NOTE[kl]="Innuttaasut najugaqavissut tassaapput Kalaallit Nunaanni ukiup aallartinnerani naaneranilu najugallit, qaammatillu aallartinnerani 15-inik ukioqalereersimasut.#18-soraarnerussutisiaqalernissamut ukiussarititat";
+DATA=
+1791 6.4 1681 5.9 1441 5 1243 4.3 1300 4.5 1059 3.7 930 3.2 857 2.9
+1536 10 1427 9.4 1214 8.1 1043 7.1 1077 7.5 885 6.2 775 5.5 712 5
+27 2 28 2 27 1.9 21 1.4 21 1.4 14 0.9 14 0.9 18 1.1
+184 2.8 186 2.8 162 2.4 141 2.1 159 2.3 128 1.8 108 1.5 98 1.4
+11 5.9 9 4.6 8 4.2 5 2.6 6 3.4 5 2.8 4 2 1 0.7
+11 1.3 13 1.5 10 1.1 9 0.9 14 1.5 13 1.3 9 0.9 5 0.5
+62 2.7 58 2.5 49 2.1 43 1.8 45 1.9 40 1.6 39 1.6 35 1.4
+15 5.6 20 7 15 5.3 17 6.1 18 6.5 14 5.2 11 4 10 3.4
+33 2.1 35 2.2 31 1.9 26 1.6 29 1.7 24 1.4 18 1.1 18 1.1
+51 4 50 3.8 49 3.6 41 3 45 3.2 31 2.1 27 1.8 28 1.9
+1 1.5 1 1 1 0.9 1 1.2 2 1.5 1 0.7 0 0.3 1 0.5
+27 2.5 22 1.9 21 1.8 20 1.7 23 1.9 17 1.3 15 1.2 12 0.9
+17 0.4 19 0.5 16 0.4 17 0.4 20 0.4 16 0.3 17 0.4 18 0.4
+;

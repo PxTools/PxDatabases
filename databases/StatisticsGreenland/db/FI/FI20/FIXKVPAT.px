@@ -1,0 +1,62 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20180101 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIXKVPAT";
+COPYRIGHT=YES;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries and Catch";
+DESCRIPTION="Quotas for hunting of mammals, Greenland <em>[FIEKVPAT]</em>";
+TITLE="Quotas for hunting of marine and land mammals, Greenland by species and time";
+CONTENTS="Quotas for hunting of marine and land mammals, Greenland";
+STUB="species";
+HEADING="time";
+VALUES("species")="Beluga","Narwhal","Minke whale","Humpback whale","Bowhead whale","Fin whale","Walrus","Polar bear";
+VALUES("time")="2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+ELIMINATION("species")=YES;
+LAST-UPDATED="20220808 09:00";
+UNITS="Pieces";
+CONTACT="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+NEXT-UPDATE="20230815 09:00";
+UPDATE-FREQUENCY="Annually";
+SUBJECT-AREA[da]="Fiskeri og fangst";
+DESCRIPTION[da]="Kvoter for fangst af pattedyr, Grønland <em>[FIDKVPAT]</em>";
+TITLE[da]="Kvoter for fangst af hav- og landpattedyr, Grønland efter art og tid";
+CONTENTS[da]="Kvoter for fangst af hav- og landpattedyr, Grønland";
+STUB[da]="art";
+HEADING[da]="tid";
+VALUES[da]("art")="Hvidhval","Narhval","Vågehval","Pukkelhval","Grønlandshval","Finhval","Hvalros","Isbjørn";
+VALUES[da]("tid")="2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+ELIMINATION[da]("art")=YES;
+LAST-UPDATED[da]="20220808 09:00";
+UNITS[da]="Styk";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+SOURCE[da]="Grønlands Statistik";
+SUBJECT-AREA[kl]="Aalisarneq piniarnerlu";
+DESCRIPTION[kl]="Miluumasut pisassat, Kalaallit nunaat <em>[FINKVPAT]</em>";
+TITLE[kl]="Miluumasut pisassat, Kalaallit nunaat kingorna suussusaa aamma piffissaq";
+CONTENTS[kl]="Miluumasut pisassat, Kalaallit nunaat";
+STUB[kl]="suussusaa";
+HEADING[kl]="piffissaq";
+VALUES[kl]("suussusaa")="Qilalugaq qaqortaq","Qilalugaq qernertaq","Tikaagullik","Qipoqqaq","Arfivik","Tikaagulliusaaq","Aaveq","Nanoq";
+VALUES[kl]("piffissaq")="2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021";
+ELIMINATION[kl]("suussusaa")=YES;
+LAST-UPDATED[kl]="20220808 09:00";
+UNITS[kl]="Qassiuneri";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+160	165	255	310	310	310	470	350	405	373	340	340	336	340	340	294
+317	300	410	395	395	395	458	398	465	415	506	532	530	506	474	499
+189	184	212	230	208	200	198	190	179	194	194	194	194	184	184	184
+0	0	0	0	9	9	10	10	12	12	12	12	12	10	10	10
+0	0	2	4	3	2	3	2	4	4	4	4	4	2	2	2
+10	10	19	19	10	10	10	19	19	19	19	19	19	19	19	19
+75	200	175	134	126	130	141	140	140	170	173	172	172	172	170	170
+150	139	145	130	130	140	139	140	140	140	140	140	156	156	156	156
+;

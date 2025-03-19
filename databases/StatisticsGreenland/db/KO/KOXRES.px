@@ -1,0 +1,151 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20160510 09:00";
+NEXT-UPDATE="20250515 09:00";
+UPDATE-FREQUENCY="half yearly, halvårligt, ukiup affaanut";
+DECIMALS=3;
+SHOWDECIMALS=1;
+MATRIX="KOXRES";
+SUBJECT-CODE="KO";
+SUBJECT-AREA="Short term trends";
+SUBJECT-AREA[da]="Konjunktur";
+SUBJECT-AREA[kl]="Aningaasaqarnikkut pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Arrears to the tax authority by type (2010H2-2025H1) <em>[KOERES]</em>";
+DESCRIPTION[da]="Restanceliste til det offentlige efter restanceart (2010H2-2025H1) <em>[KODRES]</em>";
+DESCRIPTION[kl]="Pisortanut akiitsullit allattorsimaffiat, tunngavigalugu akiitsut suuneri (2010H2-2025H1) <em>[KONRES]</em>";
+TITLE="Arrears to the tax authority by type by specification, type and time";
+TITLE[da]="Restancelist til det offentlige efter restanceart efter opgørelse, restanceart og tid";
+TITLE[kl]="Pisortanut akiitsullit allattorsimaffiat, tunngavigalugu akiitsut suuneri : naatsorsuutit, akiitsut suuneri , piffissaq";
+CONTENTS="Arrears to the tax authority by type";
+CONTENTS[da]="Restancelist til det offentlige efter restanceart";
+CONTENTS[kl]="Pisortanut akiitsullit allattorsimaffiat, tunngavigalugu akiitsut suuneri";
+UNITS="1,000 cases/Mill. kr.";
+UNITS[da]="1.000 sager/Mio. kr.";
+UNITS[kl]="1.000 suliat/Mio. kr.";
+STUB="specification","type";
+STUB[da]="opgørelse","restanceart";
+STUB[kl]="naatsorsuutit","akiitsut suuneri";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("specification")="Number of cases","Arrear amount";
+VALUES[da]("opgørelse")="Antal sager","Restance størrelse";
+VALUES[kl]("naatsorsuutit")="Suliat amerlassusaat","Pisortanut akiitsup annertussusia";
+VALUES("type")="All arrears","All arrears excluding allocated loss on A-tax","Allomony","Sub-tax",
+"ESU","A-tax","Corporate tax","Rents","Interest on tax","Misc. municipal tax",
+"Help with repayment obligation","Student loan","Daycare","Renovation","Municipal business loans",
+"Misc. Greenland Goverment arrears","Housing subsidies loan","Selfbuilding loans","EL/water",
+"Parent payment for replaced children","Nordic arrears","Misc. arrears","Allocated loss on A-tax";
+VALUES[da]("restanceart")="Alle restancer","Alle restanser eksl. hensættelse til tab på skatter",
+"Underholdsbidrag","Restskatter","ESU","A-skat","Selskabsskat","Husleje","Skatterenter",
+"Diverse kom. restancer","Hjælp med tilbagebetalingspligt","Studielån","Daginstitutioner",
+"Renovation","Kommunale erhvervslån","Diverse Selvstyre-restancer","Boligstøttelån","Selvbyggerlån",
+"El/vand","Forældrebetaling anbragte børn","Nordiske krav","Øvrige restancer",
+"Hensat til tab på skatter";
+VALUES[kl]("akiitsut suuneri")=
+"Akiitsut tamakkerlugit",
+"Akiitsut tamakkerlugit, akileraarutitigut annaasaqaataasunut immikkoortinneqartut ilanngunnagit",
+"Meeqqanut akilersuutit","Akileraarutinut akiligassat","ESU","A-akileraarutit",
+"Ingerlatseqatigiiffiit akileraarutaat","Ineqarnermut akiliut","Akileraarutit erniaat",
+"Kommunimut akiitsut assigiinngitsut","Utertillugit akilertariaqakkanik ikiorsiineq",
+"Ilinniarnermi taarsigassarsiat","Meeqqeriviit","Eqqagassat",
+"Kommunini inuussutissarsiutinut taarsigassarsiat",
+"Namminersorlutik Oqartussanut akiitsut assigiinngitsut",
+"Ineqarnermut tapiissutinik taarsigassarsiat","Nammineq illuliornermi taarsigassarsiat",
+"Innaallagiaq/imeq","Meeqqanut inissinneqartunut angajoqqaat akiitsui",
+"Nunat Avannarliit piumasaqaataat","Akiitsut allat",
+"Akileraarutitigut annaasaqaataasunut immikkoortinneqartut";
+VALUES("time")="2010H2","2011H1","2011H2","2012H1","2012H2","2013H1","2013H2","2014H1","2014H2",
+"2015H1","2015H2","2016H1","2016H2","2017H1","2017H2","2018H1","2018H2","2019H1","2019H2","2020H1",
+"2020H2","2021H1","2021H2","2022H1","2022H2","2023H1","2023H2","2024H1","2024H2","2025H1";
+VALUES[da]("tid")="2010H2","2011H1","2011H2","2012H1","2012H2","2013H1","2013H2","2014H1","2014H2",
+"2015H1","2015H2","2016H1","2016H2","2017H1","2017H2","2018H1","2018H2","2019H1","2019H2","2020H1",
+"2020H2","2021H1","2021H2","2022H1","2022H2","2023H1","2023H2","2024H1","2024H2","2025H1";
+VALUES[kl]("piffissaq")="2010H2","2011H1","2011H2","2012H1","2012H2","2013H1","2013H2","2014H1",
+"2014H2","2015H1","2015H2","2016H1","2016H2","2017H1","2017H2","2018H1","2018H2","2019H1","2019H2",
+"2020H1","2020H2","2021H1","2021H2","2022H1","2022H2","2023H1","2023H2","2024H1","2024H2","2025H1";
+TIMEVAL("time")=TLIST(H1),"20102","20111","20112","20121","20122","20131","20132","20141","20142",
+"20151","20152","20161","20162","20171","20172","20181","20182","20191","20192","20201","20202",
+"20211","20212","20221","20222","20231","20232","20241","20242","20251";
+TIMEVAL[da]("tid")=TLIST(H1),"20102","20111","20112","20121","20122","20131","20132","20141",
+"20142","20151","20152","20161","20162","20171","20172","20181","20182","20191","20192","20201",
+"20202","20211","20212","20221","20222","20231","20232","20241","20242","20251";
+TIMEVAL[kl]("piffissaq")=TLIST(H1),"20102","20111","20112","20121","20122","20131","20132","20141",
+"20142","20151","20152","20161","20162","20171","20172","20181","20182","20191","20192","20201",
+"20202","20211","20212","20221","20222","20231","20232","20241","20242","20251";
+ELIMINATION("type")="All arrears";
+ELIMINATION[da]("restanceart")="Alle restancer";
+ELIMINATION[kl]("akiitsut suuneri")="Akiitsut tamakkerlugit";
+LAST-UPDATED="20250218 09:00";
+CONTACT="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq F. Lund, aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="For method and definition of the variables reference is made to the publication about short-term statistics, which is available at www.stat.gl#List of symbols:#... No information available#";
+NOTE[da]="For metode og definitioner henvises til publikation om konjunkturstatistikken, der kan hentes på www.stat.gl#Signaturforklaring:#... Oplysninger foreligger ikke#";
+NOTE[kl]="Periaatsit nassuiaatillu aningaasaqarnikkut pissutsit pillugit saqqummersitamut www.stat.gl-imi aaneqarsinnaapput.#Nalunaaqutsersuutip nassuiaataa:#... Paasissutissat pigineqanngillat#";
+NOTE("type")="The A-Tax arrears partly consist of a calculated amount, reference is made to the tax authority#";
+NOTE[da]("restanceart")="A-skat restancerne består delvist af en beregnet opgørelse fra skattestyrelsen#";
+NOTE[kl]("akiitsut suuneri")="A-akileraarutinit akiitsut Akileraartarnermut Aqutsisoqarfimmiik naatsorsukkanik ilaatigut imaqarput#";
+VALUENOTE("time","2017H2")="In the second half of 2017, the allocating loss on A-tax arrears where 190 mill. kr.";
+VALUENOTE[da]("tid","2017H2")="I 2. halvår 2017 var hensættelse til tab på A-skatter 190 mio. kr.";
+VALUENOTE[kl]("piffissaq","2017H2")="2017-imi ukiup affaata aappaani A-nit akileraarutitigut annaasaqaataasunut immikkoortinneqartut 190 mio. kruuniupput";
+VALUENOTE("time","2020H2")="In the second half of 2020, the allocating loss on A-tax arrears where 340 mill. kr.";
+VALUENOTE[da]("tid","2020H2")="I 2. halvår 2020 var hensættelse til tab på A-skatter 340 mio. kr.";
+VALUENOTE[kl]("piffissaq","2020H2")="2020-imi ukiup affaata aappaani A-nit akileraarutitigut annaasaqaataasunut immikkoortinneqartut 340 mio. kruuniupput";
+VALUENOTE("time","2021H1")="The development in arrears after 1 half year for 2021 cannot be directly compared with previous periods due to the transition to a new financial system and individual arrears statements were audited.";
+VALUENOTE[da]("tid","2021H1")="Udviklingen i restancer efter 1 halvår for 2021 kan ikke umiddelbart sammenlignes med tidligere perioder på grund af overgang til et nyt økonomisystem og der blev foretaget revision på enkelte restanceopgørelser.";
+VALUENOTE[kl]("piffissaq","2021H1")="Aningaasaqarnermi aqutsinermi periutsip allanngornera kukkunersiuinerlu pissutaallutik 2021-mi ukiup affaani siullermi akiligassat ineriartornerat piffissanut allanut imaaliallaanarluni sanilliunneqarsinnaanngillat.";
+DATA=
+267.06 261.822 272.887 212.739 230.307 225.917 241.436 248.049 273.1 266.392 283.78 280.864 317.407 305.757 319.433 317.25 313.11 309.919 281.778 223.172 262.795 289.055 508.722 508.722 514.693 643.259 687.976 635.938 647.838 641.524 
+267.06 261.822 272.887 212.739 230.307 225.917 241.436 248.049 273.1 266.392 283.78 280.864 317.407 305.757 319.433 317.25 313.11 309.919 281.778 223.172 262.795 289.055 508.722 508.722 514.693 643.259 687.976 635.938 647.838 641.524 
+63.742 64.293 66.49 63.108 65.079 64.531 66.338 67.162 69.273 69.939 71.842 72.8 76.763 76.314 78.437 78.822 78.818 80.206 77.11 71.972 81.342 83.181 84.211 84.211 86.667 86.979 89.558 85.202 84.59 82.956 
+14.505 13.624 12.477 5.092 5 4.457 4.875 4.545 4.488 3.615 3.306 1.573 1.532 1.342 1.276 1.236 1.039 0.971 0.56 0.481 0.505 13.489 221.548 221.548 221.477 318.189 350.642 333.437 355.01 351.48 
+0.127 0.111 0.109 0.109 0.105 0.103 0.102 0.1 0.098 0.096 0.094 0.092 0.089 0.083 0.077 0.074 0.069 0.068 0.068 0.061 0.062 0.073 0.067 0.067 0.064 0.062 0.061 0.061 0.06 0.051 
+1.346 1.156 1.175 0.433 2.684 2.296 2.737 2.457 2.379 2.597 2.549 2.462 2.854 2.712 2.714 2.86 2.718 2.618 2.291 2.145 2.205 1.781 25.164 25.164 17.352 48.271 47.858 44.303 46.601 58.476 
+0.046 0.04 0.065 0.086 0.075 0.073 0.079 0.077 0.073 0.073 0.072 0.065 0.061 0.037 0.03 0.083 0.082 0.079 0.067 0.063 0.063 0.048 0.47 0.47 0.416 0.537 0.537 0.828 0.555 0.707 
+11.942 11.223 8.418 7.336 7.313 7.349 7.459 7.652 7.767 11.658 7.019 6.358 6.785 6.559 6.121 5.669 4.995 4.716 3.639 1.753 5.539 10.361 9.042 9.042 10.718 9.701 11.202 10.041 11.268 10.02 
+26.361 24.571 22.634 0.005 1.155 1.635 1.636 1.442 1.503 1.28 1.29 1.525 1.451 1.371 1.821 1.81 1.2 1.217 7.934 1.213 7.674 2.148 0.657 0.657 0.675 2.666 0.586 0.563 0.598 0.551 
+17.991 18.568 19.597 16.781 17.248 17.697 19.037 20.18 20.699 13.706 18.218 18.311 21.049 20.542 20.382 20.562 18.051 19.448 14.959 11.789 17.274 15.957 12.316 12.316 13.158 12.735 12.706 12.254 11.019 9.264 
+7.033 6.664 7.078 5.758 6.23 5.562 5.772 5.513 5.872 5.47 6.02 5.581 6.17 5.639 5.907 5.582 5.537 5.038 4.848 3.941 4.17 4.535 3.948 3.948 3.969 3.678 3.651 3.224 3.069 2.806 
+0.853 0.794 0.813 0.671 0.732 0.648 0.882 0.809 1.209 1.001 1.106 0.956 1.224 1.029 1.276 1.135 1.079 0.976 0.834 0.695 0.6 1.036 0.927 0.927 1.489 1.229 1.159 1.008 3.296 5.962 
+21.622 20.763 22.578 18.443 18.916 18.139 19.429 19.299 21.65 20.636 22.65 22.774 26.746 24.096 25.12 25.679 24.88 26.879 23.435 16.81 25.521 24.184 22.44 22.44 24.405 23.266 21.196 19.54 19.606 15.588 
+72.426 69.404 76.142 61.316 67.413 68.378 71.704 77.451 91.215 89.08 98.6 100.273 113.73 103.275 110.677 108.654 112.074 114.052 108.341 75.329 97.157 100.102 94.217 94.217 98.404 91.798 96.289 86.777 72.991 66.025 
+0.521 0.447 0.416 0.391 0.375 0.36 0.346 0.314 0.24 0.21 0.184 0.129 0.129 0.118 0.105 0.085 0.08 0.076 0.016 0.013 0.009 0.007 0.007 0.007 0.007 0.007 0.007 0.007 0.007 0.007 
+1.301 1.181 1.45 1.52 2.812 2.218 4.402 3.903 5.245 5.06 5.375 5.606 8.418 8.889 9.623 12.547 13.256 13.092 5.56 10.579 5.624 10.889 16.4 16.4 19.514 27.695 34.982 21.872 22.436 19.729 
+0.153 0.144 0.258 0.458 0.407 0.358 0.341 0.311 0.308 0.298 0.271 0.242 0.207 0.175 0.192 0.345 0.346 0.314 0.281 0.25 0.235 0.281 0.237 0.237 0.234 0.221 0.211 0.132 0.128 0.11 
+0.608 0.601 0.605 0.591 0.56 0.509 0.497 0.501 0.462 0.458 0.436 0.39 0.334 0.32 0.318 0.307 0.294 0.281 0.302 0.244 0.268 0.256 0.213 0.213 0.206 0.197 0.181 0.17 0.139 0.136 
+9.47 9.545 9.988 8.106 9.209 6.614 8.577 8.185 9.96 10.226 12.543 8.972 13.848 16.495 17.551 12.51 10.956 7.981 7.006 6.027 0.15 7.765 5.046 5.046 3.591 4.62 6.03 5.378 7.925 5.868 
+7.967 9.135 13.16 14.245 16.054 16.663 18.49 19.133 20.525 21.605 22.42 23.472 25.22 26.973 28.004 29.751 28.693 23.739 17.295 14.847 8.484 7.355 6.447 6.447 6.361 5.696 5.462 4.911 4.306 3.718 
+1.428 1.331 1.408 1.562 1.829 1.576 1.554 1.58 1.446 1.295 1.293 1.225 1.335 1.191 1.036 0.939 0.949 0.846 1.571 0.572 1.279 1.214 1.818 1.818 1.96 2.077 2.18 2.882 4.234 5.161 
+7.618 8.227 8.026 6.728 7.111 6.751 7.179 7.435 8.688 8.089 8.492 8.058 9.462 8.597 8.766 8.6 7.994 7.322 5.661 4.388 4.634 4.393 3.547 3.547 4.026 3.635 3.478 3.348 0 2.909 
+"..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." "..." 
+954.158 936.511 962.639 858.705 892.982 849.047 868.217 899.283 936.939 931.942 920.667 875.205 948.835 935.417 986.278 959.109 999.564 988.576 938.532 862.565 1033.481 1085.696 1352.426 1352.426 1685.018 1912.601 1937.024 1901.189 1925.384 1939.497 
+788.736 776.511 802.639 698.705 732.982 719.047 753.217 769.283 796.939 791.942 800.667 770.205 798.835 785.417 796.278 769.109 759.564 748.576 698.532 622.565 693.481 745.696 1352.426 1352.426 1337.418 1564.978 1552.059 1516.224 1540.118 1554.231 
+252.112 262.617 273.359 272.56 287.549 289.158 300.722 309.806 324.466 328.871 338.512 344.267 357.429 360.398 370.441 372.776 375.446 383.605 379.021 354.629 400.676 412.688 418.121 418.121 430.011 429.345 442.063 420.443 417.38 407.763 
+143.958 135.035 117.258 42.557 47.063 44.726 49.097 43.849 43.647 36.702 35.272 28.272 28.281 25.877 27.9 27.184 22.111 22.517 17.533 17.764 18.268 17.723 500.827 500.827 472.901 591.866 565.408 564.203 539.921 594.29 
+75.005 70.288 71.491 67.346 66.521 64.716 69.129 70.028 68.435 67.294 66.381 65.573 63.475 60.792 59.279 40.046 38.589 38.253 36.504 34.904 36.243 35.587 33.559 33.559 28.255 26.986 26.183 25.725 25.332 19.562 
+28.353 16.672 42.767 42.485 46.581 43.313 47.305 45.523 43.031 42.704 39.663 30.769 27.226 22.131 20.875 20.869 20.094 18.702 16.669 15.476 22.877 16.36 124.168 124.168 115.726 217.638 195.982 190.993 191.94 149.935 
+2.275 1.962 3.906 3.244 3.559 3.362 3.54 2.668 2.275 2.275 2.236 2.138 2.031 0.72 0.423 0.306 0.306 0.24 0.038 0.039 0.037 0.037 19.105 19.105 14.96 17.385 20.111 35.311 62.974 95.039 
+59.783 62.357 63.443 59.639 61.98 64.742 64.374 69.565 77.553 81.107 74.165 68.771 78.452 78.416 74.631 66.988 63.928 55.875 47.952 32.801 39.387 35.904 44.249 44.249 51.182 47.051 50.926 49.629 55.06 49.547 
+32.015 30.604 30.135 0.034 2.015 3.196 3.229 2.892 2.899 2.379 2.525 2.193 1.947 2.033 2.624 2.383 1.674 1.707 2.649 1.606 2.614 2.367 1.258 1.258 1.266 2.709 1.096 1.069 1.071 1.062 
+51.098 51.644 37.661 37.429 38.367 39.545 37.86 43.804 40.952 33.185 36.329 38.423 40.274 41.13 41.704 44.015 42.782 42.565 35.53 26.884 45.956 56.208 42.131 42.131 39.221 43.808 41.603 36.357 27.458 28.622 
+25.1 26.586 28.14 25.411 27.44 25.144 25.896 25.311 26.319 24.892 27.855 26.224 28.378 27.094 28.067 25.936 26.412 25.022 24.735 21.691 21.012 25.475 23.55 23.55 23.786 21.99 22.06 19.627 18.754 17.099 
+12.146 11.815 11.659 10.598 10.778 9.931 14.574 13.762 15.404 14.354 14.348 13.326 16.087 14.511 16.261 15.461 14.989 14.312 13.052 12.091 10.271 9.726 8.884 8.884 16.181 13.586 12.626 11.118 25.276 27.357 
+16.845 16.907 16.388 14.833 14.776 14.2 14.424 14.956 15.695 14.939 16.194 16.273 16.853 15.988 15.766 15.273 15.044 16.142 13.817 10.723 14.605 16.108 15.504 15.504 17.184 16.641 15.18 14.252 14.828 12.188 
+15.662 16.902 17.666 16.668 18.29 18.287 19.344 21.322 24.867 24.612 27.834 29.997 32.152 31.195 33.86 33.542 35.731 36.904 35.141 26.063 27.824 36.05 35.098 35.098 38.043 39.462 43.479 40.122 38.018 34.732 
+6.971 6.327 5.661 4.497 4.368 4.242 4.182 4.014 2.856 2.686 2.243 1.412 1.381 1.25 0.785 0.744 0.695 0.676 0.108 0.105 0.071 0.066 0.066 0.066 0.066 0.066 0.065 0.066 0.066 0.066 
+10.351 9.31 11.882 13.836 14.075 12.386 16.364 17.538 22.278 22.48 25.977 25.759 27.513 26.277 25.821 25.462 23.939 22.569 18.159 15.929 13.463 41.145 45.405 45.405 49.208 56.15 73.805 66.231 57.275 49.218 
+4.706 4.656 11.431 24.624 21.374 18.216 17.815 16.636 17.787 29.05 26.098 13.57 12.328 11.606 14.172 16.348 18.323 17.26 16.98 15.259 14.266 15.373 12.335 12.335 12.182 12.088 11.307 3.194 2.996 2.779 
+7.212 7.062 7.458 7.978 7.648 6.771 6.392 6.536 6.779 6.629 6.289 5.788 5.086 4.865 4.757 4.335 4.03 3.831 4.93 3.698 4.227 3.07 2.716 2.716 2.676 2.539 2.323 2.122 1.696 1.611 
+5.01 5.594 5.245 4.742 5.127 4.007 4.557 4.198 4.526 4.311 5.167 3.925 4.873 6.475 6.434 4.653 3.835 3.036 2.67 2.388 0.026 2.875 1.865 1.865 1.287 1.171 1.549 1.538 2.384 1.782 
+13.235 14.389 20.311 21.35 24.756 24.56 26.46 27.155 28.346 29.882 30.871 32.969 35.006 37.615 37.281 38.779 38.033 31.905 23.367 20.545 11.681 10.271 8.99 8.99 8.83 7.902 7.603 6.852 5.975 5.171 
+24.709 22.639 23.603 25.686 26.844 24.088 23.072 24.441 23.096 20.927 20.004 18.039 17.316 14.392 12.604 11.592 11.35 11.329 7.986 8.68 8.412 6.861 12.925 12.925 12.378 12.123 14.46 21.768 45.151 48.635 
+2.19 3.145 3.176 3.189 3.875 4.457 4.881 5.28 5.726 2.664 2.704 2.517 2.749 2.652 2.591 2.417 2.251 2.125 1.691 1.29 1.566 1.801 1.67 1.67 2.075 4.472 4.23 5.604 6.563 7.773 
+165.422 160 160 160 160 130 115 130 140 140 120 105 150 150 190 190 240 240 240 240 340 340 "..." "..." 347.6 347.623 384.965 384.965 385.266 385.266; 

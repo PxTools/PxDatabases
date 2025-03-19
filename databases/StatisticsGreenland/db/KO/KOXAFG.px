@@ -1,0 +1,128 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150527 09:00";
+NEXT-UPDATE="20250515 09:00";
+UPDATE-FREQUENCY="Quarterly, kvartalsvis, kvartalit";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="KOXAFG";
+SUBJECT-CODE="KO";
+SUBJECT-AREA="Short term trends";
+SUBJECT-AREA[da]="Konjunktur";
+SUBJECT-AREA[kl]="Aningaasaqarnikkut pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Custom, import and stamp duties by commodity and time (2007Q1-2024Q4) <em>[KOEAFG]</em>";
+DESCRIPTION[da]="Indførsels- og stempelafgifter efter varer og tid(2007K1-2024K4) <em>[KODAFG]</em>";
+DESCRIPTION[kl]="Eqqussuinermi naqissusiinikkullu akitsuutit, tunngavigalugit pisiassat aamma piffissaq(2007K1-2024K4) <em>[KONAFG]</em>";
+TITLE="Custom, import and stamp duties by commodity and time";
+TITLE[da]="Indførsels- og stempelafgifter efter varer og tid";
+TITLE[kl]="Eqqussuinermi naqissusiinikkullu akitsuutit kingorna pisiassat aamma piffissaq";
+CONTENTS="Custom, import and stamp duties";
+CONTENTS[da]="Indførsels- og stempelafgifter";
+CONTENTS[kl]="Eqqussuinermi naqissusiinikkullu akitsuutit";
+UNITS="Mill. kr.";
+UNITS[da]="Mio. kr.";
+UNITS[kl]="Mio. kr.";
+STUB="commodity";
+STUB[da]="varer";
+STUB[kl]="pisiassat";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("commodity")="Custom, import and stamp duties","1. Custom and import duties",
+"1.1 Sugar/coffe/the","1.2 Chocolate","1.3 Beer","1.4 Wine","1.5 Spirits","1.6 Cigarrets",
+"1.7 Other tobacco","1.8 Mineral water and Carbonated sodawater","1.9 Containers or packinging",
+"1.10 Meat","1.11 Motor vehicles","1.12 Perfumery","1.13 Other","2. Stamp duties";
+VALUES[da]("varer")="Indførsels- og stempelafgifter","1. Indførselsafgifter","1.1 Sukker/kaffe/the",
+"1.2 Chokolade","1.3 Øl","1.4. Vin","1.5 Spiritus","1.6 Cigaretter","1.7 Anden tobak",
+"1.8 Mineralvand","1.9 Emballage","1.10 Kød","1.11 Motorkøretøjer","1.12 Parfume","1.13 Diverse",
+"2. Stempelafgifter";
+VALUES[kl]("pisiassat")="Eqqussuinermi naqissusiinikkullu akitsuutit","1. Eqqussuinermi akitsuutit",
+"1.1 Sioraasat/kaffi/tii","1.2 Sukkulaatit","1.3 Immiaaraq","1.4 Viinni","1.5 Imigassaq",
+"1.6 Cigaretti","1.7 Tupa alla","1.8 Mineralvandi","1.9 Poortuut","1.10 Neqi",
+"1.11 Angallatit motoorillit","1.12 Tipigissaat","1.13 Assigiinngitsut",
+"2. Naqissusiinikkut akitsuutit";
+VALUES("time")="2007Q1","2007Q2","2007Q3","2007Q4","2008Q1","2008Q2","2008Q3","2008Q4","2009Q1",
+"2009Q2","2009Q3","2009Q4","2010Q1","2010Q2","2010Q3","2010Q4","2011Q1","2011Q2","2011Q3","2011Q4",
+"2012Q1","2012Q2","2012Q3","2012Q4","2013Q1","2013Q2","2013Q3","2013Q4","2014Q1","2014Q2","2014Q3",
+"2014Q4","2015Q1","2015Q2","2015Q3","2015Q4","2016Q1","2016Q2","2016Q3","2016Q4","2017Q1","2017Q2",
+"2017Q3","2017Q4","2018Q1","2018Q2","2018Q3","2018Q4","2019Q1","2019Q2","2019Q3","2019Q4","2020Q1",
+"2020Q2","2020Q3","2020Q4","2021Q1","2021Q2","2021Q3","2021Q4","2022Q1","2022Q2","2022Q3","2022Q4",
+"2023Q1","2023Q2","2023Q3","2023Q4","2024Q1","2024Q2","2024Q3","2024Q4";
+VALUES[da]("tid")="2007K1","2007K2","2007K3","2007K4","2008K1","2008K2","2008K3","2008K4","2009K1",
+"2009K2","2009K3","2009K4","2010K1","2010K2","2010K3","2010K4","2011K1","2011K2","2011K3","2011K4",
+"2012K1","2012K2","2012K3","2012K4","2013K1","2013K2","2013K3","2013K4","2014K1","2014K2","2014K3",
+"2014K4","2015K1","2015K2","2015K3","2015K4","2016K1","2016K2","2016K3","2016K4","2017K1","2017K2",
+"2017K3","2017K4","2018K1","2018K2","2018K3","2018K4","2019K1","2019K2","2019K3","2019K4","2020K1",
+"2020K2","2020K3","2020K4","2021K1","2021K2","2021K3","2021K4","2022K1","2022K2","2022K3","2022K4",
+"2023K1","2023K2","2023K3","2023K4","2024K1","2024K2","2024K3","2024K4";
+VALUES[kl]("piffissaq")="2007K1","2007K2","2007K3","2007K4","2008K1","2008K2","2008K3","2008K4",
+"2009K1","2009K2","2009K3","2009K4","2010K1","2010K2","2010K3","2010K4","2011K1","2011K2","2011K3",
+"2011K4","2012K1","2012K2","2012K3","2012K4","2013K1","2013K2","2013K3","2013K4","2014K1","2014K2",
+"2014K3","2014K4","2015K1","2015K2","2015K3","2015K4","2016K1","2016K2","2016K3","2016K4","2017K1",
+"2017K2","2017K3","2017K4","2018K1","2018K2","2018K3","2018K4","2019K1","2019K2","2019K3","2019K4",
+"2020K1","2020K2","2020K3","2020K4","2021K1","2021K2","2021K3","2021K4","2022K1","2022K2","2022K3",
+"2022K4","2023K1","2023K2","2023K3","2023K4","2024K1","2024K2","2024K3","2024K4";
+TIMEVAL("time")=TLIST(Q1),"20071","20072","20073","20074","20081","20082","20083","20084","20091",
+"20092","20093","20094","20101","20102","20103","20104","20111","20112","20113","20114","20121",
+"20122","20123","20124","20131","20132","20133","20134","20141","20142","20143","20144","20151",
+"20152","20153","20154","20161","20162","20163","20164","20171","20172","20173","20174","20181",
+"20182","20183","20184","20191","20192","20193","20194","20201","20202","20203","20204","20211",
+"20212","20213","20214","20221","20222","20223","20224","20231","20232","20233","20234","20241",
+"20242","20243","20244";
+TIMEVAL[da]("tid")=TLIST(Q1),"20071","20072","20073","20074","20081","20082","20083","20084",
+"20091","20092","20093","20094","20101","20102","20103","20104","20111","20112","20113","20114",
+"20121","20122","20123","20124","20131","20132","20133","20134","20141","20142","20143","20144",
+"20151","20152","20153","20154","20161","20162","20163","20164","20171","20172","20173","20174",
+"20181","20182","20183","20184","20191","20192","20193","20194","20201","20202","20203","20204",
+"20211","20212","20213","20214","20221","20222","20223","20224","20231","20232","20233","20234",
+"20241","20242","20243","20244";
+TIMEVAL[kl]("piffissaq")=TLIST(Q1),"20071","20072","20073","20074","20081","20082","20083","20084",
+"20091","20092","20093","20094","20101","20102","20103","20104","20111","20112","20113","20114",
+"20121","20122","20123","20124","20131","20132","20133","20134","20141","20142","20143","20144",
+"20151","20152","20153","20154","20161","20162","20163","20164","20171","20172","20173","20174",
+"20181","20182","20183","20184","20191","20192","20193","20194","20201","20202","20203","20204",
+"20211","20212","20213","20214","20221","20222","20223","20224","20231","20232","20233","20234",
+"20241","20242","20243","20244";
+ELIMINATION("commodity")="Custom, import and stamp duties";
+ELIMINATION[da]("varer")="Indførsels- og stempelafgifter";
+ELIMINATION[kl]("pisiassat")="Eqqussuinermi naqissusiinikkullu akitsuutit";
+LAST-UPDATED="20250218 09:00";
+CONTACT="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq F. Lund, aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="The quarterly revenue can be affected by periodicly due to a change in inventory#";
+NOTE[da]="Det kvartalsvise provenu kan være påvirket af lagerændringer, eller køb til lagre med henblik på senere salg";
+NOTE[kl]="Kvartalikkaartumik akitsuutiniik iluanaarut, peqqumaatit allanngorarnerannik peqqumaasersornermilluunniit sunnerneqarsinnaavoq#";
+VALUENOTE("time","2017Q2")="The revenue in June has been manually changed for beer and mineral water, as the revenue for this month have been collected in July";
+VALUENOTE[da]("tid","2017K2")="Provenuet for øl og mineralvand/sodavand er opgjort manuelt i juni måned, fordi provenuet for denne måned var indtægtsført i juli";
+VALUENOTE[kl]("piffissaq","2017K2")="Immiaaqqanit sodavandninillu iluanaarutit naatsorsuinermi najoqqutaasartut malillugit juunip qaammataani naatsorsugaavoq, qaammammi matumani iluanaarut isertitatut juulimi naatsorsugaanera pissutigalugu";
+VALUENOTE("time","2018Q3")="The increase in stamp duty is primarily due to the fact that Kommuneqarfik Sermersooq has transfered a part of housing to both Iserit and Nuuk City Development";
+VALUENOTE[da]("tid","2018K3")="Stigning af stempelafgiften skyldes primært, at Kommuneqarfik Sermersooq har overdraget en dele boliger både til Iserit og Nuuk City Development";
+VALUENOTE[kl]("piffissaq","2018K3")="Naqissusiinikkut akitsuutit qaffannerinut pissutaanerpaapput Kommuneqarfik Sermersuup najugaqarfippaaluit Iserit-imut Nuuk City Development-imullu tunniunneri";
+VALUENOTE("time","2019Q4")="During Q4 2019 changes were made on custom duty rates";
+VALUENOTE[da]("tid","2019K4")="I løbet af 4. kvartal 2019 blev der indført ændringer på afgifter";
+VALUENOTE[kl]("piffissaq","2019K4")="4. kvartaali 2019 ingerlanerani akitsuusiinikkut akileraarutit allanngortinneqarput";
+DATA=
+90.8 132.3 170.8 199.8 97.1 129.2 192.1 191.1 116.2 128.2 177.8 165.7 104.4 131.6 150.2 186.8 90.3 133.5 170.5 167.7 108.8 127.6 154.3 202.7 83.6 124 150.9 135 83.1 118.9 138.9 154.7 79.5 124 134.5 153 97.5 134.1 152.6 161.5 104.6 105.6 163.1 172.9 87.1 134.4 149.6 176 87.5 149.3 122.3 171.1 99.3 136.9 188.6 198.3 119.9 157.5 169.2 205.6 107.2 144.2 203.7 183.5 142.6 87.8 176.8 205.6 132.1 173 179.8 179.6 
+85.3 126.7 162.6 189.4 89.2 118.4 183.4 176.8 102.8 120.1 168.4 157.5 98.6 127 141.6 179.8 82.6 128.8 161.7 159.2 98.7 120.5 140.2 191.1 75.5 116.5 144.3 127.5 78.4 111.6 133.4 149.4 71.9 119.6 127.9 144.9 90.1 128.4 145.1 155.9 94.7 97.4 152.9 165.1 78.5 127.1 125 167.1 78.4 140.2 108.1 158.5 81.6 126.7 175.4 179.4 103.8 145.3 156.1 188.4 98.2 133.8 193.7 172.1 119.8 79.4 165.4 195.5 120.3 163.3 170 171.6 
+1 1.7 1.5 3.9 1.4 3.5 4 3.9 1.8 2.6 3.6 4 2 3.3 3.5 3.7 2.3 3.1 3.4 3.6 1.8 3.4 2.7 4.4 1.5 2.5 2.3 2.9 1.8 2.2 3.1 3.5 1.1 3.3 2 3.6 1.6 2.8 2.5 3.7 1.5 2.1 2.8 3.2 1.6 2.1 3.1 3 1.7 2.4 2.1 3.7 1.9 3.4 4.3 4.5 2.2 3.7 4.4 4.2 1.2 3.5 4 3.6 1.2 2.7 3.8 2.5 0 "..." "..." "..." 
+3 6.9 6.1 10.4 3.1 5.1 6.1 8.6 3.7 4.9 6.9 8.4 2.9 5.4 5.2 8.8 3.5 5.2 6.2 8.1 3 4.8 5.8 8.3 3.2 5.1 5.5 8.1 4.1 4.4 5.7 8.9 4 5.3 7 8.7 6.6 9.8 8.5 13.7 5.8 7.8 9.5 16.8 4.6 9.1 11 15.3 6.4 8.4 9.1 16.2 5.8 8.8 15.6 15.7 8.6 13.6 12.6 16.3 7.5 7.3 15 19.1 7.6 8.4 10.9 18.3 8.2 7.4 10.1 15.9 
+15.5 29.9 42.8 46.9 18.4 29 48.8 54 15.5 36.7 48.5 46.2 21.7 29.5 36.6 57.4 17.4 32.7 40.8 47.3 19.8 29.9 37.5 47.4 19.6 26.5 37 36.4 17.6 26.9 37.1 35.2 15.3 25.1 35.6 35.5 16.9 28.4 34 35.7 20.3 16.2 41.8 36.2 19.6 25.1 33.6 36 16.4 27.4 23.2 37.7 19.2 29.1 42.6 35.5 22 32.3 41.8 40.3 16.4 32.5 43.8 33 22.2 19 46.3 46.1 24.8 26.7 47.3 31.6 
+6.6 16.4 14.1 15.5 7.2 15.3 14.1 11.7 8.4 17.3 14.9 12.9 9.7 16.2 10.9 12.6 9.4 14.3 13.4 11.7 11.6 13.2 11.8 13.6 7.3 15.4 13.9 10.7 7.6 10.5 11.7 13.3 7.1 12.4 12.1 12.8 7.9 12.1 11.9 12 8.2 8.8 11.4 13.4 4.9 8.1 9.6 12.5 6.2 7.8 8.5 13.9 8.4 10.7 13.6 14.5 12.1 11 9.6 14.1 6.9 11.7 13.2 11.3 7.9 10.1 11 11.6 7.7 9.8 9.6 11.9 
+7 10.7 12.6 16.7 4.8 8.1 10.3 11.6 7.6 8.5 8.8 13.5 7.3 8.3 8.6 13.9 5.6 8 10.3 11.4 6.7 5.1 8.7 12.2 5.1 8.2 8.3 9.1 5.9 5.4 8.6 8.2 6.3 5.9 9.8 7.4 6.2 6.8 8.8 9.6 5.2 5.5 7.3 10.8 3.1 5.7 6.5 10.4 4 5.3 5.9 9.4 5 7.5 9.1 12.1 6.4 9.1 6.9 15.4 4.5 7.9 12 13.6 5.1 6.4 9.4 14.7 6.3 5.7 7.3 9.8 
+35.2 34.5 54.2 60.8 28.2 26.9 57.7 49.6 42.5 20.7 49.7 37.6 34 35 48 43.8 23.3 32.9 49.6 39.6 29.2 29.2 36.3 57.8 13.2 24.8 37.8 23 11.8 29.8 27.7 37.4 13.9 27.7 23.3 29.7 20.3 28 34.6 30.7 16.7 20.8 35.4 30.1 14.4 33 19.9 39.6 10.7 35.2 27.6 31.9 18 28.6 42.4 41.4 16.6 30.1 33.8 32.1 26.1 22.2 39.7 33 22.4 18.4 48.9 39.1 16.5 32.9 14 35.2 
+4.3 7.5 8.7 8 6.7 6.4 10.7 6.8 6 5.7 11 10.7 8.4 9.4 7.5 9.6 6.9 10.6 13.4 9.7 10.5 10.9 10.4 15.5 7 9.8 14.5 10.8 9 10.2 13 13.4 8.2 11.7 9.1 15.2 8.6 12.1 12.1 11.7 9.8 11.6 12.6 12.4 6.5 11.2 8.8 9.6 12 18.4 8.6 4.4 3.2 10.1 13 14.1 12.1 13.7 13 29.7 14.2 16.9 18.2 21.9 23.2 4.8 5.6 14.8 12.6 31.7 8.3 17.7 
+0.1 0.5 1.4 3.9 4.1 5.7 9.9 8.1 2.3 5.7 7.5 8.4 2.9 5.6 7.3 9.7 3.2 7 7.7 8.5 2.7 6.9 6.2 10.5 3.9 6.8 8.4 7.9 4.1 7.1 8.8 8.5 3.4 6.9 8.7 8.9 3.9 7.8 8.6 9.6 5.1 5.6 11 9.9 4.8 8 9.7 10.6 4.4 8.9 7.7 10.5 1.3 2.4 4.9 4.8 2.6 3.7 6.6 5.1 3.4 5.6 8.1 6.5 2.2 4.8 6.9 9.4 14.3 15.9 25.5 14.8 
+1.7 3.2 3.2 3.4 1.9 2.9 3.1 3 1.9 3.4 3.5 3.9 2 3.3 3.4 4.2 2.2 3.3 4.7 3.9 3.7 5.1 8.5 6 3.4 5.6 5.3 5.2 3.6 4.6 5.7 5.9 3 4.6 5.9 6.1 3.2 6 6.3 4 3.2 4.9 5.3 6.7 2.8 5.3 5.2 6.3 3.1 5.5 4.1 6.6 3.8 4.5 7.8 7.7 6.3 6.9 7.8 14.2 5.7 9.9 13.9 8.5 18.4 -6.4 8.8 16.2 23.2 25 44.1 26.9 
+2.6 4.4 4.6 5.2 2.6 4.4 4.8 4.3 2.9 3.8 4.5 5.1 2.5 4.2 4.3 5 2.9 4.1 4.6 5.1 3 3.7 4.7 5.1 2.9 4.2 4.4 4.8 3.2 3.7 4.3 4.7 3.1 5.1 4.6 5.8 3.2 5.8 4.5 5.2 3.8 4.2 5.1 5.9 2.8 4.7 4.8 5.4 3.5 4.4 3.3 5.2 3.3 3.7 5.9 5.5 3.3 4.9 4.8 5.3 3 3.5 4.3 4.2 -1.2 0.4 0.3 0.7 0.3 0.4 0.6 0.5 
+7.4 9.7 12.1 13.3 10.1 9.6 12.6 13.8 9.5 9.1 8.4 5.8 4.1 5.8 5.2 10 4.9 6.2 6.5 9.1 5 7.1 4.4 9.1 7.7 6.3 5.7 7.6 8.7 5.9 6.5 9.3 5.8 10.2 8.9 8.4 10.8 7.6 12.3 17.4 14.5 9.1 9.7 16.6 12.6 13.9 12 15.2 8.9 15.4 6.6 14.9 10.5 16.8 14.8 20.1 10.2 14.7 13.4 4.7 4.7 5 12.3 10.2 5 5.6 2.6 9.2 5.1 6.9 3.2 5.2 
+0.9 1.4 1.2 1.1 0.9 1.3 1 1 0.7 1.5 1.2 1.1 0.9 1.1 1.1 1 0.9 1.4 1 1.2 1 1.2 1.2 1.1 0.9 1 1 1 1.1 1 1.1 1.1 0.8 1.3 0.9 1.4 0.8 1 0.9 1.2 0.8 0.7 0.9 1.2 0.9 0.8 0.8 1 0.9 1 0.9 1.3 1 0.9 1.1 1 1.3 1.3 1.3 1.6 1 1.7 1.4 1.6 1.4 1.5 1.5 1.8 1.3 1 0 0 
+0 0 0 0.3 0 0.3 0.1 0.3 0 0 0 0 0 0 0.1 0 0 0 0.2 0 0.9 0 1.9 0 0 0 0 0 0 0 0 0 0 0 0 1.5 0.1 0 0 1.6 -0.1 0 0 2 0 0 0.1 2.4 0 0 0.3 2.7 0.2 0.1 0.3 2.6 0.1 0.1 0.1 5.6 3.7 6 7.7 5.5 4.3 3.5 9.3 11.1 "..." "..." 0.1 2 
+5.5 5.6 8.2 10.3 7.8 10.8 8.8 14.2 13.4 8.1 9.4 8.3 5.8 4.6 8.5 7 7.8 4.7 8.8 8.5 10.1 7.1 14.1 11.6 8.1 7.5 6.6 7.5 4.7 7.3 5.5 5.3 7.5 4.4 6.6 8 7.5 5.7 7.5 5.6 9.9 8.2 10.2 7.8 8.6 7.3 24.5 8.9 9.1 9.1 14.3 12.7 17.7 10.2 13.2 18.9 16.1 12.1 13.1 17.3 9 10.5 10 11.4 22.7 8.4 11.5 10.2 11.8 9.7 9.8 8.1; 

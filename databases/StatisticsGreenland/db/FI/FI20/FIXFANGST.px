@@ -1,0 +1,109 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20180101 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIXFANGST";
+COPYRIGHT=YES;
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries and Catch";
+DESCRIPTION="Catched of mammals and birds, Greenland <em>[FIEFANGST]</em>";
+TITLE="Catched of mammals and birds, Greenland by species and time";
+CONTENTS="Catched of mammals and birds, Greenland";
+STUB="species";
+HEADING="time";
+VALUES("species")="Ringed seal","Harp seal","Hooded seal","Bearded seal","Harbour seal","Grey seal","Beluga whale","Narwhal","Killer whale","Harbour porpoise","Pilot whale","Dolphin","Northern bottlenose whale",
+"Minke whale","Bowhead whale","Humpback whale","Fin whale","Guillemot","Eider","King eider","Squaw","Mallard","Fulmar","Theist","Little auk","Black-legged Kitti","Canada goose","Barnacle goose",
+"Short nest goose","Great northern diver","Cormorant","Herring gull eggs","Iceland gull eggs", "Fulmar eggs","Great black-backed gull eggs","Little auk eggs","Ptarmigan","Polar hare","Reindeer",
+"Musk ox","Arctic fox","Walrus","Polar bear";
+VALUES("time")="2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("species")=YES;
+LAST-UPDATED="20240831 09:00";
+UNITS="Pieces";
+CONTACT="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+NOTE="2023 is preliminary figures";
+NEXT-UPDATE="20250831 09:00";
+UPDATE-FREQUENCY="Annually";
+SUBJECT-AREA[da]="Fiskeri og fangst";
+DESCRIPTION[da]="Fangst af pattedyr og fugle, Grønland <em>[FIDFANGST]</em>";
+TITLE[da]="Fangst af pattedyr og fugle, Grønland efter art og tid";
+CONTENTS[da]="Fangst af pattedyr og fugle, Grønland";
+STUB[da]="art";
+HEADING[da]="tid";
+VALUES[da]("art")="Ringsæl","Grønlandssæl","Klapmyds","Remmesæl","Spættet sæl","Gråsæl","Hvidhval","Narhval","Spækhugger","Marsvin","Grind","Hvidskæving/Hvidnæse","Døgling","Vågehval",
+"Grønlandshval","Pukkelhval","Finhval","Lomvie","Edderfugl","Konge edderfugl","Havlit","Gråand","Mallemuk","Tejst",
+"Søkonge","Ride","Canada gås","Bramgås","Kortnæbbet gås","Islom","Skarv","Gråmåge æg","Hvidvinget mågeæg","Mallemuk æg","Svartbag æg","Søkonge æg","Rype","Hare","Rensdyr","Moskusokse",
+"Ræv","Hvalros","Isbjørn";
+VALUES[da]("tid")="2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION[da]("art")=YES;
+LAST-UPDATED[da]="20240831 09:00";
+UNITS[da]="Styk";
+CONTACT[da]="Lars Geraae, lage@stat.gl";
+SOURCE[da]="Grønlands Statistik";
+NOTE[da]="2023 er foreløbig tal";
+SUBJECT-AREA[kl]="Aalisarneq piniarnerlu";
+DESCRIPTION[kl]="Miluumasut timmissallu pisat, Kalaallit nunaat <em>[FINFANGST]</em>";
+TITLE[kl]="Miluumasut timmissallu pisat, Kalaallit nunaat kingorna suussusaa aamma piffissaq";
+CONTENTS[kl]="Miluumasut timmissallu pisat, Kalaallit nunaat";
+STUB[kl]="suussusaa";
+HEADING[kl]="piffissaq";
+VALUES[kl]("suussusaa")="Natseq","Aataaq","Natsersuaq","Ussuk","Qasigiaq","Sigguttooq","Qilalugaq qaqortaq","Qilalugaq qernertaq","Aarluk","Niisa","Niisarnaq","Aarluarsuk","Anarnaq",
+"Tikaagullik","Arfivik","Qipoqqaq","Tikaagulliusaaq","Appa","Miteq","Miteq siorakitsoq","Alleq","Qeerlutooq","Qaqulluk",
+"Serfaq","Appaliarsuk","Taateraaq","Nerlernaarsuk","Nerlernarnaq","Nerleq siggukitsoq","Tuullik","Oqaatsoq","Naajarujussuup mannii","Naajaannaap mannii","Qaqulluup mannii","Naajarluup mannii",
+"Appaliarsuup mannii","Aqisseq","Ukaleq","Tuttu","Umimmak","terianniaq","Aaveq","Nanoq";
+VALUES[kl]("piffissaq")="2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION[kl]("suussusaa")=YES;
+LAST-UPDATED[kl]="20230831 09:00";
+UNITS[kl]="Qassiuneri";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE[kl]="2023-imi kisitsisit kisitsisaagallartuupput";
+DATA=
+86169	71176	70515	65701	61635	62199	60509	64805	64626	57584	48219	40948	47959	45917	40633	34957	37295	28161
+95945	84260	82167	73406	90909	74358	55633	66521	63968	62847	56910	48619	48629	50143	50049	56266	46483	27364
+4841	3287	2604	1986	2144	2069	1707	1515	1849	1949	1516	1526	1023	1627	909	1392	1162	1077
+1791	1565	1437	1259	1406	1302	1100	1116	1358	1355	1332	1143	1071	1084	994	1072	1239	698
+78	87	81	33	26	79	0	10	20	3	4	0	0	0	1	1	2	5
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	20	61
+102	139	286	231	226	151	211	305	271	127	203	198	213	265	192	306	233	151
+275	392	412	377	268	296	361	350	415	312	401	426	511	542	289	415	522	600
+0	3	26	14	15	39	44	38	16	23	14	18	21	17	33	20	38	35
+2940	2912	1760	2029	2093	2828	2385	2646	2558	2009	2375	2385	2890	2778	4006	4296	4112	3820
+46	288	182	238	338	274	432	316	433	283	195	384	399	305	236	288	310	136
+69	39	108	92	261	237	180	146	137	96	123	98	137	225	381	330	185	145
+2	7	20	1	11	20	14	5	11	3	0	0	0	8	3	3	3	7
+184	169	152	168	196	189	152	181	157	139	163	143	118	171	158	198	166	187
+0	0	0	3	3	1	0	0	0	1	0	0	0	0	0	0	1	0
+0	0	0	0	9	8	10	8	7	6	5	2	6	4	4	7	2	3
+10	12	14	10	6	5	5	9	12	12	9	8	7	8	3	2	3	2
+89282	84421	64651	62847	64468	68276	66226	67524	53841	45792	41914	30931	23397	22783	29537	31793	32240	1168
+25356	25499	27125	26443	27492	30835	31522	26097	25185	22588	21891	17827	13727	13954	13112	11990	11783	4380
+4635	6183	5429	4437	6369	4362	4103	4510	4405	2958	2731	2827	3726	3973	4198	3830	1247	718
+619	481	633	479	821	654	472	351	340	383	428	233	268	259	273	244	289	22
+372	415	453	281	191	331	257	297	203	146	116	96	68	104	61	64	39	25
+1521	918	677	751	593	135	784	562	526	918	371	342	257	331	350	293	272	86
+16914	14783	13449	13221	16361	16492	14713	13954	11332	10049	10290	9965	8715	8581	8564	9100	8349	1519
+24900	25665	24292	22093	28984	26474	12739	14787	16677	22516	18471	27215	20591	17337	22038	22274	17166	2581
+8291	8487	6506	7689	8117	7656	7785	7726	5430	4756	5819	3075	2626	3285	2542	2098	2033	1267
+82	137	269	385	434	456	461	614	530	288	461	247	284	259	155	163	143	56
+36	91	43	66	87	98	101	118	114	132	87	61	74	44	25	44	23	47
+119	90	124	86	109	298	215	210	257	142	204	120	132	96	80	74	94	40
+202	166	166	175	157	198	182	183	149	119	33	66	81	68	131	96	98	20
+713	324	285	99	112	170	110	209	96	98	79	94	94	75	81	123	31	2
+1002	845	1795	1300	1031	555	798	736	1370	2102	2260	2181	1562	1714	1171	2166	1161	1106
+"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	"..."	200	1931	2945	2978	2998	1999	3007
+6	54	8	8	183	152	15	0	0	38	0	47	201	1	54	151	186	19
+3477	2712	3271	3257	3634	1655	3100	3376	2830	6606	6353	5078	3465	3566	3105	4773	3295	3038
+2175	1048	2133	1672	1086	2059	189	1762	6131	735	562	72	116	83	75	76	24	0
+17067	18340	26268	22026	19247	17257	13798	11742	10584	10375	8889	9975	6537	6171	8646	15199	10656	9202
+2498	2245	2383	2673	3145	2609	2410	2494	2269	2265	2402	2092	1527	1583	1710	1375	1436	943
+15135	15094	16241	13866	12721	12093	11412	11325	12961	12097	12008	12460	11165	13076	11617	11411	12575	9191
+2420	2546	2833	2675	2485	2760	2134	2244	2394	2386	2656	1568	1835	2246	1879	1828	1767	1845
+2718	2169	2349	1838	1817	2375	1752	1467	1691	1220	962	1093	911	660	673	697	850	496
+145	133	103	127	107	97	114	120	127	131	135	111	98	114	104	127	124	149
+119	130	139	124	100	131	138	127	143	142	120	142	149	142	149	137	159	"..."
+;

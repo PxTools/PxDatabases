@@ -1,0 +1,74 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20240301 13:21";
+NEXT-UPDATE="20250304 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="SOXFO4";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SO";
+SUBJECT-AREA="Social services";
+SUBJECT-AREA[da]="Socialområdet";
+SUBJECT-AREA[kl]="Isumaginninnermut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="In- and outflux of residents in the Government of Greenland´s orphanages and disability institutions <em>[SOEFO4]</em>";
+DESCRIPTION[da]="Til -og afgang af beboere på Selvstyrets institutioner <em>[SODFO4]</em>";
+DESCRIPTION[kl]="Ulloq unnuarlu Namminersorlutik Oqartussat paaqqinnittarfiutaani najugaqartut amerleriarneri ikileriarnerilu <em>[SONFO4]</em>";
+TITLE="In- and outflux of orphanage and disability institution residents by movement and time";
+TITLE[da]="Til- og afgang af døgninstitutionsbeboere efter bevægelse og tid";
+TITLE[kl]="Ulloq unnuarlu paaqqinnittarfinni najugaqartut amerleriarneri ikileriarnerilu : ingerlaarneq , piffissaq";
+CONTENTS="In- and outflux of orphanage and disability institution residents";
+CONTENTS[da]="Til- og afgang af døgninstitutionsbeboere";
+CONTENTS[kl]="Ulloq unnuarlu paaqqinnittarfinni najugaqartut amerleriarneri ikileriarnerilu";
+UNITS="Persons";
+UNITS[da]="Personer";
+UNITS[kl]="Inuit amerlassusii";
+STUB="movement";
+STUB[da]="bevægelse";
+STUB[kl]="ingerlaarneq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("movement")="Influx","Outflux";
+VALUES[da]("bevægelse")="Tilgang","Afgang";
+VALUES[kl]("ingerlaarneq")="Amerleriarnerat","Ikileriarnerat";
+VALUES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+VALUES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023";
+CODES("movement")="Til","Afg";
+CODES[da]("bevægelse")="Til","Afg";
+CODES[kl]("ingerlaarneq")="Til","Afg";
+CODES("time")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020",
+"2021","2022","2023";
+CODES[da]("tid")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023";
+LAST-UPDATED="20240304 09:00";
+CONTACT="Ane Louise Brandt,  alob@stat.gl";
+CONTACT[da]="Ane Louise Brandt,  alob@stat.gl";
+CONTACT[kl]="Ane Louise Brandt,  alob@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="Residents are counted each December 1st. Residents in independent and municipal institutions are not included.  Number of residents are calculated from data, delivered by Socialstyrelsen.";
+NOTE[da]="Beboere er optalt pr. 1.december i det aktuelle år. Tabellen medregner ikke beboere på selvejende og kommunale institutioner. Antal beboere er opgjort efter data leveret af Socialstyrelsen.";
+NOTE[kl]="Ukiumi pineqartumi decebarip aallaqqaataani innuttaasut naatsorsuutigineqarsimapput. Tabelimut ilanngunneqanngillat paaqqinnittarfinni nammineq pigisuni najugaqartut aamma kommuninit pigineqartuni najugaqartut. Najugaqartut amerlassusaat "
+"paasissut Isumaginninnermi Aqutsisoqarfimmit pissarsiarineqarsimasut atorlugit naatsorsorneqarput. Ulloq unnuarlu paaqqinniffinni inissat amerlassusaat Aningaasaqarnermut Inatsimmit pissarsiarineqarput ukiut pineqartut tunngavigalugit. Malugiuk, "
+"Aningaasaqarnermut Inatsimmi Uulinermi inissat 2018-imi aamma 2019-imi inissat ataatsimoortillugit allanneqarsimaneri, siusinnerusukkut Uulinermi immikkoortortaqarfinnut pingasuusunut nalunaarutigineqartarsimagaluartut.";
+DATA=
+62 44 51 43 42 63 44 59 45 35 52 31 51 44 24
+28 41 37 52 50 39 46 45 38 34 43 22 82 34 42;

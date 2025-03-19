@@ -1,0 +1,71 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20221115 09:00";
+NEXT-UPDATE="20251016 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="INXPI403";
+SUBJECT-CODE="IN";
+SUBJECT-AREA="Income";
+SUBJECT-AREA[da]="Indkomster";
+SUBJECT-AREA[kl]="Isertitat";
+COPYRIGHT=YES;
+DESCRIPTION="Trends in the Palma ratio and the average equivalent disposable income, by deciles for the whole population (2002-2023) <em>[INEPI403]</em>";
+DESCRIPTION[da]="Udvikling i Palmakoefficienten og den gennemsnitlige, ækvivalerede disponible indkomst for hele befolkningen fordelt på deciler (2002-2023) <em>[INDPI403]</em>";
+DESCRIPTION[kl]="Palmakoefficientip ineriartornera aamma innuttaasut tamarmik isertitaasa atoriaannaat agguaqatigiissinnerisa naligiissinneri decilinut immikkoortillugit (2002-2023) <em>[INNPI403]</em>";
+TITLE="Trends in the Palma ratio and the average equivalent disposable income by Decile: Palma ratio and time";
+TITLE[da]="Udvikling i Palmakoefficienten og den gennemsnitlige, ækvivalerede disponible indkomst for hele befolkningen efter Decil: Palmakoefficent og tid";
+TITLE[kl]="Palmakoefficientip ineriartornera aamma innuttaasut tamarmik isertitaasa atoriaannaat agguaqatigiissinneri : Decili: Palmakoefficienti , piffissaq";
+CONTENTS="Trends in the Palma ratio and the average equivalent disposable income";
+CONTENTS[da]="Udvikling i Palmakoefficienten og den gennemsnitlige, ækvivalerede disponible indkomst for hele befolkningen";
+CONTENTS[kl]="Palmakoefficientip ineriartornera aamma innuttaasut tamarmik isertitaasa atoriaannaat agguaqatigiissinneri";
+UNITS="Decile average: Palma ratio";
+UNITS[da]="Decil gennemsnit: Palmakoefficient";
+UNITS[kl]="Decilit agguaqatigiissinneri: Palmakoefficienti";
+STUB="Decile: Palma ratio";
+STUB[da]="Decil: Palmakoefficent";
+STUB[kl]="Decili: Palmakoefficienti";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("Decile: Palma ratio")="Palma ratio","Decile 10","Decile 5-9","Decile 1-4";
+VALUES[da]("Decil: Palmakoefficent")="Palmakoefficient","10. decil","5.-9. decil","1.-4. decil";
+VALUES[kl]("Decili: Palmakoefficienti")="Palmakoefficienti","10. decili","5.-9. decilit",
+"1.-4. decilit";
+VALUES("time")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL("time")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("Decile: Palma ratio")="Palma ratio";
+ELIMINATION[da]("Decil: Palmakoefficent")="Palmakoefficient";
+ELIMINATION[kl]("Decili: Palmakoefficienti")="Palmakoefficienti";
+ELIMINATION("time")="2023";
+ELIMINATION[da]("tid")="2023";
+ELIMINATION[kl]("piffissaq")="2023";
+LAST-UPDATED="20241016 09:00";
+CONTACT="stat@stat.gl";
+CONTACT[da]="stat@stat.gl";
+CONTACT[kl]="stat@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="List of Symbols:# .. Too uncertain to show or omitted due to discretion.#... Data not available.#";
+NOTE[da]="Signaturforklaring:# .. For usikker til at kunne angives eller udeladt af diskretionshensyn.#... Oplysninger foreligger ikke.#";
+NOTE[kl]="Ilisarnaatit nassuiaasersorneqarnerat:# ..  Nalunaarutigineqarnissaanut nalorninarpallaarpoq imaluunniit malunnaarsaarnissaq pissutigalugu ilanngunneqanngilaq.#...  Paasissutissaqanngitsoq.#";
+DATA=
+1.25 1.29 1.28 1.16 1.24 1.27 1.27 1.2 1.27 1.27 1.3 1.32 1.32 1.34 1.37 1.39 1.34 1.33 1.36 1.32 1.31 1.3 
+1295147087 1342742213 1385232467 1366560311 1503940637 1577893292 1568910356 1528633835 1592170380 1647669833 1707348064 1752932302 1740198351 1861865726 1971601524 2017814334 1931739655 1991508243 2080570324 1902566574 2098419320 2198071554 
+2897800662 2952754872 3094016893 3168422857 3280279505 3419993800 3301713792 3473395176 3547527331 3661067593 3777796402 3815609863 3788301087 3978928348 4152926006 4271662995 4199521289 4359661622 4564731991 4386174953 4763177312 5018528059 
+1036031970 1038445117 1085188643 1180957161 1214808673 1246827759 1234048686 1279073930 1256995763 1296311371 1316079612 1325117269 1317118652 1388013313 1441070833 1449644466 1446945044 1499384934 1525467604 1444541456 1597714888 1686273917; 

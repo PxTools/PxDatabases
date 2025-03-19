@@ -1,0 +1,66 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20200508 09:00";
+NEXT-UPDATE="20210508 09:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="SUXBUD";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="SU";
+SUBJECT-AREA="Health";
+SUBJECT-AREA[da]="Sundhed";
+SUBJECT-AREA[kl]="Peqqissutsimut tunngasut";
+COPYRIGHT=YES;
+DESCRIPTION="Indicators for smoking, 2005-2018 <em>[SUEBUD]</em>";
+DESCRIPTION[da]="Indikatorer for rygning, 2005-2018 <em>[SUDBUD]</em>";
+DESCRIPTION[kl]="Pujortartarneq, 2005-2018 <em>[SUNBUD]</em>";
+TITLE="Smoking by Indicator and Time";
+TITLE[da]="Rygning efter Indikator og Tid";
+TITLE[kl]="Pujortartarneq : Indikatori , Piffissaq";
+CONTENTS="Smoking";
+CONTENTS[da]="Rygning";
+CONTENTS[kl]="Pujortartarneq";
+UNITS="Percent";
+UNITS[da]="Procent";
+UNITS[kl]="Pct.";
+STUB="Indicator";
+STUB[da]="Indikator";
+STUB[kl]="Indikatori";
+HEADING="Time";
+HEADING[da]="Tid";
+HEADING[kl]="Piffissaq";
+VALUES("Indicator")="Percentage of daily smokers (pct.)",
+"Private homes with smoking restrictions (pct.)";
+VALUES[da]("Indikator")="Procent der ryger dagligt (pct.)","Private hjem med rygebegrænsning (pct.)";
+VALUES[kl]("Indikatori")="Ullut tamakkiallugit pujortartartut amerlassusaat (pct.)",
+"Nammineq angerlarsimaffimmi pujortartarnermut killilersuineq (pct.)";
+VALUES("Time")="2005","2014","2018";
+VALUES[da]("Tid")="2005","2014","2018";
+VALUES[kl]("Piffissaq")="2005","2014","2018";
+CODES("Indicator")="1","2";
+CODES[da]("Indikator")="1","2";
+CODES[kl]("Indikatori")="1","2";
+CODES("Time")="2005","2014","2018";
+CODES[da]("Tid")="2005","2014","2018";
+CODES[kl]("Piffissaq")="2005","2014","2018";
+LAST-UPDATED="20200508 09:00";
+CONTACT="Christina Viskum Lytken Larsen, chly@sdu.dk";
+CONTACT[da]="Christina Viskum Lytken Larsen, chly@sdu.dk";
+CONTACT[kl]="Christina Viskum Lytken Larsen, chly@sdu.dk";
+SOURCE="National Institute of Public Health";
+SOURCE[da]="Statens Institut for Folkesundhed";
+SOURCE[kl]="Statens Institut for Folkesundhed";
+LINK="https://www.sdu.dk/da/sif/rapporter/2019/befolkningsundersoegelsen_i_groenland";
+LINK[da]="https://www.sdu.dk/da/sif/rapporter/2019/befolkningsundersoegelsen_i_groenland";
+LINK[kl]="https://www.sdu.dk/sif/-/media/images/sif/udgivelser/2019/kalaallit_nunaanni_innuttaasut_"
+"peqqissusaannik_misissuisitsineq_2018.pdf";
+NOTE="Indicators for public health in the Greenlandic Health Survey. Weighted to population in 2014.";
+NOTE[da]="Indikatorer for folkesundheden målt i befolkningsundersøgelsen. Vægtet til befolkningen i 2014.";
+NOTE[kl]="Innuttaasut peqqissusaannut misissuinermi uuttuutit. 2014-imi innuttaasut tunngavigalungit naatsorsugaq.";
+DATA=
+58.6 56.8 54.7
+59 75.6 78.9;

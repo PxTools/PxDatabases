@@ -1,0 +1,563 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20240529 09:00";
+NEXT-UPDATE="20240823 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="KRXAN1";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="KR";
+SUBJECT-AREA="Criminal Offences";
+SUBJECT-AREA[da]="Kriminalitet";
+SUBJECT-AREA[kl]="Pinerluttuliortarneq";
+COPYRIGHT=YES;
+DESCRIPTION="Reported Criminal offences 2014-23 <em>[KREAN1]</em>";
+DESCRIPTION[da]="Anmeldelser på Kriminalloven 2014-23 <em>[KRDAN1]</em>";
+DESCRIPTION[kl]="Pinerluttulerinermi inatsimmi unnerluussinerit 2014-2023 <em>[KRNAN1]</em>";
+TITLE="Anmeldelser 2023";
+TITLE[da]="Reported Criminal offences 2023";
+TITLE[kl]="Unnerluussinerit Pinerluttuliortarneq 2023";
+CONTENTS="Reported offences";
+CONTENTS[da]="Anmeldte lovovertrædelser";
+CONTENTS[kl]="Inatsisinik unioqqutitsinerit unnerluutigineqartut";
+UNITS="Reports";
+UNITS[da]="Anmeldelser";
+UNITS[kl]="Unnerluussinerit";
+STUB="type of offence","station";
+STUB[da]="overtrædelsens art","station";
+STUB[kl]="unioqqutitsinerup suussusaa","politeeqarfik";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("station")="All locations","Local Police Station Aasiaat","Local Police Station Qeqertarsuaq","Local Police Station Qasigiannguit","Main Police Station Ilulissat","Local Police Station Ummannaq","Local Police Station Upernavik","Local Police Station Pituffik",
+"Local Police Station Tasiilaq","Local Police Station Ittoqqortoormiit","Local Police Station Qanaaq","Local Police Station Nanortalik","Main Police Station Qaqortoq","Local Police Station Narsaq","Local Police Station Paamiut","Main Police Station Nuuk",
+"Local Police Station Maniitsoq","Local Police Station Kangerlussuaq","Main Police Station Sisimiut";
+VALUES("time")="2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("type of offence")="Total","Attempted homicide","Violence against the individual","Illegal coercion and deprivation of liberty","Illegal intrusion","Threats to life","Burglary","Theft not from shop","Shoplifting","Robbery","Illegal handling of lost property","Illegal alert",
+"Fraud including computer fraud","Handling stolen goods","Vandalism","Theft of property for purposeful use","Other criminal laws","Arson","Rape, etc.","Sexual offence against child under 15 years","Offence against public decency by indecent exposure",
+"Child pornography","Sexual offences, other","Homicide";
+VALUES[da]("overtrædelsens art")="I alt","Forsøg på manddrab","Vold","Ulovlig tvang og Frihedsberøvelse","Husfredskrænkelse","Trussel på livet","Indbrud","Anden Tyveri","Butikstyveri","Røveri","Ulovlig omgang med hittegods","Ulovlig alarmering","Bedrageri","Hæleri","Hærværk",
+"Brugstyveri","Kriminallov andet","Brandstiftelse","Voldtægt","Kønsligt forhold til barn under 15 år","Blufærdighedskrænkelse","Børnepornografi","Anden sædelighedsforbrydelse","Manddrab";
+VALUES[da]("station")="Hele landet","Lokalstation Aasiaat","Lokalstation Qeqertarsuaq","Lokalstation Qasigiannguit","Hovedstation Ilulissat","Lokalstation Uummannaq","Lokalstation Upernavik","Lokalstation Pituffik","Lokalstation Tasiilaq","Lokalstation Ittoqqortoormiit",
+"Lokalstation Qaanaaq","Lokalstation Nanortalik","Hovedstation Qaqortoq","Lokalstation Narsaq","Lokalstation Paamiut","Hovedstation Nuuk","Lokalstation Maniitsoq","Lokalstation Kangerlussuaq","Hovedstation Sisimiut";
+VALUES[da]("tid")="2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("politeeqarfik")="Nuna tamakkerlugu","Aasianni Politeeqarfik","Qeqertarsuarmi Politeeqarfik","Qasigiannguani Politeeqarfik","Ilulissani Politeeqarfik","Uummannami Politeeqarfik","Upernavimmi Politeeqarfik","Pituffimi Politeeqarfik","Tasiilami Politeeqarfik",
+"Ittoqqortoormiini Politeeqarfik","Qaanaami Politeeqarfik","Nanortalimmi Politeeqarfik","Qaqortumi Politeeqarfik","Narsami Politeeqarfik","Paamiuni Politeeqarfik","Nuummi Politeeqarfik","Maniitsumi Politeeqarfik","Kangerlussuarmi Politeeqarfik",
+"Sisimiuni Politeeqarfik";
+VALUES[kl]("unioqqutitsinerup suussusaa")="Katillugit","Toqutseriarneq","Nakuuserneq","Inatsisit unioqqutillugit pinngitsaaliineq kiffaanngissusiiaanerlu","Angerlarsimafimmi eqqissiviilliortitsineq","Inuunermik, peqqissutsimik, atugarissaarnermilu ajoqusiinissamik siorasaarineq",
+"Ammaalluni aseruilluniluunniit tillinniarneq","Tillinniarnerit allat","Niuertarfimmi tillinneq","Ujajaaneq","Nassaamik peqquserlulluni atuineq","Inatsisit unioqqutillugit kalerrisaarineq",
+"Peqquserlunneq, qarasaasianut tunngasutigut peqquserluttuliorneq ilanngullugu","Tillitanik atueqataaneq","Aserorterineq","Akuerineqarani atuineq","Pinerluttulerinermut inatsimmi allat","Ikuallatsitsineq","Pinngitsaaliilluni atoqateqarneq, il.il.",
+"Meeqqamik 15-it inorlugit ukiulimmik kinguaassiuutitigut atoqateqarneq","Kannguttaalliorfiginninneq","Pornografiit meeqqanut tunngasut","Kinguaassiuutitigut pinerluttuliornerit allat","Toqutsineq";
+TIMEVAL("time")=TLIST(A1),"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("station")="AAAA","5509","5510","5511","5512","5513","5514","5515","5516","5517","5518","5501","5502","5503","5504","5505","5506","5507","5508";
+CODES("time")="2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("type of offence")="AA","31","32","33","34","35","40","44","46","47","50","12","51","52","54","55","99","16","21","22","23","24","29","30";
+CODES[da]("overtrædelsens art")="AA","31","32","33","34","35","40","44","46","47","50","12","51","52","54","55","99","16","21","22","23","24","29","30";
+CODES[da]("station")="AAAA","5509","5510","5511","5512","5513","5514","5515","5516","5517","5518","5501","5502","5503","5504","5505","5506","5507","5508";
+CODES[da]("tid")="2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("piffissaq")="2014","2015","2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[kl]("politeeqarfik")="AAAA","5509","5510","5511","5512","5513","5514","5515","5516","5517","5518","5501","5502","5503","5504","5505","5506","5507","5508";
+CODES[kl]("unioqqutitsinerup suussusaa")="AA","31","32","33","34","35","40","44","46","47","50","12","51","52","54","55","99","16","21","22","23","24","29","30";
+VARIABLECODE("number")="nan";
+VARIABLECODE("station")="pkr";
+VARIABLECODE("time")="anmy";
+VARIABLECODE("type of offence")="niv_kode";
+VARIABLECODE[da]("antal")="nan";
+VARIABLECODE[da]("overtrædelsens art")="niv_kode";
+VARIABLECODE[da]("station")="pkr";
+VARIABLECODE[da]("tid")="anmy";
+VARIABLECODE[kl]("amerlassusaat")="nan";
+VARIABLECODE[kl]("piffissaq")="anmy";
+VARIABLECODE[kl]("politeeqarfik")="pkr";
+VARIABLECODE[kl]("unioqqutitsinerup suussusaa")="niv_kode";
+ELIMINATION("station")="All locations";
+ELIMINATION("type of offence")="Total";
+ELIMINATION[da]("overtrædelsens art")="I alt";
+ELIMINATION[da]("station")="Hele landet";
+ELIMINATION[kl]("politeeqarfik")="Nuna tamakkerlugu";
+ELIMINATION[kl]("unioqqutitsinerup suussusaa")="Katillugit";
+LAST-UPDATED="20240529 09:00";
+LAST-UPDATED[da]="20240529 09:00";
+LAST-UPDATED[kl]="20240529 09:00";
+CONTACT="Per Lyster, pely@stat.gl";
+CONTACT[da]="Per Lyster, pely@stat.gl";
+CONTACT[kl]="Per Lyster, pely@stat.gl";
+SOURCE="Statistics Greenland & Greenland Police";
+SOURCE[da]="Grønlands Statistik & Grønlands Politi";
+SOURCE[kl]="Naatsorsueqqissaartarfik & Kalaallit Nunaanni Politiit";
+LINK="http://www.stat.gl/KRD202405/o1";
+LINK[da]="http://www.stat.gl/KRD202405/o1";
+LINK[kl]="http://www.stat.gl/KRD202405/o1";
+NOTE("station")="Reports related to the Office of the Police Chief are placed in Main Police Station Nuuk due to discretionary concerns.";
+NOTE("type of offence")="The variable 'Type of offence' is sum by  criminal codes";
+NOTE[da]("overtrædelsens art")="'Unioqqutitsinerup suussusaanik' immikkoortiterineq pinerlussimanerit ilisarnaataannit eqikkaaneruvoq";
+NOTE[da]("station")="Data der hører under Politimesterembedet er sat sammen med Hovedstation Nuuk af diskretionshensyn.";
+NOTE[kl]("politeeqarfik")="Nalunaarsuutit politimestereqarfimmeersut malunnaarsaarnissaq pillugu politeeqarfiit pingaarnersaannut Nuummut ilanngunneqarput.";
+NOTE[kl]("unioqqutitsinerup suussusaa")="Toqqagassami ”Unioqqutitsinerup suussaa”-ni agguataarinermi kisitsisit 1-inik aallartittut immikkoortiterinermi ”Pisortat oqartussaatitaannut pinerluttuliornerit” ataanniipput. Kisitsisit 2-mik aallartittut immikkoortiterinermi ”Kinguaassiuutitigut pine"
+"rluttuliornerit” ataanniipput. Kisitsisillu 3-mik aallartittut ”Toqutsilluni timimillu innarliilluni pinerluttuliornerit” ataanniipput. Kisitsisit 4-rimik 5-imillu aallartittut ”Pisuussutit tungaasingut pinerluttuliornerit” ataanniipput. Kingulliullugit"
+" takutinneqarput angallannermut inatsimmi inatsisillu allat ataanni ersarinnerusumik immikkoortiterinerit.";
+DATA=
+4521 4109 4606 4152 3379 4099 5023 4619 4229 4396
+271 222 216 239 236 257 327 227 287 281
+48 32 35 35 42 60 53 40 44 26
+46 48 83 77 68 60 76 72 91 73
+241 235 365 300 256 242 273 306 301 305
+95 70 92 100 95 86 107 110 113 82
+63 41 71 73 47 49 89 72 82 84
+7 11 4 4 6 2 4 2 2 1
+205 130 249 226 227 267 468 347 348 355
+50 35 26 28 21 20 14 35 34 32
+65 73 37 38 26 73 76 94 112 46
+167 130 166 164 161 237 243 288 197 144
+413 348 335 301 243 239 291 316 269 326
+234 180 203 123 139 165 151 116 178 133
+129 119 134 181 78 132 134 145 111 154
+1732 1559 1749 1556 1191 1388 1872 1688 1484 1752
+272 339 280 236 153 228 273 253 166 242
+28 46 44 43 16 42 23 26 27 38
+455 491 517 428 374 552 549 482 383 322
+16 12 13 15 15 8 8 10 12 27
+"-" 1 2 1 "-" 1 "-" 2 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" 1 "-" 3
+"-" "-" "-" 3 "-" "-" "-" "-" 1 "-"
+1 "-" 1 1 3 "-" 2 "-" 1 "-"
+"-" "-" 1 "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 5 3 2 2 2 1 1 2 3
+3 "-" "-" "-" 1 "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+1 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 1 1 1 "-" "-" "-" "-" "-"
+1 "-" "-" "-" "-" "-" "-" "-" 1 15
+"-" "-" "-" 2 "-" "-" "-" "-" 1 1
+9 5 3 4 5 4 5 4 4 3
+"-" 1 2 1 2 1 "-" 1 "-" 2
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 "-" "-" 1 "-" "-"
+826 725 877 904 766 1023 1476 1454 1171 1306
+59 45 32 54 32 65 110 80 57 76
+5 5 6 10 18 15 9 12 11 6
+11 8 14 8 12 13 33 25 35 16
+50 49 66 63 49 62 93 89 69 98
+21 19 17 27 31 22 38 44 36 35
+15 8 25 22 15 13 27 32 25 32
+2 "-" 1 "-" 1 1 "-" "-" 1 "-"
+64 26 66 68 63 69 145 143 113 100
+9 4 5 9 5 4 6 10 12 19
+26 27 10 12 8 27 25 23 30 21
+31 22 29 29 35 44 56 58 47 40
+64 72 55 83 60 31 79 81 77 76
+28 38 32 44 31 45 43 31 33 33
+26 40 47 38 24 44 46 60 52 40
+281 217 308 284 256 372 560 538 431 539
+67 73 64 57 37 46 72 90 49 82
+5 8 15 8 3 6 6 8 4 6
+62 64 85 88 86 144 128 130 89 87
+7 23 13 18 5 8 13 15 12 16
+"-" 2 1 6 "-" 2 2 3 "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 "-" "-" "-" "-" 1 "-" "-" "-" 1
+"-" "-" 1 3 "-" "-" "-" "-" "-" 1
+"-" 1 "-" "-" "-" 1 "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 1 1 1 "-" 2 2 "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 3 "-" "-" 1 "-" "-" "-" "-" "-"
+1 1 1 "-" 1 "-" "-" "-" "-" "-"
+1 8 2 "-" "-" "-" "-" 1 "-" "-"
+"-" "-" "-" "-" 1 "-" "-" "-" "-" "-"
+"-" "-" 1 "-" "-" "-" "-" "-" 1 "-"
+2 5 6 7 1 3 7 6 6 10
+"-" "-" "-" 1 "-" "-" "-" 2 1 2
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 3 "-" "-" "-" 1 2 1 4 "-"
+21 36 38 44 26 46 51 46 55 44
+4 4 4 2 1 2 6 3 1 3
+"-" 1 1 "-" "-" 1 "-" 1 1 1
+1 1 1 3 "-" 1 1 1 2 "-"
+1 "-" 5 3 1 4 1 3 2 6
+"-" 3 2 2 4 1 2 2 3 "-"
+"-" "-" "-" 1 "-" "-" 1 "-" 2 2
+"-" "-" "-" "-" "-" "-" 1 "-" "-" "-"
+"-" 1 2 2 5 3 6 3 2 7
+"-" "-" "-" "-" 1 "-" "-" "-" "-" "-"
+"-" 1 "-" "-" "-" "-" "-" 1 5 "-"
+1 4 2 2 2 4 1 4 2 "-"
+1 2 5 5 "-" 1 2 1 1 2
+1 3 "-" 3 "-" 1 3 "-" 10 1
+2 5 1 4 1 "-" "-" 6 3 1
+7 5 7 5 8 15 11 7 15 18
+"-" 2 3 6 1 6 6 6 2 2
+1 "-" "-" 1 "-" "-" "-" 1 "-" 1
+2 4 5 5 2 7 10 7 4 "-"
+155 186 180 195 147 208 245 211 259 232
+15 22 9 11 8 11 18 8 12 22
+"-" 1 2 1 1 1 2 1 7 3
+3 1 1 "-" 1 6 2 4 2 7
+8 11 11 13 7 18 8 13 22 16
+7 3 6 6 5 1 4 2 6 4
+2 2 5 4 2 5 6 7 8 5
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+9 1 10 12 11 10 16 19 15 16
+1 "-" "-" 2 "-" 1 2 2 4 1
+6 8 4 3 2 4 2 3 11 "-"
+4 4 3 9 8 4 14 5 6 3
+16 15 22 11 18 9 9 8 15 13
+5 3 1 7 7 7 4 13 2 7
+4 7 13 8 4 12 15 9 9 7
+56 61 65 72 47 77 97 87 115 98
+10 19 10 20 12 15 22 20 9 10
+"-" "-" "-" 1 1 "-" "-" 2 "-" 5
+9 28 18 15 13 27 24 8 16 15
+611 515 609 418 290 366 446 459 352 419
+25 15 25 23 19 19 37 14 34 26
+15 3 1 1 1 8 4 2 1 1
+5 13 12 23 12 3 7 3 4 3
+19 21 88 34 34 18 18 43 18 26
+9 2 3 5 4 10 6 5 9 1
+2 "-" 2 1 "-" 3 "-" "-" 1 1
+"-" 1 "-" "-" "-" "-" 1 1 "-" "-"
+23 18 25 14 14 20 53 33 29 87
+16 7 3 1 "-" "-" "-" 3 5 "-"
+4 6 2 2 3 6 11 36 14 6
+26 20 26 37 19 20 36 80 41 25
+63 24 48 22 14 43 30 41 20 51
+49 26 56 12 17 19 12 16 25 15
+39 15 9 29 4 3 18 8 1 13
+197 209 154 114 110 105 172 97 99 129
+45 59 71 32 17 17 9 6 10 8
+5 8 8 7 "-" 5 2 3 2 3
+69 68 76 61 22 67 30 68 39 24
+714 641 682 536 416 425 355 326 321 293
+27 35 32 18 21 22 20 8 24 15
+6 3 3 "-" "-" 4 1 4 "-" "-"
+6 8 14 8 11 4 1 2 6 4
+68 47 45 37 21 31 9 21 26 23
+8 6 12 10 6 9 10 5 3 7
+7 "-" 4 3 "-" 1 1 2 4 6
+3 8 2 2 "-" "-" "-" 1 "-" 1
+21 21 20 16 12 16 25 11 15 15
+4 5 "-" 4 5 5 "-" 1 1 3
+5 3 2 2 1 5 4 4 3 2
+17 20 22 21 16 23 15 23 19 9
+52 46 46 43 29 36 25 18 16 24
+39 32 14 11 13 13 5 4 6 6
+9 15 8 11 6 6 7 6 7 8
+309 246 343 281 205 165 158 153 134 134
+53 60 34 23 20 28 9 33 13 12
+5 8 6 7 4 11 2 3 6 7
+75 78 75 39 46 46 63 27 38 17
+715 624 580 416 269 272 273 256 229 294
+54 22 23 43 41 29 14 17 62 36
+3 5 4 1 "-" 1 "-" "-" 1 "-"
+3 3 4 6 1 1 "-" 2 3 3
+13 25 21 30 10 19 21 14 16 12
+4 3 1 3 1 "-" "-" "-" "-" 4
+"-" 1 1 3 1 "-" 6 1 1 4
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+5 2 2 4 1 14 13 9 8 8
+2 "-" 1 "-" "-" 1 1 3 1 "-"
+"-" 3 1 1 "-" "-" 2 2 1 3
+4 "-" 7 3 4 5 19 16 3 6
+81 56 35 22 7 16 16 11 11 28
+13 9 10 7 "-" 5 12 2 17 1
+3 2 4 4 2 7 3 9 1 6
+423 348 338 199 124 95 112 126 69 114
+22 32 15 21 7 11 9 10 5 39
+2 "-" 1 "-" "-" 1 "-" "-" 1 3
+83 113 112 69 70 67 45 34 29 27
+47 27 25 26 23 23 33 26 15 20
+2 1 1 1 2 2 "-" "-" "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 3 2 1 4 1 2 1 "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" 1 "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" 2 "-" 1 3 1 "-" "-"
+"-" "-" "-" "-" 1 "-" "-" "-" "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" 1 2 1 "-" "-"
+5 1 2 "-" 1 "-" "-" 3 4 "-"
+1 2 "-" "-" "-" 1 "-" "-" "-" 1
+1 "-" "-" 1 1 1 "-" "-" "-" 2
+27 16 20 13 11 12 14 15 10 11
+2 "-" "-" 2 1 1 3 "-" 1 3
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+6 4 "-" 6 2 3 9 4 "-" "-"
+6 10 14 12 8 12 6 11 11 11
+"-" "-" 1 2 "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 1 1 "-" "-" "-" "-" "-" "-"
+1 1 1 "-" "-" 1 "-" 1 "-" 2
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+"-" "-" "-" "-" 1 "-" "-" "-" "-" "-"
+"-" "-" 1 "-" 2 "-" "-" 1 "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" 1 "-" 1 "-" "-" "-" "-"
+"-" 1 3 2 "-" "-" "-" 2 "-" "-"
+"-" 1 "-" "-" "-" 1 1 "-" "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" 1 3
+4 4 7 5 2 7 5 7 5 4
+"-" 1 "-" "-" "-" 1 "-" "-" "-" "-"
+"-" "-" "-" "-" 1 "-" "-" "-" "-" "-"
+1 2 "-" 1 2 1 "-" "-" 3 "-"
+31 22 24 13 22 15 12 7 7 15
+1 "-" "-" "-" "-" 1 "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" 1
+1 "-" 1 "-" "-" "-" "-" "-" "-" "-"
+1 4 "-" "-" "-" "-" "-" "-" "-" "-"
+4 1 3 1 "-" 1 "-" "-" 1 "-"
+3 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 1 1 1 3 2 2 "-" "-" 2
+1 "-" "-" "-" "-" "-" "-" "-" "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 1 4 1 "-" 4 3 "-" "-" "-"
+1 5 3 3 4 3 "-" 1 2 4
+2 5 5 "-" 3 "-" "-" 1 "-" "-"
+2 "-" 2 2 3 2 1 1 "-" 1
+10 2 2 5 2 "-" 5 3 2 5
+2 3 2 "-" "-" "-" 1 1 "-" "-"
+1 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 "-" 1 "-" 7 2 "-" "-" 2 1
+121 169 270 269 269 242 261 194 207 232
+9 16 23 9 35 23 10 2 13 20
+1 1 2 1 4 5 1 2 7 "-"
+"-" 4 7 4 7 5 5 1 5 4
+7 11 20 34 44 10 12 10 16 18
+5 2 10 8 6 3 5 "-" 8 3
+2 5 5 3 7 5 5 2 6 2
+1 1 1 1 1 "-" 1 "-" "-" "-"
+2 5 8 8 13 6 13 12 8 8
+"-" "-" "-" 3 "-" "-" "-" "-" 1 "-"
+"-" 2 1 1 2 3 3 3 6 "-"
+4 10 8 5 14 50 8 14 15 8
+8 11 21 11 15 12 24 11 12 25
+5 8 7 4 10 3 9 5 9 8
+12 6 7 30 2 9 3 3 2 30
+53 56 97 117 75 65 99 76 72 83
+1 19 16 8 10 20 45 21 17 8
+1 3 3 2 1 1 1 2 "-" 1
+10 9 34 20 23 22 17 30 10 14
+41 49 57 21 19 20 17 11 24 90
+"-" 2 "-" "-" 1 1 "-" "-" 2 2
+"-" 1 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" 2 "-" "-" "-" "-" "-" "-"
+2 4 10 3 2 3 "-" "-" 2 "-"
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 1
+"-" "-" "-" "-" "-" "-" 3 "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 2 3 1 "-" "-" "-" "-" 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+3 "-" "-" 1 "-" 2 1 2 "-" 1
+"-" 2 16 3 6 2 4 3 2 1
+13 2 15 1 2 "-" "-" "-" "-" "-"
+"-" "-" 1 "-" "-" "-" "-" "-" "-" 2
+18 27 10 2 6 9 6 6 18 76
+2 5 "-" 2 "-" "-" 2 "-" "-" 3
+1 1 1 "-" 1 1 "-" "-" "-" 2
+2 5 1 4 "-" 2 1 "-" "-" 1
+624 559 591 614 444 656 833 686 663 582
+25 28 29 29 26 15 38 33 27 23
+14 3 7 5 6 7 13 6 3 4
+8 4 14 12 7 7 10 10 15 11
+44 21 46 36 28 26 54 42 47 26
+18 12 12 7 9 15 13 7 12 2
+6 5 8 10 6 4 6 2 5 2
+1 "-" "-" 1 2 1 "-" "-" "-" "-"
+33 26 19 33 20 31 40 29 50 37
+8 10 6 3 6 7 2 5 4 4
+9 2 7 8 4 17 16 6 15 5
+43 30 30 34 31 36 41 53 34 21
+56 62 53 45 46 53 57 82 63 51
+55 35 46 27 37 42 34 21 44 23
+22 15 27 38 18 30 23 20 16 13
+195 203 196 233 141 254 331 256 235 253
+30 36 28 39 21 45 50 26 23 24
+2 4 5 2 1 4 6 2 5 3
+55 63 58 52 35 62 99 86 65 80
+157 147 176 175 145 128 132 155 135 143
+15 5 6 11 10 11 7 5 8 8
+1 2 1 2 "-" 1 3 "-" 1 "-"
+"-" 1 1 1 3 1 2 "-" 3 2
+3 15 11 19 17 6 10 8 8 10
+1 "-" 4 4 4 5 1 1 2 5
+1 2 "-" 1 1 2 "-" 3 1 "-"
+"-" 1 "-" "-" "-" "-" "-" "-" "-" "-"
+3 3 8 5 6 9 12 5 5 4
+3 3 "-" 1 "-" 1 "-" 5 1 "-"
+1 "-" "-" "-" "-" "-" 1 1 2 "-"
+4 4 5 7 6 6 5 4 2 5
+11 4 4 6 14 3 7 10 11 9
+1 4 4 "-" 1 3 6 1 13 6
+4 1 3 4 2 3 1 5 1 "-"
+64 71 110 90 61 44 59 74 57 57
+5 3 7 1 3 8 1 4 1 4
+"-" 3 1 6 "-" 8 2 "-" 4 7
+40 25 11 17 17 17 15 29 15 26
+52 40 40 48 50 57 59 71 65 56
+2 2 1 1 "-" 3 5 1 4 3
+"-" 2 1 2 2 1 "-" "-" 2 1
+"-" 1 1 1 4 "-" "-" 2 2 "-"
+3 3 2 3 4 2 7 4 8 6
+1 "-" 1 2 "-" "-" 2 1 1 "-"
+"-" "-" "-" "-" "-" 2 "-" "-" 2 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 1 2 "-" 2 5 "-" 10 3 2
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+1 1 1 1 "-" "-" "-" "-" "-" 1
+1 "-" 5 "-" 1 3 "-" "-" 1 "-"
+4 3 4 9 4 2 7 7 7 3
+1 4 "-" "-" "-" 2 1 1 1 4
+1 2 "-" "-" "-" 3 4 3 2 2
+24 14 11 20 27 17 26 31 30 32
+5 2 3 "-" 2 4 3 4 "-" 1
+2 2 "-" 2 1 3 "-" 1 "-" "-"
+7 3 8 7 3 10 4 6 1 1
+16 15 15 24 17 20 27 20 12 17
+1 1 "-" "-" 1 "-" "-" 3 1 "-"
+"-" "-" "-" 1 1 "-" "-" 1 1 "-"
+"-" "-" 2 "-" 1 "-" "-" "-" "-" "-"
+5 1 3 1 1 1 1 2 "-" 1
+"-" 3 2 "-" 1 "-" 1 "-" "-" "-"
+"-" "-" "-" 1 "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+1 "-" "-" 3 "-" 2 2 1 1 2
+2 "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" 1 "-" "-" 1 "-"
+"-" 1 "-" 1 "-" 3 1 1 "-" "-"
+"-" "-" 2 5 "-" 2 "-" 1 "-" 2
+1 1 1 "-" 1 "-" 1 1 2 "-"
+"-" "-" "-" "-" 4 "-" 2 "-" "-" "-"
+4 3 3 10 6 6 8 9 4 11
+1 "-" 2 1 "-" 1 5 "-" 1 "-"
+1 1 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" 4 "-" 1 1 4 6 1 1 1
+140 142 152 131 162 210 242 211 254 247
+14 8 10 17 16 15 31 12 15 17
+1 "-" 4 "-" 2 4 1 1 3 4
+2 "-" 4 5 3 9 3 9 2 5
+6 7 16 6 14 8 14 19 21 12
+3 5 4 2 8 4 8 9 13 8
+8 10 7 12 5 9 12 8 17 17
+"-" "-" "-" "-" "-" "-" 1 "-" "-" "-"
+24 15 29 17 26 35 47 29 39 35
+"-" 3 3 "-" 1 1 1 4 2 1
+7 8 4 3 1 3 7 5 8 5
+6 10 8 5 10 11 13 7 15 11
+20 18 7 8 6 13 8 11 8 15
+10 5 1 2 6 8 3 5 6 3
+2 6 3 1 2 5 3 9 6 13
+16 27 29 29 33 52 53 57 51 74
+10 10 9 10 8 14 11 10 13 11
+1 6 1 4 "-" "-" 2 1 2 "-"
+10 4 13 10 21 19 24 15 33 16
+62 35 82 71 75 87 109 55 57 45
+5 2 5 4 9 11 6 12 5 7
+"-" 1 1 3 1 3 4 "-" "-" "-"
+"-" 2 2 1 "-" 5 3 "-" "-" 1
+1 2 2 2 3 10 5 4 6 5
+3 4 5 6 4 3 4 3 5 2
+7 1 5 3 5 2 2 2 3 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+4 4 30 8 20 10 27 8 11 2
+1 "-" 2 2 "-" "-" "-" "-" "-" 1
+3 4 1 2 2 1 "-" "-" 1 1
+7 "-" 2 3 9 4 "-" 3 2 1
+14 1 "-" 3 2 3 4 1 3 5
+1 "-" 2 "-" "-" 2 1 2 1 2
+"-" 1 4 2 1 "-" 1 1 1 1
+5 6 14 17 15 17 25 12 16 14
+6 4 1 3 "-" "-" 6 1 1 1
+"-" "-" 1 1 1 "-" 2 "-" "-" "-"
+5 3 5 11 3 16 19 6 2 2
+131 111 144 175 182 225 378 337 295 257
+10 11 11 7 13 23 19 19 17 17
+2 4 1 7 6 6 15 10 5 5
+4 2 4 2 5 3 9 11 11 13
+5 7 11 7 14 18 17 25 33 37
+9 2 6 15 8 8 10 20 11 10
+8 6 6 8 5 3 17 12 5 13
+"-" "-" "-" "-" 1 "-" "-" "-" 1 "-"
+13 1 17 25 24 26 55 27 39 22
+"-" 2 6 1 1 "-" "-" "-" 1 1
+3 5 4 1 2 6 5 10 11 2
+12 3 14 5 5 15 26 16 9 11
+11 16 5 16 14 9 17 19 15 14
+8 2 8 4 9 11 13 10 7 6
+2 4 3 6 4 6 6 5 3 4
+22 30 22 40 41 58 107 109 88 69
+9 9 12 9 12 7 19 17 18 27
+1 "-" 2 2 1 2 "-" 3 3 "-"
+12 7 12 20 17 24 43 24 18 6
+3 4 5 6 13 17 13 15 39 21
+"-" "-" "-" "-" "-" 1 "-" 1 3 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 "-" "-" 1 "-" "-"
+"-" "-" "-" "-" 1 3 "-" "-" 4 5
+"-" "-" "-" "-" "-" 1 "-" 2 "-" "-"
+1 "-" "-" "-" "-" "-" "-" "-" 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" 1 3 1 "-" 2
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+"-" 1 "-" "-" 1 "-" "-" "-" 1 1
+"-" "-" 1 "-" "-" "-" "-" 2 "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 2 1 5 10 6 6 6 18 11
+"-" "-" 1 "-" "-" "-" "-" 1 "-" "-"
+"-" 1 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 2 1 "-" 5 4 1 10 1
+18 13 15 12 11 23 25 36 23 22
+3 "-" 1 "-" 1 "-" 2 4 "-" 2
+"-" "-" 1 1 "-" 3 "-" "-" 1 "-"
+"-" "-" "-" "-" "-" 1 "-" "-" "-" "-"
+2 2 3 1 1 1 1 6 1 "-"
+1 3 2 1 "-" 2 1 9 "-" "-"
+1 1 2 1 "-" "-" 3 "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" 2 1 1 2 2 2 4 "-"
+"-" "-" "-" "-" "-" "-" 2 2 1 "-"
+"-" "-" "-" 1 "-" "-" "-" "-" 2 "-"
+1 "-" "-" "-" "-" 1 1 "-" "-" 3
+2 "-" "-" 2 "-" 1 1 2 1 "-"
+"-" "-" "-" "-" 1 1 1 1 1 1
+"-" "-" 1 "-" "-" 1 1 "-" 2 7
+2 2 2 3 4 4 4 7 5 4
+2 1 "-" "-" "-" 1 "-" "-" 2 3
+"-" "-" "-" "-" 1 "-" "-" "-" "-" "-"
+4 4 1 1 2 5 6 3 3 2
+7 4 4 9 5 8 9 7 11 7
+"-" "-" "-" "-" "-" "-" 2 "-" 1 1
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" 1 "-"
+"-" 1 1 1 1 "-" "-" 1 1 "-"
+"-" 1 "-" "-" 1 "-" "-" "-" 1 "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" "-" "-" "-" "-"
+2 "-" 1 1 "-" 3 1 "-" 4 "-"
+"-" 1 "-" 2 "-" "-" "-" "-" "-" "-"
+"-" "-" "-" 1 "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" "-" "-" 1 1 "-" "-"
+3 "-" 1 1 1 "-" 1 2 "-" 2
+"-" "-" "-" 1 "-" 1 2 "-" "-" "-"
+"-" "-" "-" 1 "-" "-" "-" "-" 2 "-"
+2 "-" 1 1 1 1 2 2 "-" 3
+"-" "-" "-" "-" "-" 2 "-" "-" "-" "-"
+"-" 1 "-" "-" "-" "-" "-" "-" "-" "-"
+"-" "-" "-" "-" 1 1 "-" 1 1 1
+;

@@ -1,0 +1,154 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230605 09:00";
+NEXT-UPDATE="20250605 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIXUDD";
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries and catch";
+SUBJECT-AREA[da]="Fiskeri og fangst";
+SUBJECT-AREA[kl]="Aalisarneq piniarnerlu";
+COPYRIGHT=YES;
+DESCRIPTION="Catches licens, Education <em>[FIEUDD]</em>";
+DESCRIPTION[da]="Fangstbeviser, Uddannelse <em>[FIDUDD]</em>";
+DESCRIPTION[kl]="Piniarnermut allagartat, Ilinniarsimassuseq <em>[FINUDD]</em>";
+TITLE="Catches licens by type, municipality, education and time";
+TITLE[da]="Fangerbevis indehavere efter type, kommune, uddannelse og tid";
+TITLE[kl]="Piniarnermut allagartallit : suussuseq, kommune, ilinniarsimassuseq , piffissaq";
+CONTENTS="Catches licens";
+CONTENTS[da]="Fangerbevis indehavere";
+CONTENTS[kl]="Piniarnermut allagartallit";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+STUB="type","municipality","education";
+STUB[da]="type","kommune","uddannelse";
+STUB[kl]="suussuseq","kommune","ilinniarsimassuseq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("type")="Recreational hunter","Hunter";
+VALUES[da]("type")="Fritidsfanger","Erhvervsfanger";
+VALUES[kl]("suussuseq")="Sunngiffimmi pinialuttartut","Inuussutissarsiutigalugu piniartut";
+VALUES("municipality")="Avannaata Kommunia","Kommune Qeqertalik","Qeqqata Kommunia",
+"Kommuneqarfik Sermersooq vest","Kommuneqarfik Sermersooq øst","Kommune Kujalleq",
+"Outside municipal division";
+VALUES[da]("kommune")="Avannaata Kommunia","Kommune Qeqertalik","Qeqqata Kommunia",
+"Kommuneqarfik Sermersooq vest","Kommuneqarfik Sermersooq øst","Kommune Kujalleq",
+"Udenfor kommunal inddeling";
+VALUES[kl]("kommune")="Avannaata Kommunia","Kommune Qeqertalik","Qeqqata Kommunia",
+"Kommuneqarfik Sermersooq kitaa","Kommuneqarfik Sermersooq kangia","Kommune Kujalleq",
+"Kommuneqarfiit avataani";
+VALUES("education")="01. Primary school","02. Upper secondary education",
+"03. Vocational education and training.","04. Higher education","n.a.";
+VALUES[da]("uddannelse")="01. Primær skole","02. Gymnasial uddannelse","03. Erhvervsuddannelse",
+"04. Videregående uddannelse","Uoplyst";
+VALUES[kl]("ilinniarsimassuseq")="01. Tunngaviusumik atuarfik","02. Ilinniarnertuunngorniarfik",
+"03. Inuussutissarsiornermik ilinniarneq","04. Qaffasinnerusumik ilinniarneq",
+"Paasissutissartaqanngitsut";
+VALUES("time")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013",
+"2014","2015","2016","2017","2018","2019","2020","2021","2022";
+VALUES[da]("tid")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012",
+"2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+VALUES[kl]("piffissaq")="2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+TIMEVAL("time")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+TIMEVAL[da]("tid")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022";
+CODES("type")="RH","H";
+CODES[da]("type")="RH","H";
+CODES[kl]("suussuseq")="RH","H";
+CODES("municipality")="960","959","957","956W","956E","955","961";
+CODES[da]("kommune")="960","959","957","956W","956E","955","961";
+CODES[kl]("kommune")="960","959","957","956W","956E","955","961";
+CODES("education")="PS","US","VE","HE","NA";
+CODES[da]("uddannelse")="PS","US","VE","HE","NA";
+CODES[kl]("ilinniarsimassuseq")="PS","US","VE","HE","NA";
+ELIMINATION("municipality")=YES;
+ELIMINATION[da]("kommune")=YES;
+ELIMINATION[kl]("kommune")=YES;
+LAST-UPDATED="20240605 09:00";
+CONTACT="Lars Geraae, lage@stat.gl";
+CONTACT[da]="Lars Geaae, lage@stat.gl";
+CONTACT[kl]="Lars Geraae, lage@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+DATA=
+963 908 848 823 781 816 693 693 730 647 473 555 524 474 510 554 518 465 470 453 439 
+19 21 15 15 19 16 9 14 10 11 10 10 13 14 22 26 18 16 32 29 26 
+254 223 210 204 213 228 199 207 213 210 149 182 175 180 222 252 246 232 274 265 275 
+107 109 97 92 92 100 93 97 86 80 63 72 90 91 93 109 107 104 115 115 114 
+11 10 7 7 6 5 4 6 7 4 2 5 3 3 6 4 0 2 4 4 79 
+875 718 600 530 480 508 488 478 512 477 294 306 304 293 342 345 375 321 335 301 284 
+19 12 8 6 7 8 8 12 5 8 1 9 11 9 16 13 24 20 34 21 18 
+179 138 122 96 104 120 107 121 137 121 88 93 99 100 116 134 152 148 156 147 122 
+91 76 72 74 54 56 50 55 57 51 39 49 42 38 46 53 67 62 78 81 67 
+18 14 6 11 7 2 1 4 5 2 1 3 1 3 1 3 5 2 2 1 21 
+1647 1175 939 838 697 658 578 564 592 487 370 367 391 350 396 448 457 411 412 387 374 
+57 45 40 41 36 31 25 24 27 29 28 28 27 30 33 39 48 39 46 52 35 
+534 404 359 345 286 264 244 238 255 240 193 222 248 258 304 338 379 358 356 356 338 
+206 175 182 161 155 150 127 140 133 113 103 130 113 133 137 164 181 167 190 199 187 
+51 13 12 21 4 5 5 3 8 3 0 1 4 3 3 6 7 12 7 13 94 
+1928 1413 1168 945 922 945 838 856 884 746 499 486 421 448 464 542 570 536 546 503 484 
+165 127 123 87 88 105 89 105 114 92 78 81 69 93 91 130 146 131 171 188 156 
+802 591 503 457 434 468 423 512 567 524 344 381 381 417 441 596 599 658 697 721 677 
+781 652 565 494 482 525 476 571 621 557 412 471 495 525 574 679 735 750 870 938 759 
+140 40 33 29 28 36 23 29 22 22 12 5 10 8 13 12 6 7 21 27 200 
+228 208 236 210 174 159 141 99 122 125 89 95 98 79 79 90 67 67 64 53 49 
+4 3 3 1 0 1 0 0 1 2 0 3 2 4 4 4 3 5 3 5 3 
+56 58 60 51 48 42 30 27 31 43 34 43 41 34 40 43 39 33 33 29 25 
+18 19 19 19 13 19 13 8 14 6 5 7 5 5 7 9 6 10 9 9 13 
+17 6 4 4 2 4 1 0 0 2 1 0 3 1 0 1 0 0 1 3 9 
+347 384 393 355 344 341 268 226 229 199 142 134 113 101 114 116 138 118 116 101 83 
+5 9 10 8 10 11 12 9 9 7 8 8 8 6 13 11 12 11 11 8 5 
+76 119 123 123 114 104 101 93 89 106 68 75 66 67 77 88 103 93 112 109 98 
+51 60 58 52 53 47 41 43 37 47 33 35 30 28 41 43 46 47 58 52 43 
+12 2 2 3 3 7 4 6 3 3 0 0 1 3 1 0 1 0 3 5 14 
+4 5 8 8 6 5 6 4 7 3 1 2 3 1 1 0 0 1 3 1 0 
+2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 2 
+4 8 11 9 12 11 5 8 9 5 4 6 4 4 4 4 5 3 6 3 5 
+0 1 4 6 4 4 4 2 2 2 0 1 1 2 1 0 3 1 2 3 2 
+15 7 5 9 7 7 4 4 10 3 4 5 19 27 33 33 31 29 17 23 21 
+1166 1151 1111 1074 1102 1092 977 814 981 966 833 941 948 923 957 951 931 940 948 951 918 
+0 1 1 1 2 0 1 1 0 0 0 0 1 1 2 2 3 3 4 5 6 
+66 57 64 61 67 68 58 41 53 57 49 59 60 53 55 57 61 68 74 75 72 
+3 2 2 2 2 2 1 2 1 2 2 1 2 0 1 1 1 0 0 0 1 
+5 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 8 
+441 374 374 347 352 286 262 207 261 281 240 272 298 284 314 310 301 311 293 293 278 
+0 0 0 0 0 0 0 0 0 0 1 2 0 0 1 2 1 3 5 6 4 
+40 37 38 35 34 25 25 22 24 28 29 40 39 44 40 44 42 40 40 39 35 
+0 0 0 1 0 0 0 0 0 0 0 1 2 2 1 2 3 2 1 1 1 
+4 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+349 325 317 282 300 284 258 203 246 241 199 228 239 233 230 232 234 226 217 210 207 
+3 2 2 2 2 3 2 2 1 1 1 2 4 2 3 4 4 7 7 6 6 
+49 51 46 41 50 52 47 38 45 41 39 46 47 51 55 59 64 72 72 72 64 
+7 3 3 2 1 1 0 1 0 0 0 0 1 2 3 3 4 5 6 4 3 
+3 2 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 4 
+237 209 165 145 170 158 143 116 136 146 113 140 146 149 144 155 148 154 151 144 133 
+3 4 2 2 1 2 0 0 1 1 1 0 0 0 0 2 4 4 5 4 5 
+40 40 38 42 41 34 35 26 39 44 36 39 45 47 46 56 57 64 65 61 61 
+1 1 1 0 1 1 0 0 1 3 3 3 2 3 3 1 2 2 4 3 4 
+5 1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1 
+197 208 147 166 153 165 136 95 123 107 89 90 89 68 73 106 106 89 93 83 78 
+0 1 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 2 1 1 1 
+13 12 9 15 13 17 14 9 12 8 6 7 5 6 6 8 14 14 14 16 15 
+0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 
+3 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 4 
+207 202 175 166 165 150 139 110 130 103 84 100 110 92 86 88 91 95 95 87 82 
+2 2 1 1 2 2 2 2 1 0 0 0 0 0 0 1 1 1 2 2 3 
+22 26 25 23 22 26 23 20 25 25 30 25 25 22 24 29 35 31 39 33 27 
+0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 
+3 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0; 

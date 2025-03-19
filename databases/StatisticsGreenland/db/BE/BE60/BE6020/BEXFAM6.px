@@ -1,0 +1,209 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20190124 09:00";
+NEXT-UPDATE="20260210 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="BEXFAM6";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="BE";
+SUBJECT-AREA="Population";
+SUBJECT-AREA[da]="Befolkning";
+SUBJECT-AREA[kl]="Innuttaasut";
+COPYRIGHT=YES;
+DESCRIPTION="Population by type of family with children 1994-2025 <em>[BEEFAM6]</em>";
+DESCRIPTION[da]="Befolkningen fordelt efter type af børnefamilie 1994-2025 <em>[BEDFAM6]</em>";
+DESCRIPTION[kl]="Innuttaasut: ilaqutariit meerartallit inissisimaneq 1994-2025 <em>[BENFAM6]</em>";
+TITLE="Families with adults by January 1st by number of children, type of child family, number of adults and time";
+TITLE[da]="Familier med voksne pr. 1. januar efter antal børn, type af børnefamilie, antal voksne og tid";
+TITLE[kl]="1. januaarimi ilaqutariit inersimasortallit : meeqqat amerlassusaat, iiaqutariit meerartallit katitigaaneri, inersimasut amerlassusaat , piffissaq";
+CONTENTS="Families with adults by January 1st";
+CONTENTS[da]="Familier med voksne pr. 1. januar";
+CONTENTS[kl]="1. januaarimi ilaqutariit inersimasortallit";
+UNITS="Families";
+UNITS[da]="Familier";
+UNITS[kl]="Ilaqutariit";
+STUB="number of children","type of child family","number of adults";
+STUB[da]="antal børn","type af børnefamilie","antal voksne";
+STUB[kl]="meeqqat amerlassusaat","iiaqutariit meerartallit katitigaaneri","inersimasut amerlassusaat";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("number of children")="0","1","2","3","4","5","More than 5 children";
+VALUES[da]("antal børn")="0","1","2","3","4","5","Mere end 5 børn";
+VALUES[kl]("meeqqat amerlassusaat")="0","1","2","3","4","5","Meeqqat tallimanit amerlanerit";
+VALUES("type of child family")="Common children and both partners have seperate children",
+"Common children and one partner have seperate children","Common children and no seperate children",
+"No common children and both partners have seperate children",
+"No common children and one partner have seperate children","No children";
+VALUES[da]("type af børnefamilie")="Fælles børn og begge partnere har særbørn",
+"Fælles børn og en partner har særbørn","Fælles børn og ingen særbørn",
+"Ingen fælles børn og begge partnere har særbørn","Ingen fælles børn og en partner har særbørn",
+"Ingen børn";
+VALUES[kl]("iiaqutariit meerartallit katitigaaneri")=
+"Meeraqaqatigiit saniatigut angajoqqaat tamarmik immikkut meerallit",
+"Meeraqaqatigiit saniatigut angajoqqaaq ataaseq immikkut meeralik",
+"Meeraqaqatigiit saniatigut angajooqqaat allanik meeraqanngitsut",
+"Meeraqaqatigiinnatik saniatigut aappariit tamarmik immikkut meerallit",
+"Meeraqaqatigiinnatik saniatigut aappaq ataaseq immikkut meeraaraatilik","Meeraqanngitsut";
+VALUES("number of adults")="1 adult","2 adults";
+VALUES[da]("antal voksne")="1 voksen","2 voksne";
+VALUES[kl]("inersimasut amerlassusaat")="Inersimasoq ataaseq","Inersimasut marluk";
+VALUES("time")="1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005",
+"2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023","2024","2025";
+VALUES[da]("tid")="1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004",
+"2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023","2024","2025";
+VALUES[kl]("piffissaq")="1994","1995","1996","1997","1998","1999","2000","2001","2002","2003",
+"2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023","2024","2025";
+TIMEVAL("time")=TLIST(A1),"1994","1995","1996","1997","1998","1999","2000","2001","2002","2003",
+"2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023","2024","2025";
+TIMEVAL[da]("tid")=TLIST(A1),"1994","1995","1996","1997","1998","1999","2000","2001","2002","2003",
+"2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022","2023","2024","2025";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"1994","1995","1996","1997","1998","1999","2000","2001","2002",
+"2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016",
+"2017","2018","2019","2020","2021","2022","2023","2024","2025";
+CODES("number of children")="0","1","2","3","4","5","6+";
+CODES[da]("antal børn")="0","1","2","3","4","5","6+";
+CODES[kl]("meeqqat amerlassusaat")="0","1","2","3","4","5","6+";
+CODES("type of child family")="k111","k110","k100","k011","k010","k000";
+CODES[da]("type af børnefamilie")="k111","k110","k100","k011","k010","k000";
+CODES[kl]("iiaqutariit meerartallit katitigaaneri")="k111","k110","k100","k011","k010","k000";
+CODES("number of adults")="1","2";
+CODES[da]("antal voksne")="1","2";
+CODES[kl]("inersimasut amerlassusaat")="1","2";
+CODES("time")="1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005",
+"2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022","2023","2024","2025";
+CODES[da]("tid")="1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004",
+"2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023","2024","2025";
+CODES[kl]("piffissaq")="1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004",
+"2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022","2023","2024","2025";
+ELIMINATION("number of children")=YES;
+ELIMINATION[da]("antal børn")=YES;
+ELIMINATION[kl]("meeqqat amerlassusaat")=YES;
+ELIMINATION("type of child family")=YES;
+ELIMINATION[da]("type af børnefamilie")=YES;
+ELIMINATION[kl]("iiaqutariit meerartallit katitigaaneri")=YES;
+ELIMINATION("number of adults")=YES;
+ELIMINATION[da]("antal voksne")=YES;
+ELIMINATION[kl]("inersimasut amerlassusaat")=YES;
+LAST-UPDATED="20250211 09:00";
+CONTACT="Lars Pedersen, LARP@stat.gl";
+CONTACT[da]="Lars Pedersen, LARP@stat.gl";
+CONTACT[kl]="Lars Pedersen, LARP@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+LINK="www.stat.gl/bee202501/m1";
+LINK[da]="www.stat.gl/bed202501/m1";
+LINK[kl]="www.stat.gl/ben202501/m1";
+NOTE="Families are defined within a household. A household consists of all persons who share the same address with no regards to other #possible relationships between them.# #The composition of a family is determined by the relationship between the "
+"residents of the same household. A family thus comprises of one or more #persons in a household that can be linked to each other through marriage, parenthood or kinship. A household may consist of several families, but #families can in reverse not have "
+"members from more than one household. ##A family consists of one or more persons who live in the same registered address. A family consists of a single person or a couple with or #without children. A family includes, in some cases all persons in a "
+"household, while other households divided into several families. ##Registetred partners are not calculated separately, and are calculated as married.";
+NOTE[da]="Udgangspunktet for familieopgørelserne er husstandsopgørelsen. En husstand består af samtlige personer, med samme folkeregisteradresse uden # hensyn til relationer mellem disse. ##Familiesammensætningen opgøres på baggrund af relationerne mellem "
+"beboerne i samme husstand. En familie omfatter således en eller flere# personer i samme husstand, som knyttes til hinanden gennem pardannelser eller slægtsskab. En husstand kan omfatte flere familier, men# familier kan omvendt ikke have medlemmer fra "
+"flere husstande.##En familie består af en enlig eller et par med eller uden børn. En familie omfatter i nogle tilfælde alle personer i en husstand, mens #andre husstande deles i flere familier.##Registrerede partnere opgøres ikke særskilt, men medtages "
+"som gifte personer.";
+NOTE[kl]="Ilaqutariit naatsorsorneqarnerinut inoqutigiinnut naatsorsuutit aallaavigineqarput. Inoqutigiit inunnik imminnut atassuteqanngikkaluartunik# ataatsimut najugaqatigiinnik imaqarput. ##Ilaqutariit tassaapput inuk ataaseq imaluunniit inuit arlallit "
+"inunnik nalunaarsuisarfimmi ataatsimut najugallit. Ilaqutariit imaluunniit #aappariinnik meeralinnik meeraqanngitsunilluunniit imaqarput. Ilaatigooriarluni inoqutigiinni ataatsini inuit tamakkerlutik ilaqutariiusarput, #inoqutigiilli ilaat ilaqutariinnik "
+"arlalinnik imaqarsinnaapput. ##Registrerede partnere opgøres ikke særskilt, men medtages som gifte personer.";
+NOTE("time")="April 4th 2018 Tables from prior to this date slightly overestimates number of total households by 100";
+NOTE[da]("tid")="4. april 2018 Tabeller hentet før denne dato afviger en smule fra tabeller dannet efter. Årsag : En programmeringsfejl fundet og rettet. ca 100 husstande for hele befolkningen berørt";
+NOTE[kl]("piffissaq")="Tabelit 2018-imi 4. apriili sioqqullugu aaneqarsimasut kingusinnerusukkut aaneqarsimasunit allaanerulaarput. Programmimi kukkuneq paasineqarpoq iluarsilertorneqarlunilu. Kukkuneq inoqutigiit 100-it missaanik eqquisimagaluarpoq";
+DATA=
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+13956 13777 13640 13417 13368 13579 13749 13640 13959 13848 13949 14060 13897 14097 14208 14509 14769 15082 15390 15406 15462 15539 15540 15599 15907 16171 16358 16541 16848 17273 17585 17625
+3455 3598 3655 3749 3806 3850 3851 3900 3933 4039 4089 4097 4244 4189 4227 4285 4394 4391 4454 4542 4626 4676 4752 4743 4769 4743 4736 4812 4756 4756 4728 4757
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1846 1803 1806 1778 1809 1790 1746 1767 1754 1769 1776 1785 1739 1774 1821 1881 1806 1879 1849 1854 1851 1873 1895 1863 1891 1889 1848 1776 1719 1661 1652 1590
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1906 1813 1773 1721 1622 1597 1651 1625 1647 1666 1678 1740 1716 1747 1673 1727 1782 1781 1827 1806 1820 1785 1801 1807 1812 1832 1860 1897 1894 1938 1909 1917
+498 493 509 516 529 540 555 505 489 454 494 478 487 461 434 469 417 437 437 439 447 494 464 457 440 433 441 412 438 411 429 427
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+396 409 416 425 429 450 429 431 420 401 433 416 405 382 402 386 394 352 367 357 378 369 352 355 364 394 369 377 372 365 360 356
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1628 1667 1671 1690 1613 1589 1558 1578 1521 1557 1541 1514 1550 1517 1515 1423 1486 1477 1457 1451 1430 1390 1400 1473 1416 1367 1394 1428 1437 1394 1377 1376
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+13 21 16 10 20 13 14 15 14 18 29 24 23 29 24 30 26 25 19 18 14 21 23 21 18 14 12 17 17 21 20 20
+715 747 740 715 725 715 687 729 756 741 761 745 755 790 786 753 757 784 785 809 805 816 762 764 757 779 782 767 783 818 830 881
+161 160 166 169 185 176 180 185 189 182 173 177 188 171 175 160 170 169 194 181 185 139 140 144 157 134 135 169 174 164 176 166
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+10 13 8 12 10 6 6 10 12 11 7 8 6 12 13 14 13 10 8 13 14 9 16 17 17 17 14 15 15 15 18 18
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+364 362 363 377 413 424 413 402 381 407 368 380 370 379 341 307 307 327 337 329 313 291 314 306 306 330 317 328 329 324 300 287
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+753 770 771 789 798 746 783 751 786 763 732 721 734 726 726 722 667 626 601 562 579 526 516 521 523 526 511 525 532 545 536 531
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 6 6 4 9 7 10 12 15 16 15 11 19 20 18 26 26 20 16 21 14 17 12 13 12 21 16 12 16 19 16 20
+233 242 242 219 214 230 248 260 265 282 282 292 288 286 283 275 267 285 245 262 240 270 247 225 237 227 239 249 254 256 252 244
+43 45 39 54 53 53 53 51 58 63 58 50 66 50 43 51 52 52 48 45 47 44 47 43 35 35 43 39 41 46 44 42
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+7 6 4 5 6 9 9 10 7 10 15 9 6 9 11 9 16 14 20 16 19 19 9 10 16 21 15 16 14 14 14 11
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+139 157 161 169 178 169 178 176 186 184 186 182 193 198 198 197 196 177 177 152 152 158 170 153 119 120 128 144 134 125 115 124
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+270 277 276 289 280 286 276 281 288 291 289 307 273 251 259 218 210 203 198 186 168 174 165 151 145 124 118 108 102 101 93 103
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+3 4 5 3 7 5 6 6 8 11 5 11 13 9 10 2 3 3 6 4 3 2 7 12 9 10 8 3 7 11 12 11
+58 59 62 64 65 68 74 70 69 67 87 90 95 88 81 81 83 73 84 76 73 70 67 71 68 68 71 61 68 62 69 67
+8 6 9 12 13 14 9 14 17 12 15 18 13 18 19 17 9 12 13 17 13 9 9 10 9 8 10 9 11 9 9 12
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 2 3 5 4 5 4 5 4 6 3 9 1 5 9 8 7 7 8 13 9 13 8 14 18 8 9 12 11 5 13 9
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+59 55 58 63 67 63 62 68 58 65 68 63 60 59 56 57 65 69 54 53 45 44 44 38 37 40 44 36 35 34 45 35
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+84 85 97 98 103 108 99 105 89 93 92 92 81 76 55 54 59 58 49 44 41 38 38 35 37 41 38 29 28 23 23 25
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 3 2 3 4 2 1 2 1 1 5 4 5 2 2 2 1 5 0 2 5 3 3 2 5 3 3 2 2 2 2
+16 16 12 13 11 17 16 15 22 16 19 16 17 20 17 17 21 19 19 22 19 17 19 15 14 18 15 20 16 15 18 19
+2 0 2 3 1 0 2 3 3 6 6 5 2 1 3 5 3 3 3 1 2 3 3 2 2 3 2 3 2 4 0 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 3 2 3 3 0 1 3 2 2 2 2 4 5 2 3 5 4 5 3 4 3 1 4 4 4 8 5 4 2 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+9 8 14 17 22 19 17 20 25 20 21 25 26 26 28 20 14 19 20 22 21 15 16 17 21 22 17 18 21 16 20 17
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+41 39 39 48 39 38 45 37 32 33 29 25 25 22 26 20 17 16 18 15 14 14 12 13 12 9 10 12 9 8 7 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 1 1 0 0 1 0 1 0 1 3 1 1 1 1 0 1 0 0 0 0 4 0 1 1 0 0
+4 3 4 2 4 4 4 7 5 1 2 6 8 3 8 3 5 5 2 1 3 2 4 3 3 3 3 4 4 7 5 2
+0 2 0 1 1 0 1 2 1 3 3 4 2 1 0 2 2 0 0 1 0 0 0 0 0 0 0 1 0 1 1 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;

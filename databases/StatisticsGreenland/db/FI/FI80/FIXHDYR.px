@@ -1,0 +1,66 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-15";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20180405 09:00";
+NEXT-UPDATE="20210326 09:00";
+UPDATE-FREQUENCY="Annually";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="FIXHDYR";
+SUBJECT-CODE="FI";
+SUBJECT-AREA="Fisheries, Catch and agriculture";
+SUBJECT-AREA[da]="Fiskeri, fangst og landbrug";
+SUBJECT-AREA[kl]="Aalisarneq, piniarneq nunalerinerlu";
+COPYRIGHT=YES;
+DESCRIPTION="Farm animals, by species and year <em>[FIEHDYR]</em>";
+DESCRIPTION[da]="Landbrugets husdyr fordelt på arter <em>[FIDHDYR]</em>";
+DESCRIPTION[kl]="Nunalerinermi uummasuutit <em>[FINHDYR]</em>";
+TITLE="Farm animals, by species and year by species and time";
+TITLE[da]="Landbrugets husdyr fordelt på arter og år efter art og tid";
+TITLE[kl]="Nunalerinermi uummasuutit kingorna Uummasoq aamma piffissaq";
+CONTENTS="Farm animals, by species and year";
+CONTENTS[da]="Landbrugets husdyr fordelt på arter og år";
+CONTENTS[kl]="Nunalerinermi uummasuutit";
+UNITS="Pieces";
+UNITS[da]="Antal";
+UNITS[kl]="Qassiuneri";
+STUB="species";
+STUB[da]="art";
+STUB[kl]="Uummasoq";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VARIABLECODE("species")="species";
+VARIABLECODE[da]("art")="species";
+VARIABLECODE[kl]("Uummasoq")="species";
+VARIABLECODE("time")="time";
+VARIABLECODE[da]("tid")="time";
+VARIABLECODE[kl]("piffissaq")="time";
+VALUES("species")="sheep","The reindeer ranch","cattle","Horses","Chickens","Bee colonies";
+VALUES[da]("art")="Får","Tamren","Kvæg","Heste","Høns","Bifamilier";
+VALUES[kl]("Uummasoq")="Savat","Tuttut nujuitsut","Nersussuit","Hiistit","Kukkukuut","Igutsaatit";
+VALUES("time")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016",
+"2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("tid")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015",
+"2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[kl]("piffissaq")="2005","2006","2007","2008","2009","2010","2011","2012","2013","2014",
+"2015","2016","2017","2018","2019","2020","2021","2022","2023";
+ELIMINATION("species")=YES;
+ELIMINATION[da]("art")=YES;
+ELIMINATION[kl]("Uummasoq")=YES;
+LAST-UPDATED="20240711 09:00";
+CONTACT="Bolatta Vahl, bova@stat.gl";
+CONTACT[da]="Bolatta Vahl, bova@stat.gl";
+CONTACT[kl]="Bolatta Vahl, bova@stat.gl";
+SOURCE="Agricultural Consulting Services";
+SOURCE[da]="Konsulenttjenesten for Landbrug";
+SOURCE[kl]="Nunalerinermik siunnersorteqarfik";
+DATA=
+21317 20963 21704 20499 20439 20729 20232 20107 19994 18738 17501 18190 17785 18212 17785 18105 18184 17685 17268 
+3100 3100 2441 2500 3000 3000 3000 3000 3000 3000 3000 3000 3000 3000 3000 3000 3000 3000 3000 
+20 20 42 49 56 65 79 98 125 143 146 155 193 254 300 327 356 375 373 
+202 202 216 203 186 164 161 147 132 123 151 137 152 158 129 139 146 138 139 
+147 147 152 148 182 241 215 212 191 174 165 211 168 131 189 234 219 214 260 
+13 13 10 10 0 0 4 4 4 4 6 6 6 6 ".." ".." ".." ".." ".."; 

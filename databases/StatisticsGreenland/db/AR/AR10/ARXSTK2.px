@@ -1,0 +1,104 @@
+CHARSET="ANSI";
+AXIS-VERSION="2000";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20230106 09:00";
+NEXT-UPDATE="20251205 09:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="ARXSTK2";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="AR";
+SUBJECT-AREA="Labour Market";
+SUBJECT-AREA[da]="Arbejdsmarked";
+SUBJECT-AREA[kl]="Suliffeqarnermi pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Educational profile for the labour force <em>[ARESTK2]</em>";
+DESCRIPTION[da]="Arbejdsstyrkens uddannelsesprofil <em>[ARDSTK2]</em>";
+DESCRIPTION[kl]="Sulisinnaasut, ilinniagaq malillugu <em>[ARNSTK2]</em>";
+TITLE="The labour force by education, time and inventory variable";
+TITLE[da]="Arbejdsstyrken efter uddannelse, tid og opgørelsesvariabel";
+TITLE[kl]="Sulisinnaasut : ilinniagaq, piffissaq , naatsorsuinermi uuttuut";
+CONTENTS="The labour force";
+CONTENTS[da]="Arbejdsstyrken";
+CONTENTS[kl]="Sulisinnaasut";
+STUB="education";
+STUB[da]="uddannelse";
+STUB[kl]="ilinniagaq";
+HEADING="time","inventory variable";
+HEADING[da]="tid","opgørelsesvariabel";
+HEADING[kl]="piffissaq","naatsorsuinermi uuttuut";
+VALUES("education")="Total","Primary","Upper secondary education - General","Upper secondary education - Vocational: Total","Upper secondary education - Vocational: Arts and humanities","Upper secondary education - Vocational: Business, administration and law",
+"Upper secondary education - Vocational: Engineering, manufacturing and construction","Upper secondary education - Vocational: Agriculture, forestry, fisheries and veterinary","Upper secondary education - Vocational: Health and welfare",
+"Upper secondary education - Vocational: Services","Upper secondary education - Vocational: Other","Post-secondary non-tertiary education","Bachelors, Masters, Doctoral or equivalent level";
+VALUES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES("inventory variable")="Labour force in average per month","Employment in average per month","Unemployment in average per month","Persons not in the labour force in average per month","Total population";
+VALUES[da]("opgørelsesvariabel")="Arbejdsstyrken i gennemsnit pr. måned (beskæftigelse + ledighed)","Beskæftigelse i gennemsnit pr. måned","Ledighed i gennemsnit pr. måned","Personer uden for arbejdsstyrken i gennemsnit pr. måned (samlet befolkning - arbejdsstyrke)","Samlet befolkning";
+VALUES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+VALUES[da]("uddannelse")="Alle","Folkeskole","Gymnasieuddannelse","Erhvervsuddannelse: Samlet","Erhvervsuddannelse: Kunst og humaniora","Erhvervsuddannelse: Erhverv, administration og jura","Erhvervsuddannelse: Ingeniørvidenskab, produktion og konstruktion",
+"Erhvervsuddannelse: Landbrug, skovbrug, fiskeri og veterinær","Erhvervsuddannelse: Sundhed og velfærd","Erhvervsuddannelse: Servicesektor","Erhvervsuddannelse: Øvrige","Suppleringskursus","Videregående uddannelse";
+VALUES[kl]("ilinniagaq")="Katillugit","Meeqqat atuarfiat","Ilinniarnertuunngorniarneq","Inuussutissarsiornermik ilinniarneq: Katillugit","Inuuss. Ilinniarneq: Eqqumiitsuliorneq aamma humaniora","Inuuss. Ilinniarneq: Inuussutissarsiorneq, allaffissorneq inatsisilerinerlu",
+"Inuuss. Ilinniarneq: Ingeniørinngorniarneq, tunisassiorneq sanaartornerlu","Inuuss. Ilinniarneq: Nunalerineq, orpippassualerineq, aalisarneq uumasullu","Inuuss. Ilinniarneq: Peqqinneq atungarissaarnerlu",
+"Inuuss. Ilinniarneq: Kiffartuussinermi suliaqarfik","Inuuss. Ilinniarneq: Allat","Angusanik qaffassaaneq","Ingerlariaqqiffiusumik ilinniarneq";
+VALUES[kl]("naatsorsuinermi uuttuut")="Agguaqatigiissillugu qaammammut sulisinnaasut (suliffillit + suliffissaaleqisut)","Agguaqatigiissillugu qaammammut suliffillit","Agguaqatigiissillugu qaammammut suliffissaaleqisut",
+"Agguaqatigiissillugu qaammammut sulisinnaasunut ilaanngitsut (innuttaasut tamakkerlugit - sulisinnaasut)","Innuttaasut tamakkerlugit";
+VALUES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+UNITS="Number of persons";
+UNITS[da]="Antal personer";
+UNITS[kl]="Inuit amerlassusaat";
+TIMEVAL("time")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[da]("tid")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+TIMEVAL[kl]("piffissaq")=TLIST(A1),"2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("education")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES("time")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES("inventory variable")="M","B","L","U","S";
+CODES[da]("opgørelsesvariabel")="M","B","L","U","S";
+CODES[da]("tid")="2016","2017","2018","2019","2020","2021","2022","2023";
+CODES[da]("uddannelse")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES[kl]("ilinniagaq")="AA","10","20","30","31","32","33","34","35","36","39","40","50";
+CODES[kl]("naatsorsuinermi uuttuut")="M","B","L","U","S";
+CODES[kl]("piffissaq")="2016","2017","2018","2019","2020","2021","2022","2023";
+VARIABLECODE("education")="udd_grp";
+VARIABLECODE("time")="aar";
+VARIABLECODE("inventory variable")="opg_var";
+VARIABLECODE("figures_")="antal";
+VARIABLECODE[da]("figures_")="antal";
+VARIABLECODE[da]("opgørelsesvariabel")="opg_var";
+VARIABLECODE[da]("tid")="aar";
+VARIABLECODE[da]("uddannelse")="udd_grp";
+VARIABLECODE[kl]("figures_")="antal";
+VARIABLECODE[kl]("ilinniagaq")="udd_grp";
+VARIABLECODE[kl]("naatsorsuinermi uuttuut")="opg_var";
+VARIABLECODE[kl]("piffissaq")="aar";
+ELIMINATION("education")="Total";
+ELIMINATION[da]("uddannelse")="Alle";
+ELIMINATION[kl]("ilinniagaq")="Katillugit";
+LAST-UPDATED="20241206 09:00";
+LAST-UPDATED[da]="20241206 09:00";
+LAST-UPDATED[kl]="20241206 09:00";
+CONTACT="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[da]="Gorm N. Pedersen, gnpe@stat.gl";
+CONTACT[kl]="Gorm N. Pedersen, gnpe@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="The permanent resident population is defined as all citizens residing in the country at the beginning and end of the year, 18 years-retirement age. Age is calculated at the beginning of the month.";
+NOTE[da]="Den fastboende befolkning defineres som alle borgere bosiddende i landet primo og ultimo året, 18-pensionalderen. Alder udregnes primo måneden.";
+NOTE[kl]="Innuttaasut najugaqavissut tassaapput Kalaallit Nunaanni ukiup aallartinnerani naaneranilu najugallit, qaammatillu aallartinnerani 18-inik ukioqalereersimasut.#18-soraarnerussutisiaqalernissamut ukiussarititat";
+DATA=
+28192 26401 1791 7684 35876 28537 26856 1681 7899 36437 28621 27181 1441 7788 36409 28654 27411 1243 7781 36435 28642 27342 1300 7992 36634 28924 27865 1059 8229 37153 28941 28011 930 8097 37038 29049 28192 857 8023 37072
+15312 13776 1536 5807 21119 15155 13728 1427 5940 21095 14976 13762 1214 5843 20819 14773 13730 1043 5810 20583 14443 13367 1077 5910 20353 14243 13359 885 6127 20370 14123 13348 775 6003 20126 14105 13393 712 5922 20027
+1329 1303 27 582 1911 1426 1398 28 593 2018 1457 1429 27 552 2009 1532 1510 21 548 2079 1534 1513 21 590 2125 1575 1561 14 595 2170 1594 1580 14 560 2155 1633 1615 18 575 2208
+6530 6347 184 865 7395 6706 6521 186 913 7619 6820 6658 162 926 7746 6867 6725 141 951 7818 6944 6785 159 970 7914 7172 7043 128 985 8157 7195 7087 108 1011 8206 7221 7123 98 1042 8263
+181 170 11 30 211 185 177 9 31 217 179 172 8 44 223 182 178 5 41 224 185 179 6 42 227 193 187 5 41 234 192 188 4 45 237 189 187 1 44 233
+842 830 11 69 911 862 849 13 82 944 900 890 10 79 979 915 907 9 73 988 929 915 14 70 999 961 948 13 78 1039 961 952 9 83 1044 984 978 5 76 1060
+2320 2259 62 280 2600 2351 2293 58 283 2634 2350 2302 49 289 2639 2356 2313 43 292 2648 2368 2323 45 305 2673 2440 2400 40 286 2726 2438 2399 39 291 2729 2419 2384 35 292 2711
+272 257 15 61 333 282 262 20 59 341 282 267 15 61 343 282 264 17 64 345 281 263 18 63 344 276 262 14 69 345 286 274 11 71 356 296 286 10 67 363
+1572 1540 33 230 1802 1627 1592 35 240 1867 1650 1619 31 242 1892 1660 1634 26 248 1908 1667 1638 29 258 1925 1708 1683 24 258 1965 1714 1695 18 267 1980 1727 1709 18 283 2009
+1259 1208 51 190 1449 1305 1255 50 214 1519 1356 1308 49 208 1565 1371 1330 41 230 1600 1413 1367 45 224 1636 1489 1458 31 243 1732 1490 1464 27 241 1731 1487 1459 28 263 1750
+84 83 1 6 90 95 94 1 4 98 102 102 1 4 106 101 100 1 4 105 102 100 2 8 110 106 105 1 10 116 115 115 0 14 129 120 120 1 17 137
+1108 1081 27 165 1273 1139 1117 22 168 1307 1157 1136 21 163 1320 1166 1147 20 167 1334 1189 1166 23 189 1378 1236 1219 17 190 1426 1240 1225 15 188 1428 1233 1222 12 176 1409
+3912 3895 17 266 4178 4112 4093 19 286 4397 4211 4196 16 304 4515 4316 4298 17 305 4621 4531 4511 20 333 4864 4699 4683 16 331 5030 4789 4772 17 335 5124 4857 4840 18 308 5165
+;

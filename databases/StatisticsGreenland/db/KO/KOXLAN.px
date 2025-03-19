@@ -1,0 +1,146 @@
+CHARSET="ANSI";
+AXIS-VERSION="2015";
+CODEPAGE="windows-1252";
+LANGUAGE="en";
+LANGUAGES="en","da","kl";
+CREATION-DATE="20150527 09:00";
+NEXT-UPDATE="20250515 09:00";
+UPDATE-FREQUENCY="Quarterly, kvartalsvis, kvartalit";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="KOXLAN";
+SUBJECT-CODE="KO";
+SUBJECT-AREA="Short term trends";
+SUBJECT-AREA[da]="Konjunktur";
+SUBJECT-AREA[kl]="Aningaasaqarnikkut pissutsit";
+COPYRIGHT=YES;
+DESCRIPTION="Loans from and deposits in banks outstanding amounts by domestic sector and time(2003Q1-2024Q4) <em>[KOELAN]</em>";
+DESCRIPTION[da]="Ud- og indlån fra banker ultimobalance efter indenlandsk sektor og tid(2003K1-2024K4) <em>[KODLAN]</em>";
+DESCRIPTION[kl]="Bankimit taarsigassarsiarititat uninngasuutillu ukiup naanerani oqimaaqatigiissinneri, tunngavigalugit nunap iluani kiffartuussiviit aamma piffissaq(2003K1-2024K4) <em>[KONLAN]</em>";
+TITLE="Loans from and deposits in banks, outstanding amount by domestic sector and time";
+TITLE[da]="Ud- og indlån fra banker ultimobalance efter indenlandsk sektor og tid";
+TITLE[kl]="Bankimit taarsigassarsiarititat uninngasuutillu ukiup naanerani oqimaaqatigiissinneri kingorna nunap iluani kiffartuussiviit aamma piffissaq";
+CONTENTS="Loans from and deposits in banks, outstanding amount";
+CONTENTS[da]="Ud- og indlån fra banker ultimobalance";
+CONTENTS[kl]="Bankimit taarsigassarsiarititat uninngasuutillu ukiup naanerani oqimaaqatigiissinneri";
+UNITS="Mill. kroner";
+UNITS[da]="Mio. kroner";
+UNITS[kl]="Mio. kruunit";
+STUB="domestic sector";
+STUB[da]="indenlandsk sektor";
+STUB[kl]="nunap iluani kiffartuussiviit";
+HEADING="time";
+HEADING[da]="tid";
+HEADING[kl]="piffissaq";
+VALUES("domestic sector")="1000 Loans (all sectors)","1000 Deposits (all sectors)",
+"1100 Non-financial corporations, loan","1200 Financial corporations excl. MFIs (excl. 12aa), loan",
+"1300 General goverment, loan","1400 Households, loan",
+"1500 Non-profit institutions serving households, loan","1100 Non-financial corporations, deposit",
+"1200 Financial corporations excl. MFIs (excl. 12aa), deposit","1300 General goverment, deposit",
+"1400 Households, deposit","1500 Non-profit institutions serving households, deposit";
+VALUES[da]("indenlandsk sektor")="1000 Udlån (alle sektorer)","1000 Indlån (alle sektorer)",
+"1100 Ikke-finansielle selskaber, udlån",
+"1200 Finansielle selskaber ekskl. MFIer (ekskl. 12aa), udlån",
+"1300 Offentlig forvaltning og service, udlån","1400 Husholdninger, udlån",
+"1500 Non-profit institutioner retter mod husholdninger, udlån",
+"1100 Ikke-finansielle selskaber, indlån",
+"1200 Finansielle selskaber ekskl. MFIer (ekskl. 12aa), indlån",
+"1300 Offentlig forvaltning og service, indlån","1400 Husholdninger, indlån",
+"1500 Non-profit institutioner rettet mod husholdninger, indlån";
+VALUES[kl]("nunap iluani kiffartuussiviit")=
+"1000 Taarsigassarsiarititat (kiffartuussivinni tamani)",
+"1000 Atukkiussat (kiffartuussivinni tamani)",
+"1100 Ingerlatsiviit aningaasaliineq ajortut, taarsigassarsiarititat",
+"1200 Ingerlatsiviit aningaasaliisartut MFI-t ilanngunnagit (12aa ilanngunnagu), taarsigassarsiarititat",
+"1300 Pisortat ingerlatsinerat sullissinerallu, taarsigassarsiarititat",
+"1400 Angerlarsimaffimmi ulluinnarni atortunut taarsigassarsiarititat",
+"1500 Sullissiviit iluanaarniarfiunngitsunut ulluinnarni atortunut, taarsigassarsiarititat",
+"1100 Ingerlatsiviit aningaasaliineq ajortut, uninngasuutit",
+"1200 Ingerlatsiviit aningaasaliisartut MFI-t ilanngunnagit (12aa ilanngunnagu), uninngasuutit",
+"1300 Pisortat ingerlatsinerat sullissinerallu, uninngasuutit",
+"1400 Angerlarsimaffimmi ulluinnarni atortunut uninngasuutit",
+"1500 Sullissiviit iluanaarniarfiunngitsunut ulluinnarni atortunut, uninngasuutit";
+VALUES("time")="2003Q1","2003Q2","2003Q3","2003Q4","2004Q1","2004Q2","2004Q3","2004Q4","2005Q1",
+"2005Q2","2005Q3","2005Q4","2006Q1","2006Q2","2006Q3","2006Q4","2007Q1","2007Q2","2007Q3","2007Q4",
+"2008Q1","2008Q2","2008Q3","2008Q4","2009Q1","2009Q2","2009Q3","2009Q4","2010Q1","2010Q2","2010Q3",
+"2010Q4","2011Q1","2011Q2","2011Q3","2011Q4","2012Q1","2012Q2","2012Q3","2012Q4","2013Q1","2013Q2",
+"2013Q3","2013Q4","2014Q1","2014Q2","2014Q3","2014Q4","2015Q1","2015Q2","2015Q3","2015Q4","2016Q1",
+"2016Q2","2016Q3","2016Q4","2017Q1","2017Q2","2017Q3","2017Q4","2018Q1","2018Q2","2018Q3","2018Q4",
+"2019Q1","2019Q2","2019Q3","2019Q4","2020Q1","2020Q2","2020Q3","2020Q4","2021Q1","2021Q2","2021Q3",
+"2021Q4","2022Q1","2022Q2","2022Q3","2022Q4","2023Q1","2023Q2","2023Q3","2023Q4","2024Q1","2024Q2",
+"2024Q3","2024Q4";
+VALUES[da]("tid")="2003K1","2003K2","2003K3","2003K4","2004K1","2004K2","2004K3","2004K4","2005K1",
+"2005K2","2005K3","2005K4","2006K1","2006K2","2006K3","2006K4","2007K1","2007K2","2007K3","2007K4",
+"2008K1","2008K2","2008K3","2008K4","2009K1","2009K2","2009K3","2009K4","2010K1","2010K2","2010K3",
+"2010K4","2011K1","2011K2","2011K3","2011K4","2012K1","2012K2","2012K3","2012K4","2013K1","2013K2",
+"2013K3","2013K4","2014K1","2014K2","2014K3","2014K4","2015K1","2015K2","2015K3","2015K4","2016K1",
+"2016K2","2016K3","2016K4","2017K1","2017K2","2017K3","2017K4","2018K1","2018K2","2018K3","2018K4",
+"2019K1","2019K2","2019K3","2019K4","2020K1","2020K2","2020K3","2020K4","2021K1","2021K2","2021K3",
+"2021K4","2022K1","2022K2","2022K3","2022K4","2023K1","2023K2","2023K3","2023K4","2024K1","2024K2",
+"2024K3","2024K4";
+VALUES[kl]("piffissaq")="2003K1","2003K2","2003K3","2003K4","2004K1","2004K2","2004K3","2004K4",
+"2005K1","2005K2","2005K3","2005K4","2006K1","2006K2","2006K3","2006K4","2007K1","2007K2","2007K3",
+"2007K4","2008K1","2008K2","2008K3","2008K4","2009K1","2009K2","2009K3","2009K4","2010K1","2010K2",
+"2010K3","2010K4","2011K1","2011K2","2011K3","2011K4","2012K1","2012K2","2012K3","2012K4","2013K1",
+"2013K2","2013K3","2013K4","2014K1","2014K2","2014K3","2014K4","2015K1","2015K2","2015K3","2015K4",
+"2016K1","2016K2","2016K3","2016K4","2017K1","2017K2","2017K3","2017K4","2018K1","2018K2","2018K3",
+"2018K4","2019K1","2019K2","2019K3","2019K4","2020K1","2020K2","2020K3","2020K4","2021K1","2021K2",
+"2021K3","2021K4","2022K1","2022K2","2022K3","2022K4","2023K1","2023K2","2023K3","2023K4","2024K1",
+"2024K2","2024K3","2024K4";
+TIMEVAL("time")=TLIST(Q1),"20031","20032","20033","20034","20041","20042","20043","20044","20051",
+"20052","20053","20054","20061","20062","20063","20064","20071","20072","20073","20074","20081",
+"20082","20083","20084","20091","20092","20093","20094","20101","20102","20103","20104","20111",
+"20112","20113","20114","20121","20122","20123","20124","20131","20132","20133","20134","20141",
+"20142","20143","20144","20151","20152","20153","20154","20161","20162","20163","20164","20171",
+"20172","20173","20174","20181","20182","20183","20184","20191","20192","20193","20194","20201",
+"20202","20203","20204","20211","20212","20213","20214","20221","20222","20223","20224","20231",
+"20232","20233","20234","20241","20242","20243","20244";
+TIMEVAL[da]("tid")=TLIST(Q1),"20031","20032","20033","20034","20041","20042","20043","20044",
+"20051","20052","20053","20054","20061","20062","20063","20064","20071","20072","20073","20074",
+"20081","20082","20083","20084","20091","20092","20093","20094","20101","20102","20103","20104",
+"20111","20112","20113","20114","20121","20122","20123","20124","20131","20132","20133","20134",
+"20141","20142","20143","20144","20151","20152","20153","20154","20161","20162","20163","20164",
+"20171","20172","20173","20174","20181","20182","20183","20184","20191","20192","20193","20194",
+"20201","20202","20203","20204","20211","20212","20213","20214","20221","20222","20223","20224",
+"20231","20232","20233","20234","20241","20242","20243","20244";
+TIMEVAL[kl]("piffissaq")=TLIST(Q1),"20031","20032","20033","20034","20041","20042","20043","20044",
+"20051","20052","20053","20054","20061","20062","20063","20064","20071","20072","20073","20074",
+"20081","20082","20083","20084","20091","20092","20093","20094","20101","20102","20103","20104",
+"20111","20112","20113","20114","20121","20122","20123","20124","20131","20132","20133","20134",
+"20141","20142","20143","20144","20151","20152","20153","20154","20161","20162","20163","20164",
+"20171","20172","20173","20174","20181","20182","20183","20184","20191","20192","20193","20194",
+"20201","20202","20203","20204","20211","20212","20213","20214","20221","20222","20223","20224",
+"20231","20232","20233","20234","20241","20242","20243","20244";
+LAST-UPDATED="20250218 09:00";
+CONTACT="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[da]="Aqqaluaq F. Lund, aqlu@stat.gl";
+CONTACT[kl]="Aqqaluaq F. Lund, aqlu@stat.gl";
+SOURCE="Statistics Greenland";
+SOURCE[da]="Grønlands Statistik";
+SOURCE[kl]="Naatsorsueqqissaartarfik";
+NOTE="For method and definition of the variables reference is made to the publication about short-term statistics, which is available at www.stat.gl#List of symbols:#... No information available#";
+NOTE[da]="For metode og definitioner henvises til publikation om konjunkturstatistikken, der kan hentes på www.stat.gl#Signaturforklaring:#... Oplysninger foreligger ikke#";
+NOTE[kl]="Periaatsit nassuiaatillu aningaasaqarnikkut pissutsit pillugit saqqummersitamut www.stat.gl iserfigalugu aaneqarsinnaapput.#Nalunaaqutsersuutip nassuiaataa:#... Paasissutissat pigineqanngillat#";
+NOTE("domestic sector")="MFI3 starts from 2013Q3#The statistics only includes the Danish, Greenlandic and the Faroe Islands MFI sectors loan to the domestic sector, or residence of Greenland.#For instance a financial loan given to a non-financial "
+"corporation by a bank, which is placed in Iceland, Germany, England or another foreign country (none Danish MFI sector). This loan would not be included in the statistics.#The figures for deposits and lending have been corrected since the publication "
+"dated 14 August 2018. The correction relates to transfers between sectors, and the totals has therefore not been changed.#";
+NOTE[da]("indenlandsk sektor")="MFI3 starter fra 2013K3#Statistikken omfatter kun opgørelse af den danske, grønlandske og færøske MFI-sektors ind- og udlån til grønlandske residenter.#F.eks. vil et udlån til den ikke-finansielle sektor, fra en bank "
+"beliggende i Island, Tyskland, England eller et fjerde land (udlandet). Dette lån vil ikke være medtaget i opgørelsen.#Tallene for ind- og udlån er korrigerede siden offentliggørelsen d. 14. august 2018. Korrektionen vedrører flytninger mellem sektorerne,"
+" og der er således ikke ændret på totalerne.#";
+NOTE[kl]("nunap iluani kiffartuussiviit")="MFI3 2013K3-miit aallartippoq#Kisitsisit atorlugit nassuiaasiami danskit, kalaallit savalimmiormiullu MFI-p immikkoortoqarfiani aningaasanik uninngasuuteqarnikkut taarsigassarsiarititatigullu Kalaallit Nunaanni "
+"najugaqartunut naatsorsuutit tunngatinneqarput..#Soorlu Islandimiit, Tysklandimiit imaluunniit Tuluit Nunaanniit (nunani allaniit) aningaasaateqarfinniit aningaasaqarnikkut immikkoortortaqarfinniinngitsoq atortitsineq.#Atortitsinerit taamaattut "
+"naatsorsuusiami ilanngunneqanngillat.#Atortitsinermut aningaaserivimmiititaqarnermullu kisitsit 14. aggusti 2018 saqqummersinneqarnerisigut naqqiissuteqarfigineqarput. Naqqiissutit kiffartuussiviit akornanni nuussinerupput, taamaattumillu katinneri "
+"sunnerneqaratik.#";
+DATA=
+2061 1986 2165 2078 2014 2087 2315 2543 2543 2716 3275 2990 2902 3122 3440 3657 3603 3700 4033 4029 4241 4386 4458 4838 5008 4946 4735 4948 4846 4917 4932 5022 4699 4886 4849 4906 4788 4932 4902 4899 4514 4548 4675 4802 4561 4392 4278 3954 4035 3875 3791 3778 3667 3789 3827 3747 3655 3855 3767 3947 4067 4262 4248 4165 4299 4645 4592 5020 4863 5000 4845 5223 5307 5133 5141 5046 5073 6004 5940 6250 6165 6812 6984 7804 7929 8490 8657 9012 
+4000 3820 3946 3163 3480 3352 3267 3370 3534 3749 3876 3868 3618 3549 3719 3890 3938 4163 4264 4393 4540 4797 4461 4522 4551 4684 4192 4410 4376 4351 4555 4876 4751 4581 4625 4926 4950 5459 5011 5019 4626 4737 4442 4794 5280 4950 4840 4908 5055 5310 5116 5698 5744 5498 5319 5552 6087 6031 5926 5286 6262 5926 5849 6005 6222 6395 6355 6334 6935 6873 6985 6985 6670 7087 6741 6963 7220 7499 7334 7459 7254 7286 7811 8334 8824 8801 8738 9384 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 2552 2678 2502 2370 2264 2046 2139 2048 2000 1979 1868 1957 1995 1857 1768 1899 1792 1848 1963 2033 2062 2027 2142 2420 2388 2794 2605 2688 2417 2805 3152 3091 3251 3130 3176 4087 3991 4305 4252 4822 4738 5103 5186 5704 5890 6295 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 115 144 17 21 18 20 18 17 18 18 21 13 13 13 13 24 16 17 16 55 44 41 48 64 11 62 56 43 54 79 25 14 14 14 14 14 13 14 14 12 12 13 11 11 11 11 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 112 85 112 90 74 83 123 64 43 41 39 35 31 35 33 32 46 152 141 182 178 65 77 75 70 67 64 62 59 57 56 87 54 82 78 49 54 46 44 127 391 588 649 672 679 673 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 1864 1867 1905 1885 1874 1760 1710 1699 1674 1692 1699 1750 1741 1799 1807 1869 1874 1904 1920 1964 1930 2007 1985 2022 2013 1987 2026 2082 2189 2152 2030 1899 1782 1781 1767 1817 1847 1846 1820 1817 1810 2040 2027 2045 2039 2000 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 33 28 24 26 48 44 45 46 57 49 40 34 46 43 35 31 39 25 27 28 34 26 46 64 110 111 112 124 125 129 42 42 40 39 39 38 35 39 35 34 33 59 56 58 37 33 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 1807 1772 2193 1713 2064 1813 1643 1832 1898 2131 2181 2005 1913 1974 2265 1931 1982 2035 2086 1926 2184 2302 2231 1977 2203 2244 2458 2248 2340 2286 2210 2405 2424 2649 2716 2834 2731 2638 2666 2436 2914 2965 3121 2845 2950 3328 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 71 117 173 216 209 79 114 199 105 127 132 158 133 124 156 91 213 91 101 45 45 35 29 41 81 66 49 33 36 70 21 52 61 63 68 81 80 176 73 59 84 80 128 82 88 74 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 690 1096 1007 1150 668 1077 1313 1336 1274 1615 1570 1373 1146 1179 1511 1792 1508 865 1661 1497 1092 1111 1300 1727 1372 1312 1543 1636 1466 1434 1041 1442 1076 970 992 1099 801 948 926 1241 1090 1338 1427 1651 1391 1635 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 1742 1669 1756 1723 1735 1781 1819 1776 1665 1654 1671 1777 1928 2086 1949 2011 2011 2088 2167 2212 2285 2302 2364 2370 2423 2433 2560 2631 2817 2870 3098 2877 2873 2995 3132 3191 3422 3406 3279 3264 3431 3668 3832 3937 4022 4071 
+"." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." "." 132 140 150 149 164 159 168 166 175 171 190 185 199 190 206 206 213 206 247 245 243 255 296 279 276 279 325 327 325 325 299 311 307 285 312 294 301 291 310 287 291 284 317 287 286 276; 
